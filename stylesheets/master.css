@@ -1,0 +1,270 @@
+
+/* line 154 : /Users/jxson/Code/js.la/stylesheets/reset.styl */
+
+/* line 1 : /Users/jxson/Code/js.la/stylesheets/reset.styl */
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+font,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: transparent;
+}
+
+/* line 19 : /Users/jxson/Code/js.la/stylesheets/reset.styl */
+body {
+  line-height: 1;
+}
+
+/* line 23 : /Users/jxson/Code/js.la/stylesheets/reset.styl */
+ul,
+ol,
+dl,
+li,
+dt,
+dd {
+  list-style: none;
+}
+
+/* line 27 : /Users/jxson/Code/js.la/stylesheets/reset.styl */
+blockquote,
+q {
+  quotes: none;
+}
+
+/* line 31 : /Users/jxson/Code/js.la/stylesheets/reset.styl */
+:focus {
+  outline: 0;
+}
+
+/* line 35 : /Users/jxson/Code/js.la/stylesheets/reset.styl */
+ins {
+  text-decoration: none;
+}
+
+/* line 38 : /Users/jxson/Code/js.la/stylesheets/reset.styl */
+del {
+  text-decoration: line-through;
+}
+
+/* line 42 : /Users/jxson/Code/js.la/stylesheets/reset.styl */
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/* line 47 : /Users/jxson/Code/js.la/stylesheets/reset.styl */
+p img {
+  max-width: 100%;
+}
+
+/* line 49 : /Users/jxson/Code/js.la/stylesheets/reset.styl */
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* line 55 : /Users/jxson/Code/js.la/stylesheets/reset.styl */
+.right {
+  float: right;
+}
+
+/* line 56 : /Users/jxson/Code/js.la/stylesheets/reset.styl */
+.left {
+  float: left;
+}
+
+/* line 58 : /Users/jxson/Code/js.la/stylesheets/reset.styl */
+input[type="hidden"] {
+  display: none;
+}
+
+/* line 60 : /Users/jxson/Code/js.la/stylesheets/reset.styl */
+.align-left {
+  text-align: left;
+}
+
+/* line 61 : /Users/jxson/Code/js.la/stylesheets/reset.styl */
+.align-right {
+  text-align: right;
+}
+
+/* line 62 : /Users/jxson/Code/js.la/stylesheets/reset.styl */
+.align-center {
+  text-align: center;
+}
+
+/* line 64 : /Users/jxson/Code/js.la/stylesheets/reset.styl */
+acronym,
+abbr {
+  cursor: help;
+}
+
+/* line 66 : /Users/jxson/Code/js.la/stylesheets/reset.styl */
+.clear {
+  height: 0;
+  padding: 0;
+  margin: 0;
+  clear: both;
+  float: none;
+}
+
+/* line 74 : /Users/jxson/Code/js.la/stylesheets/reset.styl */
+.bold {
+  font-weight: bold;
+}
+
+/* line 78 : /Users/jxson/Code/js.la/stylesheets/reset.styl */
+.normal {
+  font-weight: normal;
+}
+
+/* line 82 : /Users/jxson/Code/js.la/stylesheets/reset.styl */
+.italic {
+  font-style: italic;
+}
+
+/* line 86 : /Users/jxson/Code/js.la/stylesheets/reset.styl */
+.underline {
+  text-decoration: underline;
+}
+
+/* line 1 : /Users/jxson/Code/js.la/stylesheets/main.styl */
+
+/* line 11 : /Users/jxson/Code/js.la/stylesheets/main.styl */
+body {
+  margin: 1.125em;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 14.22px;
+  line-height: 1.125;
+  background-image: url("/images/wood.png");
+  color: #505148;
+}
+
+/* line 19 : /Users/jxson/Code/js.la/stylesheets/main.styl */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 1.125em 0;
+  font-weight: bold;
+}
+
+/* line 23 : /Users/jxson/Code/js.la/stylesheets/main.styl */
+h1 {
+  font-size: 1.6875em;
+}
+
+/* line 26 : /Users/jxson/Code/js.la/stylesheets/main.styl */
+p {
+  margin: 1.125em 0;
+}
+
+/* line 29 : /Users/jxson/Code/js.la/stylesheets/main.styl */
+a {
+  color: #000;
+}
+
+/* line 31 : /Users/jxson/Code/js.la/stylesheets/main.styl */
+a:hover {
+  background-color: #242424;
+  color: #f0f0f0;
+  text-decoration: none;
+}
+
+/* line 36 : /Users/jxson/Code/js.la/stylesheets/main.styl */
+#box {
+  margin: 4.5em auto 1.125em auto;
+  padding: 1.125em;
+  padding-bottom: 0;
+  width: 50%;
+  border: 1px solid #000;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
+  background-color: #f7f7f7;
+  -webkit-box-shadow: 0 8px 16px rgba(0,0,0,0.75), inset 0 1px 8px 1px #fff;
+  -moz-box-shadow: 0 8px 16px rgba(0,0,0,0.75), inset 0 1px 8px 1px #fff;
+  box-shadow: 0 8px 16px rgba(0,0,0,0.75), inset 0 1px 8px 1px #fff;
+}
+
+/* line 46 : /Users/jxson/Code/js.la/stylesheets/main.styl */
+#js-logo {
+  background-image: url("/images/js.png");
+  background-repeat: none;
+  width: 120px;
+  height: 120px;
+  float: left;
+  margin: 0 1.125em 1.125em 0;
+}
+
+/* line 54 : /Users/jxson/Code/js.la/stylesheets/main.styl */
+blockquote {
+  margin: 1.125em;
+  font-style: italic;
+}

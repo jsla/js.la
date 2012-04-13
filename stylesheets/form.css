@@ -1,0 +1,6 @@
+label  
+  { float:left; display:block; width: 15em; text-align:right; margin-right: 1em; }
+textarea
+  { border: 1px solid #666; }
+textarea:focus, input[type="text"]:focus  
+  { border: 2px solid #666; }
