@@ -80,6 +80,8 @@ header {
 .yellow-box {
   height: 160px;
   padding: 30px;
+  clear: both;
+
 }
 
 .logotype {
@@ -87,10 +89,14 @@ header {
   font-size: 150px;
   font-weight: bold;
   float: right;
-  margin-top: 77px;
+  margin-top: 83px;
   line-height: .75;
   position: relative;
   z-index: 10;
+  height: 107px;
+  width: 319px;
+  display: block;
+  background-image: url("./images/logotype-trans.png")
 }
 
 .skyline {
@@ -122,8 +128,7 @@ header {
 
 .tagline {
   margin-top: 15px;
-  font-size: 25px;
-  float: right;
+  font-size: 21px;
 }
 
 .night .tagline {
@@ -286,6 +291,7 @@ header {
   width: 400px;
   font-size: 21px;
   margin: 1em auto;
+  margin-bottom: 2em;
   text-align: center;
   padding: 10px;
   border-radius: 10px;
@@ -420,11 +426,8 @@ label {
   outline: 0;
 }
 
-input::-webkit-input-placeholder {
-    color:    #999;
-}
-input:-moz-placeholder {
-    color: red;
+.rsvp input[type="text"]:-moz-placeholder, .rsvp input[type="email"]:-moz-placeholder {
+  color: #999;
 }
 
 #captcha-image {
