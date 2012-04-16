@@ -110,6 +110,17 @@ header {
   background-repeat: none;
 }
 
+.skyline-searchlight {
+  margin-left: 30px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 453px;
+  height: 220px;
+  background-image: url("./images/skyline-contact.png");
+  background-repeat: none;
+}
+
 .griffith {
   display: none;
   position: absolute;
@@ -183,7 +194,7 @@ header {
 .next-event-announcement {
   margin: 20px;
   padding: 20px;
-  font-size: 34px;
+  font-size: 32px;
   text-align: center;
   background: url("./images/highlight.png") 110px no-repeat;
 }
@@ -253,6 +264,34 @@ header {
 .keynote-detail, .lightning-detail {
   width: 690px;
   float: right;
+}
+
+.event-photos {
+  width: 870px;
+  margin: 2em auto;
+  margin-left: 80px;
+  border-bottom: 1px dashed #C8C8C8;
+  padding-bottom: 2em;
+}
+
+.event-photos a {
+  display: inline-block;
+  padding: 5px;
+  padding-bottom: 0;
+  background-color: #c6d7fc;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgb(198, 215, 252)), to(rgb(96, 145, 248)));
+  background-image: -webkit-linear-gradient(top, rgb(198, 215, 252), rgb(96, 145, 248));
+  background-image: -moz-linear-gradient(top, rgb(198, 215, 252), rgb(96, 145, 248));
+  background-image: -o-linear-gradient(top, rgb(198, 215, 252), rgb(96, 145, 248));
+  background-image: -ms-linear-gradient(top, rgb(198, 215, 252), rgb(96, 145, 248));
+  background-image: linear-gradient(top, rgb(198, 215, 252), rgb(96, 145, 248));
+  filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0,StartColorStr='#c6d7fc', EndColorStr='#6091f8');
+  margin: 5px;
+  box-shadow: 0px 1px 5px #777;
+}
+
+.event-photos a:hover {
+  background: #4164D2;
 }
 
 .info-box {
