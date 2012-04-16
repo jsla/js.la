@@ -239,6 +239,14 @@ header {
   display: block;
 }
 
+.hosted-by {
+  width: 400px;
+  height: 148px;
+  margin: 2em auto;
+  margin-bottom: 3em;
+  box-shadow: 0px 0px 5px #777;
+}
+
 /*-----------Link to the presentation's material, only on "Past Event" page----------*/
 .presentation {
   margin: 0 10px;
