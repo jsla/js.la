@@ -6,145 +6,83 @@
 <head>
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-
-  <title>js.la | JS meet up in Los Angeles</title>
-
-  <meta name="author" content="Jason Campbell <@jxson>" />
-
-  <meta name="viewport" content="width=device-width,initial-scale=1.0" />
-
-  <script src="/javascripts/vendor/modernizr.js"></script>
-
-  <link rel="stylesheet"
-    href="/stylesheets/master.css" />
-
-  <link rel="stylesheet"
-    href="/stylesheets/mobile.css"
-    media="only screen and (min-device-width : 320px)
-      and (max-device-width : 480px)" />
-
-  <link rel="stylesheet"
-    href="/stylesheets/mobile-landscape.css"
-    media="only screen and (min-width : 321px)" />
-
-  <link rel="stylesheet"
-    href="/stylesheets/mobile-portrait.css"
-    media="only screen and (max-width : 320px)" />
-
-  <link rel="stylesheet"
-    href="/stylesheets/tablet.css"
-    media="only screen
-      and (min-device-width : 768px)
-      and (max-device-width : 1024px)" />
-
-  <link rel="stylesheet"
-    href="/stylesheets/tablet-landscape.css"
-    media="only screen
-      and (min-device-width : 768px)
-      and (max-device-width : 1024px)
-      and (orientation : landscape)" />
-
-  <link rel="stylesheet"
-    href="/stylesheets/tablet-portrait.css"
-    media="only screen
-      and (min-device-width : 768px)
-      and (max-device-width : 1024px)
-      and (orientation : portrait)" />
-
-  <link rel="stylesheet"
-    href="/stylesheets/widescreen.css"
-    media="only screen and (min-width : 1824px)" />
-
-  <link rel="stylesheet"
-    href="/stylesheets/retina.css"
-    media="only screen
-      and (-webkit-min-device-pixel-ratio : 1.5),
-      only screen and (min-device-pixel-ratio : 1.5),
-      only screen and (-o-min-device-pixel-ratio: 3/2),
-      only screen and (min-device-pixel-ratio: 1.5)" />
-
-  <script>
-    window.addEventListener('load',function() {
-      setTimeout(function(){
-        // Hide the address bar!
-        window.scrollTo(0, 1);
-      }, 0);
-    });
-  </script>
+    <title>JS.LA - A monthly JS meetup</title>
+    
+    <script src="/javascripts/vendor/modernizr.js"></script>
+    
+    <link rel="stylesheet" type="text/css" href="reset.css">
+    <link rel="stylesheet" type="text/css" href="stylesheet.css">
 </head>
-
+  
 <body>
 
-<div id="box">
-  <h1>Presenting the new <a href="http://js.la">js.la</a>,  A monthly JS meet up in Los Angeles.</h1>
-
-  <div id="js-logo"></div>
-
-  <p>We meet the <strong>last Thursday of every month</strong> and alternate months throughout the Los Angeles area.  Generally, odd numbered months (such as March, May, and July) meet in the Hollywood neighborhood while even numbered months (such as April, June, and August) meet in Santa Monica.</p>
-
-  <p>The general format is two planned talks followed by a couple of pretty short lightning talks and socializing, and of course beer. We are always looking for speakers. If you are interested, or want to help out in other ways, please let us know via <a href="http://twitter.com/losangelesJS">twitter</a>.</p>
-
-  <br/>
-
-  <h1>April 26th, 2012 - Santa Monica</h1>
-  <p><strong>7pm, with talks starting at 7:20p - 7:30p</strong></p>
-
-
-  <h2>Introducing Mojito</h2>
-
-  <p>Presented by Gamaiel Zavala, Yahoo</p>
-
-  <blockquote>
-    <a href="http://developer.yahoo.com/cocktails/mojito/">Mojito</a>
-    is a sweet (and minty!) MVC application framework built on 
-    YUI 3 that enables agile development of Web applications.  Gamaiel 
-    Zavala will be presenting an introduction to Mojito including 
-    set up, routing, controllers, models, addons, binders, and 
-    configuration. Gamaiel has been building Media sites at Yahoo! for 6 
-    years and is currently working on Media's migration to Mojito.
-  </blockquote>
-
-  <h2>Seeing Sound with HTML5</h2>
-
-  <p>Presented by <a href='https://twitter.com/#!/davidguttman'>David Guttman</a></p>
-
-  <blockquote>
-    Embrace JavaScript-induced synesthesia.  Thanks to recent advances in
-    web audio API technology, you can now see sound---in your browser.
-    Thus, the time for in-browser music visualization is now!  It's easier
-    than ever before with <a href='http://davidguttman.github.com/easy-ears/'>EasyEars.js</a>
-    and David will show you how.
-  </blockquote>
-
-  <p>See you on April 26th!.  
-  <strong><a href="/rsvp" title="RSVP!">RSVP required</a></strong>
-
-  <h2>We are currently finalizing location and speakers for this meetup.
-  We email RSVPs, tweet, and update this page as we have updates.</h2>
-
-  <p>
-    <a href="http://eepurl.com/jdRNb"
-      title="Join the js.la newsletter">Email newsletter</a>
-  </p>
-
-  <p>
-    <a href="http://twitter.com/losangelesJS">
-      @losangelesJS on Twitter
+  <header>
+    <div class="header-width">
+      <div class="yellow-box">
+        <div class="logotype"></div>
+        <div class="skyline"></div>
+        <div class="tagline">A monthly JavaScript meet up in Los Angeles.</div>
+      </div>
+    </div>
+    
+    <div class="navigation">
+      <div class="navigation-width">
+        <a class="current" href="index.html">Upcoming Events</a>
+        <a href="past-events.html">Past Events</a>
+        <a href="contact.html">Want to present?</a>
+        <a href="https://twitter.com/losangelesJS">Twitter</a>
+      </div>
+    </div>
+  </header>
+  
+  <div class="main-width">
+    <div class="next-event-announcement">April 26, 2012 | 7 pm | Santa Monica</div>
+    
+    <a href="rsvp.html" class="rsvp-preview">
+      RSVP Today &raquo;
     </a>
-  </p>
-</div>
 
-<script>
-  window._gaq = [ ['_setAccount','UA-29201604-1']
-  , ['_setDomainName', 'js.la']
-  , ['_trackPageview']
-  , ['_trackPageLoadTime']
-  ];
+    <div class="keynote clearfix">
+      <img src="./images/speakers/yahoo.png" alt="keynote speaker" class="keynote-image" height="130" width="130">
+      <div class="keynote-detail">
+        <h1>Introducing Mojito</h1>
+        <h2>Gamaiel Zavala, Yahoo!</h2>
+        <p><a href="http://developer.yahoo.com/cocktails/mojito/">Mojito</a> is a sweet (and minty!) MVC application framework built on YUI 3 that enables agile development of Web applications. Gamaiel Zavala will be presenting an introduction to Mojito including set up, routing, controllers, models, addons, binders, and configuration. Gamaiel has been building Media sites at Yahoo! for 6 years and is currently working on Media's migration to Mojito.</p>
+      </div>
+    </div>
 
-  var protocol = ('https:' == location.protocol ? '//ssl' : '//www');
+    <div class="keynote clearfix">
+      <img src="./images/speakers/davidguttman.png" alt="keynote speaker" class="keynote-image" height="130" width="130">
+      <div class="keynote-detail">
+        <h1>Seeing Sound with HTML5</h1>
+        <h2>David Guttman <a href="https://twitter.com/davidguttman">@davidguttman</a> </h2>
+        <p>Embrace JavaScript-induced synesthesia. Thanks to recent advances in web audio API technology, you can now see sound---in your browser. Thus, the time for in-browser music visualization is now! It's easier than ever before with <a href="http://davidguttman.github.com/easy-ears/">EasyEars.js</a> and David will show you how.</p>
+      </div>
+    </div>
+    
+    <div class="lightning clearfix">
+      <img src="./images/speakers/speaker.png" alt="lightning speaker" class="lightning-image" height="110" width="110">
+      <div class="lightning-detail">
+        <h1>PSA: Want to present?</h1>
+        <h2>Hit us up on<a href="https://twitter.com/losangelesJS">@losangelesJS</a></h2>
+        <p>We are looking for more talks for this meetup. If you want to present, let us know. We have both keynotes and quick lightning talks slots open.</p>
+      </div>
+    </div>    
 
-  Modernizr.load({ load: protocol + '.google-analytics.com/ga.js' });
-</script>
+    <div class="info-box clearfix">
+      <div class="info-details">
+        <h1>Meet-up Details</h1>
+        <p>We are currently finalizing location and speakers for this meetup.</p>
+        <p>We will email RSVPs, tweet, and update this page as we have finalized info.</p>
+        <p>The general format is 2 planned talks followed by short lightning talks and socializing, and of course beer. We are always looking for speakers. If you are interested, or want to help out, please let us know via <a target="_blank" href="https://twitter.com/losangelesJS">Twitter (@losangelesJS)</a>.</p>
+
+      
+      </div>
+      <div class="info-map"> <!---Width must be 440 px, the height is less important-->
+        <img src="./images/coming-soon.png" alt="We'll provide more information">
+      </div>
+    </div>
+  </div>
 
 </body>
 </html>
