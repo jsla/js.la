@@ -11,6 +11,10 @@ body {
   padding-bottom: 30px;
 }
 
+::selection {
+  background: #5cbcff;
+}
+
 .clearfix:after {
 	visibility: hidden;
 	display: block;
