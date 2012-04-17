@@ -209,7 +209,7 @@ header {
 .next-event-announcement {
   margin: 20px;
   padding: 20px;
-  font-size: 32px;
+  font-size: 24px;
   text-align: center;
   background: url("./images/highlight.png") 110px no-repeat;
 }
