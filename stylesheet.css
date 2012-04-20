@@ -99,6 +99,17 @@ header {
 
 }
 
+.yellow-box a {
+  display: block;
+  outline: none;
+  color: #1A1918;
+}
+
+.yellow-box a:hover {
+  background: none;
+  color: none;
+}
+
 .logotype {
   color: #232221;
   font-size: 150px;
@@ -239,6 +250,12 @@ header {
   display: block;
 }
 
+.hosted-by a {
+  padding: 0px;
+  margin: 0;
+  border: none;
+}
+
 .hosted-by {
   width: 400px;
   height: 148px;
@@ -339,11 +356,11 @@ header {
 /*-------------------RSVP WITH FORM ELEMENTS-------------------*/
 /*-------------------------------------------------------------*/
 
-.rsvp-preview {
+.rsvp-button {
   display: block;
   color: white;
   background: #4164d2;
-  width: 400px;
+  width: 300px;
   font-size: 21px;
   margin: 1em auto;
   margin-bottom: 2em;
@@ -352,7 +369,7 @@ header {
   border-radius: 10px;
 }
 
-.rsvp-preview:hover{
+.rsvp-button:hover{
   background: #273c7f;
 }
 
