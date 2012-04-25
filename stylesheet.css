@@ -250,18 +250,11 @@ header {
   display: block;
 }
 
-.hosted-by a {
-  padding: 0px;
-  margin: 0;
-  border: none;
-}
-
-.hosted-by {
+.sponsors {
   width: 400px;
   height: 148px;
-  margin: 2em auto;
+  margin: 1em auto;
   margin-bottom: 3em;
-  box-shadow: 0px 0px 5px #777;
 }
 
 .sponsors-2x {
@@ -271,15 +264,15 @@ header {
   margin-bottom: 70px;
 }
 
-.sponsors-2x a {
+sponsors a, .sponsors-2x a {
   height: 148px;
 }
 
-.sponsors-2x a:hover {
+.sponsors a:hover, .sponsors-2x a:hover {
   background: none;
 }
 
-.sponsors-2x img {
+.sponsors img, .sponsors-2x img {
   box-shadow: 0px 0px 5px #777;
   border-radius: 10px;
   margin: 10px;
