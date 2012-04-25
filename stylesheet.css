@@ -1,5 +1,6 @@
 html {
   height: 100%;
+  width: 100%;
 }
 
 body {
@@ -258,7 +259,7 @@ header {
 }
 
 .sponsors-2x {
-  width: 864px;
+  width: 890px;
   height: 148px;
   margin: 36px auto;
   margin-bottom: 70px;
@@ -275,7 +276,7 @@ sponsors a, .sponsors-2x a {
 .sponsors img, .sponsors-2x img {
   box-shadow: 0px 0px 5px #777;
   border-radius: 10px;
-  margin: 10px;
+  margin: 5px;
 }
 
 .sponsors-2x img:hover {
