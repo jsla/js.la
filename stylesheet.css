@@ -250,18 +250,37 @@ header {
   display: block;
 }
 
-.hosted-by a {
-  padding: 0px;
-  margin: 0;
-  border: none;
-}
-
-.hosted-by {
+.sponsors {
   width: 400px;
   height: 148px;
-  margin: 2em auto;
+  margin: 1em auto;
   margin-bottom: 3em;
+}
+
+.sponsors-2x {
+  width: 864px;
+  height: 148px;
+  margin: 36px auto;
+  margin-bottom: 70px;
+}
+
+sponsors a, .sponsors-2x a {
+  height: 148px;
+}
+
+.sponsors a:hover, .sponsors-2x a:hover {
+  background: none;
+}
+
+.sponsors img, .sponsors-2x img {
   box-shadow: 0px 0px 5px #777;
+  border-radius: 10px;
+  margin: 10px;
+}
+
+.sponsors-2x img:hover {
+  box-shadow: 0px 0px 10px #777;
+
 }
 
 /*-----------Link to the presentation's material, only on "Past Event" page----------*/
