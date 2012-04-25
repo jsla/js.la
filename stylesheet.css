@@ -264,6 +264,32 @@ header {
   box-shadow: 0px 0px 5px #777;
 }
 
+.sponsors-2x {
+  width: 864px;
+  height: 148px;
+  margin: 36px auto;
+  margin-bottom: 70px;
+}
+
+.sponsors-2x a {
+  height: 148px;
+}
+
+.sponsors-2x a:hover {
+  background: none;
+}
+
+.sponsors-2x img {
+  box-shadow: 0px 0px 5px #777;
+  border-radius: 10px;
+  margin: 10px;
+}
+
+.sponsors-2x img:hover {
+  box-shadow: 0px 0px 10px #777;
+
+}
+
 /*-----------Link to the presentation's material, only on "Past Event" page----------*/
 .presentation {
   margin: 0 10px;
