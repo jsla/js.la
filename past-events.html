@@ -150,7 +150,13 @@
         <iframe src="http://player.vimeo.com/video/65035082" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/65035082">JavaScript Made Simple: JavaScript Object Orientation</a> from <a href="http://vimeo.com/jsla">JSLA</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
       </div>
     </div>
-
+    
+      <div class="event-photos April">
+        <!-- Photos pulled from the Flickr api with the criteria Tag "JSLA", max date, and min date. To include in further events, simply copy/paste the two scripts below and change the max/min_taken_date ranges accordingly to match the event-->
+	      <script type="text/javascript" src="javascripts/vendor/flickrphotos.js"></script>
+	      <script src="http://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2013-04-30&min_taken_date=2013-04-25&format=json"></script>
+	    </div>
+      
       <div class="past-event-divider">Thursday March 28th, 2013 | Google, Venice</div>
 
       <div class="sponsors-2x">
