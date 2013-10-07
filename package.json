@@ -1,0 +1,22 @@
+{
+  "private": true,
+  "name": "js.la",
+  "version": "0.0.0",
+  "description": "static source for http://js.la",
+  "dependencies": {
+    "st": "~0.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "st --no-cache ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jsla/js.la.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jsla/js.la/issues"
+  }
+}
