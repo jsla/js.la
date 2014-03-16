@@ -1,4 +1,4 @@
-$(document).ready(function() {
+$(function() {
 
   $(".various").fancybox({
     maxWidth  : 800,
@@ -19,4 +19,7 @@ $(document).ready(function() {
             media : {}
         }
     });
+
+  $('a[rel=lightbox]').fancybox()
+  
 });
