@@ -48,10 +48,10 @@ a {
   text-decoration: none;
 }
 
-a:hover {
+/*a:hover {
   background: #4164d2;
   color: white;
-}
+}*/
 
 p a {
   color: #4164d2;
@@ -66,6 +66,10 @@ p a:hover {
 
 .emphasis {
   font-style: italic;;
+}
+
+.fancybox-media:hover {
+  background: transparent;
 }
 
 /*-------------------------------------------------------------*/
