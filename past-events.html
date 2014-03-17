@@ -8,14 +8,19 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <title>JS.LA - A monthly JS meetup</title>
 
-    <script type="text/javascript" src="javascripts/vendor/prototype.js"></script>
+    <script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
+    <!--script type="text/javascript" src="javascripts/vendor/prototype.js"></script>-
     <script type="text/javascript" src="javascripts/vendor/scriptaculous.js?load=effects,builder"></script>
-    <script type="text/javascript" src="javascripts/vendor/lightbox.js"></script>
+    <script type="text/javascript" src="javascripts/vendor/lightbox.js"></script>-->
+    <script type="text/javascript" src="javascripts/vendor/jquery.fancybox.pack.js"></script>
+    <script type="text/javascript" src="javascripts/vendor/jquery.fancybox-media.js?v=1.0.6"></script>
+    <script type="text/javascript" src="javascripts/main.js"></script>
 
     <link rel="stylesheet" type="text/css" href="reset.css">
     <link rel="stylesheet" type="text/css" href="stylesheet.css">
 
-    <link rel="stylesheet" href="stylesheets/vendor/lightbox.css" type="text/css" media="screen" />
+    <!--link rel="stylesheet" href="stylesheets/vendor/lightbox.css" type="text/css" media="screen" />-->
+    <link rel="stylesheet" href="stylesheets/vendor/jquery.fancybox.css" type="text/css" media="screen" />
 </head>
 
 <body>
@@ -87,8 +92,7 @@
             The 8-bit classic that started the home video game revolution, now hackable with JavaScript. Learn how to write text to the screen, load sprites and more.
         </p>
 
-        <iframe src="//player.vimeo.com/video/87926451" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/87926451">Taking over the NES with JavaScript</a> from <a href="http://vimeo.com/jsla">JSLA</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-
+        <a class="fancybox-media" href="http://vimeo.com/87926451"><img src="./images/video_thumbnail.png" width="500" height="281" /></a>
       </div>
     </div>
 
@@ -117,8 +121,7 @@
             WebGL stands for Web Graphics Library. A name so dull and generic may surprise you if you're used to hipster naming conventions, and could cover everything from generating GIFs (hard G for life) to the prepackaged icons you can find in Twitter Bootstrap. But immense power lurks behind this bland name. WebGL lets you put GPU graphics in a &lt;canvas&gt; element, and it powers terrific games, infographics, and demoscene-style visuals. Giles Bowkett will blunder through this library, attempting to make it do things, and tell you all about it.
         </p>
 
-        <iframe src="//player.vimeo.com/video/87974285" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/87974285">WebGL, What The Hell</a> from <a href="http://vimeo.com/jsla">JSLA</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-
+        <a class="fancybox-media" href="http://vimeo.com/87974285"><img src="./images/video_thumbnail.png" width="500" height="281" /></a>
       </div>
     </div>
 
@@ -163,9 +166,8 @@
             <p>
             Docker is an incredible new tool to manage the deployment and lifecycle of Node.JS network services. This talk will cover using them together for much Continuous Deployment win
             </p>
-
-            <iframe src="//player.vimeo.com/video/85864661" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/85864661">Node.JS and Docker with a side of Continuous Deployment</a> from <a href="http://vimeo.com/jsla">JSLA</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-
+            
+            <a class="fancybox-media" href="http://vimeo.com/85864661"><img src="./images/video_thumbnail.png" width="500" height="281" /></a>
         </div>
     </div>
 
@@ -194,8 +196,7 @@
             in continuation-passing style introduces problems of legibility, exception management, and composability. With the introduction of generators in the ECMAScript 6 Draft Specification, programmers can continue to leverage the power of the single-threaded event loop while writing expressive, simple code in a direct, top-down style.
             </p>
 
-            <iframe src="//player.vimeo.com/video/85855570" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/85855570">Hanging up on Callbacks: Generators in ES6</a> from <a href="http://vimeo.com/jsla">JSLA</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-
+            <a class="fancybox-media" href="http://vimeo.com/85855570"><img src="./images/video_thumbnail.png" width="500" height="281" /></a>
         </div>
     </div>
     
@@ -242,7 +243,7 @@
             The "Nodebases" have arrived. <code>`tables flip. chairs fall`</code> Wait.. Rather than running for the hills with screams of "making databases can't be for me" let's gear up with some node modules and talk about how we can solve data woes. You can use the level module for great success, but you will find that Leveldb and node together have all of the primitives required to create any database. it's fast and fun. lets have an adventure!
           </p>
 
-          <iframe src="//player.vimeo.com/video/88445020" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/88445020">leveldb And Node.js: Choose Your Own Adventure</a> from <a href="http://vimeo.com/jsla">JSLA</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+          <a class="fancybox-media" href="http://vimeo.com/88445020"><img src="./images/video_thumbnail.png" width="500" height="281" /></a>
         </div>
       </div>
 
@@ -270,7 +271,7 @@
             An exploration from the fundamentals of computer science all the way up to implementing real time apps in just 8 lines of code. For most people, the latter would reek of assumption dependent frameworks, but we'll discover how to apply some primitive philosophies to escape from that pain and keep full control instead. Yes, you can have your cake and eat it too, with elegant and maintainable code - you'll laugh, you'll cry, we'll kill Socrates, and we'll cook a Kraken. Just don't bring popcorn, or it might burst the kernel into panic.
           </p>
 
-          <iframe src="//player.vimeo.com/video/85853754" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/85853754">Practical Philosophy: Abstracting Away your Pain with JavaScript</a> from <a href="http://vimeo.com/jsla">JSLA</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+          <a class="fancybox-media" href="http://vimeo.com/85853754"><img src="./images/video_thumbnail.png" width="500" height="281" /></a>
         </div>
       </div>
 
@@ -312,7 +313,7 @@
             Holy crap streams are awesome. Without a doubt, they are one of the coolest things to happen to JS. Data visualization and processing will never be the same. If you've never coded with streams before, or are interested in taking your game to the next level, you don't want to miss this talk.
           </p>
 
-          <iframe src="//player.vimeo.com/video/75838237" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/75838237">Full Streams Ahead</a> from <a href="http://vimeo.com/jsla">JSLA</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+          <a class="fancybox-media" href="http://vimeo.com/75838237"><img src="./images/video_thumbnail.png" width="500" height="281" /></a>
         </div>
       </div>
 
@@ -344,7 +345,7 @@
 
           <p>The node-midi library makes it very easy to control MIDI via CoffeeScript, whether you’re plugging into gazillion-dollar studio equipment, a $5 synth on an iPad, or your MacBook’s free copy of Garageband. Setup is simple and painless, results are instant, and the code is easy to understand.</p>
 
-          <iframe src="//player.vimeo.com/video/76032817" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/76032817">Caffeinated Rhythms: Playing Drums With CoffeeScript</a> from <a href="http://vimeo.com/jsla">JSLA</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+          <a class="fancybox-media" href="http://vimeo.com/76032817"><img src="./images/video_thumbnail.png" width="500" height="281" /></a>
         </div>
       </div>
 	
@@ -391,7 +392,7 @@
             All games in any language start with the same basic structure. A timer updates various elements and renders them on the screen. This talk walks through the basics of making a simple game in JavaScript. We start with a game loop and progresses adding a new feature at each step along the way. The end result has graphics, physics, sprite animation, collision detection, text and sound.
           </p>
 
-          <iframe src="//player.vimeo.com/video/74008847" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/74008847">Making a Simple Game in JavaScript Step-By-Step</a> from <a href="http://vimeo.com/jsla">JSLA</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+          <a class="fancybox-media" href="http://vimeo.com/74008847"><img src="./images/video_thumbnail.png" width="500" height="281" /></a>
         </div>
       </div>
 
@@ -420,7 +421,7 @@
             If you ever thought it might be a good idea to build rich audio applications in the browser and cringe at the thought of using flash to do so, you're in luck.  The Web Audio API has landed in current versions of Chrome and Firefox and is ready for hacking on.  This presentation will provide an introduction to the current draft spec showing the basics of how to use the API and show examples of what it possible by leveraging it as well as some of the additional HTML 5 APIs.
           </p>
 
-          <iframe src="//player.vimeo.com/video/73505785" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/73505785">You Got Your Audio in my Browser: An Introduction to the Web Audio API</a> from <a href="http://vimeo.com/jsla">JSLA</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+          <a class="fancybox-media" href="http://vimeo.com/73505785"><img src="./images/video_thumbnail.png" width="500" height="281" /></a>
         </div>
       </div>
 
@@ -468,7 +469,7 @@
             In 2012, the USC Radio online team set out to create a new type of music discovery app centered around geo location. After months of imagining, planning, developing and iterating, the team finally released Geotunes, an HTML5-based app that provides users with a new way to learn about the relationships between songs and their geographical surroundings. The presentation will take a birds-eye view of the product lifecycle and share what it took to become one of the first 100 apps on the Spotify app ecosystem.
           </p>
 
-          <iframe src="http://player.vimeo.com/video/71287546" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/71287546">Discovering Music Through Geo Location</a> from <a href="http://vimeo.com/jsla">JSLA</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+          <a class="fancybox-media" href="http://vimeo.com/71287546"><img src="./images/video_thumbnail.png" width="500" height="281" /></a>
         </div>
       </div>
 
@@ -497,7 +498,7 @@
             In this talk, Sam L'ecuyer will discuss the issues of handling binary data in the browser via JavaScript, the new ways of dealing with files, and the history that led up to it.  His presentation will not only cover the APIs that allow more native-like applications, but also a demo of a font engine in pure javascript.
           </p>
 
-          <iframe src="http://player.vimeo.com/video/71308717" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/71308717">Beyond JSON: On HTML5 data-types and handling bytes in the DOM well</a> from <a href="http://vimeo.com/jsla">JSLA</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+          <a class="fancybox-media" href="http://vimeo.com/71308717"><img src="./images/video_thumbnail.png" width="500" height="281" /></a>
         </div>
       </div>
     </div>
@@ -562,7 +563,7 @@
             As one of the creators of <a href="http://paperjs.org">Paper.js</a>, Jürg Lehni will shed light on the history and functionality of the library. His presentation will also focus on various meta-programming tricks, such as the implementation of operator overloading in JavaScript to make vector math a first class citizen, a row of other syntactic goodies that lead to more readable code, almost automatic (de)serialization of data structures, and an internal micro framework used for simple class inheritance with support for accessors and dynamic overloading.
           </p>
 
-          <iframe src="http://player.vimeo.com/video/67631584" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/67631584">Behind Paper.js: On the nuts and bolts of designing and building a vector graphics library in JavaScript</a> from <a href="http://vimeo.com/jsla">JSLA</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+          <a class="fancybox-media" href="http://vimeo.com/67631584"><img src="./images/video_thumbnail.png" width="500" height="281" /></a>
         </div>
       </div>
 
@@ -591,7 +592,7 @@
             In his presentation Matthias will talk about his art project "Weird Faces" which generates an infinite number of unique faces that look very similar to his hand drawn faces. Weird Faces has been programmed in Java Script using PaperJS. In his talk he will use the project to show off the power of using presets as a technique for rich and diverse procedural and generative content creation.
           </p>
 
-          <iframe src="http://player.vimeo.com/video/67807562" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/67807562">Behind the Weird Faces: Presets as a technique for rich procedural content creation</a> from <a href="http://vimeo.com/jsla">JSLA</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+          <a class="fancybox-media" href="http://vimeo.com/67807562"><img src="./images/video_thumbnail.png" width="500" height="281" /></a>
         </div>
       </div>
     </div>
@@ -639,7 +640,7 @@
           Computer programming was once seen as "women's work." Ada Lovelace, Grace Hopper, Adele Goldberg, and others played pivotal roles in paving the way for today's computing professions. So why then do we see so few women in our community? I'll cover the history of women in computing, possible causes of the gender imbalance, and ideas for how our community can shape a future that includes more women.
         </p>
 
-        <iframe src="http://player.vimeo.com/video/65018643" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/65018643">The History of Women in Computing</a> from <a href="http://vimeo.com/jsla">JSLA</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+        <a class="fancybox-media" href="http://vimeo.com/65018643"><img src="./images/video_thumbnail.png" width="500" height="281" /></a>
       </div>
     </div>
 
@@ -672,7 +673,7 @@
           He will go over some of the benefits of using AMD modules with RequireJS, including how it's not really that different from CommonJS. See how features such as plugins and dynamic loading work naturally in the browser and how these allow for the ZestJS widget approach.
         </p>
 
-        <iframe src="http://player.vimeo.com/video/65042246" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/65042246">Modular Widgets with AMD and jspm.io</a> from <a href="http://vimeo.com/jsla">JSLA</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+        <a class="fancybox-media" href="http://vimeo.com/65042246"><img src="./images/video_thumbnail.png" width="500" height="281" /></a>
       </div>
     </div>
 
@@ -702,7 +703,7 @@
 
         <p>In Object Orientation, we'll introduce you to the basics of several forms of JavaScript Object creation as well as recognizing and implementing prototypal inheritance.</p>
 
-        <iframe src="http://player.vimeo.com/video/65035082" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/65035082">JavaScript Made Simple: JavaScript Object Orientation</a> from <a href="http://vimeo.com/jsla">JSLA</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+        <a class="fancybox-media" href="http://vimeo.com/65035082"><img src="./images/video_thumbnail.png" width="500" height="281" /></a>
       </div>
     </div>
 
@@ -755,7 +756,7 @@
 
           <p>Finally the sublime wisdom of node and unix can be realized all the way up the stack in browsers too.</p>
 
-          <iframe src="http://player.vimeo.com/video/62988591" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/62988591">Browserify V2 and You (nix)</a> from <a href="http://vimeo.com/jsla">JSLA</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+          <a class="fancybox-media" href="http://vimeo.com/62988591"><img src="./images/video_thumbnail.png" width="500" height="281" /></a>
         </div>
       </div>
 
@@ -784,7 +785,7 @@
             Short talk on arrays in javascript. For our series, Javascript Made Simple.
           </p>
 
-          <iframe src="http://player.vimeo.com/video/62966473" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/62966473">JavaScript Made Simple - Hip Hop Array</a> from <a href="http://vimeo.com/jsla">JSLA</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+          <a class="fancybox-media" href="http://vimeo.com/62966473"><img src="./images/video_thumbnail.png" width="500" height="281" /></a>
         </div>
       </div>
 
@@ -838,7 +839,7 @@
           Underscore, come check this talk out
         </p>
 
-        <iframe src="http://player.vimeo.com/video/60993092" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/60993092">Eric Gradman - Node's Harder Side</a> from <a href="http://vimeo.com/jsla">JSLA</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+        <a class="fancybox-media" href="http://vimeo.com/60993092"><img src="./images/video_thumbnail.png" width="500" height="281" /></a>
       </div>
     </div>
 
@@ -867,7 +868,7 @@
           Michael Anthony and Andy Thelander of Active Theory will look back on their first 6 months as a digital agency and share select projects like <a href="http://cloudsovercuba.com" title="Clouds Over Cuba">Clouds Over Cuba</a> and <a href="http://www.mylifein20years.com" title="My Life in 20 Years">My Life in 20 Years</a> whilst discussing development techniques of client and server-side JavaScript.
         </p>
 
-        <iframe src="http://player.vimeo.com/video/61252376" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/61252376">Creative JavaScript In Advertising</a> from <a href="http://vimeo.com/jsla">JSLA</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+        <a class="fancybox-media" href="http://vimeo.com/61252376"><img src="./images/video_thumbnail.png" width="500" height="281" /></a>
       </div>
     </div>
 
@@ -898,7 +899,7 @@
           This is the first in a series of very short talks (5-7 mins) which will help introduce some of the basics of JS, as well as point out some interesting aspects that perhaps even "experts" might not know.
         </p>
 
-        <iframe src="http://player.vimeo.com/video/60970694" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/60970694">JavaScript Made Simple - Liberty, Equality, Identity!</a> from <a href="http://vimeo.com/jsla">JSLA</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+        <a class="fancybox-media" href="http://vimeo.com/60970694"><img src="./images/video_thumbnail.png" width="500" height="281" /></a>
       </div>
     </div>
 
@@ -948,7 +949,7 @@
           Mike will share his experiences with node.js, where it's a good fit and where it is not. He will discuss some specific examples of how he's used node and dive into some code.
         </p>
 
-        <iframe src="http://player.vimeo.com/video/59748495" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/59748495">Node.js & Me</a> from <a href="http://vimeo.com/jsla">JSLA</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+        <a class="fancybox-media" href="http://vimeo.com/59748495"><img src="./images/video_thumbnail.png" width="500" height="281" /></a>
       </div>
     </div>
 
@@ -982,7 +983,7 @@
           CoffeeScript is an extremely popular JavaScript replacement, but its flexible syntax has been the source of some confusion. This talk covers one troublesome interaction between CoffeeScript terms and how mathematics could prevent similar issues in the future. You don't need a background in math to enjoy the talk, just an interest in language design and how math can help solve tough problems.
         </p>
 
-        <iframe src="http://player.vimeo.com/video/58872586" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/58872586">Math Envy and CoffeeScript's Foibles</a> from <a href="http://vimeo.com/jsla">JSLA</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+        <a class="fancybox-media" href="http://vimeo.com/58872586"><img src="./images/video_thumbnail.png" width="500" height="281" /></a>
       </div>
     </div>
 
@@ -1054,7 +1055,7 @@
           I will present the key concept like live page update, synchronization, hot code push then demo some application and explain how some of the key concept are implemented.
         </p>
 
-        <iframe src="http://player.vimeo.com/video/57173526" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/57173526">meteor.js</a> from <a href="http://vimeo.com/jsla">JSLA</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+        <a class="fancybox-media" href="http://vimeo.com/57173526"><img src="./images/video_thumbnail.png" width="500" height="281" /></a>
       </div>
     </div>
 
@@ -1095,7 +1096,7 @@
           Geoffrey Plitt, active standup comedian, former Google engineer, and CTO of comedy discovery engine Laffster.com discusses tips, tricks, and pitfalls his teams have learned while using technologies such as KnockoutJS, HeadJS, CoffeeScript, Slim, SASS, Middleman, various jQuery plugins, and Amazon Web Services. Plus he's funny
         </p>
 
-        <iframe src="http://player.vimeo.com/video/52991466?badge=0" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/52991466">Top 10 Secret Weapons For Front-End Development</a> from <a href="http://vimeo.com/jsla">JSLA</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+        <a class="fancybox-media" href="http://vimeo.com/52991466"><img src="./images/video_thumbnail.png" width="500" height="281" /></a>
       </div>
     </div>
 
@@ -1129,7 +1130,7 @@
           <a href="https://github.com/gilesbowkett/wheatley">Wheatley</a> was designed to refactor JavaScript semi-automatically. The project's unfinished, because writing code which will refactor your JavaScript for you automatically is just insanely overambitious, but the few refactorings it can do are very cool. Wheatley can also recognize identical code and nearly-identical code.
         </p>
 
-        <iframe src="http://player.vimeo.com/video/52996554?badge=0" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/52996554">Wheatley</a> from <a href="http://vimeo.com/jsla">JSLA</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+        <a class="fancybox-media" href="http://vimeo.com/52996554"><img src="./images/video_thumbnail.png" width="500" height="281" /></a>
       </div>
     </div>
 
@@ -1169,7 +1170,7 @@
           How do we determine the sentiment of text in a world where syntax and grammer are thrown out of the window? Utilizing Node and <a href="https://github.com/NaturalNode/natural">Natural</a>, a NLP (Natural Language Processing) toolkit, we'll go through a few techniques ranging from manual polarity determination to machine learning classification, all the while highlighting the challenges of analyzing text in a "post-grammatical" world.
         </p>
 
-        <iframe src="http://player.vimeo.com/video/50767532" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/50767532">Sentiment Analysis in a Post Grammatical World</a> from <a href="http://vimeo.com/jsla">JSLA</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+        <a class="fancybox-media" href="http://vimeo.com/50767532"><img src="./images/video_thumbnail.png" width="500" height="281" /></a>
       </div>
     </div>
 
@@ -1207,7 +1208,7 @@
 
         <p>We'll take a quick look at the broad strategy for modern web app development, then we'll dive into as many of these great HTML features and open source javascript libraries as we can!</p>
 
-        <iframe src="http://player.vimeo.com/video/49498364" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/49498364">Jukebox.js - Experiment with Modern Web Technology</a> from <a href="http://vimeo.com/jsla">JSLA</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+        <a class="fancybox-media" href="http://vimeo.com/49498364"><img src="./images/video_thumbnail.png" width="500" height="281" /></a>
       </div>
     </div>
 
@@ -1228,7 +1229,7 @@
 
         <p>Simplicity is good, but what happens when your problems aren't simple? In this talk, I'll discuss some of the complexities of handling events and DOM rendering that are overlooked in many Javascript frameworks. We'll then see how Ember provides sophisticated solutions to these issues so that you don't have to.</p>
 
-        <iframe src="http://player.vimeo.com/video/49434697" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/49434697">Sophisticated Views: How Ember's View Layer Handles the Complex Problems</a> from <a href="http://vimeo.com/jsla">JSLA</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+        <a class="fancybox-media" href="http://vimeo.com/49434697"><img src="./images/video_thumbnail.png" width="500" height="281" /></a>
       </div>
     </div>
 
@@ -1257,7 +1258,7 @@
 
           <p>This talk will be a general theory overview accompanied by plenty of examples and very brief code demonstrations. It will cover interesting points along the way such as best practices for smooth UI and animation, content management, SEO, and even how to use these exact techniques to create native mobile applications.</p>
 
-          <iframe src="http://player.vimeo.com/video/47512367" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/47512367">JS To Rule Them All</a> from <a href="http://vimeo.com/jsla">JSLA</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+          <a class="fancybox-media" href="http://vimeo.com/47512367"><img src="./images/video_thumbnail.png" width="500" height="281" /></a>
         </div>
       </div>
 
@@ -1279,7 +1280,7 @@
           glue libraries to build your own framework, and will also cover some useful
           patterns you can use in your own Backbone application.</p>
 
-          <iframe src="http://player.vimeo.com/video/47513334" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/47513334">Backbone.js: The framework that isn't</a> from <a href="http://vimeo.com/jsla">JSLA</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+          <a class="fancybox-media" href="http://vimeo.com/47513334"><img src="./images/video_thumbnail.png" width="500" height="281" /></a>
         </div>
       </div>
 
@@ -1297,7 +1298,7 @@
 
           <p>JQuery, Dojo, Mootools, Ext, Prototype, Script.aculo.us, Backbone, Modernizer….[sigh]…it’s hard to keep up. Remember when there was just something called JavaScript? I do. Don’t get me wrong I love all the aforementioned libraries like a father loves his children, but when it is time to get practical and create performance solutions those babies got to go. I’m going to introduce you to an old friend of mine, the JavaScript native image object. This ol’boy is perhaps one of the most powerful objects in JavaScript and he’s uber simple to get to know. I’m going to show you some of his tricks and try to convince you that he belongs in your JavaScript solutions tool belt!</p>
 
-          <iframe src="http://player.vimeo.com/video/47514251" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/47514251">Going Native: Practical scripting with the JavaScript Image Object</a> from <a href="http://vimeo.com/jsla">JSLA</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+          <a class="fancybox-media" href="http://vimeo.com/47514251"><img src="./images/video_thumbnail.png" width="500" height="281" /></a>
         </div>
       </div>
 
@@ -1321,7 +1322,7 @@
 
         <p>This talk will take the audience on a tour of what the web platform of the future will look like and how the AngularJS framework can provide many of the powerful capabilities to existing browsers and bridge the path to web components, model driven views and other platform features that are currently being spec-ed.</p>
 
-        <iframe src="http://player.vimeo.com/video/45624403" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/45624403">AngularJS</a> from <a href="http://vimeo.com/jsla">JSLA</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+        <a class="fancybox-media" href="http://vimeo.com/45624403"><img src="./images/video_thumbnail.png" width="500" height="281" /></a>
       </div>
     </div>
 
@@ -1336,7 +1337,7 @@
 
         <p><strong>BIO:</strong> Node.js, Titanium, iOS, Javascript hacker, Software Engineer by day Jiu Jitsu Fighter by night. Buddhist bum and Father of two beautiful girls. His blog can be found at <a href="http://RogueSynaptics.com" title="{ euforic : 'Rogue Synaptics'}">http://RogueSynaptics.com</a>.</p>
 
-        <iframe src="http://player.vimeo.com/video/45558673" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/45558673">Design to Deploy - Mobile Development with Titanium</a> from <a href="http://vimeo.com/jsla">JSLA</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+        <a class="fancybox-media" href="http://vimeo.com/45558673"><img src="./images/video_thumbnail.png" width="500" height="281" /></a>
       </div>
     </div>
 
@@ -1361,7 +1362,7 @@
         source contributor working at LA startup Pose. His blog can be found
         at <a href="http://blog.andrewvc.com" title="My Blog. Mostly Code.">http://blog.andrewvc.com</a>.</p>
 
-        <iframe src="http://player.vimeo.com/video/45558674" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/45558674">Realtime Visualizations w/ D3 and Backbone</a> from <a href="http://vimeo.com/jsla">JSLA</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+        <a class="fancybox-media" href="http://vimeo.com/45558674"><img src="./images/video_thumbnail.png" width="500" height="281" /></a>
       </div>
     </div>
 
@@ -1381,7 +1382,7 @@
         <p>Math, it's certainly not something you expect to see in a presentation about JavaScript, but even this far from its ivory towers it has an important role to play. Together we'll build two categories and see how, by satisfying the category and functor laws, we can optimize our jQuery plugins and methods.</p>
         <p>Don't worry, you don't need a background in Math just some curiosity and a desire to speed up your jQuery!</p>
 
-        <iframe src="http://player.vimeo.com/video/44085271" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/44085271">Faster JavaScript Through Category Theory</a> from <a href="http://vimeo.com/user12127761">JSLA</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+        <a class="fancybox-media" href="http://vimeo.com/44085271"><img src="./images/video_thumbnail.png" width="500" height="281" /></a>
       </div>
     </div>
 
@@ -1393,7 +1394,7 @@
         <p>I usually find technologies that interest me, experiment with them, publish demos I do and eventually use them in a commercial project. With WebGL it was different - my first contact with this technology was through a client project. I had to learn WebGL on the go. It took me a few months to actually start apperciating it, but once the project was over and I thought I know everything about it, I decided to write my own engine that I baptized simply J3D. After a good start, I realized I didn't know that much about WebGL after all... Since then I spent many day & nights (mostly nights) learning and creating what I believe is a good tool for other developers to start creating 3D applications in the browser.</p>
         <p>In my presentation I talk about specific challenges when working WebGL projects and how J3D addresses them. I will also take you on a short walk-through of it's features and present some demos.</p>
 
-        <iframe src="http://player.vimeo.com/video/44073881" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/44073881">J3D: Adventures with WebGL</a> from <a href="http://vimeo.com/user12127761">JSLA</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+        <a class="fancybox-media" href="http://vimeo.com/44073881"><img src="./images/video_thumbnail.png" width="500" height="281" /></a>
       </div>
     </div>
 
