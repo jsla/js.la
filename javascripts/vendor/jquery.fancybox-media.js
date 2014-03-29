@@ -109,7 +109,7 @@
 					hd            : 1,
 					show_title    : 1,
 					show_byline   : 1,
-					show_portrait : 0,
+					show_portrait : 1,
 					fullscreen    : 1
 				},
 				type : 'iframe',
