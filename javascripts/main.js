@@ -1,8 +1,8 @@
 $(function() {
 
   $(".various").fancybox({
-    maxWidth  : 800,
-    maxHeight : 600,
+    maxWidth  : 1000,
+    maxHeight : 800,
     fitToView : false,
     width   : '70%',
     height    : '70%',
@@ -21,5 +21,4 @@ $(function() {
     });
 
   $('a[rel=lightbox]').fancybox()
-  
 });
