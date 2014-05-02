@@ -1,0 +1,17 @@
+!= partial("_nav")
+
+div.main-width
+    div.next-event-announcement Thursday April 24th, 2014 7-10pm | SapientNitro
+    a.rsvp-button(href="https://ti.to/jsla/april-2014") Please RSVP &raquo;
+    div.sponsors-2x
+        a(href="http://edgecast.com")
+            img(src="images/hosts/sponsor-edge-cast.png", width="30%")
+        a(href="http://dollarshaveclub.com/")
+            img(src="images/hosts/sponsor-dollar-shave-club.png", width="30%")
+        a(href="http://sapientnitro.com")
+            img(src="images/hosts/host-sapient-nitro.png", width="30%")
+
+    each speaker in public._data.current.speakers
+        != partial("_speaker", {title: speaker.title, speaker: speaker.name, description: speaker.description, twitter: speaker.twitter, github: speaker.github, image: speaker.image, video: speaker.video})
+
+    != partial("_want-to-present")
