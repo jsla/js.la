@@ -1,22 +1,27 @@
 {
   "private": true,
   "name": "js.la",
-  "version": "0.0.0",
-  "description": "static source for http://js.la",
-  "dependencies": {
-    "st": "~0.2.1"
-  },
-  "devDependencies": {},
+  "version": "0.0.1",
+  "description": "The js.la web site",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "st --no-cache ."
+    "start": "harp server public"
   },
   "repository": {
     "type": "git",
     "url": "git://github.com/jsla/js.la.git"
   },
+  "keywords": [
+    "js.la"
+  ],
+  "author": "hello@js.la",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/jsla/js.la/issues"
+  },
+  "homepage": "http://js.la",
+  "devDependencies": {
+    "harp": "^0.12.1"
   }
 }

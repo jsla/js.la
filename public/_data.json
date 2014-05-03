@@ -1,0 +1,57 @@
+{
+    "current": {
+        "datetime": "Thursday April 24th, 2014 7-10pm",
+        "host": {
+            "address": "3211 Olympic Blvd, Santa Monica, CA 90404",
+            "name": "SapientNitro",
+            "mapIframeUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3306.499744877232!2d-118.46109135000002!3d34.031049699999954!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2bb15ae8f4aa7%3A0xd29550b3789a5388!2s3211+Olympic+Blvd!5e0!3m2!1sen!2sus!4v1394818035280",
+            "mapUrl": "http://goo.gl/8wynkl",
+            "misc": "There is street parking available on Olympic and nearby streets.",
+            "url": "http://SapientNitro.com/"
+        },
+        "speakers": [
+            {
+                "title": "Static Web Architecture: Not Just for Hipsters",
+                "name": "Michael Bleigh",
+                "image": "mbleigh.jpg",
+                "twitter": "mbleigh",
+                "github": "mbleigh",
+                "description": "Building with a separated front and back end makes your applications more scalable, flexible, and modular. Learn the ropes of Service-Oriented Architecture, CORS, authentication, and more for static web apps.",
+                "video": "93049881"
+            },
+            {
+                "title": "The Intranet of Things with Node.js",
+                "name": "Brian Johnson",
+                "image": "imbrianj.jpg",
+                "twitter": "imbrianj",
+                "github": "imbrianj",
+                "description": "Universal Controller is a node.js based application intended to run on a device within a local network - preferrably a dedicated server (such as a Raspberry Pi). It allows all web capable devices within that same network to issue commands to any other configured device. You may use your phone, tablet, desktop or laptop browser to interact with any controllable device - or issue simple GET commands programmatically.",
+                "video": "93049880"
+            }
+        ],
+        "sponsors": [
+            {
+                "name": "Edgecast",
+                "logo": "sponsor-edge-cast.png",
+                "url": "http://edgecast.com"
+            },
+            {
+                "name": "Dollar Shave Club",
+                "logo": "sponsor-dollar-shave-club.png",
+                "url": "http://dollarshaveclub.com/"
+            },
+            {
+                "name": "SapientNitro",
+                "logo": "host-sapient-nitro.png",
+                "url": "http://sapientnitro.com"
+            }
+        ],
+        "titoUrl": "https://ti.to/jsla/april-2014"
+    },
+    "past": [
+        {
+        },
+        {
+        }
+    ]
+}
