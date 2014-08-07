@@ -1,0 +1,13 @@
+div.keynote.clearfix
+    img.keynote-image(src="/images/speakers/#{image}", alt="keynote speaker", height="130", width="130")
+    div.keynote-detail
+        h1= title
+        h2= speaker
+        div.twitter Twitter: 
+            a(href="https://twitter.com/#{twitter}")@#{twitter}
+        div.github Github: 
+            a(href="https://github.com/#{github}") #{github}
+        div.description= description
+
+        a.fancybox-media(href="http://vimeo.com/#{video}")
+            img(src="/images/video_thumbnail.png", width="500", height="281")

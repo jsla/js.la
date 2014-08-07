@@ -8,7 +8,7 @@ body {
   font-family: 'Century Gothic',verdana,arial,helvetica,sans-serif;
   min-width: 960px;
   line-height: 1.5;
-  background-image: url("./images/exclusive_paper.jpg");
+  background-image: url("../../images/exclusive_paper.jpg");
   padding-bottom: 30px;
 }
 
@@ -17,12 +17,12 @@ body {
 }
 
 .clearfix:after {
-	visibility: hidden;
-	display: block;
-	font-size: 0;
-	content: " ";
-	clear: both;
-	height: 0;
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
 }
 
 
@@ -82,12 +82,12 @@ header {
 
 .night {
   background-color: #183964;
-  background-image: url("./images/stars-trans.png"),-webkit-gradient(linear, left top, left bottom, from(rgb(24, 57, 100)), to(rgb(73, 101, 158)));
-  background-image: url("./images/stars-trans.png"),-webkit-linear-gradient(top, rgb(24, 57, 100), rgb(73, 101, 158));
-  background-image: url("./images/stars-trans.png"),-moz-linear-gradient(top, rgb(24, 57, 100), rgb(73, 101, 158));
-  background-image: url("./images/stars-trans.png"),-o-linear-gradient(top, rgb(24, 57, 100), rgb(73, 101, 158));
-  background-image: url("./images/stars-trans.png"),-ms-linear-gradient(top, rgb(24, 57, 100), rgb(73, 101, 158));
-  background-image: url("./images/stars-trans.png"),linear-gradient(top, rgb(24, 57, 100), rgb(73, 101, 158));
+  background-image: url("../../images/stars-trans.png"),-webkit-gradient(linear, left top, left bottom, from(rgb(24, 57, 100)), to(rgb(73, 101, 158)));
+  background-image: url("../../images/stars-trans.png"),-webkit-linear-gradient(top, rgb(24, 57, 100), rgb(73, 101, 158));
+  background-image: url("../../images/stars-trans.png"),-moz-linear-gradient(top, rgb(24, 57, 100), rgb(73, 101, 158));
+  background-image: url("../../images/stars-trans.png"),-o-linear-gradient(top, rgb(24, 57, 100), rgb(73, 101, 158));
+  background-image: url("../../images/stars-trans.png"),-ms-linear-gradient(top, rgb(24, 57, 100), rgb(73, 101, 158));
+  background-image: url("../../images/stars-trans.png"),linear-gradient(top, rgb(24, 57, 100), rgb(73, 101, 158));
   filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0,StartColorStr='#183964', EndColorStr='#49659e');
 }
 
@@ -127,7 +127,7 @@ header {
   height: 107px;
   width: 319px;
   display: block;
-  background-image: url("./images/logotype-trans.png")
+  background-image: url("../../images/logotype-trans.png")
 }
 
 .skyline {
@@ -137,7 +137,7 @@ header {
   top: 95px;
   width: 454px;
   height: 125px;
-  background-image: url("./images/skyline2.png");
+  background-image: url("../../images/skyline2.png");
   background-repeat: none;
 }
 
@@ -148,7 +148,7 @@ header {
   top: 0px;
   width: 467px;
   height: 220px;
-  background-image: url("./images/skyline-contact.png");
+  background-image: url("../../images/skyline-contact.png");
   background-repeat: none;
 }
 
@@ -160,7 +160,7 @@ header {
   top: 150px;
   height: 72px;
   width: 136px;
-  background-image: url("./images/griffith.png");
+  background-image: url("../../images/griffith.png");
   background-repeat: none;
 }
 
@@ -235,7 +235,7 @@ header {
   padding: 20px;
   font-size: 34px;
   text-align: center;
-  background: url("./images/highlight-past.png") 110px no-repeat;
+  background: url("../../images/highlight-past.png") 110px no-repeat;
 }
 
 .past-event-announcement {
@@ -414,7 +414,7 @@ sponsors a, .sponsors-2x a {
 
 .rsvp {
   text-align: center;
-  background-image: url("./images/yellow_exclusive_paper.jpg");
+  background-image: url("../../images/yellow_exclusive_paper.jpg");
   width: 500px;
   margin: 60px auto;
   margin-bottom: 40px;
