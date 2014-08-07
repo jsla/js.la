@@ -1,15 +1,32 @@
 header
-    div.yellow-box
-        a(href="/")
-            div.logotype
-        a(href="/")
-            div.skyline
-        a(href="/")
-            div.tagline A monthly JavaScript meet up in Los Angeles.
-    nav.navigation
-        div.navigation-width
-            a.current(href="/") Upcoming Events
-            a(href="past-events.html") Past Events
-            a(href="contact.html") Want to present?
-            a(href="https://twitter.com/jsdotla") Twitter
-            a(href="http://eepurl.com/nDJiD") Newsletter
+    if night
+        div.night
+            div.yellow-box
+                a(href="/")
+                    div.logotype
+                a(href="/")
+                    div.skyline
+                a(href="/")
+                    div.tagline A monthly JavaScript meet up in Los Angeles.
+            nav.navigation
+                div.navigation-width
+                    a(href="/") Upcoming Events
+                    a(href="/events") Past Events
+                    a(href="mailto:hello@js.la") Want to present?
+                    a(href="https://twitter.com/jsdotla") Twitter
+                    a(href="http://eepurl.com/nDJiD") Newsletter
+    else
+        div.yellow-box
+            a(href="/")
+                div.logotype
+            a(href="/")
+                div.skyline
+            a(href="/")
+                div.tagline A monthly JavaScript meet up in Los Angeles.
+        nav.navigation
+            div.navigation-width
+                a(href="/") Upcoming Events
+                a(href="/events") Past Events
+                a(href="mailto:hello@js.la") Want to present?
+                a(href="https://twitter.com/jsdotla") Twitter
+                a(href="http://eepurl.com/nDJiD") Newsletter

@@ -1,0 +1,300 @@
+{
+    "events": [
+        {
+            "datetime": "June 26th, 2014",
+            "host": {
+                "address": "3211 Olympic Blvd, Santa Monica, CA 90404",
+                "name": "SapientNitro",
+                "mapIframeUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3306.499744877232!2d-118.46109135000002!3d34.031049699999954!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2bb15ae8f4aa7%3A0xd29550b3789a5388!2s3211+Olympic+Blvd!5e0!3m2!1sen!2sus!4v1394818035280",
+                "mapUrl": "http://goo.gl/8wynkl",
+                "misc": "There is street parking available on Olympic and nearby streets.",
+                "url": "http://SapientNitro.com/"
+            },
+            "speakers": [
+            {
+                "title": "Building Realtime Apps and Developer Communities at Firebase",
+                "name": "Sara Robinson",
+                "image": "sararob.jpg",
+                "twitter": "SRobTweets",
+                "github": "sararob",
+                "description": "Firebase is a realtime API that lets you store and sync data instantly. Learn how you can use Firebase to build a web or mobile app in minutes without worrying about wiring up a backend. In this session, Sara will do some live coding and deploy an app using Firebase Hosting. She'll also talk about her experience building a community of JavaScript developers at Firebase.",
+                "video": "100528520"
+            },
+            {
+                "title": "Twilio & WebRTC Turns Your Browser Into a Phone",
+                "name": "Carter Rabasa",
+                "image": "carterrabasa.jpg",
+                "twitter": "carterrabasa",
+                "github": "crabasa",
+                "description": "WebRTC is revolutionizing the way we handle voice, video and data communication by providing native peer-to-peer communication inside the browser. However unless you're familiar with terms like STUN and TURN, actually deploying an end-to-end WebRTC solution is difficult. At Twilio we use WebRTC to power Twilio Client which enables web developers to embed VOIP in their applications. In this talk I'll provide an overview of how Twilio works and do some live coding with Twilio Client and Node to turn my browser into a phone.",
+                "video": "100593144"
+            }
+            ],
+                "sponsors": [
+                {
+                    "name": "Edgecast",
+                    "logo": "sponsor-edge-cast.png",
+                    "url": "http://edgecast.com"
+                },
+                {
+                    "name": "Dollar Shave Club",
+                    "logo": "sponsor-dollar-shave-club.png",
+                    "url": "http://dollarshaveclub.com/"
+                },
+                {
+                    "name": "SapientNitro",
+                    "logo": "host-sapient-nitro.png",
+                    "url": "http://sapientnitro.com"
+                }
+            ]
+        },
+
+        {
+            "datetime": "May 29th, 2014",
+            "host": {
+                "address": "3211 Olympic Blvd, Santa Monica, CA 90404",
+                "name": "SapientNitro",
+                "mapIframeUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3306.499744877232!2d-118.46109135000002!3d34.031049699999954!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2bb15ae8f4aa7%3A0xd29550b3789a5388!2s3211+Olympic+Blvd!5e0!3m2!1sen!2sus!4v1394818035280",
+                "mapUrl": "http://goo.gl/8wynkl",
+                "misc": "There is street parking available on Olympic and nearby streets.",
+                "url": "http://SapientNitro.com/"
+            },
+            "speakers": [
+            {
+                "title": "WebTorrent: How I built a BitTorrent client in the browser",
+                "name": "Feross",
+                "image": "feross.jpg",
+                "twitter": "feross",
+                "github": "feross",
+                "description": "WebRTC changes everything! For the first time, we can do peer-to-peer, or client-to-client, communication in the browser without plugins, extensions, or a software installation. This enables an entirely new class of applications to be built for the web! This talk will look at WebTorrent, a BitTorrent client for the browser that fully-interoperates with the regular BitTorrent network. WebTorrent uses WebRTC Data Channels and special \"hybrid clients\" to connect to the wider BitTorrent network. By making BitTorrent easier, we're making it accessible to new swathes of users who were previously intimidated, confused, or unwilling to install a program on their computer to participate.",
+                "video": "97324247"
+            },
+            {
+                "title": "Native NodeJS Apps",
+                "name": "Jacob Lowe",
+                "image": "jacob2dot0.jpg",
+                "twitter": "jacob2dot0",
+                "github": "jacoblwe20",
+                "description": "Native NodeJS apps are a relatively new breed of apps coming out of the NodeJS community that combine NodeJS and Webkit. Ill be going over : what are the options out there, what kind of things can these apps do compared to webapps, what are the current pro/cons of making a NodeJS native app, and more.",
+                "video": "97881078"
+            }
+            ],
+                "sponsors": [
+                {
+                    "name": "Edgecast",
+                    "logo": "sponsor-edge-cast.png",
+                    "url": "http://edgecast.com"
+                },
+                {
+                    "name": "Dollar Shave Club",
+                    "logo": "sponsor-dollar-shave-club.png",
+                    "url": "http://dollarshaveclub.com/"
+                },
+                {
+                    "name": "SapientNitro",
+                    "logo": "host-sapient-nitro.png",
+                    "url": "http://sapientnitro.com"
+                }
+            ]
+        },
+
+        {
+            "datetime": "Thursday April 24th, 2014 7-10pm",
+            "host": {
+                "address": "3211 Olympic Blvd, Santa Monica, CA 90404",
+                "name": "SapientNitro",
+                "mapIframeUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3306.499744877232!2d-118.46109135000002!3d34.031049699999954!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2bb15ae8f4aa7%3A0xd29550b3789a5388!2s3211+Olympic+Blvd!5e0!3m2!1sen!2sus!4v1394818035280",
+                "mapUrl": "http://goo.gl/8wynkl",
+                "misc": "There is street parking available on Olympic and nearby streets.",
+                "url": "http://SapientNitro.com/"
+            },
+            "speakers": [
+                {
+                    "title": "Static Web Architecture: Not Just for Hipsters",
+                    "name": "Michael Bleigh",
+                    "image": "mbleigh.jpg",
+                    "twitter": "mbleigh",
+                    "github": "mbleigh",
+                    "description": "Building with a separated front and back end makes your applications more scalable, flexible, and modular. Learn the ropes of Service-Oriented Architecture, CORS, authentication, and more for static web apps.",
+                    "video": "93049881"
+                },
+                {
+                    "title": "The Intranet of Things with Node.js",
+                    "name": "Brian Johnson",
+                    "image": "imbrianj.jpg",
+                    "twitter": "imbrianj",
+                    "github": "imbrianj",
+                    "description": "Universal Controller is a node.js based application intended to run on a device within a local network - preferrably a dedicated server (such as a Raspberry Pi). It allows all web capable devices within that same network to issue commands to any other configured device. You may use your phone, tablet, desktop or laptop browser to interact with any controllable device - or issue simple GET commands programmatically.",
+                    "video": "93049880"
+                }
+            ],
+            "sponsors": [
+                {
+                    "name": "Edgecast",
+                    "logo": "sponsor-edge-cast.png",
+                    "url": "http://edgecast.com"
+                },
+                {
+                    "name": "Dollar Shave Club",
+                    "logo": "sponsor-dollar-shave-club.png",
+                    "url": "http://dollarshaveclub.com/"
+                },
+                {
+                    "name": "SapientNitro",
+                    "logo": "host-sapient-nitro.png",
+                    "url": "http://sapientnitro.com"
+                }
+            ],
+            "titoUrl": "https://ti.to/jsla/april-2014"
+        },
+
+        {
+            "datetime": "March 27th, 2014",
+            "host": {
+                "address": "3211 Olympic Blvd, Santa Monica, CA 90404",
+                "name": "SapientNitro",
+                "mapIframeUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3306.499744877232!2d-118.46109135000002!3d34.031049699999954!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2bb15ae8f4aa7%3A0xd29550b3789a5388!2s3211+Olympic+Blvd!5e0!3m2!1sen!2sus!4v1394818035280",
+                "mapUrl": "http://goo.gl/8wynkl",
+                "misc": "There is street parking available on Olympic and nearby streets.",
+                "url": "http://SapientNitro.com/"
+            },
+            "speakers": [
+                {
+                    "title": "AngularJS: The Awesome Parts",
+                    "name": "Ari Lerner",
+                    "image": "auser.jpg",
+                    "twitter": "auser",
+                    "github": "auser",
+                    "description": "AngularJS is the hottest framework on the web. Come and take a whirlwind tour of Angular and why it has such explosive growth. In this talk, you’ll learn why Angular and then jump right into feeling how powerful it is to build an Angular app (even if you’ve never touched it before). Ari Lerner, the author of the canonical book on Angular will walk you through it’s powerful features. You’ll start building your own Angular apps in no time.",
+                    "video": "90388983"
+                },
+                {
+                    "title": "Deprecating the Password",
+                    "name": "Scott Motte",
+                    "image": "scottmotte.jpg",
+                    "twitter": "scottmotte",
+                    "github": "scottmotte",
+                    "description": "Scott Motte of SendGrid talks on deprecating the password. Learn about an alternative authentication system - called handshake.js - that is passwordless and uses email only. Make users lives easier and more secure not having to remember a password. See a live demo of it in action and how easy it is to add to your next app using only JavaScript.",
+                    "video": "90883185"
+                }
+            ],
+            "sponsors": [
+                {
+                    "name": "Edgecast",
+                    "logo": "sponsor-edge-cast.png",
+                    "url": "http://edgecast.com"
+                },
+                {
+                    "name": "Dollar Shave Club",
+                    "logo": "sponsor-dollar-shave-club.png",
+                    "url": "http://dollarshaveclub.com/"
+                },
+                {
+                    "name": "SapientNitro",
+                    "logo": "host-sapient-nitro.png",
+                    "url": "http://sapientnitro.com"
+                }
+            ],
+            "titoUrl": "https://ti.to/jsla/april-2014"
+        },
+        
+        {
+            "datetime": "Thursday February 27th, 2014",
+            "host": {
+                "address": "",
+                "name": "Yahoo",
+                "mapIframeUrl": "",
+                "mapUrl": "",
+                "misc": "",
+                "url": "http://yahoo.com/"
+            },
+            "speakers": [
+                {
+                    "title": "Taking over the NES with JavaScript",
+                    "name": "Michael Matuzak",
+                    "image": "matuzak.png",
+                    "twitter": "mmatuzak",
+                    "github": "emkay",
+                    "description": "The 8-bit classic that started the home video game revolution, now hackable with JavaScript. Learn how to write text to the screen, load sprites and more.",
+                    "video": "87926451"
+                },
+                {
+                    "title": "WebGL, What The Hell",
+                    "name": "Giles Bowkett",
+                    "image": "gilesgoatboy.jpg",
+                    "twitter": "gilesgoatboy",
+                    "github": "gilesbowkett",
+                    "description": "WebGL stands for Web Graphics Library. A name so dull and generic may surprise you if you're used to hipster naming conventions, and could cover everything from generating GIFs (hard G for life) to the prepackaged icons you can find in Twitter Bootstrap. But immense power lurks behind this bland name. WebGL lets you put GPU graphics in a <canvas> element, and it powers terrific games, infographics, and demoscene-style visuals. Giles Bowkett will blunder through this library, attempting to make it do things, and tell you all about it.",
+                    "video": "87974285"
+                }
+            ],
+            "sponsors": [
+                {
+                    "name": "Edgecast",
+                    "logo": "sponsor-edge-cast.png",
+                    "url": "http://edgecast.com"
+                },
+                {
+                    "name": "Dollar Shave Club",
+                    "logo": "sponsor-dollar-shave-club.png",
+                    "url": "http://dollarshaveclub.com/"
+                },
+                {
+                    "name": "Yahoo",
+                    "logo": "host-yahoo.png",
+                    "url": "http://yahoo.com"
+                }
+            ]
+        },
+        {
+            "datetime": "Thursday January 30th, 2014",
+            "host": {
+                "address": "",
+                "name": "UCLA",
+                "mapIframeUrl": "",
+                "mapUrl": "",
+                "misc": "",
+                "url": ""
+            },
+            "speakers": [
+                {
+                    "title": "Node.JS and Docker with a side of Continuous Deployment",
+                    "name": "Niall O'Higgins",
+                    "image": "niallohiggins.jpg",
+                    "twitter": "niallohiggins",
+                    "github": "niallo",
+                    "description": "Docker is an incredible new tool to manage the deployment and lifecycle of Node.JS network services. This talk will cover using them together for much Continuous Deployment win",
+                    "video": "85864661"
+                },
+                {
+                    "title": "Hanging up on Callbacks: Generators in ES6",
+                    "name": "Erin Swenson-Healey",
+                    "image": "laser.jpg",
+                    "twitter": "",
+                    "github": "laser",
+                    "description": "While the JavaScript event loop and asynchronous callbacks provide a powerful, easy-to-understand concurrency model - writing applications in continuation-passing style introduces problems of legibility, exception management, and composability. With the introduction of generators in the ECMAScript 6 Draft Specification, programmers can continue to leverage the power of the single-threaded event loop while writing expressive, simple code in a direct, top-down style.",
+                    "video": "85855570"
+                }
+            ],
+            "sponsors": [
+                {
+                    "name": "Edgecast",
+                    "logo": "sponsor-edge-cast.png",
+                    "url": "http://edgecast.com"
+                },
+                {
+                    "name": "Dollar Shave Club",
+                    "logo": "sponsor-dollar-shave-club.png",
+                    "url": "http://dollarshaveclub.com/"
+                },
+                {
+                    "name": "Yahoo",
+                    "logo": "host-yahoo.png",
+                    "url": "http://yahoo.com"
+                }
+            ]
+        }
+
+
+    ]
+}

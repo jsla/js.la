@@ -1,6 +1,8 @@
 div.next-event-announcement #{datetime} | #{host} 
-    a.rsvp-button(href="#{titoUrl}") Please RSVP &raquo;
+    if current
+        a.rsvp-button(href="#{titoUrl}") Please RSVP &raquo;
+
     div.sponsors-2x
         each sponsor in sponsors
             a(href="#{sponsor.url}")
-                img(src="images/hosts/#{sponsor.logo}", width="30%")
+                img(src="/images/hosts/#{sponsor.logo}", width="30%")

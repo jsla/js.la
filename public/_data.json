@@ -1,32 +1,32 @@
 {
     "current": {
-        "datetime": "Thursday April 24th, 2014 7-10pm",
+        "datetime": "Thursday August 28th, 2014 7-10pm",
         "host": {
-            "address": "3211 Olympic Blvd, Santa Monica, CA 90404",
-            "name": "SapientNitro",
-            "mapIframeUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3306.499744877232!2d-118.46109135000002!3d34.031049699999954!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2bb15ae8f4aa7%3A0xd29550b3789a5388!2s3211+Olympic+Blvd!5e0!3m2!1sen!2sus!4v1394818035280",
-            "mapUrl": "http://goo.gl/8wynkl",
-            "misc": "There is street parking available on Olympic and nearby streets.",
-            "url": "http://SapientNitro.com/"
+            "address": "TBD",
+            "name": "TBD",
+            "mapIframeUrl": "",
+            "mapUrl": "",
+            "misc": "",
+            "url": ""
         },
         "speakers": [
             {
-                "title": "Static Web Architecture: Not Just for Hipsters",
-                "name": "Michael Bleigh",
-                "image": "mbleigh.jpg",
-                "twitter": "mbleigh",
-                "github": "mbleigh",
-                "description": "Building with a separated front and back end makes your applications more scalable, flexible, and modular. Learn the ropes of Service-Oriented Architecture, CORS, authentication, and more for static web apps.",
-                "video": "93049881"
+                "title": "Node.js in Production",
+                "name": "Jeff Dickey",
+                "image": "jeff-dickey.jpg",
+                "twitter": "dickeyxxx",
+                "github": "dickeyxxx",
+                "description": "Running Node.js in a production settings requires you to ensure stability, performance, security and maintainability—particularly challenging while the best practices in JavaScript change rapidly. Learn the pros and cons between various tools and providers whether it is deciding on a cloud provider, build system, load balancer and more. Learn about common mistakes made when moving from a development environment to production and ways to harden your system once it comes online.",
+                "video": ""
             },
             {
-                "title": "The Intranet of Things with Node.js",
-                "name": "Brian Johnson",
-                "image": "imbrianj.jpg",
-                "twitter": "imbrianj",
-                "github": "imbrianj",
-                "description": "Universal Controller is a node.js based application intended to run on a device within a local network - preferrably a dedicated server (such as a Raspberry Pi). It allows all web capable devices within that same network to issue commands to any other configured device. You may use your phone, tablet, desktop or laptop browser to interact with any controllable device - or issue simple GET commands programmatically.",
-                "video": "93049880"
+                "title": "Test-driven Development of Web Apps in Node.js",
+                "name": "Tommy Stanton",
+                "image": "tommy-stanton.jpg",
+                "twitter": "tommystanton",
+                "github": "tommystanton",
+                "description": "Node.js is a natural choice for anything HTTP, so it has quickly become popular for writing web applications. As a complement, the language offers viable means of conducting test-driven development (TDD). Some of the technologies covered in this talk will be: Express, SuperAgent, Mocha, and Chai. Tommy will explain TDD basics from a Node perspective, transitioning into real examples of clever ways to prove that a web app works as advertised. The result is a surge in programmer confidence and a foundation to ensure long-term software quality!",
+                "video": ""
             }
         ],
         "sponsors": [
@@ -41,17 +41,11 @@
                 "url": "http://dollarshaveclub.com/"
             },
             {
-                "name": "SapientNitro",
-                "logo": "host-sapient-nitro.png",
-                "url": "http://sapientnitro.com"
+                "name": "TBD",
+                "logo": "host-tbd.png",
+                "url": ""
             }
         ],
-        "titoUrl": "https://ti.to/jsla/april-2014"
-    },
-    "past": [
-        {
-        },
-        {
-        }
-    ]
+        "titoUrl": "https://ti.to/jsla/august-2014"
+    }
 }
