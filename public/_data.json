@@ -1,0 +1,51 @@
+{
+    "current": {
+        "datetime": "Thursday August 28th, 2014 7-10pm",
+        "host": {
+            "address": "TBD",
+            "name": "TBD",
+            "mapIframeUrl": "",
+            "mapUrl": "",
+            "misc": "",
+            "url": ""
+        },
+        "speakers": [
+            {
+                "title": "Node.js in Production",
+                "name": "Jeff Dickey",
+                "image": "jeff-dickey.jpg",
+                "twitter": "dickeyxxx",
+                "github": "dickeyxxx",
+                "description": "Running Node.js in a production settings requires you to ensure stability, performance, security and maintainability—particularly challenging while the best practices in JavaScript change rapidly. Learn the pros and cons between various tools and providers whether it is deciding on a cloud provider, build system, load balancer and more. Learn about common mistakes made when moving from a development environment to production and ways to harden your system once it comes online.",
+                "video": ""
+            },
+            {
+                "title": "Test-driven Development of Web Apps in Node.js",
+                "name": "Tommy Stanton",
+                "image": "tommy-stanton.jpg",
+                "twitter": "tommystanton",
+                "github": "tommystanton",
+                "description": "Node.js is a natural choice for anything HTTP, so it has quickly become popular for writing web applications. As a complement, the language offers viable means of conducting test-driven development (TDD). Some of the technologies covered in this talk will be: Express, SuperAgent, Mocha, and Chai. Tommy will explain TDD basics from a Node perspective, transitioning into real examples of clever ways to prove that a web app works as advertised. The result is a surge in programmer confidence and a foundation to ensure long-term software quality!",
+                "video": ""
+            }
+        ],
+        "sponsors": [
+            {
+                "name": "Edgecast",
+                "logo": "sponsor-edge-cast.png",
+                "url": "http://edgecast.com"
+            },
+            {
+                "name": "Dollar Shave Club",
+                "logo": "sponsor-dollar-shave-club.png",
+                "url": "http://dollarshaveclub.com/"
+            },
+            {
+                "name": "TBD",
+                "logo": "host-tbd.png",
+                "url": ""
+            }
+        ],
+        "titoUrl": "https://ti.to/jsla/august-2014"
+    }
+}
