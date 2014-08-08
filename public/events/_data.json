@@ -18,7 +18,8 @@
                 "twitter": "contrahacks",
                 "github": "contra",
                 "description": "Build systems play a crucial role in a modern web developers life. Why do we settle for subpar processes when we can have it all? Take a journey through the build system to discuss a little philosophy, automation, streams, grunt, gulp, and everything in between.",
-                "video": ""
+                "video": "102908166",
+                "videoimg": "2014-07_JSLA_title_speaker1_small.png"
             },
             {
                 "title": "Real World React",
@@ -27,7 +28,8 @@
                 "twitter": "funkytek",
                 "github": "funkytek",
                 "description": "React.js brings significant benefits to front-end development: performant virtual DOM diff, one-way data flow and a great component system. React, however, is just the \"V\" in MVC, so the question of how to actually architect your application quickly arises. Explore using React to build full apps including complementary libs, tooling, pain points and more.",
-                "video": ""
+                "video": "102964269",
+                "videoimg": "2014-07_JSLA_title_speaker2_small.png"
             }
             ],
                 "sponsors": [
@@ -62,7 +64,8 @@
                 "twitter": "SRobTweets",
                 "github": "sararob",
                 "description": "Firebase is a realtime API that lets you store and sync data instantly. Learn how you can use Firebase to build a web or mobile app in minutes without worrying about wiring up a backend. In this session, Sara will do some live coding and deploy an app using Firebase Hosting. She'll also talk about her experience building a community of JavaScript developers at Firebase.",
-                "video": "100528520"
+                "video": "100528520",
+                "videoimg": "2014-06_JSLA_title_speaker2.png"
             },
             {
                 "title": "Twilio & WebRTC Turns Your Browser Into a Phone",
@@ -71,7 +74,8 @@
                 "twitter": "carterrabasa",
                 "github": "crabasa",
                 "description": "WebRTC is revolutionizing the way we handle voice, video and data communication by providing native peer-to-peer communication inside the browser. However unless you're familiar with terms like STUN and TURN, actually deploying an end-to-end WebRTC solution is difficult. At Twilio we use WebRTC to power Twilio Client which enables web developers to embed VOIP in their applications. In this talk I'll provide an overview of how Twilio works and do some live coding with Twilio Client and Node to turn my browser into a phone.",
-                "video": "100593144"
+                "video": "100593144",
+                "videoimg": "2014-06_JSLA_title_speaker1.png"
             }
             ],
                 "sponsors": [
@@ -111,7 +115,8 @@
                 "twitter": "feross",
                 "github": "feross",
                 "description": "WebRTC changes everything! For the first time, we can do peer-to-peer, or client-to-client, communication in the browser without plugins, extensions, or a software installation. This enables an entirely new class of applications to be built for the web! This talk will look at WebTorrent, a BitTorrent client for the browser that fully-interoperates with the regular BitTorrent network. WebTorrent uses WebRTC Data Channels and special \"hybrid clients\" to connect to the wider BitTorrent network. By making BitTorrent easier, we're making it accessible to new swathes of users who were previously intimidated, confused, or unwilling to install a program on their computer to participate.",
-                "video": "97324247"
+                "video": "97324247",
+                "videoimg": "video_thumbnail.png"
             },
             {
                 "title": "Native NodeJS Apps",
@@ -120,7 +125,8 @@
                 "twitter": "jacob2dot0",
                 "github": "jacoblwe20",
                 "description": "Native NodeJS apps are a relatively new breed of apps coming out of the NodeJS community that combine NodeJS and Webkit. Ill be going over : what are the options out there, what kind of things can these apps do compared to webapps, what are the current pro/cons of making a NodeJS native app, and more.",
-                "video": "97881078"
+                "video": "97881078",
+                "videoimg": "video_thumbnail.png"
             }
             ],
                 "sponsors": [
@@ -160,7 +166,8 @@
                     "twitter": "mbleigh",
                     "github": "mbleigh",
                     "description": "Building with a separated front and back end makes your applications more scalable, flexible, and modular. Learn the ropes of Service-Oriented Architecture, CORS, authentication, and more for static web apps.",
-                    "video": "93049881"
+                    "video": "93049881",
+                    "videoimg": "video_thumbnail.png"
                 },
                 {
                     "title": "The Intranet of Things with Node.js",
@@ -169,7 +176,8 @@
                     "twitter": "imbrianj",
                     "github": "imbrianj",
                     "description": "Universal Controller is a node.js based application intended to run on a device within a local network - preferrably a dedicated server (such as a Raspberry Pi). It allows all web capable devices within that same network to issue commands to any other configured device. You may use your phone, tablet, desktop or laptop browser to interact with any controllable device - or issue simple GET commands programmatically.",
-                    "video": "93049880"
+                    "video": "93049880",
+                    "videoimg": "video_thumbnail.png"
                 }
             ],
             "sponsors": [
@@ -210,7 +218,8 @@
                     "twitter": "auser",
                     "github": "auser",
                     "description": "AngularJS is the hottest framework on the web. Come and take a whirlwind tour of Angular and why it has such explosive growth. In this talk, you’ll learn why Angular and then jump right into feeling how powerful it is to build an Angular app (even if you’ve never touched it before). Ari Lerner, the author of the canonical book on Angular will walk you through it’s powerful features. You’ll start building your own Angular apps in no time.",
-                    "video": "90388983"
+                    "video": "90388983",
+                    "videoimg": "video_thumbnail.png"
                 },
                 {
                     "title": "Deprecating the Password",
@@ -219,7 +228,8 @@
                     "twitter": "scottmotte",
                     "github": "scottmotte",
                     "description": "Scott Motte of SendGrid talks on deprecating the password. Learn about an alternative authentication system - called handshake.js - that is passwordless and uses email only. Make users lives easier and more secure not having to remember a password. See a live demo of it in action and how easy it is to add to your next app using only JavaScript.",
-                    "video": "90883185"
+                    "video": "90883185",
+                    "videoimg": "video_thumbnail.png"
                 }
             ],
             "sponsors": [
@@ -241,7 +251,7 @@
             ],
             "titoUrl": "https://ti.to/jsla/april-2014"
         },
-        
+
         {
             "datetime": "Thursday February 27th, 2014",
             "host": {
@@ -260,7 +270,8 @@
                     "twitter": "mmatuzak",
                     "github": "emkay",
                     "description": "The 8-bit classic that started the home video game revolution, now hackable with JavaScript. Learn how to write text to the screen, load sprites and more.",
-                    "video": "87926451"
+                    "video": "87926451",
+                    "videoimg": "video_thumbnail.png"
                 },
                 {
                     "title": "WebGL, What The Hell",
@@ -269,7 +280,8 @@
                     "twitter": "gilesgoatboy",
                     "github": "gilesbowkett",
                     "description": "WebGL stands for Web Graphics Library. A name so dull and generic may surprise you if you're used to hipster naming conventions, and could cover everything from generating GIFs (hard G for life) to the prepackaged icons you can find in Twitter Bootstrap. But immense power lurks behind this bland name. WebGL lets you put GPU graphics in a <canvas> element, and it powers terrific games, infographics, and demoscene-style visuals. Giles Bowkett will blunder through this library, attempting to make it do things, and tell you all about it.",
-                    "video": "87974285"
+                    "video": "87974285",
+                    "videoimg": "video_thumbnail.png"
                 }
             ],
             "sponsors": [
@@ -290,6 +302,7 @@
                 }
             ]
         },
+
         {
             "datetime": "Thursday January 30th, 2014",
             "host": {
@@ -308,7 +321,8 @@
                     "twitter": "niallohiggins",
                     "github": "niallo",
                     "description": "Docker is an incredible new tool to manage the deployment and lifecycle of Node.JS network services. This talk will cover using them together for much Continuous Deployment win",
-                    "video": "85864661"
+                    "video": "85864661",
+                    "videoimg": "video_thumbnail.png"
                 },
                 {
                     "title": "Hanging up on Callbacks: Generators in ES6",
@@ -317,7 +331,8 @@
                     "twitter": "",
                     "github": "laser",
                     "description": "While the JavaScript event loop and asynchronous callbacks provide a powerful, easy-to-understand concurrency model - writing applications in continuation-passing style introduces problems of legibility, exception management, and composability. With the introduction of generators in the ECMAScript 6 Draft Specification, programmers can continue to leverage the power of the single-threaded event loop while writing expressive, simple code in a direct, top-down style.",
-                    "video": "85855570"
+                    "video": "85855570",
+                    "videoimg": "video_thumbnail.png"
                 }
             ],
             "sponsors": [
