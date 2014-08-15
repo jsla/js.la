@@ -4,7 +4,7 @@
         "host": {
             "address": "3562 Eastham Drive, Culver City, CA 90232",
             "name": "Maker Studios",
-            "mapIframeUrl": "http://maps.google.com/maps?q=3562+Eastham+Drive,+Culver+City,+CA+90232&amp;hl=en&amp;sll=34.08723,-118.369612&amp;sspn=0.037817,0.049696&amp;hnear=3562+Eastham+Dr,+Culver+City,+California+90232&amp;t=m&amp;ie=UTF8&amp;hq=&amp;z=14&amp;ll=34.026192,-118.377362&amp;output=embed",
+            "mapIframeUrl": "http://maps.google.com/maps?q=3562+Eastham+Drive,+Culver+City,+CA+90232&hl=en&sll=34.08723,-118.369612&sspn=0.037817,0.049696&hnear=3562+Eastham+Dr,+Culver+City,+California+90232&t=m&ie=UTF8&hq=&z=14&ll=34.026192,-118.377362&output=embed",
             "mapUrl": "https://maps.google.com/maps?q=3562+Eastham+Drive,+Culver+City,+CA+90232&hl=en&sll=34.08723,-118.369612&sspn=0.037817,0.049696&hnear=3562+Eastham+Dr,+Culver+City,+California+90232&t=m&z=16",
             "misc": "Parking is available in the lot at the front along National.",
             "url": "http://www.makerstudios.com/"
