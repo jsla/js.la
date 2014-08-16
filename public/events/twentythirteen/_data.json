@@ -1,0 +1,51 @@
+{
+    "events": [
+        {
+            "datetime": "Thursday July 31st, 2014",
+            "host": {
+                "address": "",
+                "name": "Two Bit Circus",
+                "mapIframeUrl": "",
+                "mapUrl": "",
+                "misc": "",
+                "url": "http://twobitcircus.com/"
+            },
+            "speakers": [
+            {
+                "title": "Build Systems: The Next Generation",
+                "name": "Contra",
+                "image": "contra.png",
+                "twitter": "contrahacks",
+                "github": "contra",
+                "description": "Build systems play a crucial role in a modern web developers life. Why do we settle for subpar processes when we can have it all? Take a journey through the build system to discuss a little philosophy, automation, streams, grunt, gulp, and everything in between.",
+                "video": "102908166",
+                "videoimg": "2014-07_JSLA_title_speaker1_small.png"
+            },
+            {
+                "title": "Real World React",
+                "name": "Aaron Murray",
+                "image": "funkytek.png",
+                "twitter": "funkytek",
+                "github": "funkytek",
+                "description": "React.js brings significant benefits to front-end development: performant virtual DOM diff, one-way data flow and a great component system. React, however, is just the \"V\" in MVC, so the question of how to actually architect your application quickly arises. Explore using React to build full apps including complementary libs, tooling, pain points and more.",
+                "video": "102964269",
+                "videoimg": "2014-07_JSLA_title_speaker2_small.png"
+            }
+            ],
+                "sponsors": [
+                {
+                    "name": "Edgecast",
+                    "logo": "sponsor-edge-cast.png",
+                    "url": "http://edgecast.com"
+                },
+                {
+                    "name": "Two Bit Circus",
+                    "logo": "host-two-bit.png",
+                    "url": "http://twobitcircus.com"
+                }
+            ]
+        }
+
+
+    ]
+}
