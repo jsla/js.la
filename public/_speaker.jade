@@ -1,5 +1,5 @@
 div.keynote.clearfix
-    img.keynote-image(src="/images/speakers/#{image}", alt="keynote speaker", height="130", width="130")
+    img.keynote-image(src="/images/speakers/#{image}", alt="keynote speaker", width="130")
     div.keynote-detail
         h1= title
         h2= speaker
@@ -9,5 +9,6 @@ div.keynote.clearfix
             a(href="https://github.com/#{github}") #{github}
         div.description= description
 
-        a.fancybox-media(href="http://vimeo.com/#{video}")
-            img(src="/images/videos/#{videoimg}", width="500", height="281")
+        if videoimg
+            a.fancybox-media(href="http://vimeo.com/#{video}")
+                img(src="/images/videos/#{videoimg}", width="500", height="281")
