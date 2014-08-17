@@ -67,6 +67,9 @@ p a:hover {
 .emphasis {
   font-style: italic;;
 }
+.videoimg {
+  padding-top: 30px;
+}
 
 .fancybox-media:hover {
   background: transparent;

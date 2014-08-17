@@ -197,7 +197,7 @@
                 "image": "juerglehni.png",
                 "twitter": "juerglehni",
                 "github": "lehni",
-                "description": "As one of the creators of \"http://paperjs.org \" Paper.js, Jürg Lehni will shed light on the history and functionality of the library. His presentation will also focus on various meta-programming tricks, such as the implementation of operator overloading in JavaScript to make vector math a first class citizen, a row of other syntactic goodies that lead to more readable code, almost automatic (de)serialization of data structures, and an internal micro framework used for simple class inheritance with support for accessors and dynamic overloading.",
+                "description": "As one of the creators of Paper.js, Jürg Lehni will shed light on the history and functionality of the library. His presentation will also focus on various meta-programming tricks, such as the implementation of operator overloading in JavaScript to make vector math a first class citizen, a row of other syntactic goodies that lead to more readable code, almost automatic (de)serialization of data structures, and an internal micro framework used for simple class inheritance with support for accessors and dynamic overloading.",
                 "video": "67631584",
                 "videoimg": "video_thumbnail.png"
             },
