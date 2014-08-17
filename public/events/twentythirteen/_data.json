@@ -1,35 +1,35 @@
 {
     "events": [
         {
-            "datetime": "Thursday July 31st, 2014",
+            "datetime": "Thursday October 24th, 2013",
             "host": {
                 "address": "",
-                "name": "Two Bit Circus",
+                "name": "IdeaLab",
                 "mapIframeUrl": "",
                 "mapUrl": "",
                 "misc": "",
-                "url": "http://twobitcircus.com/"
+                "url": "www.idealab.com"
             },
             "speakers": [
             {
-                "title": "Build Systems: The Next Generation",
-                "name": "Contra",
-                "image": "contra.png",
-                "twitter": "contrahacks",
-                "github": "contra",
-                "description": "Build systems play a crucial role in a modern web developers life. Why do we settle for subpar processes when we can have it all? Take a journey through the build system to discuss a little philosophy, automation, streams, grunt, gulp, and everything in between.",
-                "video": "102908166",
-                "videoimg": "2014-07_JSLA_title_speaker1_small.png"
+                "title": "leveldb And Node.js: Choose Your Own Adventure",
+                "name": "Ryan Day",
+                "image": "soldair.jpg",
+                "twitter": "soldair",
+                "github": "soldair",
+                "description": "The \"Nodebases\" have arrived. <code>`tables flip. chairs fall`</code> Wait.. Rather than running for the hills with screams of \"making databases can't be for me\" let's gear up with some node modules and talk about how we can solve data woes. You can use the level module for great success, but you will find that Leveldb and node together have all of the primitives required to create any database. it's fast and fun. lets have an adventure!",
+                "video": "88445020",
+                "videoimg": "video_thumbnail.png"
             },
             {
-                "title": "Real World React",
-                "name": "Aaron Murray",
-                "image": "funkytek.png",
-                "twitter": "funkytek",
-                "github": "funkytek",
-                "description": "React.js brings significant benefits to front-end development: performant virtual DOM diff, one-way data flow and a great component system. React, however, is just the \"V\" in MVC, so the question of how to actually architect your application quickly arises. Explore using React to build full apps including complementary libs, tooling, pain points and more.",
-                "video": "102964269",
-                "videoimg": "2014-07_JSLA_title_speaker2_small.png"
+                "title": "Practical Philosophy: Abstracting Away your Pain with JavaScript",
+                "name": "Mark Nadal",
+                "image": "amark.jpg",
+                "twitter": "amark",
+                "github": "amark",
+                "description": "An exploration from the fundamentals of computer science all the way up to implementing real time apps in just 8 lines of code. For most people, the latter would reek of assumption dependent frameworks, but we'll discover how to apply some primitive philosophies to escape from that pain and keep full control instead. Yes, you can have your cake and eat it too, with elegant and maintainable code - you'll laugh, you'll cry, we'll kill Socrates, and we'll cook a Kraken. Just don't bring popcorn, or it might burst the kernel into panic.",
+                "video": "85853754",
+                "videoimg": "video_thumbnail.png"
             }
             ],
                 "sponsors": [
@@ -39,9 +39,144 @@
                     "url": "http://edgecast.com"
                 },
                 {
-                    "name": "Two Bit Circus",
-                    "logo": "host-two-bit.png",
-                    "url": "http://twobitcircus.com"
+                    "name": "IdeaLab",
+                    "logo": "host-idealab.png",
+                    "url": "www.idealab.com"
+                }
+            ]
+        },
+        {
+            "datetime": "Thursday September 26th, 2013",
+            "host": {
+                "address": "",
+                "name": "Yahoo!",
+                "mapIframeUrl": "",
+                "mapUrl": "",
+                "misc": "",
+                "url": "developer.yahoo.com/"
+            },
+            "speakers": [
+            {
+                "title": "Full Streams Ahead",
+                "name": "David Guttman, JSLA/SPEC.LA Organizer",
+                "image": "davidguttman.png",
+                "twitter": "davidguttman",
+                "github": "davidguttman",
+                "description": "Holy crap streams are awesome. Without a doubt, they are one of the coolest things to happen to JS. Data visualization and processing will never be the same. If you've never coded with streams before, or are interested in taking your game to the next level, you don't want to miss this talk.",
+                "video": "75838237",
+                "videoimg": "video_thumbnail.png"
+            },
+            {
+                "title": "Caffeinated Rhythms: Playing Drums With CoffeeScript",
+                "name": "Giles Bowkett",
+                "image": "gilesgoatboy.jpg",
+                "twitter": "gilesgoatboy",
+                "github": "gilesbowkett",
+                "description": "If you’ve ever wanted to make music with your computer, it’s easy to do. Any developer working on OS X can write CoffeeScript code which plays drum rhythms. (Solutions exist for other platforms but won’t be within the scope of this talk.) Find out how, with a simple overview of the ubiquitous music protocol MIDI, and the node-midi library which makes it easy.",
+                "video": "76032817",
+                "videoimg": "video_thumbnail.png"
+            }
+            ],
+                "sponsors": [
+                {
+                    "name": "Edgecast",
+                    "logo": "sponsor-edge-cast.png",
+                    "url": "http://edgecast.com"
+                },
+                {
+                    "name": "Yahoo!",
+                    "logo": "host-yahoo.png",
+                    "url": "http://developer.yahoo.com/"
+                }
+            ]
+        },
+        {
+            "datetime": "Thursday August 29th, 2013",
+            "host": {
+                "address": "",
+                "name": "The Hub LA",
+                "mapIframeUrl": "",
+                "mapUrl": "",
+                "misc": "",
+                "url": "http://thehubla.com"
+            },
+            "speakers": [
+            {
+                "title": "Making a Simple Game in JavaScript Step-By-Step",
+                "name": "Mims H. Wright, Principal Web Developer at Huge",
+                "image": "mimshwright.jpg",
+                "twitter": "mimshwright",
+                "github": "mimshwright",
+                "description": "All games in any language start with the same basic structure. A timer updates various elements and renders them on the screen. This talk walks through the basics of making a simple game in JavaScript. We start with a game loop and progresses adding a new feature at each step along the way. The end result has graphics, physics, sprite animation, collision detection, text and sound.",
+                "video": "74008847",
+                "videoimg": "video_thumbnail.png"
+            },
+            {
+                "title": "You Got Your Audio in my Browser: An Introduction to the Web Audio API",
+                "name": "Joe Rozner",
+                "image": "jrozner.jpg",
+                "twitter": "jrozner",
+                "github": "jrozner",
+                "description": "If you ever thought it might be a good idea to build rich audio applications in the browser and cringe at the thought of using flash to do so, you're in luck.  The Web Audio API has landed in current versions of Chrome and Firefox and is ready for hacking on.  This presentation will provide an introduction to the current draft spec showing the basics of how to use the API and show examples of what it possible by leveraging it as well as some of the additional HTML 5 APIs.",
+                "video": "73505785",
+                "videoimg": "video_thumbnail.png"
+            }
+            ],
+                "sponsors": [
+                {
+                    "name": "Edgecast",
+                    "logo": "sponsor-edge-cast.png",
+                    "url": "http://edgecast.com"
+                },
+                {
+                    "name": "The Hub LA",
+                    "logo": "host-the-hub.png",
+                    "url": "http://thehubla.com"
+                }
+            ]
+        },
+        {
+            "datetime": "",
+            "host": {
+                "address": "",
+                "name": "",
+                "mapIframeUrl": "",
+                "mapUrl": "",
+                "misc": "",
+                "url": ""
+            },
+            "speakers": [
+            {
+                "title": "",
+                "name": "",
+                "image": "",
+                "twitter": "",
+                "github": "",
+                "description": "",
+                "video": "",
+                "videoimg": "video_thumbnail.png"
+            },
+            {
+                "title": "",
+                "name": "",
+                "image": "",
+                "twitter": "",
+                "github": "",
+                "description": "",
+                "video": "",
+                "videoimg": "video_thumbnail.png"
+            }
+            ],
+                "sponsors": [
+                {
+                    "name": "Edgecast",
+                    "logo": "sponsor-edge-cast.png",
+                    "url": "http://edgecast.com"
+                },
+                {
+                    "name": "",
+                    "logo": "",
+                    "url": ""
                 }
             ]
         }
