@@ -2,12 +2,12 @@
     "current": {
         "datetime": "Thursday August 28th, 2014 7-10pm",
         "host": {
-            "address": "TBD",
-            "name": "TBD",
-            "mapIframeUrl": "",
-            "mapUrl": "",
-            "misc": "",
-            "url": ""
+            "address": "3562 Eastham Drive, Culver City, CA 90232",
+            "name": "Maker Studios",
+            "mapIframeUrl": "http://maps.google.com/maps?q=3562+Eastham+Drive,+Culver+City,+CA+90232&hl=en&sll=34.08723,-118.369612&sspn=0.037817,0.049696&hnear=3562+Eastham+Dr,+Culver+City,+California+90232&t=m&ie=UTF8&hq=&z=14&ll=34.026192,-118.377362&output=embed",
+            "mapUrl": "https://maps.google.com/maps?q=3562+Eastham+Drive,+Culver+City,+CA+90232&hl=en&sll=34.08723,-118.369612&sspn=0.037817,0.049696&hnear=3562+Eastham+Dr,+Culver+City,+California+90232&t=m&z=16",
+            "misc": "Parking is available in the lot at the front along National.",
+            "url": "http://www.makerstudios.com/"
         },
         "speakers": [
             {
@@ -38,14 +38,14 @@
                 "url": "http://edgecast.com"
             },
             {
-                "name": "Dollar Shave Club",
-                "logo": "sponsor-dollar-shave-club.png",
-                "url": "http://dollarshaveclub.com/"
+                "name": "O'Reilly",
+                "logo": "sponsor-oreilly.png",
+                "url": "http://velocityconf.com/ny"
             },
             {
                 "name": "TBD",
-                "logo": "host-tbd.png",
-                "url": ""
+                "logo": "host-maker.png",
+                "url": "http://www.makerstudios.com/"
             }
         ],
         "titoUrl": "https://ti.to/jsla/august-2014"
