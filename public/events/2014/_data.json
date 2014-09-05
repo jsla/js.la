@@ -1,5 +1,55 @@
 {
     "events": [
+    {
+        "datetime": "Thursday August 28th, 2014 7-10pm",
+            "host": {
+                "address": "3562 Eastham Drive, Culver City, CA 90232",
+                "name": "Maker Studios",
+                "mapIframeUrl": "http://maps.google.com/maps?q=3562+Eastham+Drive,+Culver+City,+CA+90232&hl=en&sll=34.08723,-118.369612&sspn=0.037817,0.049696&hnear=3562+Eastham+Dr,+Culver+City,+California+90232&t=m&ie=UTF8&hq=&z=14&ll=34.026192,-118.377362&output=embed",
+                "mapUrl": "https://maps.google.com/maps?q=3562+Eastham+Drive,+Culver+City,+CA+90232&hl=en&sll=34.08723,-118.369612&sspn=0.037817,0.049696&hnear=3562+Eastham+Dr,+Culver+City,+California+90232&t=m&z=16",
+                "misc": "Parking is available in the lot at the front along National.",
+                "url": "http://www.makerstudios.com/"
+            },
+            "speakers": [
+                {
+                    "title": "Node.js in Production",
+                    "name": "Jeff Dickey",
+                    "image": "jeff-dickey.jpg",
+                    "twitter": "dickeyxxx",
+                    "github": "dickeyxxx",
+                    "description": "Running Node.js in a production settings requires you to ensure stability, performance, security and maintainability—particularly challenging while the best practices in JavaScript change rapidly. Learn the pros and cons between various tools and providers whether it is deciding on a cloud provider, build system, load balancer and more. Learn about common mistakes made when moving from a development environment to production and ways to harden your system once it comes online.",
+                    "video": "",
+                    "videoimg": ""
+                },
+                {
+                    "title": "Test-driven Development of Web Apps in Node.js",
+                    "name": "Tommy Stanton",
+                    "image": "tommy-stanton.jpg",
+                    "twitter": "tommystanton",
+                    "github": "tommystanton",
+                    "description": "Node.js is a natural choice for anything HTTP, so it has quickly become popular for writing web applications. As a complement, the language offers viable means of conducting test-driven development (TDD). Some of the technologies covered in this talk will be: Express, SuperAgent, Mocha, and Chai. Tommy will explain TDD basics from a Node perspective, transitioning into real examples of clever ways to prove that a web app works as advertised. The result is a surge in programmer confidence and a foundation to ensure long-term software quality!",
+                    "video": "",
+                    "videoimg": ""
+                }
+            ],
+            "sponsors": [
+                {
+                    "name": "Edgecast",
+                    "logo": "sponsor-edge-cast.png",
+                    "url": "http://edgecast.com"
+                },
+                {
+                    "name": "O'Reilly",
+                    "logo": "sponsor-oreilly.png",
+                    "url": "http://velocityconf.com/ny"
+                },
+                {
+                    "name": "TBD",
+                    "logo": "host-maker.png",
+                    "url": "http://www.makerstudios.com/"
+                }
+            ]
+        },
         {
             "datetime": "Thursday July 31st, 2014",
             "host": {
