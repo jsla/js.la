@@ -3,6 +3,11 @@
 div.main-width
     != partial("_top", {datetime: public._data.current.datetime, host: public._data.current.host.name, titoUrl: public._data.current.titoUrl, sponsors: public._data.current.sponsors, current: true})
 
+    h2.speakers Speakers
+    :markdown
+        This month [js.la](http://js.la) will be teaming up with [Joyent](http://joyent.com) to bring you [Node.js on the Road](https://www.joyent.com/noderoad/cities/los-angeles-9-30-2014).
+        Node.js project lead TJ Fontaine and production Node.js users will discuss the roadmap of Node.js as well as production practices.
+
     each speaker in public._data.current.speakers
         != partial("_speaker", {title: speaker.title, speaker: speaker.name, description: speaker.description, twitter: speaker.twitter, github: speaker.github, image: speaker.image, video: speaker.video})
 
