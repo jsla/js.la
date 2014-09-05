@@ -18,8 +18,8 @@
                     "twitter": "dickeyxxx",
                     "github": "dickeyxxx",
                     "description": "Running Node.js in a production settings requires you to ensure stability, performance, security and maintainability—particularly challenging while the best practices in JavaScript change rapidly. Learn the pros and cons between various tools and providers whether it is deciding on a cloud provider, build system, load balancer and more. Learn about common mistakes made when moving from a development environment to production and ways to harden your system once it comes online.",
-                    "video": "",
-                    "videoimg": ""
+                    "video": "105379431",
+                    "videoimg": "2014-08_JSLA_title_speaker3_small.png"
                 },
                 {
                     "title": "Test-driven Development of Web Apps in Node.js",
@@ -28,8 +28,18 @@
                     "twitter": "tommystanton",
                     "github": "tommystanton",
                     "description": "Node.js is a natural choice for anything HTTP, so it has quickly become popular for writing web applications. As a complement, the language offers viable means of conducting test-driven development (TDD). Some of the technologies covered in this talk will be: Express, SuperAgent, Mocha, and Chai. Tommy will explain TDD basics from a Node perspective, transitioning into real examples of clever ways to prove that a web app works as advertised. The result is a surge in programmer confidence and a foundation to ensure long-term software quality!",
-                    "video": "",
-                    "videoimg": ""
+                    "video": "105382485",
+                    "videoimg": "2014-08_JSLA_title_speaker1_small.png"
+                },
+                {
+                    "title": "Module of the Month: LevelUp",
+                    "name": "Jacob Lowe",
+                    "image": "jacob2dot0.jpg",
+                    "twitter": "jcblw",
+                    "github": "jcblw",
+                    "description": "First in a series of Module of the Month presentations: LevelUp",
+                    "video": "105372436",
+                    "videoimg": "2014-08_JSLA_title_speaker2_small.png"
                 }
             ],
             "sponsors": [
@@ -44,7 +54,7 @@
                     "url": "http://velocityconf.com/ny"
                 },
                 {
-                    "name": "TBD",
+                    "name": "Maker Studios",
                     "logo": "host-maker.png",
                     "url": "http://www.makerstudios.com/"
                 }
