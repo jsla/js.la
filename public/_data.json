@@ -1,58 +1,48 @@
 {
     "current": {
-        "datetime": "Tuesday September 30th, 2014 6-10pm",
+        "datetime": "Thursday Oct 30th, 2014 7-10pm",
         "host": {
-            "address": "2400 Broadway Santa Monica, CA 90404",
-            "name": "Yahoo",
-            "mapIframeUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6613.466831996398!2d-118.48128840000001!3d34.025053199999974!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x7bbfd2db2f6de34a!2sYahoo*21+Inc!5e0!3m2!1sen!2sus!4v1409945451602",
-            "mapUrl": "https://www.google.com/maps/place/Yahoo!+Inc/@34.0250532,-118.4812884,16z/data=!4m5!1m2!2m1!1sYahoo*21+Inc,+Broadway,+Santa+Monica,+CA!3m1!1s0x0:0x7bbfd2db2f6de34a",
+            "address": "836 Traction Avenue Los Angeles, CA 90013",
+            "name": "Otto Design Group",
+            "mapIframeUrl": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3305.9791475026104!2d-118.235077!3d34.04440599999999!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2c63c000d9d0d%3A0x57b02e30a2115dba!2s836+Traction+Ave%2C+Los+Angeles%2C+CA+90013!5e0!3m2!1sen!2sus!4v1413485589872",
+            "mapUrl": "https://goo.gl/maps/7c6pd",
             "misc": "Parking is availble on the street",
-            "url": "http://yahoo.com/"
+            "url": "http://ottodesigngroup.com/"
         },
         "speakers": [
             {
-                "title": "",
-                "name": "TJ Fontaine",
-                "image": "tj-fontaine.jpeg",
-                "twitter": "tjfontaine",
-                "github": "tjfontaine",
-                "description": "Node.js Project Lead, Joyent",
+                "title": "Ampersand.js: The Non-Frameworky Framework",
+                "name": "Luke Karrys",
+                "image": "luke-karrys.jpeg",
+                "twitter": "lukekarrys",
+                "github": "lukekarrys",
+                "description": "Ampersand.js is a highly modular, loosely coupled, non-frameworky framework.  Composed of tiny modules, Ampersand is able to leverage the power of npm and Browserify to build advanced applications, while maximizing simplicity in the increasingly complex world of front-end application development. Learn some conventions and how to harness the flexibility of Ampersand to solve real problems presented by today's web apps.",
                 "video": "",
                 "videoimg": ""
             },
             {
-                "title": "",
-                "name": "Oren Golan",
-                "image": "oren.jpg",
-                "twitter": "oreng",
-                "github": "oren",
-                "description": "Senior Software Engineer, Yellow Pages",
-                "video": "",
-                "videoimg": ""
-            },
-            {
-                "title": "",
-                "name": "Michael Matuzak",
-                "image": "matuzak.png",
-                "twitter": "mmatuzak",
-                "github": "emkay",
-                "description": "Senior Software Engineer, Yahoo",
+                "title": "A future called Web Components",
+                "name": "Zeno Rocha",
+                "image": "zeno-rocha.jpeg",
+                "twitter": "zenorocha",
+                "github": "zenorocha",
+                "description": "Discover how this new concept formed by five new specifications (Templates, Decorators, Shadow DOM, Custom Elements, HTML Imports) will revolutionize the way we develop for the web.",
                 "video": "",
                 "videoimg": ""
             }
         ],
         "sponsors": [
             {
-                "name": "Joyent",
-                "logo": "sponsor-joyent.png",
-                "url": "http://joyent.com"
+                "name": "Edgecast",
+                "logo": "sponsor-edge-cast.png",
+                "url": "http://edgecast.com"
             },
             {
-                "name": "Yahoo",
-                "logo": "host-yahoo.png",
-                "url": "http://yahoo.com/"
+                "name": "Calvin Group",
+                "logo": "sponsor-calvin-group.png",
+                "url": "http://calvingroups.com/"
             }
         ],
-        "titoUrl": "http://www.eventbrite.com/e/nodejs-on-the-road-los-angeles-tickets-12844224421"
+        "titoUrl": "https://ti.to/jsla/oct-2014"
     }
 }

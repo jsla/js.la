@@ -1,6 +1,62 @@
 {
     "events": [
     {
+        "datetime": "Tuesday September 30th, 2014 6-10pm",
+        "host": {
+            "address": "2400 Broadway Santa Monica, CA 90404",
+            "name": "Yahoo",
+            "mapIframeUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6613.466831996398!2d-118.48128840000001!3d34.025053199999974!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x7bbfd2db2f6de34a!2sYahoo*21+Inc!5e0!3m2!1sen!2sus!4v1409945451602",
+            "mapUrl": "https://www.google.com/maps/place/Yahoo!+Inc/@34.0250532,-118.4812884,16z/data=!4m5!1m2!2m1!1sYahoo*21+Inc,+Broadway,+Santa+Monica,+CA!3m1!1s0x0:0x7bbfd2db2f6de34a",
+            "misc": "Parking is availble on the street",
+            "url": "http://yahoo.com/"
+        },
+        "speakers": [
+            {
+                "title": "",
+                "name": "TJ Fontaine",
+                "image": "tj-fontaine.jpeg",
+                "twitter": "tjfontaine",
+                "github": "tjfontaine",
+                "description": "Node.js Project Lead, Joyent",
+                "video": "",
+                "videoimg": ""
+            },
+            {
+                "title": "",
+                "name": "Oren Golan",
+                "image": "oren.jpg",
+                "twitter": "oreng",
+                "github": "oren",
+                "description": "Senior Software Engineer, Yellow Pages",
+                "video": "",
+                "videoimg": ""
+            },
+            {
+                "title": "",
+                "name": "Michael Matuzak",
+                "image": "matuzak.png",
+                "twitter": "mmatuzak",
+                "github": "emkay",
+                "description": "Senior Software Engineer, Yahoo",
+                "video": "",
+                "videoimg": ""
+            }
+        ],
+        "sponsors": [
+            {
+                "name": "Joyent",
+                "logo": "sponsor-joyent.png",
+                "url": "http://joyent.com"
+            },
+            {
+                "name": "Yahoo",
+                "logo": "host-yahoo.png",
+                "url": "http://yahoo.com/"
+            }
+        ],
+        "titoUrl": "http://www.eventbrite.com/e/nodejs-on-the-road-los-angeles-tickets-12844224421"
+    },
+    {
         "datetime": "Thursday August 28th, 2014 7-10pm",
             "host": {
                 "address": "3562 Eastham Drive, Culver City, CA 90232",
