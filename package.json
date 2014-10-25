@@ -6,7 +6,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "harp server public"
+    "start": "harp server public",
+    "build": "browserify public/js/main.js -o public/js/bundle.js -d"
   },
   "repository": {
     "type": "git",
@@ -22,6 +23,10 @@
   },
   "homepage": "http://js.la",
   "devDependencies": {
+    "browserify": "^6.1.0",
     "harp": "^0.12.1"
+  },
+  "dependencies": {
+    "jquery": "^2.1.1"
   }
 }

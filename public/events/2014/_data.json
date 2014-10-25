@@ -114,7 +114,8 @@
                     "logo": "host-maker.png",
                     "url": "http://www.makerstudios.com/"
                 }
-            ]
+            ],
+            "flickr" : "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-06-01&min_taken_date=2014-05-23&format=json"
         },
         {
             "datetime": "Thursday July 31st, 2014",
@@ -365,6 +366,7 @@
                     "url": "http://sapientnitro.com"
                 }
             ],
+            "flickr": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-04-01&min_taken_date=2014-03-25&format=json",
             "titoUrl": "https://ti.to/jsla/april-2014"
         },
 
@@ -416,7 +418,8 @@
                     "logo": "host-yahoo.png",
                     "url": "http://yahoo.com"
                 }
-            ]
+            ],
+            "flickr": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-03-01&min_taken_date=2014-02-25&format=json"
         },
 
         {
@@ -467,7 +470,8 @@
                     "logo": "host-yahoo.png",
                     "url": "http://yahoo.com"
                 }
-            ]
+            ],
+            "flickr": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-02-01&min_taken_date=2014-01-25&format=json"
         }
 
 
