@@ -17,4 +17,4 @@ Next you will need [Harpjs](http://harpjs.com/).
 
 Now you should be able to run the site.
 
-    $ harp server public
+    $ npm start
