@@ -11,10 +11,14 @@ To get JS.LA working on your local enviroment up and running you will need [node
     $ git clone git@github.com:jsla/js.la.git
     $ cd js.la
 
-Next you will need [Harpjs](http://harpjs.com/).
+Next you will need [Harpjs](http://harpjs.com/) and [Browserify](http://browserify.org/) you can install these by running.
 
-    $ npm install harp -g
+    $ npm install 
 
 Now you should be able to run the site.
 
     $ npm start
+
+Everything will rebuild automatically except for the Javascript that you will need to run 
+
+    $ npm run build
