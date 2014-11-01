@@ -1,13 +1,55 @@
 != partial("_nav")
 
 div.main-width
-    != partial("_top", {datetime: public._data.current.datetime, host: public._data.current.host.name, titoUrl: public._data.current.titoUrl, sponsors: public._data.current.sponsors, current: true})
+    if public._data.current.offmonth
 
-    h2.speakers Speakers
-    each speaker in public._data.current.speakers
-        != partial("_speaker", {title: speaker.title, speaker: speaker.name, description: speaker.description, twitter: speaker.twitter, github: speaker.github, image: speaker.image, video: speaker.video})
+        div.off-month.lightning
 
-    != partial("_want-to-present")
-    != partial("_info", {name: public._data.current.host.name, url: public._data.current.host.url, mapUrl: public._data.current.host.mapUrl, address: public._data.current.host.address, misc: public._data.current.host.misc, mapIframeUrl: public._data.current.host.mapIframeUrl })
+            h2.off-month-title We are off this month
+            p.description= public._data.current.description
 
-    != partial("_footer", {titoUrl: public._data.current.titoUrl})
+            blockquote Get notified when the next event is by joining the 
+                a(href="http://eepurl.com/jdRNb") Newsletter
+
+
+        if public._data.current.videos
+
+            div.featured-videos.lightning
+                h2.off-month-title Awesome Videos from this year.
+
+                each video in public._data.current.videos
+
+                    div.featured-video
+                        h5.video-title= video.title
+                        a.fancybox-media(href="http://vimeo.com/#{video.video}")
+                            img.videoimg(src="/images/videos/#{video.videoimg}", width="500", height="281")
+
+
+        if public._data.current.events
+
+            div.featured-events.lightning
+                h2.off-month-title Other awesome LA events.
+                ul.events
+                    // pretty much a list of links
+                    each _event in public._data.current.events
+                        li.event        
+                            a( href=_event.link )
+                                h6= _event.title
+                
+
+        != partial("_want-to-present")
+
+
+    else
+        != partial("_top", {datetime: public._data.current.datetime, host: public._data.current.host.name, titoUrl: public._data.current.titoUrl, sponsors: public._data.current.sponsors, current: true})
+
+        h2.speakers Speakers
+        each speaker in public._data.current.speakers
+            != partial("_speaker", {title: speaker.title, speaker: speaker.name, description: speaker.description, twitter: speaker.twitter, github: speaker.github, image: speaker.image, video: speaker.video})
+
+        != partial("_want-to-present")
+        != partial("_info", {name: public._data.current.host.name, url: public._data.current.host.url, mapUrl: public._data.current.host.mapUrl, address: public._data.current.host.address, misc: public._data.current.host.misc, mapIframeUrl: public._data.current.host.mapIframeUrl })
+
+        != partial("_footer", {titoUrl: public._data.current.titoUrl})
+
+

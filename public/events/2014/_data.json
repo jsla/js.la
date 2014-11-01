@@ -1,6 +1,63 @@
 {
     "events": [
     {
+        "datetime": "Thursday Oct 30th, 2014 7-10pm",
+        "host": {
+            "address": "836 Traction Avenue Los Angeles, CA 90013",
+            "name": "Otto Design Group",
+            "mapIframeUrl": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3305.9791475026104!2d-118.235077!3d34.04440599999999!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2c63c000d9d0d%3A0x57b02e30a2115dba!2s836+Traction+Ave%2C+Los+Angeles%2C+CA+90013!5e0!3m2!1sen!2sus!4v1413485589872",
+            "mapUrl": "https://goo.gl/maps/7c6pd",
+            "misc": "Parking is availble on the street",
+            "url": "http://ottodesigngroup.com/"
+        },
+        "speakers": [
+            {
+                "title": "Ampersand.js: The Non-Frameworky Framework",
+                "name": "Luke Karrys",
+                "image": "luke-karrys.jpeg",
+                "twitter": "lukekarrys",
+                "github": "lukekarrys",
+                "description": "Ampersand.js is a highly modular, loosely coupled, non-frameworky framework.  Composed of tiny modules, Ampersand is able to leverage the power of npm and Browserify to build advanced applications, while maximizing simplicity in the increasingly complex world of front-end application development. Learn some conventions and how to harness the flexibility of Ampersand to solve real problems presented by today's web apps.",
+                "video": "",
+                "videoimg": ""
+            },
+            {
+                "title": "A future called Web Components",
+                "name": "Zeno Rocha",
+                "image": "zeno-rocha.jpeg",
+                "twitter": "zenorocha",
+                "github": "zenorocha",
+                "description": "Discover how this new concept formed by five new specifications (Templates, Decorators, Shadow DOM, Custom Elements, HTML Imports) will revolutionize the way we develop for the web.",
+                "video": "",
+                "videoimg": ""
+            },
+            {
+                "title": "Module of the Month: Dotenv",
+                "name": "Scott Motte",
+                "image": "scottmotte.jpg",
+                "twitter": "motdotla",
+                "github": "motdotla",
+                "description": "Module of the month is a segment that highlights one of the many npm modules that make Nodejs so great. This months module is Dotenv",
+                "video": "",
+                "videoimg": "",
+                "motm": true
+            }
+        ],
+        "sponsors": [
+            {
+                "name": "Edgecast",
+                "logo": "sponsor-edge-cast.png",
+                "url": "http://edgecast.com"
+            },
+            {
+                "name": "Calvin Group",
+                "logo": "sponsor-calvin-group.png",
+                "url": "http://calvingroups.com/"
+            }
+        ],
+        "titoUrl": "https://ti.to/jsla/oct-2014"
+    },
+    {
         "datetime": "Tuesday September 30th, 2014 6-10pm",
         "host": {
             "address": "2400 Broadway Santa Monica, CA 90404",
