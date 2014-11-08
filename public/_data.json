@@ -1,17 +1,22 @@
 {
     "current": {
-        "description": "November and December are off months for js.la due to scheduling issues with upcoming holidays. Can't wait to see everyone next year. Also jump on #js.la on freenode to join discussion with js.la organizers and members.",
+        "description": "We are off during November and December due to scheduling issues with upcoming holidays, but we can't wait to see everyone next year. Feel free to jump into #js.la on freenode to join in discussion with js.la organizers and members.",
         "offmonth": true,
         "videos": [
             {
-                "title": "Contra - Build Systems: The Next Generation",
-                "video": "102908166",
-                "videoimg": "2014-07_JSLA_title_speaker1_small.png"
+                "title": "Ampersand.js: The Non-Frameworky Framework",
+                "video": "111015781",
+                "videoimg": "2014-10_JSLA_title_speaker2_small.png"
             },
             {
-                "title": "Feross - WebTorrent: How I built a BitTorrent client in the browser",
-                "video": "97324247",
-                "videoimg": "video_thumbnail.png"
+                "title": "A future called Web Components",
+                "video": "111191562",
+                "videoimg": "2014-10_JSLA_title_speaker3_small.png"
+            },
+            {
+                "title": "Module of the Month: Dotenv",
+                "video": "111006325",
+                "videoimg": "2014-10_JSLA_title_speaker1_small.png"
             }
         ],
         "events" : [
