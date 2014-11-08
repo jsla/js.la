@@ -18,8 +18,8 @@
                 "twitter": "lukekarrys",
                 "github": "lukekarrys",
                 "description": "Ampersand.js is a highly modular, loosely coupled, non-frameworky framework.  Composed of tiny modules, Ampersand is able to leverage the power of npm and Browserify to build advanced applications, while maximizing simplicity in the increasingly complex world of front-end application development. Learn some conventions and how to harness the flexibility of Ampersand to solve real problems presented by today's web apps.",
-                "video": "",
-                "videoimg": ""
+                "video": "111015781",
+                "videoimg": "2014-10_JSLA_title_speaker2_small.png"
             },
             {
                 "title": "A future called Web Components",
@@ -28,8 +28,8 @@
                 "twitter": "zenorocha",
                 "github": "zenorocha",
                 "description": "Discover how this new concept formed by five new specifications (Templates, Decorators, Shadow DOM, Custom Elements, HTML Imports) will revolutionize the way we develop for the web.",
-                "video": "",
-                "videoimg": ""
+                "video": "111191562",
+                "videoimg": "2014-10_JSLA_title_speaker3_small.png"
             },
             {
                 "title": "Module of the Month: Dotenv",
@@ -38,8 +38,8 @@
                 "twitter": "motdotla",
                 "github": "motdotla",
                 "description": "Module of the month is a segment that highlights one of the many npm modules that make Nodejs so great. This months module is Dotenv",
-                "video": "",
-                "videoimg": "",
+                "video": "111006325",
+                "videoimg": "2014-10_JSLA_title_speaker1_small.png",
                 "motm": true
             }
         ],

@@ -8,14 +8,14 @@ div.main-width
             h2.off-month-title We are off this month
             p.description= public._data.current.description
 
-            blockquote Get notified when the next event is by joining the 
+            blockquote Get notified when the next event is by joining the
                 a(href="http://eepurl.com/jdRNb") Newsletter
 
 
         if public._data.current.videos
 
             div.featured-videos.lightning
-                h2.off-month-title Awesome Videos from this year.
+                h2.off-month-title If you missed us in October, the videos are now available.
 
                 each video in public._data.current.videos
 
@@ -32,10 +32,10 @@ div.main-width
                 ul.events
                     // pretty much a list of links
                     each _event in public._data.current.events
-                        li.event        
+                        li.event
                             a( href=_event.link )
                                 h6= _event.title
-                
+
 
         != partial("_want-to-present")
 
