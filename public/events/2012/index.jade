@@ -1,14 +1,3 @@
-!= partial("../../_nav", {night: true})
+!= partial("../_years", { year: "2012" })
 
-div.main-width
-  //nav bar for past event years
-  != partial("../../_years")
-
-div.main-width
-    div.past-event-announcement
-        span A collection of our past presentations
-
-    each event in public.events[2012]._data.events
-        != partial("../../_top", {datetime: event.datetime, host: event.host.name, titoUrl: event.titoUrl, sponsors: event.sponsors, current: false})
-        each speaker in event.speakers
-            != partial("../../_speaker", {title: speaker.title, speaker: speaker.name, description: speaker.description, twitter: speaker.twitter, github: speaker.github, image: speaker.image, video: speaker.video, videoimg: speaker.videoimg})
+!= partial("../_events", { events: public.events[2012]._data.events, year: "2012" } )

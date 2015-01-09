@@ -1,0 +1,23 @@
+li.jsla-speaker.clearfix( id=github )
+    img.jsla-avatar.layer-2(src="/images/speakers/#{image}", alt="keynote speaker", width="130", alt=speaker )
+    div.jsla-speaker-details
+        ul.jsla-speaker-info.clearfix
+            li
+                span.jsla-speaker-name= name
+            if twitter
+                li 
+                    a(href="https://twitter.com/#{twitter}")
+                        i.icon-twitter
+            if github
+                li 
+                    a(href="https://github.com/#{github}")
+                        i.icon-github
+        div.jsla-speaker-content.layer-2
+            h2.jsla-speaker-title= title
+            p.jsla-speaker-description
+                !{description}
+    
+            if videoimg
+                a.jsla-video-container( rel="lightbox-video" href="http://vimeo.com/#{video}")
+                    img.videoimg(src="/images/videos/#{videoimg}")
+

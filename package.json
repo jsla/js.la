@@ -27,6 +27,9 @@
     "harp": "^0.12.1"
   },
   "dependencies": {
-    "jquery": "^2.1.1"
+    "eventemitter2": "^0.4.14",
+    "jquery": "^2.1.1",
+    "merge": "^1.2.0",
+    "raf": "^2.0.4"
   }
 }
