@@ -7,7 +7,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "harp server public",
-    "build": "browserify public/js/main.js -o public/js/bundle.js -d"
+    "build": "browserify public/js/main.js -o public/js/bundle.js -d && npm run compress",
+    "compress": "uglifyjs -o public/js/bundle.min.js public/js/bundle.js"
   },
   "repository": {
     "type": "git",
@@ -24,7 +25,8 @@
   "homepage": "http://js.la",
   "devDependencies": {
     "browserify": "^6.1.0",
-    "harp": "^0.12.1"
+    "harp": "^0.12.1",
+    "uglifyjs": "^2.3.6"
   },
   "dependencies": {
     "eventemitter2": "^0.4.14",
