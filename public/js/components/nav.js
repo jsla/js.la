@@ -11,7 +11,7 @@ function attach( selector ) {
         active = 0,
         state = 0; // start closed
 
-    if ( el ) return;
+    if ( !el ) return;
 
     function resetActive(){
         active = 0;
