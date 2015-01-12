@@ -1,0 +1,31 @@
+header.jsla-hero.layer-1( data-photos=heroPhotos )
+    div.jsla-hero-table
+        div.jsla-hero-content.jsla-toplevel-container.wide
+
+            a.jsla-hero-logo( href="/" )
+                img( src="/images/logo.svg" alt="JS.LA logo" class="jsla-logo-image" onerror="this.src='/images/logotype-trans.png'" )
+                span.jsla-tagline.jsla-large-text The Los Angeles Javascript meetup.
+
+            p.jsla-hero-next.jsla-large-text
+                i.icon-time
+                a( href="#current-event" )
+                    strong Next Event:
+                    span= datetime
+                br
+                a( class="jsla-hero-next-location", href="#location" )
+                    span at #{host.name}                 
+                    i.icon-marker
+                
+            div.jsla-toplevel-container
+                ul.jsla-hero-speakers.layer-2
+                    // loop here 
+                    each speaker in public._data.current.speakers
+                        != partial("speakers/_speaker-condensed", {title: speaker.title, speaker: speaker.name, description: speaker.description, twitter: speaker.twitter, github: speaker.github, image: speaker.image, video: speaker.video})
+
+            != partial( "_action-buttons", { titoUrl: titoUrl } )
+            if sponsors
+                != partial( "_sponsors-box", { sponsors: sponsors } )
+
+div.jsla-hero-down-arrow.clearfix 
+    a( href="#current-event" )
+        i.icon-down

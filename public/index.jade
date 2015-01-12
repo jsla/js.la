@@ -1,7 +1,8 @@
-!= partial("_nav")
+!= partial("components/_hero", public._data.current )
 
-div.main-width
-    if public._data.current.offmonth
+if public._data.current.offmonth
+
+    div.jsla-toplevel-container
 
         div.off-month.lightning
 
@@ -40,16 +41,17 @@ div.main-width
         != partial("_want-to-present")
 
 
-    else
-        != partial("_top", {datetime: public._data.current.datetime, host: public._data.current.host.name, titoUrl: public._data.current.titoUrl, sponsors: public._data.current.sponsors, current: true})
+else
 
-        h2.speakers Speakers
-        each speaker in public._data.current.speakers
-            != partial("_speaker", {title: speaker.title, speaker: speaker.name, description: speaker.description, twitter: speaker.twitter, github: speaker.github, image: speaker.image, video: speaker.video})
+    div.jsla-current-event( id="current-event" )
 
-        != partial("_want-to-present")
-        != partial("_info", {name: public._data.current.host.name, url: public._data.current.host.url, mapUrl: public._data.current.host.mapUrl, address: public._data.current.host.address, misc: public._data.current.host.misc, mapIframeUrl: public._data.current.host.mapIframeUrl })
-
-        != partial("_footer", {titoUrl: public._data.current.titoUrl})
-
-
+        div.jsla-toplevel-container
+            != partial("components/speakers/_list", public._data.current )
+        div.jsla-toplevel-container
+            != partial( "components/_action-buttons", public._data.current )
+            != partial( "components/_drinks" )
+            != partial("components/_map", public._data.current.host )
+        div.jsla-toplevel-container.wide
+            != partial( "components/_sponsors-box", { sponsors: public._data.current.sponsors } )
+        div.jsla-toplevel-container
+            != partial( "components/_want-to-present", {} )

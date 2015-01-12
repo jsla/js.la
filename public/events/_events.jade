@@ -1,0 +1,23 @@
+div.jsla-toplevel-container.jsla-event-container
+
+    h1
+        a.jsla-hero-logo( href="/" )
+            img( src="/images/logo.svg" alt="JS.LA logo" class="jsla-logo-image" onerror="this.src='/images/logotype-trans.png'" )
+        span   presentations from #{year}
+
+each event in events
+
+    div.jsla-toplevel-container.wide.jsla-past-event
+        div.jsla-toplevel-container
+            h2= event.datetime
+
+            ul.jsla-speakers-list
+                each speaker in event.speakers
+                    != partial("../components/speakers/_speaker", speaker )
+
+        != partial( "../components/_sponsors-box", { sponsors: event.sponsors } )
+
+        if event.flickr
+            div.jsla-toplevel-container
+                div.jsla-event-photos.jsla-content-section.layer-2( data-flickr=event.flickr )
+                    h2 Event Photos
