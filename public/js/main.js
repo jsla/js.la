@@ -31,7 +31,7 @@ $(function() {
     hero.attach( '.jsla-hero' );
 
     flickr.addPhotos(); // this starts the script
-    $( 'a[rel=lightbox-video]' ).fancybox( merge( {}, fancyboxOptions, { 
+    $( 'a[rel^=lightbox-video]' ).fancybox( merge( {}, fancyboxOptions, { 
         showNavArrows: false 
     } ) );
     $('a[rel=lightbox]').fancybox( fancyboxOptions );
