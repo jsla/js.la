@@ -43,11 +43,13 @@ if public._data.current.offmonth
 
 else
 
-    div.jsla-current-event( id="current-event" )
+    div.jsla-current-event( id="current-event" itemscope itemtype="http://data-vocabulary.org/Event" )
 
         div.jsla-toplevel-container
+            h1( itemprop="summary" )= public._data.current.title
             != partial("components/speakers/_list", public._data.current )
         div.jsla-toplevel-container
+            p.jsla-datetime-content( itemprop="startDate" datetime="#{new Date( public._data.current.date ).toISOString()}" )= public._data.current.datetime
             != partial( "components/_action-buttons", public._data.current )
             != partial( "components/_drinks" )
             != partial("components/_map", public._data.current.host )
