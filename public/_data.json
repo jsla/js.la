@@ -57,5 +57,8 @@
         ],
         "titoUrl": "https://ti.to/jsla/jan-29-2015",
         "heroPhotos": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-06-01&min_taken_date=2014-05-23&format=json"
+    },
+    "sitemap": {
+        "layout": false
     }
 }

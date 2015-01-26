@@ -1,0 +1,20 @@
+!!! xml
+
+- var filter = /(\.html$)/;
+- var replace = /(\.html$)|(^index\.html$)/;
+
+mixin tree(head, tail)
+  for val, key in head
+    if key !== '.git' && key !== '_data'
+      if key == '_contents'
+        each file in val
+          if filter.test(file) && !/^404\.html/.test(file)
+            - file = file.replace(replace, "");
+            url
+                location "http://js.la#{ tail + file }"
+                changefreq monthly
+      else
+        mixin tree(val, tail + key + "/")
+
+urlset(xmlns="http://www.sitemaps.org/schemas/sitemap/0.9")
+    mixin tree(public, "/")
