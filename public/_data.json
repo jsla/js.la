@@ -1,43 +1,42 @@
 {
     "current": {
-        "title": "Lovefield and Three.js",
-        "datetime": "Thursday Jan 29th, 2015 7-10pm",
-        "date": "1/29/2015 21:00:00",
+        "title": "PhantomJS and StatsD",
+        "datetime": "Thursday Feb 26th, 2015 7-10pm",
+        "date": "2/26/2015 21:00:00",
         "host": {
-            "address": "2400 Broadway Santa Monica, CA 90404",
-            "name": "Yahoo!",
+            "address": "1735 Stewart Street, Santa Monica, CA 90404",
+            "name": "Monarc Gaming Labs",
             "misc": "Parking is available on the street",
-            "url": "http://developer.yahoo.com/"
+            "url": "http://www.monarcy.com/"
         },
         "speakers": [
             {
-                "title": "Lovefield: a powerful Javascript SQL-like database query engine for the web.",
-                "name": "Demetrios Papadopoulos",
-                "image": "demetrios-papadopoulos.jpg",
-                "twitter": null,
-                "gplus": "DemetriosPapadopoulos",
-                "github": "google/lovefield",
-                "description": "Lovefield is providing a feature rich, cross-browser database query engine built using IndexedDB as a backend. It provides an intuitive SQL-like declarative syntax and it is closing a gap in the web development ecosystem that was created by the deprecation of WebSQL back in 2010.",
+                "title": "PhantomJS Under the Hood.",
+                "name": "Buddy Sandidge",
+                "image": "buddy-sandidge.jpg",
+                "twitter": "xbudex",
+                "github": "xbudex",
+                "description": "This talk goes into lessons learned from writing a sizeable PhantomJS application. We'll examine the architecture of the PhantomJS application itself and what the implications are for developers. We'll also look at best practices for using 3rd party libraries and running unit tests.",
                 "video": "",
                 "videoimg": ""
             },
             {
-                "title": "How to effortlessly integrate Three.js into your projects",
-                "name": "Jason Farrell",
-                "image": "jason-farrell.jpg",
-                "twitter": "jasonfarrell",
-                "github": "jasonfarrell",
-                "description": "This talk will focus on how to add 3D animation to real-world projects. It'll cover the basics of how to get started with Three.js, and how to build animated interactions that can be used in seemingly normal web apps.",
+                "title": "Monitoring Applications with StatsD",
+                "name": "Advait Shinde",
+                "image": "advait-shinde.jpg",
+                "twitter": "advait3000",
+                "github": "advait",
+                "description": "StatsD is a generic, lightweight, flexible protocol/daemon that allows you to keep track of application-specific time series metrics. It's a dead-simple approach that enables developers to instrument their applications with granular monitoring before even deploying to production.",
                 "video": "",
                 "videoimg": ""
             },
             {
-                "title": "Module of the Month: Sinon",
-                "name": "Helior Colorado",
-                "image": "helior-colorado.jpg",
-                "twitter": "helior",
-                "github": "helior",
-                "description": "Module of the month is a segment that highlights one of the many npm modules that make Nodejs so great. This months module is Sinon",
+                "title": "Module of the Month: Request",
+                "name": "Greg Cardoni",
+                "image": "greg-cardoni.jpg",
+                "twitter": "cardoni",
+                "github": "cardoni",
+                "description": "Module of the month is a segment that highlights one of the many npm modules that make Nodejs so great. This months module is Request",
                 "video": "",
                 "videoimg": "",
                 "motm": true
@@ -45,9 +44,9 @@
         ],
         "sponsors": [
             {
-                "name": "Yahoo!",
-                "logo": "host-yahoo.png",
-                "url": "http://developer.yahoo.com/"
+                "name": "Monarc Gaming Labs",
+                "logo": "host-monarc.png",
+                "url": "http://www.monarcy.com/"
             },
             {
                 "name": "Edgecast",
@@ -55,7 +54,7 @@
                 "url": "http://edgecast.com"
             }
         ],
-        "titoUrl": "https://ti.to/jsla/jan-29-2015",
+        "titoUrl": "https://ti.to/jsla/feb-26-2015",
         "heroPhotos": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-06-01&min_taken_date=2014-05-23&format=json"
     },
     "sitemap": {
