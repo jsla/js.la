@@ -6,12 +6,12 @@
         "host": {
             "address": "2400 Broadway Santa Monica, CA 90404",
             "name": "Yahoo!",
-            "misc": "Parking is availble on the street",
+            "misc": "Parking is available on the street",
             "url": "http://developer.yahoo.com/"
         },
         "speakers": [
             {
-                "title": " Lovefield: a powerful Javascript SQL-like database query engine for the web.",
+                "title": "Lovefield: a powerful Javascript SQL-like database query engine for the web.",
                 "name": "Demetrios Papadopoulos",
                 "image": "demetrios-papadopoulos.jpg",
                 "twitter": null,

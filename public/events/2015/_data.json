@@ -1,0 +1,62 @@
+
+{
+    "events": [
+        {
+            "datetime": "Thursday Jan 29th, 2015 7-10pm",
+            "host": {
+                "address": "2400 Broadway Santa Monica, CA 90404",
+                "name": "Yahoo!",
+                "misc": "Parking is available on the street",
+                "url": "http://developer.yahoo.com/"
+            },
+            "speakers": [
+                {
+                    "title": "Lovefield: a powerful Javascript SQL-like database query engine for the web.",
+                    "name": "Demetrios Papadopoulos",
+                    "image": "demetrios-papadopoulos.jpg",
+                    "twitter": null,
+                    "gplus": "DemetriosPapadopoulos",
+                    "github": "google/lovefield",
+                    "description": "Lovefield is providing a feature rich, cross-browser database query engine built using IndexedDB as a backend. It provides an intuitive SQL-like declarative syntax and it is closing a gap in the web development ecosystem that was created by the deprecation of WebSQL back in 2010.",
+                    "video": "118934273",
+                    "videoimg": "2015-01_JSLA_title_speaker2_small.png"
+                },
+                {
+                    "title": "How to effortlessly integrate Three.js into your projects",
+                    "name": "Jason Farrell",
+                    "image": "jason-farrell.jpg",
+                    "twitter": "jasonfarrell",
+                    "github": "jasonfarrell",
+                    "description": "This talk will focus on how to add 3D animation to real-world projects. It'll cover the basics of how to get started with Three.js, and how to build animated interactions that can be used in seemingly normal web apps.",
+                    "video": "118976215",
+                    "videoimg": "2015-01_JSLA_title_speaker3_small.png"
+                },
+                {
+                    "title": "Module of the Month: Sinon",
+                    "name": "Helior Colorado",
+                    "image": "helior-colorado.jpg",
+                    "twitter": "helior",
+                    "github": "helior",
+                    "description": "Module of the month is a segment that highlights one of the many npm modules that make Node.js so great. This months module is Sinon",
+                    "video": "118923146",
+                    "videoimg": "2015-01_JSLA_title_speaker1_small.png",
+                    "motm": true
+                }
+            ],
+            "sponsors": [
+                {
+                    "name": "Yahoo!",
+                    "logo": "host-yahoo.png",
+                    "url": "http://developer.yahoo.com/"
+                },
+                {
+                    "name": "Edgecast",
+                    "logo": "sponsor-edge-cast.png",
+                    "url": "http://edgecast.com"
+                }
+            ],
+            "titoUrl": "https://ti.to/jsla/jan-29-2015"
+        }
+
+    ]
+}
