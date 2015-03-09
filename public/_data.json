@@ -17,8 +17,8 @@
                 "twitter": "xbudex",
                 "github": "xbudex",
                 "description": "This talk goes into lessons learned from writing a sizeable PhantomJS application. We'll examine the architecture of the PhantomJS application itself and what the implications are for developers. We'll also look at best practices for using 3rd party libraries and running unit tests.",
-                "video": "",
-                "videoimg": ""
+                "video": "121624904",
+                "videoimg": "2015-02_JSLA_title_speaker2_small.png"
             },
             {
                 "title": "Monitoring Applications with StatsD",
@@ -27,8 +27,8 @@
                 "twitter": "advait3000",
                 "github": "advait",
                 "description": "StatsD is a generic, lightweight, flexible protocol/daemon that allows you to keep track of application-specific time series metrics. It's a dead-simple approach that enables developers to instrument their applications with granular monitoring before even deploying to production.",
-                "video": "",
-                "videoimg": ""
+                "video": "121627661",
+                "videoimg": "2015-02_JSLA_title_speaker3_small.png"
             },
             {
                 "title": "Module of the Month: Request",
@@ -37,8 +37,8 @@
                 "twitter": "cardoni",
                 "github": "cardoni",
                 "description": "Module of the month is a segment that highlights one of the many npm modules that make Nodejs so great. This months module is Request",
-                "video": "",
-                "videoimg": "",
+                "video": "121620706",
+                "videoimg": "2015-02_JSLA_title_speaker1_small.png",
                 "motm": true
             }
         ],
