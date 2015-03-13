@@ -1,6 +1,6 @@
 {
     "current": {
-        "title": "Icecomm && UX for Developers",
+        "title": "",
         "datetime": "Thursday March 26th, 2015 7-10pm",
         "date": "3/26/2015 21:00:00",
         "host": {
@@ -33,10 +33,10 @@
             {
                 "title": "Module of the Month: ReactPivot",
                 "name": "David Guttman",
-                "image": "david-guttman.jpg",
+                "image": "davidguttman.png",
                 "twitter": "davidguttman ",
                 "github": "davidguttman",
-                "description": "Module of the month is a segment that highlights one of the many npm modules that make Nodejs so great. This months module is ReactPivot",
+                "description": "Module of the month is a segment that highlights one of the many npm modules that make Node.js so great. This month's module is ReactPivot",
                 "video": null,
                 "videoimg": null,
                 "motm": true
@@ -54,7 +54,7 @@
                 "url": "http://www.codesmith.io/"
             }
         ],
-        "titoUrl": "https://ti.to/jsla/feb-26-2015",
+        "titoUrl": "https://ti.to/jsla/march-2015",
         "heroPhotos": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-06-01&min_taken_date=2014-05-23&format=json"
     },
     "sitemap": {
