@@ -8,7 +8,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "harp server public",
     "build": "browserify public/js/main.js -o public/js/bundle.js -d && npm run compress",
-    "compress": "uglifyjs -o public/js/bundle.min.js public/js/bundle.js"
+    "compress": "uglifyjs -o public/js/bundle.min.js public/js/bundle.js",
+    "dist": "rm -rf ./dist; harp compile ./public dist"
   },
   "repository": {
     "type": "git",
