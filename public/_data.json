@@ -12,10 +12,10 @@
         "speakers": [
             {
                 "title": "How launching Icecomm on HN created the most curious chat roulette ever (and how you can too)",
-                "name": "Will Sentance",
-                "image": "will-sentance.jpg",
+                "name": "Will Sentance/Tony Rizko",
+                "image": "sentance-rizko.png",
                 "twitter": "willsentance",
-                "github": "willsen",
+                "github": "trizko",
                 "description": "Icecomm lets you take full advantage of WebRTC in under 10 lines of frontend javascript. Learn how to use Icecomm to build a multiway video chat app in minutes without worrying about backend code. To get us started I'll explain some Icecomm basics, we'll live code the video chat app together and we'll even give you a sneak peak of a brand new Icecomm SDK that lets you add video and audio chat right inside emails",
                 "video": null,
                 "videoimg": null
