@@ -29,6 +29,17 @@
                 "description": "",
                 "video": null,
                 "videoimg": null
+            },
+            {
+                "title": "Module of the Month: Babel",
+                "name": "Jacob Lowe",
+                "image": "jacob-lowe.jpg",
+                "twitter": "jcblw ",
+                "github": "jcblw",
+                "description": "Module of the month is a segment that highlights one of the many npm modules that make Node.js so great. This month's module is Babel",
+                "video": null,
+                "videoimg": null,
+                "motm": true
             }
         ],
         "sponsors": [
