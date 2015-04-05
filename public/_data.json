@@ -21,12 +21,12 @@
                 "videoimg": null
             },
             {
-                "title": "TBD",
+                "title": "npm-Registry@2.0",
                 "name": "Ben Coe",
                 "image": "ben-coe.jpg",
                 "twitter": "benjamincoe",
                 "github": "benjamincoe",
-                "description": "",
+                "description": "npm has been in the process of rewriting their backend infrastructure. Ben, lead developer of the registry, will be talking to you about the motivations for the rewrite, and the approach that has been taken.",
                 "video": null,
                 "videoimg": null
             },
