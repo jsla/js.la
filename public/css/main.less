@@ -5,7 +5,7 @@
 @import 'src/_pure';
 
 // utils and vars
-@import 'src/_colors';
+@import 'src/_variables';
 @import 'src/_typography';
 @import 'src/_buttons';
 @import 'src/_layers';
@@ -41,14 +41,14 @@ body {
 
 .jsla-content-section {
     background: white;    
-    padding: 1em 2em;
+    padding: @baseSpacing @looserSpacing;
 }
 
 .jsla-toplevel-container {
     position: relative;
     max-width: 600px;
     margin: 0 auto;
-    padding: 0.01em 1em; // height padding allows for content margins to work
+    padding: 0.01em @baseSpacing; // height padding allows for content margins to work
     .clearfix();
     &.jsla-content-page {
         margin: 50px auto;
@@ -57,13 +57,14 @@ body {
         margin-top: 120px; // accomidates navbars
     }
     &.jsla-past-event {
-        margin-bottom: 2em;
+        margin-bottom: @looserSpacing;
         &::after {
-            color: @mediumGrey;
-            text-align: center;
-            margin-top: 1em;
-            font-size: 3em;
-            content: "\2015\2015\2015\2015\2015";
+            padding-top: @looserSpacing;
+            content: "";
+            display: block;
+            border-bottom: 1px solid @mediumGrey;
+            width: 25%;
+            margin: 0 auto;
         }
     }
 }
