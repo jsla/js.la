@@ -19,8 +19,8 @@
                     "twitter": "willsentance",
                     "github": "trizko",
                     "description": "Icecomm lets you take full advantage of WebRTC in under 10 lines of frontend javascript. Learn how to use Icecomm to build a multiway video chat app in minutes without worrying about backend code. To get us started I'll explain some Icecomm basics, we'll live code the video chat app together and we'll even give you a sneak peak of a brand new Icecomm SDK that lets you add video and audio chat right inside emails",
-                    "video": null,
-                    "videoimg": null
+                    "video": "124195045",
+                    "videoimg": "2015-03_JSLA_title_speaker2_small.png"
                 },
                 {
                     "title": "UX for Developers",
@@ -29,8 +29,8 @@
                     "twitter": "calleynye",
                     "github": null,
                     "description": "What good is it to make an app if no one will use it? This talk will aim to demystify the broad discipline of user experience, and introduce some core concepts and methods. These concepts will help you develop a useable application, acquire users and keep them coming back for more.",
-                    "video": null,
-                    "videoimg": null
+                    "video": "124228583",
+                    "videoimg": "2015-03_JSLA_title_speaker3_small.png"
                 },
                 {
                     "title": "Module of the Month: ReactPivot",
@@ -39,12 +39,17 @@
                     "twitter": "davidguttman ",
                     "github": "davidguttman",
                     "description": "Module of the month is a segment that highlights one of the many npm modules that make Node.js so great. This month's module is ReactPivot",
-                    "video": null,
-                    "videoimg": null,
+                    "video": "124191178",
+                    "videoimg": "2015-03_JSLA_title_speaker1_small.png",
                     "motm": true
                 }
             ],
             "sponsors": [
+                {
+                    "name": "Edgecast",
+                    "logo": "sponsor-edge-cast.png",
+                    "url": "http://edgecast.com"
+                },
                 {
                     "name": "Crowdrise",
                     "logo": "sponsor-crowdrise.png",
