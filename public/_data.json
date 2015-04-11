@@ -44,9 +44,14 @@
         ],
         "sponsors": [
             {
+                "name": "Intel",
+                "logo": "sponsor-intel.jpg",
+                "url": "https://software.intel.com/en-us/iot"
+            },
+            {
                 "name": "EdgeCast",
                 "logo": "sponsor-edge-cast.png",
-                "url": "hhttp://edgecast.com"
+                "url": "http://edgecast.com"
             },
             {
                 "name": "SapientNitro",
