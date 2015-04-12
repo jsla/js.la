@@ -2,6 +2,7 @@
 var flickr = require( '../flickrphotos' ),
     EventEmitter = require( 'eventemitter2').EventEmitter2,
     bus = new EventEmitter(),
+    $ = require( 'jquery' ),
     raf = require( 'raf' )
 
 module.exports.attach = function( selector ) {
@@ -9,13 +10,13 @@ module.exports.attach = function( selector ) {
 
     // check for support
     if ( !('backgroundBlendMode' in document.body.style) ){
-        setTimeout( bus.emit.bind( bus, 'not supprted' ), 0 )
-        return bus        
+        setTimeout( bus.emit.bind( bus, new Error('not supported') ), 0 )
+        return bus
     }
-
 
     if ( hero ) {
         getPhotos( hero )
+        bus.once( 'hero:nextPhoto', canScrollAnimation )
         bus.once( 'hero:handlePhotos', addPhotos.bind( null, hero ) )
     }
 
@@ -104,4 +105,21 @@ function getPhotos( el ) {
 
     bus.emit( 'hero:getPhotos' )
     document.body.appendChild( script )
+}
+
+function canScrollAnimation() {
+    var $html = $('body'),
+        currentPostion = $html.scrollTop();
+
+    if (window.location.hash || currentPostion) {
+        return;
+    }
+
+    $html
+        .animate({
+            scrollTop: '20px'
+        },500)
+        .animate({
+            scrollTop: '0px'
+        },300)
 }
