@@ -31,12 +31,12 @@
                 "videoimg": null
             },
             {
-                "title": "Module of the Month: Babel",
-                "name": "Jacob Lowe",
-                "image": "jacob-lowe.jpg",
-                "twitter": "jcblw ",
-                "github": "jcblw",
-                "description": "Module of the month is a segment that highlights one of the many npm modules that make Node.js so great. This month's module is Babel",
+                "title": "Module of the Month: keystone",
+                "name": "Hung Q Tran",
+                "image": "hung-tran.jpg",
+                "twitter": "temojin ",
+                "github": "temojin",
+                "description": "Module of the month is a segment that highlights one of the many npm modules that make Node.js so great. This month's module is keystone",
                 "video": null,
                 "videoimg": null,
                 "motm": true
