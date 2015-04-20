@@ -64,5 +64,77 @@
     },
     "sitemap": {
         "layout": false
-    }
+    },
+    "pastSponsors": [
+        {
+            "name": "Intel",
+            "logo": "sponsor-intel.jpg",
+            "url": "https://software.intel.com/en-us/iot"
+        },
+        {
+            "name": "EdgeCast",
+            "logo": "sponsor-edge-cast.png",
+            "url": "http://edgecast.com"
+        },
+        {
+            "name": "SapientNitro",
+            "logo": "host-sapient-nitro.png",
+            "url": "http://sapientnitro.com"
+        },
+        {
+            "name": "Google, Venice",
+            "logo": "host-google.png",
+            "url": "google.com"
+        },
+        {
+            "name": "Yahoo",
+            "logo": "host-yahoo.png",
+            "url": "http://yahoo.com/"
+        },
+        {
+            "name": "O'Reilly",
+            "logo": "sponsor-oreilly.png",
+            "url": "http://velocityconf.com/ny"
+        },
+        {
+            "name": "Maker Studios",
+            "logo": "host-maker.png",
+            "url": "http://www.makerstudios.com/"
+        },
+        {
+            "name": "Two Bit Circus",
+            "logo": "host-two-bit.png",
+            "url": "http://twobitcircus.com"
+        },
+        {
+            "name": "Dollar Shave Club",
+            "logo": "sponsor-dollar-shave-club.png",
+            "url": "http://dollarshaveclub.com/"
+        },
+        {
+            "name": "IdeaLab",
+            "logo": "host-idealab.png",
+            "url": "www.idealab.com"
+        },
+        {
+            "name": "The Hub LA",
+            "logo": "host-the-hub.png",
+            "url": "http://thehubla.com"
+        },
+        {
+            "name": "HUGE",
+            "logo": "host-huge.png",
+            "url": "hugeinc.com"
+        },
+        {
+            "name": "Cross Campus",
+            "logo": "crosscampus.png",
+            "url": "crosscamp.us"
+        },
+        {
+            "name": "M-GO",
+            "logo": "sponsor-m-go.png",
+            "url": "http://m-go.com"
+        }
+    ]
 }

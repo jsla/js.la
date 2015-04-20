@@ -1,0 +1,19 @@
+div.jsla-toplevel-container.jsla-content-page.jsla-content-section.layer-2
+    h1 Want to sponsor JS.LA?
+    p We would love to have your company join the JS.LA community!
+    h2 What you get.
+    ul
+        li Opportunity to introduce your company to the attendees
+        li Company logo or custom slide on display throughout the event
+        li Company logo on all videos recorded that month
+        li Company logo on website with link
+        li Mention + link in email to full email list + on meetup announce/event page
+        li Tweets leading up to the event and after
+
+    div(class="u-textAlign--center")
+        a(href="https://ti.to/jsla/april-js-la-2015" class="pure-button-secondary pure-button jsla-button-xlarge") Sponsor JS.LA
+    p
+
+div.jsla-toplevel-container.jsla-content-page
+    h4 Companies that have sponsored JS.LA
+    != partial( "components/_sponsors-box", { sponsors: public._data.pastSponsors, noTitle: true } )

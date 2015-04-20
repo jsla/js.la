@@ -1,5 +1,6 @@
 div.jsla-sponsors-box
-    span.jsla-sponsored-by.clearfix Sponsored By:
+    if !noTitle
+        span.jsla-sponsored-by.clearfix Sponsored By:
     ul.jsla-sponsors
         each sponsor in sponsors
             li.jsla-sponsor.layer-2
