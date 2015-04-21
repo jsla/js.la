@@ -11,7 +11,11 @@ div.jsla-toplevel-container.jsla-content-page.jsla-content-section.layer-2
         li Tweets leading up to the event and after
 
     div(class="u-textAlign--center")
-        a(href="https://ti.to/jsla/april-js-la-2015" class="pure-button-secondary pure-button jsla-button-xlarge") Sponsor JS.LA
+        form(action='https://www.paypal.com/cgi-bin/webscr', method='post', target='_top')
+              input(type='hidden', name='cmd', value='_s-xclick')
+              input(type='hidden', name='hosted_button_id', value='86L34RHAYW9UJ')
+              button(type='submit', class='pure-button-secondary pure-button jsla-button-xlarge', name='submit', alt='PayPal - The safer, easier way to pay online!') Sponsor JS.LA
+              img(alt='', border='0', src='https://www.paypalobjects.com/en_US/i/scr/pixel.gif', width='1', height='1')
     p
 
 div.jsla-toplevel-container.jsla-content-page
