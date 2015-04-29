@@ -25,7 +25,7 @@
                 "name": "Ben Coe",
                 "image": "ben-coe.jpg",
                 "twitter": "benjamincoe",
-                "github": "benjamincoe",
+                "github": "bcoe",
                 "description": "npm has been in the process of rewriting their backend infrastructure. Ben, lead developer of the registry, will be talking to you about the motivations for the rewrite, and the approach that has been taken.",
                 "video": null,
                 "videoimg": null
