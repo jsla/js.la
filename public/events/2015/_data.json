@@ -3,6 +3,69 @@
     "events": [
         {
             "title": "",
+            "datetime": "Thursday April 30th, 2015 7-10pm",
+            "date": "4/30/2015 21:00:00",
+            "host": {
+                "address": "3211 Olympic Blvd, Santa Monica, CA 90404",
+                "name": "SapientNitro",
+                "misc": "Parking available on the street and in the parking lot.",
+                "url": "http://sapientnitro.com"
+            },
+            "speakers": [
+                {
+                    "title": "Decentralized Databases, and the End of the Web Host",
+                    "name": "Paul Frazee",
+                    "image": "paul-frazee.jpg",
+                    "twitter": "pfrazee",
+                    "github": "pfraze",
+                    "description": "How do we synchronize user devices without using servers or central coordination? Join us for a discussion of content-addressing, secure data structures, the web of trust, and apps-development in a post-host Web.",
+                    "video": 126670602,
+                    "videoimg": "2015-04_JSLA_title_speaker3_small.png"
+                },
+                {
+                    "title": "npm-Registry@2.0",
+                    "name": "Ben Coe",
+                    "image": "ben-coe.jpg",
+                    "twitter": "benjamincoe",
+                    "github": "bcoe",
+                    "description": "npm has been in the process of rewriting their backend infrastructure. Ben, lead developer of the registry, will be talking to you about the motivations for the rewrite, and the approach that has been taken.",
+                    "video": 126671101,
+                    "videoimg": "2015-04_JSLA_title_speaker2_small.png"
+                },
+                {
+                    "title": "Module of the Month: keystone",
+                    "name": "Hung Q Tran",
+                    "image": "hung-tran.jpg",
+                    "twitter": "temojin ",
+                    "github": "temojin",
+                    "description": "Module of the month is a segment that highlights one of the many npm modules that make Node.js so great. This month's module is keystone",
+                    "video": 126659594,
+                    "videoimg": "2015-04_JSLA_title_speaker1_small.png",
+                    "motm": true
+                }
+            ],
+            "sponsors": [
+                {
+                    "name": "Intel",
+                    "logo": "sponsor-intel.jpg",
+                    "url": "https://software.intel.com/en-us/iot"
+                },
+                {
+                    "name": "EdgeCast",
+                    "logo": "sponsor-edge-cast.png",
+                    "url": "http://edgecast.com"
+                },
+                {
+                    "name": "SapientNitro",
+                    "logo": "host-sapient-nitro.png",
+                    "url": "http://sapientnitro.com"
+                }
+            ],
+            "titoUrl": "https://ti.to/jsla/april-js-la-2015",
+            "heroPhotos": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-06-01&min_taken_date=2014-05-23&format=json"
+        },
+        {
+            "title": "",
             "datetime": "Thursday March 26th, 2015 7-10pm",
             "date": "3/26/2015 21:00:00",
             "host": {

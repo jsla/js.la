@@ -14,11 +14,11 @@
                 "title": "Decentralized Databases, and the End of the Web Host",
                 "name": "Paul Frazee",
                 "image": "paul-frazee.jpg",
-                "twitter": "pfraze",
+                "twitter": "pfrazee",
                 "github": "pfraze",
                 "description": "How do we synchronize user devices without using servers or central coordination? Join us for a discussion of content-addressing, secure data structures, the web of trust, and apps-development in a post-host Web.",
-                "video": null,
-                "videoimg": null
+                "video": 126670602,
+                "videoimg": "2015-04_JSLA_title_speaker3_small.png"
             },
             {
                 "title": "npm-Registry@2.0",
@@ -27,8 +27,8 @@
                 "twitter": "benjamincoe",
                 "github": "bcoe",
                 "description": "npm has been in the process of rewriting their backend infrastructure. Ben, lead developer of the registry, will be talking to you about the motivations for the rewrite, and the approach that has been taken.",
-                "video": null,
-                "videoimg": null
+                "video": 126671101,
+                "videoimg": "2015-04_JSLA_title_speaker2_small.png"
             },
             {
                 "title": "Module of the Month: keystone",
@@ -37,8 +37,8 @@
                 "twitter": "temojin ",
                 "github": "temojin",
                 "description": "Module of the month is a segment that highlights one of the many npm modules that make Node.js so great. This month's module is keystone",
-                "video": null,
-                "videoimg": null,
+                "video": 126659594,
+                "videoimg": "2015-04_JSLA_title_speaker1_small.png",
                 "motm": true
             }
         ],
