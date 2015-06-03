@@ -113,6 +113,7 @@
             }
         ],
         "titoUrl": "http://www.eventbrite.com/e/nodejs-on-the-road-los-angeles-tickets-12844224421"
+		"flickr" : "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
     },
     {
         "datetime": "Thursday August 28th, 2014 7-10pm",
