@@ -61,7 +61,7 @@
                     "url": "http://sapientnitro.com"
                 }
             ],
-            "titoUrl": "https://ti.to/jsla/april-js-la-2015",
+            "titoUrl": "https://ti.to/jsla/april-js-la-2015"
         },
         {
             "title": "",
@@ -235,8 +235,8 @@
                     "url": "http://edgecast.com"
                 }
             ],
-            "titoUrl": "https://ti.to/jsla/jan-29-2015"
-	    "herophotos" : "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2015-01-30&min_taken_date=2015-01-28&format=json"
+            "titoUrl": "https://ti.to/jsla/jan-29-2015",
+	        "flickr" : "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2015-01-30&min_taken_date=2015-01-28&format=json"
         }
     ]
 }
