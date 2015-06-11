@@ -1,65 +1,49 @@
 {
     "current": {
-        "title": "Internet Of Things",
-        "datetime": "Thursday May 28th, 2015 7-10pm",
-        "date": "5/28/2015 21:00:00",
+        "title": "",
+        "datetime": "Thursday June 25th, 2015 7-10pm",
+        "date": "6/25/2015 21:00:00",
         "host": {
-            "address": "2400 Broadway Santa Monica, CA 90404",
-            "name": "Yahoo!",
-            "misc": "Parking is available on the street",
-            "url": "http://developer.yahoo.com/"
+            "address": "340 Main St, Venice, CA 90291",
+            "name": "Google, Venice",
+            "misc": "Valet is provided!",
+            "url": "https://google.com/"
         },
         "speakers": [
             {
-                "title": "Data Painting: A graphical programming environment for making art with GPIO on the Intel Galileo",
-                "name": "Eric Gradman",
-                "image": "eric-gradman.jpg",
-                "twitter": "egradman",
-                "github": "egradman",
-                "description": "The Intel Galileo is a pretty powerful little board. It comes pre-installed with node.js, and you can use it to interface with electronic components. In collaboration with Intel, we developed a kit to acquaint kids with functional programming concepts and basic electronics through artistic expression. The interface is a simple webpage served by the Galileo. Using a Google Blockly graphical interface, kids connect nodes representing graphical elements to nodes representing switches and sliders connected to the Galileo. And just like that… art.",
+                "title": "Successfully Hacking in Your Spare Time",
+                "name": "Bryan Hughes",
+                "image": "bryan-hughes.jpg",
+                "twitter": "nebrius",
+                "github": "bryan-m-hughes",
+                "description": "Hacking in your spare time is a lot of fun, but how do you actually finish that project you've been dreaming about? This talk will discuss these constraints and requirements, and how a little creativity goes a long way. Key to this is dreaming big while being realistic, and just getting something out there is important. I will also discuss the role of open source in personal projects, from leveraging existing work to how you actually open source a project properly.",
                 "video": null,
                 "videoimg": null
             },
             {
-                "title": "Building Intelligent Devices for the Internet of Things: Lessons Learned from the Chain Check Project",
-                "name": "Bill Pierce",
-                "image": "bill-pierce.jpg",
-                "twitter": "piercewilliam",
-                "github": null,
-                "description": "In 2014, Intel launched the Edison, a tiny single board computer targeting the Internet of Things (IoT) and wearables markets. The Edison supports a full-featured Linux distro, providing a natural platform for rapid prototyping of IoT projects including Node.js and wifi connectivity out of the box. In this talk, I’ll present our experience using the Edison on the Chain Check project, applying machine learning and digital signal processing techniques to predictive maintenance for bicycles.",
+                "title": "Scalable and Maintainable React",
+                "name": "Lawrence Lau",
+                "image": "lawrence-lau.jpg",
+                "twitter": "ktslwy",
+                "github": "ktslwy",
+                "description": "React is created for building large web applications with data that changes in response to actions over time. This is exactly what many of our user-facing products are doing. Yet like many other application frameworks, scalability and maintainability are not inherent, because you are still free to organize your application as long as you follow the unidirectional flow. This talk will share lessons learned from my React application development with code samples at different stages of the unidirectional flow with the goal to truly take advantage of React to build a scalable and maintainable application.",
                 "video": null,
                 "videoimg": null
-            },
-            {
-                "title": "Module of the Month: Babel",
-                "name": "Jacob Lowe",
-                "image": "jacob-lowe.jpg",
-                "twitter": "jcblw",
-                "github": "jcblw",
-                "description": "Module of the month is a segment that highlights one of the many npm modules that make Node.js so great. This month's module is babel",
-                "video": null,
-                "videoimg": null,
-                "motm": true
             }
         ],
         "sponsors": [
-            {
-                "name": "Intel",
-                "logo": "sponsor-intel.jpg",
-                "url": "https://software.intel.com/en-us/iot"
-            },
             {
                 "name": "EdgeCast",
                 "logo": "sponsor-edge-cast.png",
                 "url": "http://edgecast.com"
             },
             {
-                "name": "Yahoo!",
-                "logo": "host-yahoo.png",
-                "url": "http://developer.yahoo.com"
+                "name": "Google, Venice",
+                "logo": "host-google.png",
+                "url": "https://google.com"
             }
         ],
-        "titoUrl": "https://ti.to/jsla/may-2015",
+        "titoUrl": "https://ti.to/jsla/june-2015",
         "heroPhotos": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-02-01&min_taken_date=2014-01-25&format=json"
     },
     "sitemap": {
