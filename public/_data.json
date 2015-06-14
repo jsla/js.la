@@ -38,13 +38,18 @@
                 "url": "http://edgecast.com"
             },
             {
+                "name": "Netbus Engineering",
+                "logo": "sponsor-netbus.png",
+                "url": "http://www.netbuseg.com"
+            },
+            {
                 "name": "Google, Venice",
                 "logo": "host-google.png",
                 "url": "https://google.com"
             }
         ],
         "titoUrl": "https://ti.to/jsla/june-2015",
-        "heroPhotos": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-02-01&min_taken_date=2014-01-25&format=json"
+        "heroPhotos": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-03-01&min_taken_date=2014-02-25&format=json"
     },
     "sitemap": {
         "layout": false
