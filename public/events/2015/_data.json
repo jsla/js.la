@@ -19,8 +19,8 @@
                     "twitter": "egradman",
                     "github": "egradman",
                     "description": "The Intel Galileo is a pretty powerful little board. It comes pre-installed with node.js, and you can use it to interface with electronic components. In collaboration with Intel, we developed a kit to acquaint kids with functional programming concepts and basic electronics through artistic expression. The interface is a simple webpage served by the Galileo. Using a Google Blockly graphical interface, kids connect nodes representing graphical elements to nodes representing switches and sliders connected to the Galileo. And just like that… art.",
-                    "video": null,
-                    "videoimg": null
+                    "video": 130520382,
+                    "videoimg": "2015-05_JSLA_title_speaker3_small.png"
                 },
                 {
                     "title": "Building Intelligent Devices for the Internet of Things: Lessons Learned from the Chain Check Project",
@@ -29,8 +29,8 @@
                     "twitter": "piercewilliam",
                     "github": null,
                     "description": "In 2014, Intel launched the Edison, a tiny single board computer targeting the Internet of Things (IoT) and wearables markets. The Edison supports a full-featured Linux distro, providing a natural platform for rapid prototyping of IoT projects including Node.js and wifi connectivity out of the box. In this talk, I’ll present our experience using the Edison on the Chain Check project, applying machine learning and digital signal processing techniques to predictive maintenance for bicycles.",
-                    "video": null,
-                    "videoimg": null
+                    "video": 130526640,
+                    "videoimg": "2015-05_JSLA_title_speaker2_small.png"
                 },
                 {
                     "title": "Module of the Month: Babel",
@@ -39,8 +39,8 @@
                     "twitter": "jcblw",
                     "github": "jcblw",
                     "description": "Module of the month is a segment that highlights one of the many npm modules that make Node.js so great. This month's module is babel",
-                    "video": null,
-                    "videoimg": null,
+                    "video": 130512676,
+                    "videoimg": "2015-05_JSLA_title_speaker1_small.png",
                     "motm": true
                 }
             ],
