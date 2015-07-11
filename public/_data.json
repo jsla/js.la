@@ -17,8 +17,8 @@
                 "twitter": "nebrius",
                 "github": "nebrius",
                 "description": "Hacking in your spare time is a lot of fun, but how do you actually finish that project you've been dreaming about? This talk will discuss these constraints and requirements, and how a little creativity goes a long way. Key to this is dreaming big while being realistic, and just getting something out there is important. I will also discuss the role of open source in personal projects, from leveraging existing work to how you actually open source a project properly.",
-                "video": null,
-                "videoimg": null
+                "video": 131993092,
+                "videoimg": "2015-06_JSLA_title_speaker2_small.png"
             },
             {
                 "title": "Scalable and Maintainable React",
@@ -27,8 +27,8 @@
                 "twitter": "ktslwy",
                 "github": "ktslwy",
                 "description": "React is created for building large web applications with data that changes in response to actions over time. This is exactly what many of our user-facing products are doing. Yet like many other application frameworks, scalability and maintainability are not inherent, because you are still free to organize your application as long as you follow the unidirectional flow. This talk will share lessons learned from my React application development with code samples at different stages of the unidirectional flow with the goal to truly take advantage of React to build a scalable and maintainable application.",
-                "video": null,
-                "videoimg": null
+                "video": 131990549,
+                "videoimg": "2015-06_JSLA_title_speaker1_small.png"
             }
         ],
         "sponsors": [
