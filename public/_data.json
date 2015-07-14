@@ -38,6 +38,11 @@
                 "url": "http://edgecast.com"
             },
             {
+                "name": "MakerSquare",
+                "logo": "host-makersquare.png",
+                "url": "http://makersquare.com/"
+            },
+            {
                 "name": "Codesmith",
                 "logo": "host-codesmith.png",
                 "url": "https://codesmith.io/"
