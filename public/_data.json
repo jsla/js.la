@@ -29,6 +29,15 @@
                 "description": "Get up and running with React and ES6 aka ES2015. Common design patterns, Common pitfalls, and more.",
                 "video": null,
                 "videoimg": ""
+            },
+            {
+                "title": "Module of the Month: PostCSS",
+                "name": "Nate Lubeck",
+                "image": "nate-lubeck.jpg",
+                "twitter": "etanlubeck",
+                "github": "etanlubeck",
+                "description": "Module of the month is a segment that highlights one of the many npm modules that make Node.js so great. This month's module is PostCSS",
+                "motm": true
             }
         ],
         "sponsors": [
@@ -36,11 +45,6 @@
                 "name": "EdgeCast",
                 "logo": "sponsor-edge-cast.png",
                 "url": "http://edgecast.com"
-            },
-            {
-                "name": "MakerSquare",
-                "logo": "host-makersquare.png",
-                "url": "http://makersquare.com/"
             },
             {
                 "name": "Codesmith",
