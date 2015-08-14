@@ -2,6 +2,67 @@
 {
     "events": [
         {
+                "title": "",
+                "datetime": "Thursday July 30th, 2015 7-10pm",
+                "date": "7/30/2015 21:00:00",
+                "host": {
+                    "address": "5300 Beethoven St, Los Angeles, CA 90066",
+                    "name": "Codesmith",
+                    "misc": "Parking available on the street",
+                    "url": "https://codesmith.io/"
+                },
+                "speakers": [
+                    {
+                        "title": "My phone runs on JavaScript ;)",
+                        "name": "Reza Akhavan",
+                        "image": "reza-akhavan.jpg",
+                        "twitter": "jedireza",
+                        "github": "jedireza",
+                        "description": "Have you seen FirefoxOS lately? This talk is going to re-introduce you to why it's not only cool to have an operating system built with Web technologies, but why it's necessary.\n\nFirefoxOS is designed to provide a complete, community-based alternative for mobile devices, using open standards such as HTML5, JavaScript and open web APIs that allow us to communicate directly with device hardware.",
+                        "video": null,
+                        "videoimg": ""
+                    },
+                    {
+                        "title": "Don't Over React, ES.Next Component Guide",
+                        "name": "Robbie dela Victoria",
+                        "image": "robbie-dela-victoria.jpg",
+                        "twitter": "robbiekaze",
+                        "github": "tmbtech",
+                        "description": "Get up and running with React and ES6 aka ES2015. Common design patterns, Common pitfalls, and more.",
+                        "video": null,
+                        "videoimg": ""
+                    },
+                    {
+                        "title": "Module of the Month: PostCSS",
+                        "name": "Nate Lubeck",
+                        "image": "nate-lubeck.jpg",
+                        "twitter": "etanlubeck",
+                        "github": "etanlubeck",
+                        "description": "Module of the month is a segment that highlights one of the many npm modules that make Node.js so great. This month's module is PostCSS",
+                        "motm": true
+                    }
+                ],
+                "sponsors": [
+                    {
+                        "name": "EdgeCast",
+                        "logo": "sponsor-edge-cast.png",
+                        "url": "http://edgecast.com"
+                    },
+                    {
+                        "name": "Codesmith",
+                        "logo": "host-codesmith.png",
+                        "url": "https://codesmith.io/"
+                    },
+                    {
+                        "name": "Netbus Engineering",
+                        "logo": "sponsor-netbus.png",
+                        "url": "http://www.netbuseg.com"
+                    }
+                ],
+                "titoUrl": "https://ti.to/jsla/july-2015",
+                "heroPhotos": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
+        },
+        {
         "title": "",
         "datetime": "Thursday June 25th, 2015 7-10pm",
         "date": "6/25/2015 21:00:00",
