@@ -61,6 +61,11 @@
             "url": "http://edgecast.com"
         },
         {
+            "name": "WeMash",
+            "logo": "sponsor-wemash.png",
+            "url": "http://www.wemash.com/"
+        },
+        {
             "name": "SapientNitro",
             "logo": "host-sapient-nitro.png",
             "url": "http://sapientnitro.com"
