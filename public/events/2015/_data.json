@@ -2,6 +2,53 @@
 {
     "events": [
         {
+            "title": "",
+            "datetime": "Thursday August 27th, 2015 7-10pm",
+            "date": "8/27/2015 21:00:00",
+            "host": {
+                "address": "13031 W Jefferson Blvd. Building 900, Los Angeles, CA 90094",
+                "name": "Verizon",
+                "misc": "Complimentary valet parking!",
+                "url": "https://verizon.com/"
+            },
+            "speakers": [
+                {
+                    "title": "Native Mobile Apps in Javascript - Just Add Cordova! (and a Pinch of Command-Line)",
+                    "name": "Wren Reynolds",
+                    "image": "wrenr.jpg",
+                    "twitter": "",
+                    "github": "wrenr",
+                    "description": "Apache Cordova, the free open-source engine behind PhoneGap, builds native apps from Javascript and opens up device features with a handy API. Taking the absolute essentials from a 3-hour \"Intro to Cordova\" workshop, this talk makes cooking native apps less like prepping a 5-course dinner with Gordon Ramsay screaming in your face, and more like making mom's spaghetti.",
+                    "video": 138064196,
+                    "videoimg": "2015-08_JSLA_title_speaker1_small.png"
+                },
+                {
+                    "title": "Carefully Composing Logic: Functional JavaScript",
+                    "name": "Brad Urani",
+                    "image": "bradurani.jpg",
+                    "twitter": "bradurani",
+                    "github": "bradurani",
+                    "description": "Functional programming is the rage, but you don't need to learn a functional language to get started doing it. In fact, JavaScript has had almost everything you need to program in a purely functional style from the beginning. In this talk, we'll explore the basics of functional programming - higher-order functions, lazy evaluation and immutable persistent data structures. We'll see how a functional style helps you compose logic in a way that's clean, testable and free of certain classes of bugs. Then we'll tie it together into a purely functional style by demonstrating a clever algorithmic game solver.",
+                    "video": 138163463,
+                    "videoimg": "2015-08_JSLA_title_speaker2_small.png"
+                }
+            ],
+            "sponsors": [
+                {
+                    "name": "Verizon",
+                    "logo": "host-verizon.png",
+                    "url": "https://www.verizondigitalmedia.com/"
+                },
+                {
+                    "name": "MakerSquare",
+                    "logo": "host-makersquare.png",
+                    "url": "http://www.makersquare.com/"
+                }
+            ],
+            "titoUrl": "https://ti.to/jsla/august-2015",
+            "heroPhotos": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
+        },
+        {
                 "title": "",
                 "datetime": "Thursday July 30th, 2015 7-10pm",
                 "date": "7/30/2015 21:00:00",
