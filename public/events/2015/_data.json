@@ -19,8 +19,8 @@
                     "twitter": "",
                     "github": "wrenr",
                     "description": "Apache Cordova, the free open-source engine behind PhoneGap, builds native apps from Javascript and opens up device features with a handy API. Taking the absolute essentials from a 3-hour \"Intro to Cordova\" workshop, this talk makes cooking native apps less like prepping a 5-course dinner with Gordon Ramsay screaming in your face, and more like making mom's spaghetti.",
-                    "video": null,
-                    "videoimg": ""
+                    "video": 138064196,
+                    "videoimg": "2015-08_JSLA_title_speaker1_small.png"
                 },
                 {
                     "title": "Carefully Composing Logic: Functional JavaScript",
@@ -29,8 +29,8 @@
                     "twitter": "bradurani",
                     "github": "bradurani",
                     "description": "Functional programming is the rage, but you don't need to learn a functional language to get started doing it. In fact, JavaScript has had almost everything you need to program in a purely functional style from the beginning. In this talk, we'll explore the basics of functional programming - higher-order functions, lazy evaluation and immutable persistent data structures. We'll see how a functional style helps you compose logic in a way that's clean, testable and free of certain classes of bugs. Then we'll tie it together into a purely functional style by demonstrating a clever algorithmic game solver.",
-                    "video": null,
-                    "videoimg": ""
+                    "video": 138163463,
+                    "videoimg": "2015-08_JSLA_title_speaker2_small.png"
                 }
             ],
             "sponsors": [
