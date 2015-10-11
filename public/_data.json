@@ -36,13 +36,7 @@
                 "name": "Fullscreen",
                 "logo": "sponsor-fullscreen.png",
                 "url": "http://www.fullscreen.com/"
-            },
-            {
-                "name": "MakerSquare",
-                "logo": "host-makersquare.png",
-                "url": "http://www.makersquare.com/"
             }
-
         ],
         "titoUrl": "https://ti.to/jsla/october-2015",
         "heroPhotos": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
