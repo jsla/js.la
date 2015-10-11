@@ -1,0 +1,5 @@
+// this file is used to generate sub event pages
+
+// != partial("../../_years", { year: "@year" })
+
+!= partial("../../_event", { event: public.events[@year]._data.events[@index], year: "@year" } )
