@@ -1,6 +1,53 @@
 
 {
     "events": [
+      {
+          "title": "",
+          "datetime": "Thursday September 24th, 2015 7-10pm",
+          "date": "9/24/2015 21:00:00",
+          "host": {
+              "address": "3562 Eastham Drive, Culver City, CA 90232",
+              "name": "Maker Studios",
+              "misc": "Parking is available in the lot at the front along National.",
+              "url": "http://www.makerstudios.com/"
+          },
+          "speakers": [
+              {
+                  "title": "Generative art and music",
+                  "name": "Patrick Gunderson",
+                  "image": "patrick-gunderson.jpg",
+                  "twitter": "gunderson",
+                  "github": "gunderson",
+                  "description": "There are some things that people do much better than computers. People emote and intuit ideas seemingly out of nowhere while computers must have a defined procedure to follow in whatever they do. In this talk, Patrick will discuss how he's used sine waves to and parametric design to give computers an unsteady hand and the ability to compose music on-the-fly.",
+                  "video": null,
+                  "videoimg": ""
+              },
+              {
+                  "title": "We Don't Need No Stinking Browser - How to Build a CLI Based SaaS",
+                  "name": "Brock Whitten",
+                  "image": "brock-whitten.jpg",
+                  "twitter": "sintaxi",
+                  "github": "sintaxi",
+                  "description": "Browsers are so 2015. The SaaS of tomorrow is fast, powerful, and most importantly, composable. We'll look behind the scenes to see how Surge, the zero-bullshit web publishing CDN is built.",
+                  "video": null,
+                  "videoimg": ""
+              }
+          ],
+          "sponsors": [
+              {
+                  "name": "WeMash",
+                  "logo": "sponsor-wemash.png",
+                  "url": "http://www.wemash.com/"
+              },
+              {
+                  "name": "Maker Studios",
+                  "logo": "host-maker.png",
+                  "url": "http://www.makerstudios.com/"
+              }
+
+          ],
+          "titoUrl": "https://ti.to/jsla/september-2015"
+        },
         {
             "title": "",
             "datetime": "Thursday August 27th, 2015 7-10pm",
