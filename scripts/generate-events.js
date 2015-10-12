@@ -93,8 +93,17 @@ function eachSubDir (callback) {
         .split('@index')
         .join(index)
 
-      event.speakers.forEach(eachSpeaker(subdirPath, index, file[1], function(){}))
-      outputFile(path.resolve(subdirPath, 'index.jade'), baseEventFile, done)
+      const speakersAmount = event.speakers.length
+      var speakersAmountDone = 0
+
+      function speakerDone () {
+        speakersAmountDone++
+        if (speakersAmount === speakersAmountDone) {
+          outputFile(path.resolve(subdirPath, 'index.jade'), baseEventFile, done)
+        }
+      }
+
+      event.speakers.forEach(eachSpeaker(subdirPath, index, file[1], speakerDone))
     })
   }
 
