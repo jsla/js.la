@@ -1,0 +1,10 @@
+div.jsla-toplevel-container.jsla-event-container
+
+    a.jsla-hero-logo( href="/" )
+        img( src="/images/logo.svg" alt="JS.LA logo" class="jsla-logo-image" onerror="this.src='/images/logotype-trans.png'" )
+    h1  #{speaker.name}
+
+div.jsla-toplevel-container.wide.jsla-past-event
+    div.jsla-toplevel-container
+      ul.jsla-speakers-list
+          != partial("../components/speakers/_speaker", speaker )

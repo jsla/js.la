@@ -5,10 +5,9 @@
 const path = require('path')
 const fs = require('fs')
 const eventsDir = path.resolve(process.cwd(), './public/events')
-const baseFile = fs.readFileSync(path.resolve(eventsDir, './_base.jade'), 'utf8')
+const baseFile = fs.readFileSync(path.resolve(eventsDir, './_base_event.jade'), 'utf8')
+const baseSpeakerFile = fs.readFileSync(path.resolve(eventsDir, './_base_speaker.jade'), 'utf8')
 const outputFile = require('output-file')
-
-console.log(path.resolve(eventsDir, './_base.jade'))
 
 function getSubdirs (dir, callback) {
   fs.readdir(eventsDir, function (err, files) {
@@ -48,25 +47,71 @@ function getEventPathName (event) {
     .join('-')
 }
 
-function eachSubDir(file) {
-  const events = getEventData(file[0])
-  events.forEach(function(event, index){
-    const subdirPath = path.resolve(file[0], getEventPathName(event))
-    const baseEventFile = baseFile.split('@year').join(file[1]).split('@index').join(index)
-    // console.log(baseEventFile)
-    outputFile(path.resolve(subdirPath, 'index.jade'), baseEventFile, function(err, res) {
-      console.log(arguments)
+function getSpeakerNamePath (speaker) {
+  return speaker.name
+    .split(',')
+    .shift()
+    .split(/\'|\./)
+    .join('')
+    .split(/\s|\//)
+    .join('-')
+    .toLowerCase()
+}
+
+function eachSpeaker (eventPath, eventIndex, year, done) {
+  return function (speaker, index) {
+    const subdirPath = path.resolve(eventPath, getSpeakerNamePath(speaker))
+    const _baseSpeakerFile = baseSpeakerFile
+      .split('@year')
+      .join(year)
+      .split('@eventIndex')
+      .join(eventIndex)
+      .split('@index')
+      .join(index)
+    outputFile(path.resolve(subdirPath, 'index.jade'), _baseSpeakerFile, done)
+  }
+}
+
+function eachSubDir (callback) {
+  return function (file) {
+    const events = getEventData(file[0])
+    const amount = events.length
+    var amountDone = 0
+
+    function done () {
+      amountDone++
+      if (amount === amountDone) {
+        callback()
+      }
+    }
+
+    events.forEach(function(event, index){
+      const subdirPath = path.resolve(file[0], getEventPathName(event))
+      const baseEventFile = baseFile
+        .split('@year')
+        .join(file[1])
+        .split('@index')
+        .join(index)
+
+      event.speakers.forEach(eachSpeaker(subdirPath, index, file[1], function(){}))
+      outputFile(path.resolve(subdirPath, 'index.jade'), baseEventFile, done)
     })
-    // console.log(subdirPath)
-  })
+  }
 
 }
 
 
 getSubdirs(eventsDir, function (err, subDirs) {
   if (err) throw err
+  const amount = subDirs.length
+  var doneAmount = 0
 
-  subDirs.forEach(eachSubDir)
-  // console.log(subDirs.map(getEventData))
+  function done () {
+    doneAmount++
+    if (doneAmount === amount) {
+      console.log('Done!')
+    }
+  }
 
+  subDirs.forEach(eachSubDir(done))
 })

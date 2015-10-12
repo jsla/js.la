@@ -2,4 +2,7 @@ node_modules
 npm-debug.log
 dist/
 .DS_Store
+
+# ignore generated files
 public/events/*/*/index.jade
+public/events/*/*/*/index.jade
