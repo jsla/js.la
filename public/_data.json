@@ -36,6 +36,11 @@
                 "name": "Fullscreen",
                 "logo": "sponsor-fullscreen.png",
                 "url": "http://www.fullscreen.com/"
+            },
+            {
+                "name": "McGraw-Hill Education",
+                "logo": "sponsor-mcgraw-hill.png",
+                "url": "http://www.mheducation.com/"
             }
         ],
         "titoUrl": "https://ti.to/jsla/october-2015",
