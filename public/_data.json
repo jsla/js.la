@@ -9,6 +9,12 @@
             "misc": null,
             "url": "http://www.fullscreen.com/"
         },
+        "drinksjs": {
+            "address": "12740 Culver Blvd, Los Angeles, CA 90066",
+            "name": "90 West Lounge",
+            "misc": null,
+            "url": "http://www.yelp.com/biz/90-west-lounge-los-angeles"
+        },
         "speakers": [
             {
                 "title": "Coordinated Concurrency: Reactive (Observables) vs. CSP",
