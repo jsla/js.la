@@ -19,8 +19,8 @@
                   "twitter": "gunderson",
                   "github": "gunderson",
                   "description": "There are some things that people do much better than computers. People emote and intuit ideas seemingly out of nowhere while computers must have a defined procedure to follow in whatever they do. In this talk, Patrick will discuss how he's used sine waves to and parametric design to give computers an unsteady hand and the ability to compose music on-the-fly.",
-                  "video": null,
-                  "videoimg": ""
+                  "video": 143953796,
+                  "videoimg": "2015-09_JSLA_title_speaker1_small.png"
               },
               {
                   "title": "We Don't Need No Stinking Browser - How to Build a CLI Based SaaS",
@@ -29,8 +29,8 @@
                   "twitter": "sintaxi",
                   "github": "sintaxi",
                   "description": "Browsers are so 2015. The SaaS of tomorrow is fast, powerful, and most importantly, composable. We'll look behind the scenes to see how Surge, the zero-bullshit web publishing CDN is built.",
-                  "video": null,
-                  "videoimg": ""
+                  "video": 143954788,
+                  "videoimg": "2015-09_JSLA_title_speaker2_small.png"
               }
           ],
           "sponsors": [
