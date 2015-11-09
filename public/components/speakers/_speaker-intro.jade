@@ -1,0 +1,15 @@
+div.jsla-speaker.jsla-speaker-intro.clearfix
+    img.jsla-avatar.layer-2(src="/images/speakers/#{image}", width="130", alt=name )
+    div.jsla-speaker-details
+        ul.jsla-speaker-info.clearfix
+            li
+                h2.jsla-speaker-name= name
+            if twitter
+                li 
+                    a(href="https://twitter.com/#{twitter}")
+                        i.icon-twitter
+            if github
+                li 
+                    a(href="https://github.com/#{github}")
+                        i.icon-github
+        a(href=eventUrl)!= datetime

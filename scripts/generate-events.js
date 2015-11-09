@@ -1,6 +1,7 @@
 /*
   Generates Individual Events As Well as Individual Speaker pages
 */
+global.moment = require('moment')
 
 const path = require('path')
 const fs = require('fs')
@@ -58,7 +59,7 @@ function getSpeakerNamePath (speaker) {
     .toLowerCase()
 }
 
-function eachSpeaker (eventPath, eventIndex, year, done) {
+function eachSpeaker (eventPath, eventIndex, year, done, event) {
   return function (speaker, index) {
     const subdirPath = path.resolve(eventPath, getSpeakerNamePath(speaker))
     const _baseSpeakerFile = baseSpeakerFile
@@ -68,6 +69,8 @@ function eachSpeaker (eventPath, eventIndex, year, done) {
       .join(eventIndex)
       .split('@index')
       .join(index)
+      .split('@event')
+      .join(getEventPathName(event))
     outputFile(path.resolve(subdirPath, 'index.jade'), _baseSpeakerFile, done)
     outputFile(path.resolve(subdirPath, '_data.json'), JSON.stringify({
       index: {
@@ -118,7 +121,7 @@ function eachSubDir (callback) {
         }
       }
 
-      event.speakers.forEach(eachSpeaker(subdirPath, index, file[1], speakerDone))
+      event.speakers.forEach(eachSpeaker(subdirPath, index, file[1], speakerDone, event))
     })
   }
 }

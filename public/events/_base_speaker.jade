@@ -1,5 +1,3 @@
 // this file is used to generate sub event pages
-
-// != partial("../../_years", { year: "@year" })
-
-!= partial("../../../_speaker", { speaker: public.events[@year]._data.events[@eventIndex].speakers[@index], year: "@year" } )
+- var _event = public.events[@year]._data.events[@eventIndex]
+!= partial("../../../_speaker", { speaker: _event.speakers[@index], event: _event, year: "@year", eventPath: "@event" } )

@@ -1,10 +1,16 @@
-div.jsla-toplevel-container.jsla-event-container
+- var fullEventPath = '/events/' + year + '/' + eventPath
+- var intro = { name: speaker.name, twitter: speaker.twitter, github: speaker.github, eventUrl: fullEventPath, datetime: event.datetime, image: speaker.image }
 
-    a.jsla-hero-logo( href="/" )
-        img( src="/images/logo.svg" alt="JS.LA logo" class="jsla-logo-image" onerror="this.src='/images/logotype-trans.png'" )
-    h1  #{speaker.name}
-
-div.jsla-toplevel-container.wide.jsla-past-event
+div.jsla-toplevel-container.wide.jsla-event-container
     div.jsla-toplevel-container
-      ul.jsla-speakers-list
-          != partial("../components/speakers/_speaker", speaker )
+        != partial("../components/speakers/_speaker-intro", intro )
+
+!= partial("../components/speakers/_video", speaker )
+
+div.jsla-toplevel-container.wide
+    div.jsla-toplevel-container.jsla-speaker
+      div.jsla-speaker-content.layer-2.jsla-speaker
+        p.jsla-speaker-titleSingle!= speaker.title
+          br
+          a.jsla-speaker-dateSingle(href=fullEventPath)!= event.datetime
+        p.jsla-speaker-description.jsla-speaker-descriptionSingle!= speaker.description
