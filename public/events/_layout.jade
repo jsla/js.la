@@ -1,0 +1,47 @@
+- var events = public.events[year]._data.events
+- var _event = typeof index === 'undefined' ? null : events[index]
+- var _speaker = typeof speaker === 'undefined' || !_event ? null : _event.speakers[speaker]
+- var isEvent = !!_event && !_speaker
+- var isSpeaker = !!_event && !!_speaker  
+- var title = 'JS.LA - ' + (isEvent ? _event.datetime : (isSpeaker ? _speaker.title: year + ' events'))
+- var description = isEvent ? _event.datetime + ', ' + _event.speakers.map(function(speaker){return speaker.title}).join(', ') : (isSpeaker ? _speaker.description : 'JS.LA ' + year + ' archive' )
+
+doctype
+html
+  head
+    meta(charset="utf-8")
+    title!= title
+    link(rel="shortcut icon" href="/images/jsla_256.png" type="image/png")
+    link(rel="apple-touch-icon" href="/images/jsla_256.png" type="image/png")
+    link(rel="stylesheet" href="/css/jquery.fancybox.css" type="text/css" media="screen")
+    link(rel="stylesheet" href="/css/main.css")
+    meta(name="viewport" content="width=device-width, initial-scale=1")
+    meta(name="description" content=description)
+    meta(property="og:title" content=title)
+    meta(property="og:type" content="website")
+    meta(property="og:image" content="http://js.la/images/js.jpg")
+    meta(property="og:site_name" content="JS.LA")
+    meta(property="og:url" content="http://js.la")
+    // track views as soon as we can
+    script.
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-55978450-1', 'auto');
+      ga('send', 'pageview');
+
+  body
+
+    != partial( "../components/_nav" )
+    != yield
+    != partial( '../components/_footer' )
+    //- this is here to be able to debug
+    //- script 
+      //- != 'var _events = ' + JSON.stringify(events) + ';'
+      //- != 'var _event = ' + (event ? JSON.stringify(_event) : null) + ';'
+      //- != 'var _speaker = ' + (_speaker ? JSON.stringify(_speaker) : null) + ';'
+
+    // remove min when in dev
+    script(type="text/javascript" src="/js/bundle.min.js")
