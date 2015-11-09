@@ -9,6 +9,12 @@
             "misc": null,
             "url": "http://www.fullscreen.com/"
         },
+        "drinksjs": {
+            "address": "12740 Culver Blvd, Los Angeles, CA 90066",
+            "name": "90 West Lounge",
+            "misc": null,
+            "url": "http://www.yelp.com/biz/90-west-lounge-los-angeles"
+        },
         "speakers": [
             {
                 "title": "Coordinated Concurrency: Reactive (Observables) vs. CSP",
@@ -17,8 +23,8 @@
                 "twitter": "getify",
                 "github": "getify",
                 "description": "A lot of hype is building recently around reactive programming (aka observables), which models interactions as the composition and consumption of streams of events (data flowing through steps). But is that exclusively the right path for truly next-gen async programming?",
-                "video": null,
-                "videoimg": ""
+                "video": 144325523,
+                "videoimg": "2015-10_JSLA_title_speaker1_small.png"
             },
             {
                 "title": "Mapping LA: Building Immersive Apps with Geodata",
@@ -27,8 +33,8 @@
                 "twitter": "cateches",
                 "github": "samlecuyer",
                 "description": "There's an astonishing amount of geographic data out there. And there are a ton of ways to process it. Still, most people can only name one or two mapping products to use in webapps. Sam will talk about what this data is, where to find it, how to make it look great, and how to make it meaningful.",
-                "video": null,
-                "videoimg": ""
+                "video": 144319037,
+                "videoimg": "2015-10_JSLA_title_speaker2_small.png"
             }
         ],
         "sponsors": [
@@ -38,11 +44,10 @@
                 "url": "http://www.fullscreen.com/"
             },
             {
-                "name": "MakerSquare",
-                "logo": "host-makersquare.png",
-                "url": "http://www.makersquare.com/"
+                "name": "McGraw-Hill Education",
+                "logo": "sponsor-mcgraw-hill.png",
+                "url": "http://www.mheducation.com/"
             }
-
         ],
         "titoUrl": "https://ti.to/jsla/october-2015",
         "heroPhotos": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"

@@ -1,7 +1,59 @@
 
 {
     "events": [
-      {
+        {
+          "title": "",
+          "datetime": "Thursday October 29th, 2015 7-10pm",
+          "date": "10/29/2015 21:00:00",
+          "host": {
+              "address": "12180 Millennium Dr, Los Angeles, CA 90094",
+              "name": "Fullscreen, Inc.",
+              "misc": null,
+              "url": "http://www.fullscreen.com/"
+          },
+          "drinksjs": {
+              "address": "12740 Culver Blvd, Los Angeles, CA 90066",
+              "name": "90 West Lounge",
+              "misc": null,
+              "url": "http://www.yelp.com/biz/90-west-lounge-los-angeles"
+          },
+          "speakers": [
+              {
+                  "title": "Coordinated Concurrency: Reactive (Observables) vs. CSP",
+                  "name": "Kyle Simpson",
+                  "image": "kyle-simpson.jpg",
+                  "twitter": "getify",
+                  "github": "getify",
+                  "description": "A lot of hype is building recently around reactive programming (aka observables), which models interactions as the composition and consumption of streams of events (data flowing through steps). But is that exclusively the right path for truly next-gen async programming?",
+                  "video": 144325523,
+                  "videoimg": "2015-10_JSLA_title_speaker1_small.png"
+              },
+              {
+                  "title": "Mapping LA: Building Immersive Apps with Geodata",
+                  "name": "Sam L'Ecuyer",
+                  "image": "sam-lecuyer.jpg",
+                  "twitter": "cateches",
+                  "github": "samlecuyer",
+                  "description": "There's an astonishing amount of geographic data out there. And there are a ton of ways to process it. Still, most people can only name one or two mapping products to use in webapps. Sam will talk about what this data is, where to find it, how to make it look great, and how to make it meaningful.",
+                  "video": 144319037,
+                  "videoimg": "2015-10_JSLA_title_speaker2_small.png"
+              }
+          ],
+          "sponsors": [
+              {
+                  "name": "Fullscreen",
+                  "logo": "sponsor-fullscreen.png",
+                  "url": "http://www.fullscreen.com/"
+              },
+              {
+                  "name": "McGraw-Hill Education",
+                  "logo": "sponsor-mcgraw-hill.png",
+                  "url": "http://www.mheducation.com/"
+              }
+          ],
+          "titoUrl": "https://ti.to/jsla/october-2015"
+        },
+        {
           "title": "",
           "datetime": "Thursday September 24th, 2015 7-10pm",
           "date": "9/24/2015 21:00:00",
@@ -19,8 +71,8 @@
                   "twitter": "gunderson",
                   "github": "gunderson",
                   "description": "There are some things that people do much better than computers. People emote and intuit ideas seemingly out of nowhere while computers must have a defined procedure to follow in whatever they do. In this talk, Patrick will discuss how he's used sine waves to and parametric design to give computers an unsteady hand and the ability to compose music on-the-fly.",
-                  "video": null,
-                  "videoimg": ""
+                  "video": 143953796,
+                  "videoimg": "2015-09_JSLA_title_speaker1_small.png"
               },
               {
                   "title": "We Don't Need No Stinking Browser - How to Build a CLI Based SaaS",
@@ -29,8 +81,8 @@
                   "twitter": "sintaxi",
                   "github": "sintaxi",
                   "description": "Browsers are so 2015. The SaaS of tomorrow is fast, powerful, and most importantly, composable. We'll look behind the scenes to see how Surge, the zero-bullshit web publishing CDN is built.",
-                  "video": null,
-                  "videoimg": ""
+                  "video": 143954788,
+                  "videoimg": "2015-09_JSLA_title_speaker2_small.png"
               }
           ],
           "sponsors": [
