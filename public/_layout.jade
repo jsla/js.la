@@ -29,6 +29,8 @@ html
     != partial( "components/_nav" )
     != yield
     != partial( 'components/_footer' )
+    script 
+      != 'var _s = ' + JSON.stringify(public)
 
     // remove min when in dev
     script(type="text/javascript" src="/js/bundle.min.js")

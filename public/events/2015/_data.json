@@ -1,5 +1,9 @@
 
 {
+    "index": {
+      "layout": "../_layout",
+      "year": "2015"
+    },
     "events": [
         {
           "title": "",

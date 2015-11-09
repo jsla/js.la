@@ -22,7 +22,7 @@ function onlyDirs (file) {
 }
 
 function mapFullPath (baseDir) {
-  return function(file, index) {
+  return function (file, index) {
     return [path.resolve(baseDir, file), file, index]
   }
 }
@@ -69,6 +69,14 @@ function eachSpeaker (eventPath, eventIndex, year, done) {
       .split('@index')
       .join(index)
     outputFile(path.resolve(subdirPath, 'index.jade'), _baseSpeakerFile, done)
+    outputFile(path.resolve(subdirPath, '_data.json'), JSON.stringify({
+      index: {
+        layout: '../../../_layout',
+        year: year,
+        index: eventIndex,
+        speaker: index
+      }
+    }, null, '\t'), function () {})
   }
 }
 
@@ -85,7 +93,7 @@ function eachSubDir (callback) {
       }
     }
 
-    events.forEach(function(event, index){
+    events.forEach(function (event, index) {
       const subdirPath = path.resolve(file[0], getEventPathName(event))
       const baseEventFile = baseFile
         .split('@year')
@@ -99,6 +107,13 @@ function eachSubDir (callback) {
       function speakerDone () {
         speakersAmountDone++
         if (speakersAmount === speakersAmountDone) {
+          outputFile(path.resolve(subdirPath, '_data.json'), JSON.stringify({
+            index: {
+              layout: '../../_layout',
+              year: file[1],
+              index: index
+            }
+          }, null, '\t'), function () {})
           outputFile(path.resolve(subdirPath, 'index.jade'), baseEventFile, done)
         }
       }
@@ -106,9 +121,7 @@ function eachSubDir (callback) {
       event.speakers.forEach(eachSpeaker(subdirPath, index, file[1], speakerDone))
     })
   }
-
 }
-
 
 getSubdirs(eventsDir, function (err, subDirs) {
   if (err) throw err

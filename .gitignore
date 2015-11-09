@@ -6,3 +6,5 @@ dist/
 # ignore generated files
 public/events/*/*/index.jade
 public/events/*/*/*/index.jade
+public/events/*/*/_data.json
+public/events/*/*/*/_data.json
