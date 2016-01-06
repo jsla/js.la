@@ -1,47 +1,47 @@
 {
     "current": {
         "title": "",
-        "datetime": "Thursday October 29th, 2015 7-10pm",
-        "date": "10/29/2015 21:00:00",
+        "datetime": "Thursday January 28th, 2016 7-10pm",
+        "date": "01/28/2016 21:00:00",
         "host": {
-            "address": "12180 Millennium Dr, Los Angeles, CA 90094",
-            "name": "Fullscreen, Inc.",
-            "misc": null,
-            "url": "http://www.fullscreen.com/"
+            "address": "580 Portola Plaza, Los Angeles, CA 90095",
+            "name": "UCLA",
+            "misc": "It will be in the Boelter Hall Room 3400",
+            "url": "http://www.ucla.edu/"
         },
         "drinksjs": {
-            "address": "12740 Culver Blvd, Los Angeles, CA 90066",
-            "name": "90 West Lounge",
+            "address": null,
+            "name": null,
             "misc": null,
-            "url": "http://www.yelp.com/biz/90-west-lounge-los-angeles"
+            "url": null
         },
         "speakers": [
             {
-                "title": "Coordinated Concurrency: Reactive (Observables) vs. CSP",
-                "name": "Kyle Simpson",
-                "image": "kyle-simpson.jpg",
-                "twitter": "getify",
-                "github": "getify",
-                "description": "A lot of hype is building recently around reactive programming (aka observables), which models interactions as the composition and consumption of streams of events (data flowing through steps). But is that exclusively the right path for truly next-gen async programming?",
-                "video": 144325523,
-                "videoimg": "2015-10_JSLA_title_speaker1_small.png"
+                "title": "Rendering with React",
+                "name": "Michael Jackson",
+                "image": "michael-jackson.jpg",
+                "twitter": "mjackson",
+                "github": "mjackson",
+                "description": "The virtual DOM abstraction created by React.js has changed the way the entire industry thinks about rendering web sites. Let's talk about what makes it special, and the cool stuff we can do with it!",
+                "video": null,
+                "videoimg": null
             },
             {
-                "title": "Mapping LA: Building Immersive Apps with Geodata",
-                "name": "Sam L'Ecuyer",
-                "image": "sam-lecuyer.jpg",
-                "twitter": "cateches",
-                "github": "samlecuyer",
-                "description": "There's an astonishing amount of geographic data out there. And there are a ton of ways to process it. Still, most people can only name one or two mapping products to use in webapps. Sam will talk about what this data is, where to find it, how to make it look great, and how to make it meaningful.",
-                "video": 144319037,
-                "videoimg": "2015-10_JSLA_title_speaker2_small.png"
+                "title": "Scalable Authentication for Microservices and Single Page Apps",
+                "name": "David Guttman",
+                "image": "davidguttman.png",
+                "twitter": "davidguttman",
+                "github": "davidguttman",
+                "description": "Back in the dark ages of 2015, setting up authentication for microservices and SPAs was a huge PITA. Thankfully, it's now 2016 and it's dead simple. We'll go over what's needed for modern authentication and how easy it is to get it all working with Authentic.",
+                "video": null,
+                "videoimg": null
             }
         ],
         "sponsors": [
             {
-                "name": "Fullscreen",
-                "logo": "sponsor-fullscreen.png",
-                "url": "http://www.fullscreen.com/"
+                "name": "UCLA",
+                "logo": "sponsor-ucla.png",
+                "url": "http://www.ucla.edu/"
             },
             {
                 "name": "McGraw-Hill Education",
@@ -49,7 +49,7 @@
                 "url": "http://www.mheducation.com/"
             }
         ],
-        "titoUrl": "https://ti.to/jsla/october-2015",
+        "titoUrl": "https://ti.to/jsla/january-2016",
         "heroPhotos": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
     },
     "sitemap": {
