@@ -67,6 +67,11 @@
             "url": "http://edgecast.com"
         },
         {
+            "name": "McGraw-Hill Education",
+            "logo": "sponsor-mcgraw-hill.png",
+            "url": "http://www.mheducation.com/"
+        },
+        {
             "name": "WeMash",
             "logo": "sponsor-wemash.png",
             "url": "http://www.wemash.com/"
