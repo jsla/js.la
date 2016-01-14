@@ -1,5 +1,5 @@
 li.jsla-speaker.clearfix( id=github )
-    img.jsla-avatar.layer-2(src="/images/speakers/#{image}", alt="keynote speaker", width="130", alt=speaker )
+    img.jsla-avatar.layer-2(src="/images/speakers/#{image}", width="130", alt=speaker )
     div.jsla-speaker-details
         ul.jsla-speaker-info.clearfix
             li
@@ -14,8 +14,7 @@ li.jsla-speaker.clearfix( id=github )
                         i.icon-github
         div.jsla-speaker-content.layer-2
             h2.jsla-speaker-title= title
-            p.jsla-speaker-description
-                !{description}
+            p.jsla-speaker-description!= description
     
             if videoimg
                 a.jsla-video-container( rel="lightbox-video-#{github}" href="http://vimeo.com/#{video}")
