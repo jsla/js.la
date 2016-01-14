@@ -89,7 +89,7 @@
                     "url": "http://developer.yahoo.com/"
                 }
             ],
-            "flickr": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2013-09-30&min_taken_date=2013-09-24&format=json"
+            "flickr": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JavascriptLosAngeles&max_taken_date=2013-09-30&min_taken_date=2013-09-24&format=json"
         },
         {
             "datetime": "Thursday August 29th, 2013",
@@ -135,7 +135,7 @@
                     "url": "http://thehubla.com"
                 }
             ],
-            "flickr": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2013-08-30&min_taken_date=2013-08-24&format=json"
+            "flickr": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JavascriptLosAngeles&max_taken_date=2013-08-30&min_taken_date=2013-08-24&format=json"
         },
         {
             "datetime": "Thursday July 25th, 2013",
@@ -181,7 +181,7 @@
                     "url": "hugeinc.com"
                 }
             ],
-            "flickr": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2013-07-26&min_taken_date=2013-07-24&format=json"
+            "flickr": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JavascriptLosAngeles&max_taken_date=2013-07-26&min_taken_date=2013-07-24&format=json"
         },
         {
             "datetime": "Thursday May 30th, 2013",
@@ -227,7 +227,7 @@
                     "url": "hugeinc.com"
                 }
             ],
-            "flickr": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2013-05-31&min_taken_date=2013-05-25&format=json"
+            "flickr": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JavascriptLosAngeles&max_taken_date=2013-05-31&min_taken_date=2013-05-25&format=json"
         },
         {
             "datetime": "Thursday April 25th, 2013",
@@ -283,7 +283,7 @@
                     "url": "thehubla.com"
                 }
             ],
-            "flickr": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2013-04-30&min_taken_date=2013-04-25&format=json"
+            "flickr": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JavascriptLosAngeles&max_taken_date=2013-04-30&min_taken_date=2013-04-25&format=json"
         },
         {
             "datetime": "Thursday March 28th, 2013",

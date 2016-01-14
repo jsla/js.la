@@ -56,7 +56,9 @@
                 "url": "http://calvingroups.com/"
             }
         ],
-        "titoUrl": "https://ti.to/jsla/oct-2014"
+        "titoUrl": "https://ti.to/jsla/oct-2014",
+        "flickr": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JavascriptLosAngeles&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
+            
     },
     {
         "datetime": "Tuesday September 30th, 2014 6-10pm",
@@ -113,8 +115,8 @@
             }
         ],
         "titoUrl": "http://www.eventbrite.com/e/nodejs-on-the-road-los-angeles-tickets-12844224421",
-		"flickr" : "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
-    },
+        "flickr" : "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JavascriptLosAngeles&max_taken_date=2014-10-01&min_taken_date=2014-09-27&format=json"
+	    },
     {
         "datetime": "Thursday August 28th, 2014 7-10pm",
             "host": {
@@ -174,7 +176,7 @@
                     "url": "http://www.makerstudios.com/"
                 }
             ],
-            "flickr" : "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-06-01&min_taken_date=2014-05-23&format=json"
+            "flickr" : "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JavascriptLosAngeles&max_taken_date=2014-08-29&min_taken_date=2014-08-27&format=json"
         },
         {
             "datetime": "Thursday July 31st, 2014",
@@ -219,7 +221,9 @@
                     "logo": "host-two-bit.png",
                     "url": "http://twobitcircus.com"
                 }
-            ]
+            ],
+            "flickr" : "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JavascriptLosAngeles&max_taken_date=2014-08-01&min_taken_date=2014-07-25&format=json"
+        
         },
 
         {
@@ -321,7 +325,8 @@
                     "logo": "host-sapient-nitro.png",
                     "url": "http://sapientnitro.com"
                 }
-            ]
+            ],
+            "flickr" : "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JavascriptLosAngeles&max_taken_date=2014-06-01&min_taken_date=2014-05-27&format=json"      
         },
 
         {
@@ -373,7 +378,9 @@
                     "url": "http://sapientnitro.com"
                 }
             ],
+            "flickr": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JavascriptLosAngeles&max_taken_date=2014-04-25&min_taken_date=2014-04-23&format=json",
             "titoUrl": "https://ti.to/jsla/april-2014"
+            
         },
 
         {
@@ -425,7 +432,7 @@
                     "url": "http://sapientnitro.com"
                 }
             ],
-            "flickr": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-04-01&min_taken_date=2014-03-25&format=json",
+            "flickr": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JavascriptLosAngeles&max_taken_date=2014-04-01&min_taken_date=2014-03-25&format=json",
             "titoUrl": "https://ti.to/jsla/april-2014"
         },
 
@@ -478,7 +485,7 @@
                     "url": "http://yahoo.com"
                 }
             ],
-            "flickr": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-03-01&min_taken_date=2014-02-25&format=json"
+            "flickr": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JavascriptLosAngeles&max_taken_date=2014-03-01&min_taken_date=2014-02-25&format=json"
         },
 
         {
@@ -530,7 +537,7 @@
                     "url": "http://yahoo.com"
                 }
             ],
-            "flickr": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-02-01&min_taken_date=2014-01-25&format=json"
+            "flickr": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JavascriptLosAngeles&max_taken_date=2014-02-01&min_taken_date=2014-01-25&format=json"
         }
 
 
