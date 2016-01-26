@@ -10,10 +10,10 @@
             "url": "http://www.ucla.edu/"
         },
         "drinksjs": {
-            "address": null,
-            "name": null,
-            "misc": null,
-            "url": null
+            "address": "1071 Glendon Ave, Los Angeles, CA 90024",
+            "name": "The Glendon Bar & Kitchen",
+            "misc": "http://www.glendonla.com/",
+            "url": "http://www.yelp.com/biz/the-glendon-bar-and-kitchen-los-angeles"
         },
         "speakers": [
             {
