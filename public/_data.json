@@ -1,55 +1,55 @@
 {
     "current": {
         "title": "",
-        "datetime": "Thursday January 28th, 2016 7-10pm",
-        "date": "01/28/2016 21:00:00",
+        "datetime": "Thursday February 25th, 2016 7-10pm",
+        "date": "02/25/2016 21:00:00",
         "host": {
-            "address": "580 Portola Plaza, Los Angeles, CA 90095",
-            "name": "UCLA",
-            "misc": "It will be in the Boelter Hall Room 3400",
-            "url": "http://www.ucla.edu/"
+            "address": "6360 Sunset Blvd, Los Angeles, CA 90028",
+            "name": "ArcLight Hollywood",
+            "misc": "",
+            "url": "https://www.arclightcinemas.com/en/locations/los-angeles/hollywood/showtimes?origin=Hollywood"
         },
         "drinksjs": {
-            "address": "1071 Glendon Ave, Los Angeles, CA 90024",
-            "name": "The Glendon Bar & Kitchen",
-            "misc": "http://www.glendonla.com/",
-            "url": "http://www.yelp.com/biz/the-glendon-bar-and-kitchen-los-angeles"
+            "address": null,
+            "name": null,
+            "misc": null,
+            "url": null
         },
         "speakers": [
             {
-                "title": "Rendering with React",
-                "name": "Michael Jackson",
-                "image": "michael-jackson.jpg",
-                "twitter": "mjackson",
-                "github": "mjackson",
-                "description": "The virtual DOM abstraction created by React.js has changed the way the entire industry thinks about rendering web sites. Let's talk about what makes it special, and the cool stuff we can do with it!",
+                "title": "Reactive Programming for Couch Potatoes",
+                "name": "Andrew Hao",
+                "image": "andrew-hao.jpg",
+                "twitter": "andrewhao",
+                "github": "andrewhao",
+                "description": "You've heard the hype about functional reactive programming and how it's the bee's knees. But... you can't figure out how it works, and all the math-talk and theory jargon that surround the subject are confusing to you.",
                 "video": null,
                 "videoimg": null
             },
             {
-                "title": "Scalable Authentication for Microservices and Single Page Apps",
-                "name": "David Guttman",
-                "image": "davidguttman.png",
-                "twitter": "davidguttman",
-                "github": "davidguttman",
-                "description": "Back in the dark ages of 2015, setting up authentication for microservices and SPAs was a huge PITA. Thankfully, it's now 2016 and it's dead simple. We'll go over what's needed for modern authentication and how easy it is to get it all working with Authentic.",
+                "title": "High performance apps with DoneJS",
+                "name": "Justin Meyer",
+                "image": "justin-meyer.jpg",
+                "twitter": "justinbmeyer",
+                "github": "justinbmeyer",
+                "description": "This sentence is wasting your time before you get to useful information. How annoying is that? Annoyed is how your users feel if they can’t see their content immediately while too much JavaScript and CSS downloads too slowly.",
                 "video": null,
                 "videoimg": null
             }
         ],
         "sponsors": [
             {
-                "name": "UCLA",
-                "logo": "sponsor-ucla.png",
-                "url": "http://www.ucla.edu/"
+                "name": "Signal Sciences",
+                "logo": "sponsor-signal-sciences.svg",
+                "url": "https://www.signalsciences.com/"
             },
             {
-                "name": "McGraw-Hill Education",
-                "logo": "sponsor-mcgraw-hill.png",
-                "url": "http://www.mheducation.com/"
+                "name": "NodeJS Foundation",
+                "logo": "sponsor-nodejs.png",
+                "url": "https://nodejs.org/en/"
             }
         ],
-        "titoUrl": "https://ti.to/jsla/january-2016",
+        "titoUrl": "https://ti.to/jsla/february-2016",
         "heroPhotos": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
     },
     "sitemap": {
