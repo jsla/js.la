@@ -44,6 +44,11 @@
                 "url": "https://www.signalsciences.com/"
             },
             {
+                "name": "McGraw-Hill Education",
+                "logo": "sponsor-mcgraw-hill.png",
+                "url": "http://www.mheducation.com/"
+            },
+            {
                 "name": "NodeJS Foundation",
                 "logo": "sponsor-nodejs.png",
                 "url": "https://nodejs.org/en/"
