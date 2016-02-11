@@ -63,7 +63,7 @@
               }
           ],
           "titoUrl": "https://ti.to/jsla/january-2016",
-          "heroPhotos": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
+          "flickr": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JavascriptLosAngeles&max_taken_date=2016-01-29&min_taken_date=2016-01-26&format=json"
       }
     ]
 }

@@ -41,12 +41,17 @@
             {
                 "name": "Signal Sciences",
                 "logo": "sponsor-signal-sciences.svg",
-                "url": "https://www.signalsciences.com/"
+                "url": "https://signalsciences.com/r/ejsla"
+            },
+            {
+                "name": "McGraw-Hill Education",
+                "logo": "sponsor-mcgraw-hill.png",
+                "url": "http://www.mheducation.com/"
             },
             {
                 "name": "NodeJS Foundation",
                 "logo": "sponsor-nodejs.png",
-                "url": "https://nodejs.org/en/"
+                "url": "http://live.nodejs.org/events/los-angeles.html"
             }
         ],
         "titoUrl": "https://ti.to/jsla/february-2016",
