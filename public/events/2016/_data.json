@@ -25,7 +25,7 @@
                 "twitter": "motdotla",
                 "github": "motdotla",
                 "description": "Module of the Month: React Native",
-                "video": null,
+                "video": "https://www.youtube.com/watch?v=R5ORcXD8SFI&feature=youtu.be&a",
                 "videoimg": "2016-01_JSLA_title_speaker1_small.png",
                 "motm": true
               },
@@ -36,7 +36,7 @@
                   "twitter": "mjackson",
                   "github": "mjackson",
                   "description": "The virtual DOM abstraction created by React.js has changed the way the entire industry thinks about rendering web sites. Let's talk about what makes it special, and the cool stuff we can do with it!",
-                  "video": null,
+                  "video": "https://www.youtube.com/watch?v=7S8v8jfLb1Q&feature=youtu.be&a",
                   "videoimg": "2016-01_JSLA_title_speaker3_small.png"
               },
               {
@@ -46,7 +46,7 @@
                   "twitter": "davidguttman",
                   "github": "davidguttman",
                   "description": "Back in the dark ages of 2015, setting up authentication for microservices and SPAs was a huge PITA. Thankfully, it's now 2016 and it's dead simple. We'll go over what's needed for modern authentication and how easy it is to get it all working with Authentic.",
-                  "video": null,
+                  "video": "https://www.youtube.com/watch?v=6Tf3chDp2oE&feature=youtu.be&a",
                   "videoimg": "2016-01_JSLA_title_speaker2_small.png"
               }
           ],
