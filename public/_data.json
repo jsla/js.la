@@ -1,7 +1,7 @@
 {
     "current": {
         "title": "",
-        "datetime": "Thursday February 25th, 2016 7-10pm",
+        "datetime": "Thursday February 25th, 2016 6pm",
         "date": "02/25/2016 21:00:00",
         "host": {
             "address": "6360 Sunset Blvd, Los Angeles, CA 90028",
@@ -10,10 +10,10 @@
             "url": "https://www.arclightcinemas.com/en/locations/los-angeles/hollywood/showtimes?origin=Hollywood"
         },
         "drinksjs": {
-            "address": null,
-            "name": null,
+            "address": "6430 Sunset Blvd., Suite 600",
+            "name": "Oxford Road",
             "misc": null,
-            "url": null
+            "url": "https://www.google.com/maps/place/6430%20Sunset%20Blvd.,%20Suite%20600"
         },
         "speakers": [
             {
