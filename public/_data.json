@@ -60,6 +60,32 @@
     "sitemap": {
         "layout": false
     },
+    "team": [
+      {
+        "name": "David Guttman",
+        "avatar": "/images/team/david-guttman.jpg"
+      },
+      {
+        "name": "Mike Matuzak",
+        "avatar": "/images/team/michael-matuzak.jpg"
+      },
+      {
+        "name": "Omar de Armas",
+        "avatar": "/images/team/omar-de-armas.jpg"
+      },
+      {
+        "name": "Jacob Lowe",
+        "avatar": "/images/team/jacob-lowe.jpg"
+      },
+      {
+        "name": "Ryan Regalado",
+        "avatar": "/images/team/ryan-regalado.jpg"
+      },
+      {
+        "name": "Nate Lubeck",
+        "avatar": "/images/team/nate-lubeck.jpg"
+      }
+    ],
     "pastSponsors": [
         {
             "name": "Intel",
