@@ -1,4 +1,15 @@
 div.jsla-content-section.layer-2
   div.jsla-avatar-container
-    img.jsla-avatar(src="#{member.avatar}", alt=speaker )
-  p.jsla-avatarCard-title.u-textAlign--center!= member.name
+    a(href="http://twitter.com/#{member.twitter}")
+      img.jsla-avatar(src="#{member.avatar}", alt=speaker )
+  h3.jsla-avatarCard-title
+    a(href="http://twitter.com/#{member.twitter}")!= member.name
+  p.jsla-avatarCard-link
+    small 
+      i.icon-slack.color-mediumGrey
+      strong #{member.slack}
+  p.jsla-avatarCard-link
+    small
+      a(href="http://twitter.com/#{member.twitter}")
+        i.icon-twitter.color-mediumGrey
+        strong #{member.twitter}

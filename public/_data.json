@@ -63,27 +63,39 @@
     "team": [
       {
         "name": "David Guttman",
-        "avatar": "/images/team/david-guttman.jpg"
+        "avatar": "/images/team/david-guttman.jpg",
+        "twitter": "davidguttman",
+        "slack": "dguttman"
       },
       {
         "name": "Mike Matuzak",
-        "avatar": "/images/team/michael-matuzak.jpg"
+        "avatar": "/images/team/michael-matuzak.jpg",
+        "twitter": "mmatuzak",
+        "slack": "mike"
       },
       {
         "name": "Omar de Armas",
-        "avatar": "/images/team/omar-de-armas.jpg"
+        "avatar": "/images/team/omar-de-armas.jpg",
+        "twitter": "omarcito",
+        "slack": "omarcito"
       },
       {
         "name": "Jacob Lowe",
-        "avatar": "/images/team/jacob-lowe.jpg"
+        "avatar": "/images/team/jacob-lowe.jpg",
+        "twitter": "jcblw",
+        "slack": "jcblw"
       },
       {
         "name": "Ryan Regalado",
-        "avatar": "/images/team/ryan-regalado.jpg"
+        "avatar": "/images/team/ryan-regalado.jpg",
+        "twitter": "design48",
+        "slack": "d48"
       },
       {
         "name": "Nate Lubeck",
-        "avatar": "/images/team/nate-lubeck.jpg"
+        "avatar": "/images/team/nate-lubeck.jpg",
+        "twitter": "etanlubeck",
+        "slack": "etanlubeck"
       }
     ],
     "pastSponsors": [
