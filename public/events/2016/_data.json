@@ -3,6 +3,64 @@
     "events": [
       {
           "title": "",
+          "datetime": "Thursday February 25th, 2016 6pm",
+          "date": "02/25/2016 21:00:00",
+          "host": {
+              "address": "6360 Sunset Blvd, Los Angeles, CA 90028",
+              "name": "ArcLight Hollywood",
+              "misc": "",
+              "url": "https://www.arclightcinemas.com/en/locations/los-angeles/hollywood/showtimes?origin=Hollywood"
+          },
+          "drinksjs": {
+              "address": "6430 Sunset Blvd., Suite 600",
+              "name": "Oxford Road",
+              "misc": null,
+              "url": "https://www.google.com/maps/place/6430%20Sunset%20Blvd.,%20Suite%20600"
+          },
+          "speakers": [
+              {
+                  "title": "Reactive Programming for Couch Potatoes",
+                  "name": "Andrew Hao",
+                  "image": "andrew-hao.jpg",
+                  "twitter": "andrewhao",
+                  "github": "andrewhao",
+                  "description": "You've heard the hype about functional reactive programming and how it's the bee's knees. But... you can't figure out how it works, and all the math-talk and theory jargon that surround the subject are confusing to you.",
+                  "video": null,
+                  "videoimg": null
+              },
+              {
+                  "title": "High performance apps with DoneJS",
+                  "name": "Justin Meyer",
+                  "image": "justin-meyer.jpg",
+                  "twitter": "justinbmeyer",
+                  "github": "justinbmeyer",
+                  "description": "This sentence is wasting your time before you get to useful information. How annoying is that? Annoyed is how your users feel if they can’t see their content immediately while too much JavaScript and CSS downloads too slowly.",
+                  "video": null,
+                  "videoimg": null
+              }
+          ],
+          "sponsors": [
+              {
+                  "name": "Signal Sciences",
+                  "logo": "sponsor-signal-sciences.svg",
+                  "url": "https://signalsciences.com/r/ejsla"
+              },
+              {
+                  "name": "McGraw-Hill Education",
+                  "logo": "sponsor-mcgraw-hill.png",
+                  "url": "http://www.mheducation.com/"
+              },
+              {
+                  "name": "NodeJS Foundation",
+                  "logo": "sponsor-nodejs.png",
+                  "url": "http://live.nodejs.org/events/los-angeles.html"
+              }
+          ],
+          "titoUrl": "https://ti.to/jsla/february-2016",
+          "heroPhotos": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
+      },
+      {
+          "title": "",
           "datetime": "Thursday January 28th, 2016 7-10pm",
           "date": "01/28/2016 21:00:00",
           "host": {
