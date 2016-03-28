@@ -1,60 +1,98 @@
 {
     "current": {
         "title": "",
-        "datetime": "Thursday January 28th, 2016 7-10pm",
-        "date": "01/28/2016 21:00:00",
+        "datetime": "Thursday March 31st, 2016 7pm",
+        "date": "03/31/2016 21:00:00",
         "host": {
-            "address": "580 Portola Plaza, Los Angeles, CA 90095",
-            "name": "UCLA",
-            "misc": "It will be in the Boelter Hall Room 3400",
-            "url": "http://www.ucla.edu/"
+            "address": "1615 16th St, Santa Monica, CA 90404",
+            "name": "Philosophie",
+            "misc": "",
+            "url": "http://philosophie.is/"
         },
         "drinksjs": {
-            "address": "1071 Glendon Ave, Los Angeles, CA 90024",
-            "name": "The Glendon Bar & Kitchen",
-            "misc": "http://www.glendonla.com/",
-            "url": "http://www.yelp.com/biz/the-glendon-bar-and-kitchen-los-angeles"
+            "address": null,
+            "name": null,
+            "misc": null,
+            "url": null
         },
         "speakers": [
             {
-                "title": "Rendering with React",
-                "name": "Michael Jackson",
-                "image": "michael-jackson.jpg",
-                "twitter": "mjackson",
-                "github": "mjackson",
-                "description": "The virtual DOM abstraction created by React.js has changed the way the entire industry thinks about rendering web sites. Let's talk about what makes it special, and the cool stuff we can do with it!",
+                "title": "Bringing Open-Source Practices to Your Day Job",
+                "name": "Ben Coe",
+                "image": "ben-coe.jpg",
+                "twitter": "benjamincoe",
+                "github": "bcoe",
+                "description": "npm has built a community that allows millions of JavaScript developers to build together on a daily basis. From this community great software development practices have emerged: unit-testing, test-coverage, modularity. In this talk Ben will discuss how, and why, you should bring these practices to work with you.",
                 "video": null,
                 "videoimg": null
             },
             {
-                "title": "Scalable Authentication for Microservices and Single Page Apps",
-                "name": "David Guttman",
-                "image": "davidguttman.png",
-                "twitter": "davidguttman",
-                "github": "davidguttman",
-                "description": "Back in the dark ages of 2015, setting up authentication for microservices and SPAs was a huge PITA. Thankfully, it's now 2016 and it's dead simple. We'll go over what's needed for modern authentication and how easy it is to get it all working with Authentic.",
+                "title": "Crashing the Mobile Party",
+                "name": "Brian Satorius",
+                "image": "brian-satorius.jpg",
+                "twitter": "bsatorius",
+                "github": "bsatorius",
+                "description": "Native Apps vs. Hybrid vs. Mobile Web. Can a single Javascript codebase be your cross-platform strategy with today’s tools? Learn through the pitfalls and successes we’ve had at PartyOn, the social music app that uses geolocation, web sockets, and music streaming to improve parties",
                 "video": null,
                 "videoimg": null
             }
         ],
         "sponsors": [
             {
-                "name": "UCLA",
-                "logo": "sponsor-ucla.png",
-                "url": "http://www.ucla.edu/"
+                "name": "Interlincx",
+                "logo": "sponsor-interlincx.png",
+                "url": "http://www.interlincx.com/jsla"
             },
             {
-                "name": "McGraw-Hill Education",
-                "logo": "sponsor-mcgraw-hill.png",
-                "url": "http://www.mheducation.com/"
+                "name": "Philosophie",
+                "logo": "sponsor-philosophie.png",
+                "url": "http://philosophie.is/"
             }
         ],
-        "titoUrl": "https://ti.to/jsla/january-2016",
+        "titoUrl": "https://ti.to/jsla/march-2016",
         "heroPhotos": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
     },
     "sitemap": {
         "layout": false
     },
+    "team": [
+      {
+        "name": "David Guttman",
+        "avatar": "/images/team/david-guttman.jpg",
+        "twitter": "davidguttman",
+        "slack": "dguttman"
+      },
+      {
+        "name": "Mike Matuzak",
+        "avatar": "/images/team/michael-matuzak.jpg",
+        "twitter": "mmatuzak",
+        "slack": "mike"
+      },
+      {
+        "name": "Omar de Armas",
+        "avatar": "/images/team/omar-de-armas.jpg",
+        "twitter": "omarcito",
+        "slack": "omarcito"
+      },
+      {
+        "name": "Jacob Lowe",
+        "avatar": "/images/team/jacob-lowe.jpg",
+        "twitter": "jcblw",
+        "slack": "jcblw"
+      },
+      {
+        "name": "Ryan Regalado",
+        "avatar": "/images/team/ryan-regalado.jpg",
+        "twitter": "design48",
+        "slack": "d48"
+      },
+      {
+        "name": "Nate Lubeck",
+        "avatar": "/images/team/nate-lubeck.jpg",
+        "twitter": "etanlubeck",
+        "slack": "etanlubeck"
+      }
+    ],
     "pastSponsors": [
         {
             "name": "Intel",

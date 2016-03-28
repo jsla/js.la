@@ -1,0 +1,6 @@
+div.jsla-toplevel-container.jsla-content-page
+  h1 The JS.LA Team
+  ul.jsla-teamMember-list.pure-g
+    each teamMember in public._data.team
+      li.jsla-teamMember.pure-u-1-2.pure-u-sm-1
+        != partial("components/speakers/_avatar-card", {member: teamMember, width: 180})
