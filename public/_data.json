@@ -10,10 +10,10 @@
             "url": "http://philosophie.is/"
         },
         "drinksjs": {
-            "address": null,
-            "name": null,
+            "address": "2310 Pico Blvd, Santa Monica, CA 90405",
+            "name": "The Daily Pint",
             "misc": null,
-            "url": null
+            "url": "https://www.yelp.com/biz/the-daily-pint-santa-monica"
         },
         "speakers": [
             {
