@@ -18,12 +18,12 @@ if (!argv.imagepath) {
     print('Missing script arguments')
     usage()
 } else {
-    var filePath = path.resolve(__dirname + '/../' + argv.imagepath)
+    var filePath = path.normalize(__dirname + '/../' + argv.imagepath)
         , pathParts = filePath.split('/')
         // everything but the file name
         , pathBase = pathParts.slice(0, -1)
         , fileName = pathParts.slice(-1)
-        , convertPath = path.resolve(pathBase.join('/') + '/' + fileName[0].split('.')[0] + '.jpg')
+        , convertPath = path.normalize(pathBase.join('/') + '/' + fileName[0].split('.')[0] + '.jpg')
 
     // resizes and crops keeping ratio without skewing
     lwip.open(filePath, function(err, image){
