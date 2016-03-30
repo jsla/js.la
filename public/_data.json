@@ -47,6 +47,11 @@
                 "name": "Philosophie",
                 "logo": "sponsor-philosophie.png",
                 "url": "http://philosophie.is/"
+            },
+            {
+                "name": "McGraw-Hill Education",
+                "logo": "sponsor-mcgraw-hill.png",
+                "url": "http://www.mheducation.com/"
             }
         ],
         "titoUrl": "https://ti.to/jsla/march-2016",
