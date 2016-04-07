@@ -2,6 +2,64 @@
 {
     "events": [
       {
+        "title": "",
+        "datetime": "Thursday March 31st, 2016 7pm",
+        "date": "03/31/2016 21:00:00",
+        "host": {
+            "address": "1615 16th St, Santa Monica, CA 90404",
+            "name": "Philosophie",
+            "misc": "",
+            "url": "http://philosophie.is/"
+        },
+        "drinksjs": {
+            "address": "2310 Pico Blvd, Santa Monica, CA 90405",
+            "name": "The Daily Pint",
+            "misc": null,
+            "url": "https://www.yelp.com/biz/the-daily-pint-santa-monica"
+        },
+        "speakers": [
+            {
+                "title": "Bringing Open-Source Practices to Your Day Job",
+                "name": "Ben Coe",
+                "image": "ben-coe.jpg",
+                "twitter": "benjamincoe",
+                "github": "bcoe",
+                "description": "npm has built a community that allows millions of JavaScript developers to build together on a daily basis. From this community great software development practices have emerged: unit-testing, test-coverage, modularity. In this talk Ben will discuss how, and why, you should bring these practices to work with you.",
+                "video": null,
+                "videoimg": null
+            },
+            {
+                "title": "Crashing the Mobile Party",
+                "name": "Brian Satorius",
+                "image": "brian-satorius.jpg",
+                "twitter": "bsatorius",
+                "github": "bsatorius",
+                "description": "Native Apps vs. Hybrid vs. Mobile Web. Can a single Javascript codebase be your cross-platform strategy with today’s tools? Learn through the pitfalls and successes we’ve had at PartyOn, the social music app that uses geolocation, web sockets, and music streaming to improve parties",
+                "video": null,
+                "videoimg": null
+            }
+        ],
+        "sponsors": [
+            {
+                "name": "Interlincx",
+                "logo": "sponsor-interlincx.png",
+                "url": "http://www.interlincx.com/jsla"
+            },
+            {
+                "name": "Philosophie",
+                "logo": "sponsor-philosophie.png",
+                "url": "http://philosophie.is/"
+            },
+            {
+                "name": "McGraw-Hill Education",
+                "logo": "sponsor-mcgraw-hill.png",
+                "url": "http://www.mheducation.com/"
+            }
+        ],
+        "titoUrl": "https://ti.to/jsla/march-2016",
+        "heroPhotos": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
+      },
+      {
           "title": "",
           "datetime": "Thursday February 25th, 2016 6pm",
           "date": "02/25/2016 21:00:00",
