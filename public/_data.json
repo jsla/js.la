@@ -4,10 +4,10 @@
         "datetime": "Thursday April 28th, 2016 7pm",
         "date": "04/28/2016 21:00:00",
         "host": {
-            "address": "604 Arizona Ave 238, Santa Monica, CA 90401",
-            "name": "MakerSquare",
+            "address": "Los Angeles, CA",
+            "name": "TBA",
             "misc": "",
-            "url": "http://www.makersquare.com/"
+            "url": "https://ti.to/jsla/april-2016"
         },
         "drinksjs": {
             "address": null,
@@ -39,9 +39,9 @@
         ],
         "sponsors": [
             {
-                "name": "MakerSquare",
-                "logo": "host-makersquare.png",
-                "url": "http://www.makersquare.com/"
+                "name": "Interlincx",
+                "logo": "sponsor-interlincx.png",
+                "url": "http://www.interlincx.com/jsla"
             },
             {
                 "name": "McGraw-Hill Education",
