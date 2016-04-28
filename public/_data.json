@@ -10,10 +10,10 @@
             "url": "http://www.makersquare.com/"
         },
         "drinksjs": {
-            "address": null,
-            "name": null,
-            "misc": null,
-            "url": null
+            "address": "205 Broadway, Santa Monica, CA 90401",
+            "name": "The Indepence",
+            "misc": "The are many paid parking structures in the area",
+            "url": "http://www.yelp.com/biz/the-independence-santa-monica"
         },
         "speakers": [
             {
