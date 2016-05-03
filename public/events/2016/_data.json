@@ -2,6 +2,63 @@
 {
     "events": [
       {
+          "title": "",
+          "datetime": "Thursday April 28th, 2016 7pm",
+          "date": "04/28/2016 21:00:00",
+          "host": {
+              "address": "604 Arizona Ave 238, Santa Monica, CA 90401",
+              "name": "MakerSquare",
+              "misc": "",
+              "url": "http://www.makersquare.com/"
+          },
+          "drinksjs": {
+              "address": "205 Broadway, Santa Monica, CA 90401",
+              "name": "The Independence",
+              "misc": "The are many paid parking structures in the area",
+              "url": "http://www.yelp.com/biz/the-independence-santa-monica"
+          },
+          "speakers": [
+              {
+                  "title": "Secure Coding with Node.js",
+                  "name": "Seth Law",
+                  "image": "seth-law.jpg",
+                  "twitter": "sethlaw",
+                  "github": "sethlaw",
+                  "description": "As we all knew it would, JavaScript has finally overtaken the server. This departure from the client to the server introduces a number of security issues and problems that the language does not handle by default. This talk will cover and demonstrate prevalent security vulnerabilities in Node.js applications. In addition, it will address existing security controls within JavaScript code through the use of an intentionally vulnerable Node.js application.",
+                  "video": null,
+                  "videoimg": null
+              },
+              {
+                  "title": "The sad, strange tale of the boy with only two fingers OR an introduction to how binary is used to make websites",
+                  "name": "Mims H. Wright",
+                  "image": "mims-wright.jpg",
+                  "twitter": "mimshwright",
+                  "github": "mimshwright",
+                  "description": "Most people know that computers are \"just a bunch of ones and zeroes,\" but few understand what that really means. How do ones and zeros become numbers, words, and pictures? This talk starts at the beginning, explaining binary numbers and shows how they are used to describe basic datatypes. We begin to uncover what the statement \"just a bunch of ones and zeroes\" really means.",
+                  "video": null,
+                  "videoimg": null
+              }
+          ],
+          "sponsors": [
+              {
+                  "name": "Interlincx",
+                  "logo": "sponsor-interlincx.png",
+                  "url": "http://www.interlincx.com/jsla"
+              },
+              {
+                  "name": "MakerSquare",
+                  "logo": "host-makersquare.png",
+                  "url": "http://www.makersquare.com/"
+              },
+              {
+                  "name": "McGraw-Hill Education",
+                  "logo": "sponsor-mcgraw-hill.png",
+                  "url": "http://www.mheducation.com/"
+              }
+          ],
+          "titoUrl": "https://ti.to/jsla/april-2016"
+      },
+      {
         "title": "",
         "datetime": "Thursday March 31st, 2016 7pm",
         "date": "03/31/2016 21:00:00",
