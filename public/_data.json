@@ -1,38 +1,38 @@
 {
     "current": {
         "title": "",
-        "datetime": "Thursday March 31st, 2016 7pm",
-        "date": "03/31/2016 21:00:00",
+        "datetime": "Thursday May 26th, 2016 7pm",
+        "date": "05/26/2016 21:00:00",
         "host": {
-            "address": "1615 16th St, Santa Monica, CA 90404",
-            "name": "Philosophie",
-            "misc": "",
-            "url": "http://philosophie.is/"
+            "address": "11150 Santa Monica Blvd, Los Angeles, CA 90025",
+            "name": "MarketShare",
+            "misc": "Parking is available on the street by meter, and there is paid parking next door.",
+            "url": "http://www.makersquare.com/"
         },
         "drinksjs": {
-            "address": "2310 Pico Blvd, Santa Monica, CA 90405",
-            "name": "The Daily Pint",
+            "address": null,
+            "name": null,
             "misc": null,
-            "url": "https://www.yelp.com/biz/the-daily-pint-santa-monica"
+            "url": null
         },
         "speakers": [
             {
-                "title": "Bringing Open-Source Practices to Your Day Job",
-                "name": "Ben Coe",
-                "image": "ben-coe.jpg",
-                "twitter": "benjamincoe",
-                "github": "bcoe",
-                "description": "npm has built a community that allows millions of JavaScript developers to build together on a daily basis. From this community great software development practices have emerged: unit-testing, test-coverage, modularity. In this talk Ben will discuss how, and why, you should bring these practices to work with you.",
+                "title": "Code without Keywords",
+                "name": "Sam L'ecuyer",
+                "image": "sam-lecuyer.jpg",
+                "twitter": "cateches",
+                "github": "samlecuyer",
+                "description": "Let's explore math without numeric literals, data without vars, and high order functions as primitives.  Basically, let's talk Church Encoding and build real programs that don't use any construct except => functions.",
                 "video": null,
                 "videoimg": null
             },
             {
-                "title": "Crashing the Mobile Party",
-                "name": "Brian Satorius",
-                "image": "brian-satorius.jpg",
-                "twitter": "bsatorius",
-                "github": "bsatorius",
-                "description": "Native Apps vs. Hybrid vs. Mobile Web. Can a single Javascript codebase be your cross-platform strategy with today’s tools? Learn through the pitfalls and successes we’ve had at PartyOn, the social music app that uses geolocation, web sockets, and music streaming to improve parties",
+                "title": "Destroyer of the Monolith APIs",
+                "name": "David Slone",
+                "image": "david-slone.jpg",
+                "twitter": "dbslone",
+                "github": "dbslone",
+                "description": "Falcor is a framework that utilizes JSON Graph a new convention for modeling graph data. JSON Graph allows delivery an entire graph object in a very simple javascript object that allows Falcor to return data from multiple microservices simultaneously. This talk will cover the basics of JSON Graph beginning with making your first client side request to understanding the data being returned from a Falcor Router and how to create routes in Falcor router that return data from multiple microservices in a single request.",
                 "video": null,
                 "videoimg": null
             }
@@ -44,12 +44,12 @@
                 "url": "http://www.interlincx.com/jsla"
             },
             {
-                "name": "Philosophie",
-                "logo": "sponsor-philosophie.png",
-                "url": "http://philosophie.is/"
+                "name": "MarketShare",
+                "logo": "sponsor-marketshare.svg",
+                "url": "http://www.marketshare.com/"
             }
         ],
-        "titoUrl": "https://ti.to/jsla/march-2016",
+        "titoUrl": "https://ti.to/jsla/may-2016",
         "heroPhotos": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
     },
     "sitemap": {
