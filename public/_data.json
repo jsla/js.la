@@ -7,13 +7,13 @@
             "address": "11150 Santa Monica Blvd, Los Angeles, CA 90025",
             "name": "MarketShare",
             "misc": "Parking is available on the street by meter, and there is paid parking next door.",
-            "url": "http://www.makersquare.com/"
+            "url": "http://www.marketshare.com/"
         },
         "drinksjs": {
-            "address": null,
-            "name": null,
+            "address": "10929 W Pico Blvd, Los Angeles, CA 90064",
+            "name": "The Wellesbourne",
             "misc": null,
-            "url": null
+            "url": "http://www.yelp.com/biz/the-wellesbourne-los-angeles"
         },
         "speakers": [
             {
