@@ -1,65 +1,98 @@
 {
     "current": {
         "title": "",
-        "datetime": "Thursday February 25th, 2016 7-10pm",
-        "date": "02/25/2016 21:00:00",
+        "datetime": "Thursday May 26th, 2016 7pm",
+        "date": "05/26/2016 21:00:00",
         "host": {
-            "address": "6360 Sunset Blvd, Los Angeles, CA 90028",
-            "name": "ArcLight Hollywood",
-            "misc": "",
-            "url": "https://www.arclightcinemas.com/en/locations/los-angeles/hollywood/showtimes?origin=Hollywood"
+            "address": "11150 Santa Monica Blvd, Los Angeles, CA 90025",
+            "name": "MarketShare",
+            "misc": "Payed, $5, parking is available south of the location at the Equinox parking structure. There is also nearby street meter parking. Just come into the lobby of the building and the security guard will let you in.",
+            "url": "http://www.marketshare.com/"
         },
         "drinksjs": {
-            "address": null,
-            "name": null,
+            "address": "10929 W Pico Blvd, Los Angeles, CA 90064",
+            "name": "The Wellesbourne",
             "misc": null,
-            "url": null
+            "url": "http://www.yelp.com/biz/the-wellesbourne-los-angeles"
         },
         "speakers": [
             {
-                "title": "Reactive Programming for Couch Potatoes",
-                "name": "Andrew Hao",
-                "image": "andrew-hao.jpg",
-                "twitter": "andrewhao",
-                "github": "andrewhao",
-                "description": "You've heard the hype about functional reactive programming and how it's the bee's knees. But... you can't figure out how it works, and all the math-talk and theory jargon that surround the subject are confusing to you.",
+                "title": "Code without Keywords",
+                "name": "Sam L'ecuyer",
+                "image": "sam-lecuyer.jpg",
+                "twitter": "cateches",
+                "github": "samlecuyer",
+                "description": "Let's explore math without numeric literals, data without vars, and high order functions as primitives.  Basically, let's talk Church Encoding and build real programs that don't use any construct except => functions.",
                 "video": null,
                 "videoimg": null
             },
             {
-                "title": "High performance apps with DoneJS",
-                "name": "Justin Meyer",
-                "image": "justin-meyer.jpg",
-                "twitter": "justinbmeyer",
-                "github": "justinbmeyer",
-                "description": "This sentence is wasting your time before you get to useful information. How annoying is that? Annoyed is how your users feel if they can’t see their content immediately while too much JavaScript and CSS downloads too slowly.",
+                "title": "Destroyer of the Monolith APIs",
+                "name": "David Slone",
+                "image": "david-slone.jpg",
+                "twitter": "dbslone",
+                "github": "dbslone",
+                "description": "Falcor is a framework that utilizes JSON Graph a new convention for modeling graph data. JSON Graph allows delivery an entire graph object in a very simple javascript object that allows Falcor to return data from multiple microservices simultaneously. This talk will cover the basics of JSON Graph beginning with making your first client side request to understanding the data being returned from a Falcor Router and how to create routes in Falcor router that return data from multiple microservices in a single request.",
                 "video": null,
                 "videoimg": null
             }
         ],
         "sponsors": [
             {
-                "name": "Signal Sciences",
-                "logo": "sponsor-signal-sciences.svg",
-                "url": "https://signalsciences.com/r/ejsla"
+                "name": "Interlincx",
+                "logo": "sponsor-interlincx.png",
+                "url": "http://www.interlincx.com/jsla"
             },
             {
-                "name": "McGraw-Hill Education",
-                "logo": "sponsor-mcgraw-hill.png",
-                "url": "http://www.mheducation.com/"
-            },
-            {
-                "name": "NodeJS Foundation",
-                "logo": "sponsor-nodejs.png",
-                "url": "http://live.nodejs.org/events/los-angeles.html"
+                "name": "MarketShare",
+                "logo": "sponsor-marketshare.svg",
+                "url": "http://www.marketshare.com/"
             }
         ],
-        "titoUrl": "https://ti.to/jsla/february-2016",
+        "titoUrl": "https://ti.to/jsla/may-2016",
         "heroPhotos": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
     },
     "sitemap": {
         "layout": false
     },
+    "team": [
+      {
+        "name": "David Guttman",
+        "avatar": "/images/team/david-guttman.jpg",
+        "twitter": "davidguttman",
+        "slack": "dguttman"
+      },
+      {
+        "name": "Mike Matuzak",
+        "avatar": "/images/team/michael-matuzak.jpg",
+        "twitter": "mmatuzak",
+        "slack": "mike"
+      },
+      {
+        "name": "Omar de Armas",
+        "avatar": "/images/team/omar-de-armas.jpg",
+        "twitter": "omarcito",
+        "slack": "omarcito"
+      },
+      {
+        "name": "Jacob Lowe",
+        "avatar": "/images/team/jacob-lowe.jpg",
+        "twitter": "jcblw",
+        "slack": "jcblw"
+      },
+      {
+        "name": "Ryan Regalado",
+        "avatar": "/images/team/ryan-regalado.jpg",
+        "twitter": "design48",
+        "slack": "d48"
+      },
+      {
+        "name": "Nate Lubeck",
+        "avatar": "/images/team/nate-lubeck.jpg",
+        "twitter": "etanlubeck",
+        "slack": "etanlubeck"
+      }
+    ],
     "pastSponsors": [
         {
             "name": "Intel",

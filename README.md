@@ -6,7 +6,7 @@ Please feel free to fork this and make it better. :yellow_heart:
 
 # setup
 
-To get JS.LA working on your local enviroment up and running you will need [nodejs](http://nodejs.org/). After installing clone down the repo.
+To get js.la working on your local enviroment up and running you will need [nodejs](http://nodejs.org/). After installing clone down the repo.
 
     $ git clone git@github.com:jsla/js.la.git
     $ cd js.la
@@ -23,12 +23,7 @@ Everything will rebuild automatically except for the Javascript that you will ne
 
     $ npm run build
 
-## notes
+If you need to create a speaker avatar, we normalize them to be 160x160. Run the command on an existing image that hasn't been converted yet like so
 
-Right now we do not have a script to resize images maybe in to future :), but the simpliest way to do it is to have (imagemagick)[http://www.imagemagick.org/] installed. Then run this command on avatars.
+    $ npm run speakerimages -- --imagepath=public/images/speakers/avatarname.jpeg
 
-```shell
- convert ${SPEAKERDIR}/${USERNAME}.${FILE_EXT} -resize 160x160^ -gravity center -extent 160x160 ${SPEAKERDIR}/${USERNAME}.jpg
-```
-
-Then replace those variables with the correct location of the speakers avatars, and the username of the speaker. This will require you to have already placed the avatar in the that directory. Also the old file if its not overwritten should be removed. The size is 160x160 because the larest display size is 80 and 2x dpi would be 160.
