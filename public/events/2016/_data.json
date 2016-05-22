@@ -25,8 +25,8 @@
                   "twitter": "sethlaw",
                   "github": "sethlaw",
                   "description": "As we all knew it would, JavaScript has finally overtaken the server. This departure from the client to the server introduces a number of security issues and problems that the language does not handle by default. This talk will cover and demonstrate prevalent security vulnerabilities in Node.js applications. In addition, it will address existing security controls within JavaScript code through the use of an intentionally vulnerable Node.js application.",
-                  "video": null,
-                  "videoimg": null
+                  "video": "https://www.youtube.com/watch?v=jloaI6ShcD8",
+                  "videoimg": "2016-04_JSLA_title_speaker1_small.png"
               },
               {
                   "title": "The sad, strange tale of the boy with only two fingers OR an introduction to how binary is used to make websites",
@@ -35,8 +35,8 @@
                   "twitter": "mimshwright",
                   "github": "mimshwright",
                   "description": "Most people know that computers are \"just a bunch of ones and zeroes,\" but few understand what that really means. How do ones and zeros become numbers, words, and pictures? This talk starts at the beginning, explaining binary numbers and shows how they are used to describe basic datatypes. We begin to uncover what the statement \"just a bunch of ones and zeroes\" really means.",
-                  "video": null,
-                  "videoimg": null
+                  "video": "https://www.youtube.com/watch?v=WG5646x0nIo",
+                  "videoimg": "2016-04_JSLA_title_speaker2_small.png"
               }
           ],
           "sponsors": [
