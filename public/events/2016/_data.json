@@ -3,6 +3,59 @@
     "events": [
       {
           "title": "",
+          "datetime": "Thursday May 26th, 2016 7pm",
+          "date": "05/26/2016 21:00:00",
+          "host": {
+              "address": "11150 Santa Monica Blvd, Los Angeles, CA 90025",
+              "name": "MarketShare",
+              "misc": "Payed, $5, parking is available south of the location at the Equinox parking structure. There is also nearby street meter parking. Just come into the lobby of the building and the security guard will let you in.",
+              "url": "http://www.marketshare.com/"
+          },
+          "drinksjs": {
+              "address": "10929 W Pico Blvd, Los Angeles, CA 90064",
+              "name": "The Wellesbourne",
+              "misc": null,
+              "url": "http://www.yelp.com/biz/the-wellesbourne-los-angeles"
+          },
+          "speakers": [
+              {
+                  "title": "Code without Keywords",
+                  "name": "Sam L'ecuyer",
+                  "image": "sam-lecuyer.jpg",
+                  "twitter": "cateches",
+                  "github": "samlecuyer",
+                  "description": "Let's explore math without numeric literals, data without vars, and high order functions as primitives.  Basically, let's talk Church Encoding and build real programs that don't use any construct except => functions.",
+                  "video": "https://www.youtube.com/watch?v=GgNYcEWv72Y",
+                  "videoimg": "2016-05_JSLA_title_speaker1_small.png"
+              },
+              {
+                  "title": "Destroyer of the Monolith APIs",
+                  "name": "David Slone",
+                  "image": "david-slone.jpg",
+                  "twitter": "dbslone",
+                  "github": "dbslone",
+                  "description": "Falcor is a framework that utilizes JSON Graph a new convention for modeling graph data. JSON Graph allows delivery an entire graph object in a very simple javascript object that allows Falcor to return data from multiple microservices simultaneously. This talk will cover the basics of JSON Graph beginning with making your first client side request to understanding the data being returned from a Falcor Router and how to create routes in Falcor router that return data from multiple microservices in a single request.",
+                  "video": "https://www.youtube.com/watch?v=vB7KcfqzEBc",
+                  "videoimg": "2016-05_JSLA_title_speaker2_small.png"
+              }
+          ],
+          "sponsors": [
+              {
+                  "name": "Interlincx",
+                  "logo": "sponsor-interlincx.png",
+                  "url": "http://www.interlincx.com/jsla"
+              },
+              {
+                  "name": "MarketShare",
+                  "logo": "sponsor-marketshare.svg",
+                  "url": "http://www.marketshare.com/"
+              }
+          ],
+          "titoUrl": "https://ti.to/jsla/may-2016",
+          "heroPhotos": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
+      },
+      {
+          "title": "",
           "datetime": "Thursday April 28th, 2016 7pm",
           "date": "04/28/2016 21:00:00",
           "host": {
@@ -25,8 +78,8 @@
                   "twitter": "sethlaw",
                   "github": "sethlaw",
                   "description": "As we all knew it would, JavaScript has finally overtaken the server. This departure from the client to the server introduces a number of security issues and problems that the language does not handle by default. This talk will cover and demonstrate prevalent security vulnerabilities in Node.js applications. In addition, it will address existing security controls within JavaScript code through the use of an intentionally vulnerable Node.js application.",
-                  "video": null,
-                  "videoimg": null
+                  "video": "https://www.youtube.com/watch?v=jloaI6ShcD8",
+                  "videoimg": "2016-04_JSLA_title_speaker1_small.png"
               },
               {
                   "title": "The sad, strange tale of the boy with only two fingers OR an introduction to how binary is used to make websites",
@@ -35,8 +88,8 @@
                   "twitter": "mimshwright",
                   "github": "mimshwright",
                   "description": "Most people know that computers are \"just a bunch of ones and zeroes,\" but few understand what that really means. How do ones and zeros become numbers, words, and pictures? This talk starts at the beginning, explaining binary numbers and shows how they are used to describe basic datatypes. We begin to uncover what the statement \"just a bunch of ones and zeroes\" really means.",
-                  "video": null,
-                  "videoimg": null
+                  "video": "https://www.youtube.com/watch?v=WG5646x0nIo",
+                  "videoimg": "2016-04_JSLA_title_speaker2_small.png"
               }
           ],
           "sponsors": [
