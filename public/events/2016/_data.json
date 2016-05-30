@@ -14,7 +14,7 @@
           "drinksjs": {
               "address": "10929 W Pico Blvd, Los Angeles, CA 90064",
               "name": "The Wellesbourne",
-              "misc": "https://www.youtube.com/watch?v=GgNYcEWv72Y",
+              "misc": null,
               "url": "http://www.yelp.com/biz/the-wellesbourne-los-angeles"
           },
           "speakers": [
@@ -25,7 +25,7 @@
                   "twitter": "cateches",
                   "github": "samlecuyer",
                   "description": "Let's explore math without numeric literals, data without vars, and high order functions as primitives.  Basically, let's talk Church Encoding and build real programs that don't use any construct except => functions.",
-                  "video": null,
+                  "video": "https://www.youtube.com/watch?v=GgNYcEWv72Y",
                   "videoimg": "2016-05_JSLA_title_speaker1_small.png"
               },
               {
