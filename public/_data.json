@@ -1,65 +1,99 @@
 {
     "current": {
         "title": "",
-        "datetime": "Thursday February 25th, 2016 6pm",
-        "date": "02/25/2016 21:00:00",
+        "datetime": "Thursday June 30th, 2016 7pm",
+        "date": "06/30/2016 19:00:00",
         "host": {
-            "address": "6360 Sunset Blvd, Los Angeles, CA 90028",
-            "name": "ArcLight Hollywood",
-            "misc": "",
-            "url": "https://www.arclightcinemas.com/en/locations/los-angeles/hollywood/showtimes?origin=Hollywood"
+            "address": "13335 Maxella Ave Marina Del Rey, CA 90292",
+            "name": "Dollar Shave Club",
+            "misc": null,
+            "url": "http://www.dollarshaveclub.com/"
         },
         "drinksjs": {
-            "address": "6430 Sunset Blvd., Suite 600",
-            "name": "Oxford Road",
+            "address": null,
+            "name": null,
             "misc": null,
-            "url": "https://www.google.com/maps/place/6430%20Sunset%20Blvd.,%20Suite%20600"
+            "url": null
         },
         "speakers": [
             {
-                "title": "Reactive Programming for Couch Potatoes",
-                "name": "Andrew Hao",
-                "image": "andrew-hao.jpg",
-                "twitter": "andrewhao",
-                "github": "andrewhao",
-                "description": "You've heard the hype about functional reactive programming and how it's the bee's knees. But... you can't figure out how it works, and all the math-talk and theory jargon that surround the subject are confusing to you.",
+                "title": "Discovering our Prismatic Reality",
+                "name": "Isaac Cohen",
+                "image": "isaac-cohen.jpg",
+                "twitter": "cabbibo",
+                "github": "cabbibo",
+                "description": null,
                 "video": null,
                 "videoimg": null
             },
             {
-                "title": "High performance apps with DoneJS",
-                "name": "Justin Meyer",
-                "image": "justin-meyer.jpg",
-                "twitter": "justinbmeyer",
-                "github": "justinbmeyer",
-                "description": "This sentence is wasting your time before you get to useful information. How annoying is that? Annoyed is how your users feel if they can’t see their content immediately while too much JavaScript and CSS downloads too slowly.",
+                "title": "Constructing DSLs to Automate Automation",
+                "name": "Prakash Venkatraman",
+                "image": "prakash-venkatraman.jpg",
+                "twitter": "PrakashVenkatra",
+                "github": "dopatraman",
+                "description": null,
                 "video": null,
                 "videoimg": null
             }
+
         ],
         "sponsors": [
             {
-                "name": "Signal Sciences",
-                "logo": "sponsor-signal-sciences.svg",
-                "url": "https://signalsciences.com/r/ejsla"
+                "name": "Interlincx",
+                "logo": "sponsor-interlincx.png",
+                "url": "http://www.interlincx.com/jsla"
             },
             {
-                "name": "McGraw-Hill Education",
-                "logo": "sponsor-mcgraw-hill.png",
-                "url": "http://www.mheducation.com/"
-            },
-            {
-                "name": "NodeJS Foundation",
-                "logo": "sponsor-nodejs.png",
-                "url": "http://live.nodejs.org/events/los-angeles.html"
+                "name": "Dollar Shave Club",
+                "logo": "sponsor-dollar-shave-club.png",
+                "url": "http://dollarshaveclub.com/"
             }
         ],
-        "titoUrl": "https://ti.to/jsla/february-2016",
+        "titoUrl": "https://ti.to/jsla/june-2016",
         "heroPhotos": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
     },
     "sitemap": {
         "layout": false
     },
+    "team": [
+      {
+        "name": "David Guttman",
+        "avatar": "/images/team/david-guttman.jpg",
+        "twitter": "davidguttman",
+        "slack": "dguttman"
+      },
+      {
+        "name": "Mike Matuzak",
+        "avatar": "/images/team/michael-matuzak.jpg",
+        "twitter": "mmatuzak",
+        "slack": "mike"
+      },
+      {
+        "name": "Omar de Armas",
+        "avatar": "/images/team/omar-de-armas.jpg",
+        "twitter": "omarcito",
+        "slack": "omarcito"
+      },
+      {
+        "name": "Jacob Lowe",
+        "avatar": "/images/team/jacob-lowe.jpg",
+        "twitter": "jcblw",
+        "slack": "jcblw"
+      },
+      {
+        "name": "Ryan Regalado",
+        "avatar": "/images/team/ryan-regalado.jpg",
+        "twitter": "design48",
+        "slack": "d48"
+      },
+      {
+        "name": "Nate Lubeck",
+        "avatar": "/images/team/nate-lubeck.jpg",
+        "twitter": "etanlubeck",
+        "slack": "etanlubeck"
+      }
+    ],
     "pastSponsors": [
         {
             "name": "Intel",
