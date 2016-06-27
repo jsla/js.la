@@ -1,13 +1,13 @@
 {
     "current": {
         "title": "",
-        "datetime": "Thursday May 26th, 2016 7pm",
-        "date": "05/26/2016 21:00:00",
+        "datetime": "Thursday June 30th, 2016 7pm",
+        "date": "06/30/2016 19:00:00",
         "host": {
-            "address": "11150 Santa Monica Blvd, Los Angeles, CA 90025",
-            "name": "MarketShare",
-            "misc": "Parking is available on the street by meter, and there is paid parking next door.",
-            "url": "http://www.makersquare.com/"
+            "address": "13335 Maxella Ave Marina Del Rey, CA 90292",
+            "name": "Dollar Shave Club",
+            "misc": "Limited parking available in the front lot. Otherwise, street parking is available",
+            "url": "http://www.dollarshaveclub.com/"
         },
         "drinksjs": {
             "address": null,
@@ -17,25 +17,26 @@
         },
         "speakers": [
             {
-                "title": "Code without Keywords",
-                "name": "Sam L'ecuyer",
-                "image": "sam-lecuyer.jpg",
-                "twitter": "cateches",
-                "github": "samlecuyer",
-                "description": "Let's explore math without numeric literals, data without vars, and high order functions as primitives.  Basically, let's talk Church Encoding and build real programs that don't use any construct except => functions.",
+                "title": "Discovering our Prismatic Reality",
+                "name": "Isaac Cohen",
+                "image": "isaac-cohen.jpg",
+                "twitter": "cabbibo",
+                "github": "cabbibo",
+                "description": null,
                 "video": null,
                 "videoimg": null
             },
             {
-                "title": "Destroyer of the Monolith APIs",
-                "name": "David Slone",
-                "image": "david-slone.jpg",
-                "twitter": "dbslone",
-                "github": "dbslone",
-                "description": "Falcor is a framework that utilizes JSON Graph a new convention for modeling graph data. JSON Graph allows delivery an entire graph object in a very simple javascript object that allows Falcor to return data from multiple microservices simultaneously. This talk will cover the basics of JSON Graph beginning with making your first client side request to understanding the data being returned from a Falcor Router and how to create routes in Falcor router that return data from multiple microservices in a single request.",
+                "title": "Constructing DSLs to Automate Automation",
+                "name": "Prakash Venkatraman",
+                "image": "prakash-venkatraman.jpg",
+                "twitter": "PrakashVenkatra",
+                "github": "dopatraman",
+                "description": null,
                 "video": null,
                 "videoimg": null
             }
+
         ],
         "sponsors": [
             {
@@ -44,12 +45,12 @@
                 "url": "http://www.interlincx.com/jsla"
             },
             {
-                "name": "MarketShare",
-                "logo": "sponsor-marketshare.svg",
-                "url": "http://www.marketshare.com/"
+                "name": "Dollar Shave Club",
+                "logo": "sponsor-dollar-shave-club.png",
+                "url": "http://dollarshaveclub.com/"
             }
         ],
-        "titoUrl": "https://ti.to/jsla/may-2016",
+        "titoUrl": "https://ti.to/jsla/june-2016",
         "heroPhotos": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
     },
     "sitemap": {

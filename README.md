@@ -6,7 +6,7 @@ Please feel free to fork this and make it better. :yellow_heart:
 
 # setup
 
-To get JS.LA working on your local enviroment up and running you will need [nodejs](http://nodejs.org/). After installing clone down the repo.
+To get js.la working on your local enviroment up and running you will need [nodejs](http://nodejs.org/). After installing clone down the repo.
 
     $ git clone git@github.com:jsla/js.la.git
     $ cd js.la
