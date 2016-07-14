@@ -1,13 +1,13 @@
 {
     "current": {
         "title": "",
-        "datetime": "Thursday June 30th, 2016 7pm",
-        "date": "06/30/2016 19:00:00",
+        "datetime": "Thursday July 28th, 2016 7pm",
+        "date": "07/28/2016 19:00:00",
         "host": {
-            "address": "13335 Maxella Ave Marina Del Rey, CA 90292",
-            "name": "Dollar Shave Club",
-            "misc": "Limited parking available in the front lot. Otherwise, street parking is available",
-            "url": "http://www.dollarshaveclub.com/"
+            "address": "5300 Beethoven St, Los Angeles, CA 90066",
+            "name": "Codesmith",
+            "misc": "Parking available on the street",
+            "url": "https://codesmith.io/"
         },
         "drinksjs": {
             "address": null,
@@ -17,26 +17,25 @@
         },
         "speakers": [
             {
-                "title": "Discovering our Prismatic Reality",
-                "name": "Isaac Cohen",
-                "image": "isaac-cohen.jpg",
-                "twitter": "cabbibo",
-                "github": "cabbibo",
+                "title": "Javascript Testing - Unit tests, TDD, BDD, IDK.",
+                "name": "Sara Raasch",
+                "image": "sara-raasch.jpg",
+                "twitter": "sararaasch",
+                "github": "SaraaraS",
                 "description": null,
                 "video": null,
                 "videoimg": null
             },
             {
-                "title": "Constructing DSLs to Automate Automation",
-                "name": "Prakash Venkatraman",
-                "image": "prakash-venkatraman.jpg",
-                "twitter": "PrakashVenkatra",
-                "github": "dopatraman",
+                "title": "Building a Developer Experience on Kubernetes and Docker",
+                "name": "Albert Wong",
+                "image": "albert-wong.jpg",
+                "twitter": "alberttwong",
+                "github": "alberttwong",
                 "description": null,
                 "video": null,
                 "videoimg": null
             }
-
         ],
         "sponsors": [
             {
@@ -45,12 +44,12 @@
                 "url": "http://www.interlincx.com/jsla"
             },
             {
-                "name": "Dollar Shave Club",
-                "logo": "sponsor-dollar-shave-club.png",
-                "url": "http://dollarshaveclub.com/"
+                "name": "Codesmith",
+                "logo": "host-codesmith.png",
+                "url": "https://codesmith.io/"
             }
         ],
-        "titoUrl": "https://ti.to/jsla/june-2016",
+        "titoUrl": "https://ti.to/jsla/july-2016",
         "heroPhotos": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
     },
     "sitemap": {

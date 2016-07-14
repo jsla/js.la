@@ -1,7 +1,61 @@
 
 {
     "events": [
-      {
+        {
+            "title": "",
+            "datetime": "Thursday June 30th, 2016 7pm",
+            "date": "06/30/2016 19:00:00",
+            "host": {
+                "address": "13335 Maxella Ave Marina Del Rey, CA 90292",
+                "name": "Dollar Shave Club",
+                "misc": "Limited parking available in the front lot. Otherwise, street parking is available",
+                "url": "http://www.dollarshaveclub.com/"
+            },
+            "drinksjs": {
+                "address": "2536 Lincoln Boulevard, Venice, CA 90291",
+                "name": "The Lincoln",
+                "misc": null,
+                "url": "http://www.yelp.com/biz/the-lincoln-los-angeles"
+            },
+            "speakers": [
+                {
+                    "title": "Discovering our Prismatic Reality",
+                    "name": "Isaac Cohen",
+                    "image": "isaac-cohen.jpg",
+                    "twitter": "cabbibo",
+                    "github": "cabbibo",
+                    "description": null,
+                    "video": null,
+                    "videoimg": null
+                },
+                {
+                    "title": "Constructing DSLs to Automate Automation",
+                    "name": "Prakash Venkatraman",
+                    "image": "prakash-venkatraman.jpg",
+                    "twitter": "PrakashVenkatra",
+                    "github": "dopatraman",
+                    "description": null,
+                    "video": null,
+                    "videoimg": null
+                }
+
+            ],
+            "sponsors": [
+                {
+                    "name": "Indeed",
+                    "logo": "sponsor-indeed.png",
+                    "url": "http://www.indeed.com/prime?sid=socalnodejs&kw=june2016"
+                },
+                {
+                    "name": "Dollar Shave Club",
+                    "logo": "sponsor-dollar-shave-club.png",
+                    "url": "http://dollarshaveclub.com/"
+                }
+            ],
+            "titoUrl": "https://ti.to/jsla/june-2016",
+            "heroPhotos": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
+        },
+        {
           "title": "",
           "datetime": "Thursday May 26th, 2016 7pm",
           "date": "05/26/2016 21:00:00",
