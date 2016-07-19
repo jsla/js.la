@@ -25,8 +25,8 @@
                     "twitter": "cabbibo",
                     "github": "cabbibo",
                     "description": null,
-                    "video": null,
-                    "videoimg": null
+                    "video": "https://www.youtube.com/watch?v=efcL6yv4DBg",
+                    "videoimg": "2016-06_JSLA_title_speaker1_small.png"
                 },
                 {
                     "title": "Constructing DSLs to Automate Automation",
@@ -34,9 +34,9 @@
                     "image": "prakash-venkatraman.jpg",
                     "twitter": "PrakashVenkatra",
                     "github": "dopatraman",
-                    "description": null,
-                    "video": null,
-                    "videoimg": null
+                    "description": "There are plenty of tools out there that make developers' jobs easy. But not all go far enough. Sometimes to automate the things that matter you need instructions specific enough to cover your project but abstract enough to be reusable. I developed a domain specific language for deploying web apps. The moral of the story is: don't just use languages.  Make them.",
+                    "video": "https://www.youtube.com/watch?v=qcF3omniwtY",
+                    "videoimg": "2016-06_JSLA_title_speaker2_small.png"
                 }
 
             ],
