@@ -27,11 +27,11 @@
                 "videoimg": null
             },
             {
-                "title": "Building a Developer Experience on Kubernetes and Docker",
-                "name": "Albert Wong",
-                "image": "albert-wong.jpg",
-                "twitter": "alberttwong",
-                "github": "alberttwong",
+                "title": "TBA",
+                "name": "Kurtis Rainbolt-Greene",
+                "image": "kurtis-rainbolt-greene.jpg",
+                "twitter": "krainboltgreene",
+                "github": "krainboltgreene",
                 "description": null,
                 "video": null,
                 "videoimg": null
@@ -39,9 +39,9 @@
         ],
         "sponsors": [
             {
-                "name": "Interlincx",
-                "logo": "sponsor-interlincx.png",
-                "url": "http://www.interlincx.com/jsla"
+                "name": "Remine",
+                "logo": "sponsor-remine.png",
+                "url": "http://remine.com/"
             },
             {
                 "name": "Codesmith",
