@@ -1,6 +1,59 @@
 
 {
     "events": [
+      {
+          "title": "",
+          "datetime": "Thursday July 28th, 2016 7pm",
+          "date": "07/28/2016 19:00:00",
+          "host": {
+              "address": "5300 Beethoven St, Los Angeles, CA 90066",
+              "name": "Codesmith",
+              "misc": "Parking available on the street",
+              "url": "https://codesmith.io/"
+          },
+          "drinksjs": {
+              "address": "12223 W Washington Blvd, Culver City, CA 90066",
+              "name": "Alley Lounge",
+              "misc": null,
+              "url": "http://www.yelp.com/biz/alley-lounge-culver-city-2"
+          },
+          "speakers": [
+              {
+                  "title": "Javascript Testing - Unit tests, TDD, BDD, IDK.",
+                  "name": "Sara Raasch",
+                  "image": "sara-raasch.jpg",
+                  "twitter": "sararaasch",
+                  "github": "SaraaraS",
+                  "description": null,
+                  "video": null,
+                  "videoimg": null
+              },
+              {
+                  "title": "Using Babel in a Modern Working Environment",
+                  "name": "Kurtis Rainbolt-Greene",
+                  "image": "kurtis-rainbolt-greene.jpg",
+                  "twitter": "krainboltgreene",
+                  "github": "krainboltgreene",
+                  "description": null,
+                  "video": null,
+                  "videoimg": null
+              }
+          ],
+          "sponsors": [
+              {
+                  "name": "Remine",
+                  "logo": "sponsor-remine.png",
+                  "url": "http://remine.com/"
+              },
+              {
+                  "name": "Codesmith",
+                  "logo": "host-codesmith.png",
+                  "url": "https://codesmith.io/"
+              }
+          ],
+          "titoUrl": "https://ti.to/jsla/july-2016",
+          "heroPhotos": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
+        },
         {
             "title": "",
             "datetime": "Thursday June 30th, 2016 7pm",

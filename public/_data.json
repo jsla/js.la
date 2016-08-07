@@ -1,37 +1,37 @@
 {
     "current": {
         "title": "",
-        "datetime": "Thursday July 28th, 2016 7pm",
-        "date": "07/28/2016 19:00:00",
+        "datetime": "Thursday August 25th, 2016 7pm",
+        "date": "08/25/2016 19:00:00",
         "host": {
-            "address": "5300 Beethoven St, Los Angeles, CA 90066",
-            "name": "Codesmith",
-            "misc": "Parking available on the street",
-            "url": "https://codesmith.io/"
+            "address": "1615 16th St, Santa Monica, CA 90404",
+            "name": "Philosophie",
+            "misc": "Limited parking in parking lot, street parking, and building is super close the 17th Street/Santa Monica College station 🚃",
+            "url": "http://philosophie.is/"
         },
         "drinksjs": {
-            "address": "12223 W Washington Blvd, Culver City, CA 90066",
-            "name": "Alley Lounge",
+            "address": null,
+            "name": null,
             "misc": null,
-            "url": "http://www.yelp.com/biz/alley-lounge-culver-city-2"
+            "url": null
         },
         "speakers": [
             {
-                "title": "Javascript Testing - Unit tests, TDD, BDD, IDK.",
-                "name": "Sara Raasch",
-                "image": "sara-raasch.jpg",
-                "twitter": "sararaasch",
-                "github": "SaraaraS",
+                "title": "Why d3 will be the standard for web visualization",
+                "name": "Aman Tsegai",
+                  "image": "aman-tsegai.jpg",
+                "twitter": "ata_aman",
+                "github": "ata-aman",
                 "description": null,
                 "video": null,
                 "videoimg": null
             },
             {
-                "title": "Using Babel in a Modern Working Environment",
-                "name": "Kurtis Rainbolt-Greene",
-                "image": "kurtis-rainbolt-greene.jpg",
-                "twitter": "krainboltgreene",
-                "github": "krainboltgreene",
+                "title": "Web APIs you didn’t know existed",
+                "name": "Zeno Rocha",
+                "image": "zeno-rocha.jpeg",
+                "twitter": "zenorocha",
+                "github": "zenorocha",
                 "description": null,
                 "video": null,
                 "videoimg": null
@@ -49,7 +49,7 @@
                 "url": "https://codesmith.io/"
             }
         ],
-        "titoUrl": "https://ti.to/jsla/july-2016",
+        "titoUrl": "https://ti.to/jsla/august-2016",
         "heroPhotos": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
     },
     "sitemap": {
