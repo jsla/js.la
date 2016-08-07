@@ -39,14 +39,14 @@
         ],
         "sponsors": [
             {
-                "name": "Remine",
-                "logo": "sponsor-remine.png",
-                "url": "http://remine.com/"
+                "name": "Interlincx",
+                "logo": "sponsor-interlincx.png",
+                "url": "http://www.interlincx.com/jsla"
             },
             {
-                "name": "Codesmith",
-                "logo": "host-codesmith.png",
-                "url": "https://codesmith.io/"
+                "name": "Philosophie",
+                "logo": "sponsor-philosophie.png",
+                "url": "http://philosophie.is/"
             }
         ],
         "titoUrl": "https://ti.to/jsla/august-2016",
