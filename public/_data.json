@@ -10,10 +10,10 @@
             "url": "http://philosophie.is/"
         },
         "drinksjs": {
-            "address": null,
-            "name": null,
+            "address": "1348 14th St, Santa Monica, CA 90405",
+            "name": "The Chestnut Club",
             "misc": null,
-            "url": null
+            "url": "https://www.yelp.com/biz/the-chestnut-club-santa-monica"
         },
         "speakers": [
             {
