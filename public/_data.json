@@ -1,37 +1,37 @@
 {
     "current": {
         "title": "",
-        "datetime": "Thursday August 25th, 2016 7pm",
-        "date": "08/25/2016 19:00:00",
+        "datetime": "Thursday September 27th, 2016 7pm",
+        "date": "09/27/2016 19:00:00",
         "host": {
-            "address": "1615 16th St, Santa Monica, CA 90404",
-            "name": "Philosophie",
-            "misc": "Limited parking in parking lot, street parking, and building is super close the 17th Street/Santa Monica College station 🚃",
-            "url": "http://philosophie.is/"
+            "address": "12333 W Olympic Blvd, Los Angeles, CA 90064",
+            "name": "Riot Games",
+            "misc": "Parking is valet, and it's a 8 minute walk from Expo/Bundy station 🚋",
+            "url": "https://engineering.riotgames.com/"
         },
         "drinksjs": {
-            "address": "1348 14th St, Santa Monica, CA 90405",
-            "name": "The Chestnut Club",
+            "address": null,
+            "name": null,
             "misc": null,
-            "url": "https://www.yelp.com/biz/the-chestnut-club-santa-monica"
+            "url": null
         },
         "speakers": [
             {
-                "title": "Why d3 will be the standard for web visualization",
-                "name": "Aman Tsegai",
-                  "image": "aman-tsegai.jpg",
-                "twitter": "ata_aman",
-                "github": "ata-aman",
+                "title": "Full Stack MeteorJS",
+                "name": "Abhi Aiyer",
+                "image": "abhi-aiyer.jpg",
+                "twitter": "AbhiAiyer",
+                "github": "abhiaiyer91",
                 "description": null,
                 "video": null,
                 "videoimg": null
             },
             {
-                "title": "10 Secrets to Writing Perfect Code — You Won’t Believe #4!",
-                "name": "Ray Muneton",
-                "image": "ray-muneton.jpg",
-                "twitter": "mrsmuneton",
-                "github": "mrsmuneton",
+                "title": "TBA",
+                "name": "Ari Lerner",
+                "image": "ari-lerner.jpg",
+                "twitter": "auser",
+                "github": "auser",
                 "description": null,
                 "video": null,
                 "videoimg": null
@@ -39,17 +39,17 @@
         ],
         "sponsors": [
             {
-                "name": "Remine",
-                "logo": "sponsor-remine.png",
-                "url": "http://remine.com/"
+                "name": "Farmers Insurance",
+                "logo": "sponsor-farmerinsurance.png",
+                "url": "https://www.farmers.com/careers/"
             },
             {
-                "name": "Philosophie",
-                "logo": "sponsor-philosophie.png",
-                "url": "http://philosophie.is/"
+                "name": "Riot Games",
+                "logo": "sponsor-riotgames.png",
+                "url": "https://engineering.riotgames.com/"
             }
         ],
-        "titoUrl": "https://ti.to/jsla/august-2016",
+        "titoUrl": "https://ti.to/jsla/september-2016",
         "heroPhotos": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
     },
     "sitemap": {
@@ -63,12 +63,6 @@
         "slack": "dguttman"
       },
       {
-        "name": "Ryan Bogle",
-        "avatar": "/images/team/ryan-bogle.jpg",
-        "twitter": "__ashwell__",
-        "slack": "ashwell"
-      },
-      {
         "name": "Omar de Armas",
         "avatar": "/images/team/omar-de-armas.jpg",
         "twitter": "omarcito",
@@ -79,6 +73,12 @@
         "avatar": "/images/team/jacob-lowe.jpg",
         "twitter": "jcblw",
         "slack": "jcblw"
+      },
+      {
+        "name": "Ryan Bogle",
+        "avatar": "/images/team/ryan-bogle.jpg",
+        "twitter": "__ashwell__",
+        "slack": "ashwell"
       },
       {
         "name": "Ryan Regalado",

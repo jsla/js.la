@@ -3,6 +3,58 @@
     "events": [
       {
           "title": "",
+          "datetime": "Thursday August 25th, 2016 7pm",
+          "date": "08/25/2016 19:00:00",
+          "host": {
+              "address": "1615 16th St, Santa Monica, CA 90404",
+              "name": "Philosophie",
+              "misc": "Limited parking in parking lot, street parking, and building is super close the 17th Street/Santa Monica College station 🚃",
+              "url": "http://philosophie.is/"
+          },
+          "drinksjs": {
+              "address": "1348 14th St, Santa Monica, CA 90405",
+              "name": "The Chestnut Club",
+              "misc": null,
+              "url": "https://www.yelp.com/biz/the-chestnut-club-santa-monica"
+          },
+          "speakers": [
+              {
+                  "title": "Why d3 will be the standard for web visualization",
+                  "name": "Aman Tsegai",
+                    "image": "aman-tsegai.jpg",
+                  "twitter": "ata_aman",
+                  "github": "ata-aman",
+                  "description": null,
+                  "video": null,
+                  "videoimg": null
+              },
+              {
+                  "title": "10 Secrets to Writing Perfect Code — You Won’t Believe #4!",
+                  "name": "Ray Muneton",
+                  "image": "ray-muneton.jpg",
+                  "twitter": "mrsmuneton",
+                  "github": "mrsmuneton",
+                  "description": null,
+                  "video": null,
+                  "videoimg": null
+              }
+          ],
+          "sponsors": [
+              {
+                  "name": "Remine",
+                  "logo": "sponsor-remine.png",
+                  "url": "http://remine.com/"
+              },
+              {
+                  "name": "Philosophie",
+                  "logo": "sponsor-philosophie.png",
+                  "url": "http://philosophie.is/"
+              }
+          ],
+          "titoUrl": "https://ti.to/jsla/august-2016"
+      },
+      {
+          "title": "",
           "datetime": "Thursday July 28th, 2016 7pm",
           "date": "07/28/2016 19:00:00",
           "host": {
