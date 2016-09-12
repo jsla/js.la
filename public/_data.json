@@ -17,7 +17,7 @@
         },
         "speakers": [
             {
-                "title": "Full Stack MeteorJS",
+                "title": "Using GraphQL with Apollo",
                 "name": "Abhi Aiyer",
                 "image": "abhi-aiyer.jpg",
                 "twitter": "AbhiAiyer",
@@ -27,7 +27,7 @@
                 "videoimg": null
             },
             {
-                "title": "TBA",
+                "title": "React Native",
                 "name": "Ari Lerner",
                 "image": "ari-lerner.jpg",
                 "twitter": "auser",
