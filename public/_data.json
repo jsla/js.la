@@ -1,13 +1,13 @@
 {
     "current": {
         "title": "",
-        "datetime": "Thursday July 28th, 2016 7pm",
-        "date": "07/28/2016 19:00:00",
+        "datetime": "Thursday September 29th, 2016 7pm",
+        "date": "09/29/2016 19:00:00",
         "host": {
-            "address": "5300 Beethoven St, Los Angeles, CA 90066",
-            "name": "Codesmith",
-            "misc": "Parking available on the street",
-            "url": "https://codesmith.io/"
+            "address": "12333 W Olympic Blvd, Los Angeles, CA 90064",
+            "name": "Riot Games",
+            "misc": "Parking is valet, and it's a 8 minute walk from Expo/Bundy station 🚋",
+            "url": "https://engineering.riotgames.com/"
         },
         "drinksjs": {
             "address": null,
@@ -17,21 +17,21 @@
         },
         "speakers": [
             {
-                "title": "Javascript Testing - Unit tests, TDD, BDD, IDK.",
-                "name": "Sara Raasch",
-                "image": "sara-raasch.jpg",
-                "twitter": "sararaasch",
-                "github": "SaraaraS",
+                "title": "Using GraphQL with Apollo",
+                "name": "Abhi Aiyer",
+                "image": "abhi-aiyer.jpg",
+                "twitter": "AbhiAiyer",
+                "github": "abhiaiyer91",
                 "description": null,
                 "video": null,
                 "videoimg": null
             },
             {
-                "title": "Building a Developer Experience on Kubernetes and Docker",
-                "name": "Albert Wong",
-                "image": "albert-wong.jpg",
-                "twitter": "alberttwong",
-                "github": "alberttwong",
+                "title": "React Native",
+                "name": "Ari Lerner",
+                "image": "ari-lerner.jpg",
+                "twitter": "auser",
+                "github": "auser",
                 "description": null,
                 "video": null,
                 "videoimg": null
@@ -39,17 +39,17 @@
         ],
         "sponsors": [
             {
-                "name": "Interlincx",
-                "logo": "sponsor-interlincx.png",
-                "url": "http://www.interlincx.com/jsla"
+                "name": "Farmers Insurance",
+                "logo": "sponsor-farmerinsurance.png",
+                "url": "https://www.farmers.com/careers/"
             },
             {
-                "name": "Codesmith",
-                "logo": "host-codesmith.png",
-                "url": "https://codesmith.io/"
+                "name": "Riot Games",
+                "logo": "sponsor-riotgames.png",
+                "url": "https://engineering.riotgames.com/"
             }
         ],
-        "titoUrl": "https://ti.to/jsla/july-2016",
+        "titoUrl": "https://ti.to/jsla/september-2016",
         "heroPhotos": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
     },
     "sitemap": {
@@ -63,12 +63,6 @@
         "slack": "dguttman"
       },
       {
-        "name": "Mike Matuzak",
-        "avatar": "/images/team/michael-matuzak.jpg",
-        "twitter": "mmatuzak",
-        "slack": "mike"
-      },
-      {
         "name": "Omar de Armas",
         "avatar": "/images/team/omar-de-armas.jpg",
         "twitter": "omarcito",
@@ -79,6 +73,12 @@
         "avatar": "/images/team/jacob-lowe.jpg",
         "twitter": "jcblw",
         "slack": "jcblw"
+      },
+      {
+        "name": "Ryan Bogle",
+        "avatar": "/images/team/ryan-bogle.jpg",
+        "twitter": "__ashwell__",
+        "slack": "ashwell"
       },
       {
         "name": "Ryan Regalado",
