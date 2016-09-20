@@ -25,8 +25,8 @@
                   "twitter": "ata_aman",
                   "github": "ata-aman",
                   "description": null,
-                  "video": null,
-                  "videoimg": null
+                  "video": "https://www.youtube.com/watch?v=5y6IJOqPXw8",
+                  "videoimg": "2016-08_JSLA_title_speaker1_small.png"
               },
               {
                   "title": "10 Secrets to Writing Perfect Code — You Won’t Believe #4!",
@@ -35,8 +35,8 @@
                   "twitter": "mrsmuneton",
                   "github": "mrsmuneton",
                   "description": null,
-                  "video": null,
-                  "videoimg": null
+                  "video": "https://www.youtube.com/watch?v=COabxKt8cSk",
+                  "videoimg": "2016-08_JSLA_title_speaker2_small.png"
               }
           ],
           "sponsors": [
@@ -77,8 +77,8 @@
                   "twitter": "sararaasch",
                   "github": "SaraaraS",
                   "description": null,
-                  "video": null,
-                  "videoimg": null
+                  "video": "https://www.youtube.com/watch?v=YIdhqW9zBFA",
+                  "videoimg": "2016-07_JSLA_title_speaker1_small.png"
               },
               {
                   "title": "Using Babel in a Modern Working Environment",
@@ -87,8 +87,8 @@
                   "twitter": "krainboltgreene",
                   "github": "krainboltgreene",
                   "description": null,
-                  "video": null,
-                  "videoimg": null
+                  "video": "https://www.youtube.com/watch?v=UBlgqnuJpZQ",
+                  "videoimg": "2016-07_JSLA_title_speaker2_small.png"
               }
           ],
           "sponsors": [
