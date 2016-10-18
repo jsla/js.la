@@ -10,15 +10,15 @@
             "url": "http://www.makersquare.com/"
         },
         "drinksjs": {
-            "address": null,
-            "name": null,
+            "address": "12236 W Washington Blvd, Los Angeles, CA 90066",
+            "name": "Alibi Room",
             "misc": null,
-            "url": null
+            "url": "https://www.yelp.com/biz/alibi-room-los-angeles-2"
         },
         "speakers": [
             {
                 "title": "Common Operations Challenges with Node.js and How to Solve Them",
-                "name": "Chris Lea & DShaw",
+                "name": "Chris Lea & Dan Shaw",
                 "image": "chris-lea.jpg",
                 "twitter": "chrislea",
                 "github": "chrislea",
@@ -39,9 +39,9 @@
         ],
         "sponsors": [
             {
-                "name": "Interlincx",
-                "logo": "sponsor-interlincx.png",
-                "url": "http://www.interlincx.com/jsla"
+                "name": "Farmers Insurance",
+                "logo": "sponsor-farmerinsurance.png",
+                "url": "https://www.farmers.com/careers/"
             },
             {
                 "name": "MakerSquare",
