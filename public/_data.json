@@ -18,10 +18,20 @@
         "speakers": [
             {
                 "title": "Common Operations Challenges with Node.js and How to Solve Them",
-                "name": "Chris Lea & Dan Shaw",
+                "name": "Chris Lea",
                 "image": "chris-lea.jpg",
                 "twitter": "chrislea",
                 "github": "chrislea",
+                "description": null,
+                "video": null,
+                "videoimg": null
+            },
+            {
+                "title": "The Node.js Ecosystem in Perspective",
+                "name": "Dan Shaw",
+                "image": "dan-shaw.jpg",
+                "twitter": "dshaw",
+                "github": "dshaw",
                 "description": null,
                 "video": null,
                 "videoimg": null
