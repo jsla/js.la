@@ -5,9 +5,9 @@
         "date": "10/27/2016 19:00:00",
         "host": {
             "address": "6060 Center Drive Unit 950, Los Angeles, CA",
-            "name": "MakerSquare",
+            "name": "Hack Reactor",
             "misc": "Cheap parking on the street, slighly more expensive parking in the garage across street.",
-            "url": "http://www.makersquare.com/"
+            "url": "http://www.hackreactor.com/"
         },
         "drinksjs": {
             "address": "12236 W Washington Blvd, Los Angeles, CA 90066",
@@ -54,9 +54,9 @@
                 "url": "https://www.farmers.com/careers/"
             },
             {
-                "name": "MakerSquare",
-                "logo": "host-makersquare.png",
-                "url": "http://www.makersquare.com/"
+                "name": "Hack Reactor",
+                "logo": "host-hackreactor.png",
+                "url": "http://www.hackreactor.com/"
             }
         ],
         "titoUrl": "https://ti.to/jsla/october-2016",
@@ -128,6 +128,11 @@
             "name": "SapientNitro",
             "logo": "host-sapient-nitro.png",
             "url": "http://sapientnitro.com"
+        },
+        {
+            "name": "Hack Reactor",
+            "logo": "host-hackreactor.png",
+            "url": "http://www.hackreactor.com/"
         },
         {
             "name": "Google, Venice",
