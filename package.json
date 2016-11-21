@@ -7,7 +7,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "harp server public",
-    "build": "browserify public/js/main.js -o public/js/bundle.js -d && npm run compress",
+    "build": "browserify public/js/main.js -o public/js/bundle.js -d",
     "compress": "uglifyjs -o public/js/bundle.min.js public/js/bundle.js",
     "dist": "rm -rf ./dist; harp compile ./public dist",
     "deploy": "npm run dist && echo 'js.la' > dist/CNAME && surge dist",
@@ -28,16 +28,17 @@
   "homepage": "http://js.la",
   "devDependencies": {
     "browserify": "^11.1.0",
-    "harp": "^0.19.0",
     "lwip": "0.0.8",
     "minimist": "^1.2.0",
-    "surge": "^0.14.4",
-    "uglify-js": "^2.3.6"
+    "surge": "^0.14.4"
   },
   "dependencies": {
     "eventemitter2": "^0.4.14",
+    "harp": "^0.22.0",
     "jquery": "^2.1.1",
     "merge": "^1.2.0",
-    "raf": "^3.1.0"
+    "raf": "^3.1.0",
+    "uglify": "^0.1.5",
+    "uglifyjs": "^2.4.10"
   }
 }

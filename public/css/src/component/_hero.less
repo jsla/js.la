@@ -1,6 +1,6 @@
 .jsla-hero {
     min-height: 95%;
-    background: url(http://placehold.it/100x100/f5dd3d/f5dd3d);
+    background: white;
     background-size: cover;
     background-position: center center;
     background-blend-mode: screen;
@@ -10,6 +10,24 @@
     padding-top: 60px;
     padding-bottom: 2em;
     line-height: 3em;
+    position: relative;
+}
+
+.jsla-hero-video {
+  position: fixed;
+  top: -99999px;
+  width: 100%;
+  height: 100%;
+}
+
+.jsla-hero-canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 100vh;
+  width: 100vw;
 }
 
 .jsla-hero-down-arrow {

@@ -1,39 +1,39 @@
 
-
-var $ = window.jQuery = require( 'jquery' ),
-    merge = require( 'merge' ),
-    flickr = require( './flickrphotos' ),
-    hero = require( './components/hero' ),
-    nav = require( './components/nav' );
+const $ = window.jQuery = require('jquery')
+const merge = require('merge')
+const flickr = require('./flickrphotos')
+const hero = require('./components/hero')
+const nav = require('./components/nav')
 
 // monkey patch jquery plugins
-require( './jquery.fancybox.pack.js' );
-require( './jquery.fancybox-media.js' );
+require('./jquery.fancybox.pack.js')
+require('./jquery.fancybox-media.js')
 
-$(function() {
-    var $body = $( 'body' ),
-        fancyboxOptions = {
-            openEffect  : 'none',
-            closeEffect : 'none',
-            beforeShow: function(){
-                $body.css({ overflowY: 'hidden' })
-            },
-            afterClose: function(){
-                $body.css({ overflowY: 'visible' })
-            },
-            helpers : {
-                media : {}
-            }
-        };
+$(function () {
+  const $body = $('body')
+  const video = document.getElementsByClassName('jsla-hero-video')[0]
+  const canvas = document.getElementsByClassName('jsla-hero-canvas')[0]
+  const fancyboxOptions = {
+    openEffect: 'none',
+    closeEffect: 'none',
+    beforeShow: function () {
+      $body.css({overflowY: 'hidden'})
+    },
+    afterClose: function () {
+      $body.css({overflowY: 'visible'})
+    },
+    helpers: {
+      media: {}
+    }
+  }
 
-    // attach components
-    nav.attach( '.jsla-mobile-menu' );
-    hero.attach( '.jsla-hero' );
+  // attach components
+  nav.attach('.jsla-mobile-menu')
+  hero.attach(canvas, video)
 
-    flickr.addPhotos(); // this starts the script
-    $( 'a[rel^=lightbox-video]' ).fancybox( merge( {}, fancyboxOptions, { 
-        showNavArrows: false 
-    } ) );
-    $('a[rel=lightbox]').fancybox( fancyboxOptions );
-
-});
+  flickr.addPhotos() // this starts the script
+  $('a[rel^=lightbox-video]').fancybox(merge({}, fancyboxOptions, {
+    showNavArrows: false
+  }))
+  $('a[rel=lightbox]').fancybox(fancyboxOptions)
+})

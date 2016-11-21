@@ -1,125 +1,66 @@
+const raf = require('raf')
+const fps = 60
 
-var flickr = require( '../flickrphotos' ),
-    EventEmitter = require( 'eventemitter2').EventEmitter2,
-    bus = new EventEmitter(),
-    $ = require( 'jquery' ),
-    raf = require( 'raf' )
+module.exports.attach = function attach (canvas, video) {
+  const context = canvas.getContext('2d')
+  const bgCanvas = document.createElement('canvas')
+  const bgContext = bgCanvas.getContext('2d')
 
-module.exports.attach = function( selector ) {
-    var hero = document.querySelector( selector );
-
-    // check for support
-    if ( !('backgroundBlendMode' in document.body.style) ){
-        setTimeout( bus.emit.bind( bus, new Error('not supported') ), 0 )
-        return bus
-    }
-
-    if ( hero ) {
-        getPhotos( hero )
-        bus.once( 'hero:nextPhoto', canScrollAnimation )
-        bus.once( 'hero:handlePhotos', addPhotos.bind( null, hero ) )
-    }
-
-    return bus
+  video.addEventListener('play', function () {
+    const dimensions = getDimensions(canvas)
+    const width = dimensions.width
+    const height = dimensions.height
+    canvas.width = width
+    canvas.height = height
+    bgCanvas.width = width
+    bgCanvas.height = height
+    start(video, context, bgContext, width, height)
+  })
 }
 
-function addPhotos( el, resp ) {
-    var styles = window.getComputedStyle( el, null ),
-        background = styles.backgroundImage.split( 'url(' ).pop( ).split( ')' ).shift()
-
-    cyclePhotos( el, {
-        style: getStyle.bind( null, background ),
-        photos: resp.photos.photo,
-        timeout: 10000
-    } )
+function getDimensions (el) {
+  return {
+    width: Math.floor(el.clientWidth),
+    height: Math.floor(el.clientHeight)
+  }
 }
 
-function getStyle( background, photo ) {
-    return 'background-image: url(' + background + '), url(' + flickr.getPhotoLink( photo ) + ');'
+function manipulatePixels (bgContext, width, height) {
+  const _data = bgContext.getImageData(0, 0, width, height)
+  const data = _data.data
+  // // Loop through the pixels, turning them grayscale
+  let i = 0
+  for (i = 0; i < data.length; i += 4) {
+    const r = data[i]
+    const g = data[i + 1]
+    const b = data[i + 2]
+    const brightness = ((3 * r + 4 * g + b) >>> 3) / 2.55
+    data[i] = brightness + 220
+    data[i + 1] = brightness + 190
+    data[i + 2] = brightness + 0
+    // 255, 30, 13
+    // black is 0, 0, 0
+    // an yellow 241, 214, 34
+    // yellow is 245, 221, 61
+    // white is 255, 255, 255
+  }
+  _data.data = data
+  // Draw the pixels onto the visible canvas
+  return _data
 }
 
-function loadImage( url, callback ) {
-    var img = document.createElement( 'img' );
-
-    function done( err ) {
-        callback( err, img );
-    }
-
-    img.addEventListener( 'load', done.bind( null, null ) )
-    img.addEventListener( 'error', done )
-
-    img.src = url;
+function draw (video, context, bgContext, width, height) {
+  return function () {
+    if (video.paused || video.ended) return
+    bgContext.drawImage(video, 0, 0, width, height)
+    const pixels = manipulatePixels(bgContext, width, height)
+    context.putImageData(pixels, 0, 0)
+    setTimeout(function () {
+      raf(draw(video, context, bgContext, width, height))
+    }, 1000 / fps)
+  }
 }
 
-function cyclePhotos( el, options ) {
-    var current = 0,
-        photos = options.photos
-
-    function setTimer( err, img ) {
-        setTimeout( next.bind( null, err, img ) , options.timer || 3000 )
-    }
-
-    function next( err, img ) {
-
-        if ( err ) return bus.emit( 'error', err ); // if an error occurs stop
-
-        if ( img.naturalWidth < img.naturalHeight ) { // filter portrait photos
-            photos.splice( current, 1 )
-            // should update array now this is the next photo
-            if ( current === photos.length ) { // this can happen here
-                current = 0
-            }
-
-            loadImage( flickr.getPhotoLink( photos[ current ] ), next )
-            return;
-        }
-
-        var style = options.style( photos[ current ] )
-        el.setAttribute( 'style', style );
-
-        bus.emit( 'hero:nextPhoto', photos[ current ] )
-
-        current++
-
-        if ( current === photos.length ) {
-            current = 0
-        }
-
-        loadImage( flickr.getPhotoLink( photos[ current ] ), function( err, img ){
-            raf( setTimer.bind( null, err, img ) );
-        } )
-    }
-
-    loadImage( flickr.getPhotoLink( photos[ 0 ] ), next );
-
-}
-
-function handlePhotos( id, url, resp ) {
-    bus.emit( 'hero:handlePhotos', resp )
-}
-
-
-function getPhotos( el ) {
-    var url = el.getAttribute( 'data-photos' ),
-        script = flickr.createScriptEl( url, handlePhotos )
-
-    bus.emit( 'hero:getPhotos' )
-    document.body.appendChild( script )
-}
-
-function canScrollAnimation() {
-    var $html = $('body'),
-        currentPostion = $html.scrollTop();
-
-    if (window.location.hash || currentPostion) {
-        return;
-    }
-
-    $html
-        .animate({
-            scrollTop: '20px'
-        },500)
-        .animate({
-            scrollTop: '0px'
-        },300)
+function start () {
+  draw.apply(null, arguments)()
 }
