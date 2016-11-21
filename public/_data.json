@@ -1,65 +1,34 @@
 {
     "current": {
         "title": "",
-        "datetime": "Thursday October 27th, 2016 7pm",
-        "date": "10/27/2016 19:00:00",
+        "datetime": "Sunday December 11th, 2016 3pm - 7pm",
+        "date": "12/11/2016 15:00:00",
         "host": {
-            "address": "6060 Center Drive Unit 950, Los Angeles, CA",
-            "name": "Hack Reactor",
-            "misc": "Cheap parking on the street, slighly more expensive parking in the garage across street.",
-            "url": "http://www.hackreactor.com/"
+            "address": "9400 Culver Blvd, Culver City, CA 90232",
+            "name": "The Culver Hotel",
+            "misc": "There is parking structures, and street parking nearby. Also The Culver hotel is a short walk from the Culver City Metro station.",
+            "url": "http://www.culverhotel.com/"
         },
         "drinksjs": {
-            "address": "12236 W Washington Blvd, Los Angeles, CA 90066",
-            "name": "Alibi Room",
+            "address": null,
+            "name": null,
             "misc": null,
-            "url": "https://www.yelp.com/biz/alibi-room-los-angeles-2"
+            "url": null
         },
         "speakers": [
             {
-                "title": "Common Operations Challenges with Node.js and How to Solve Them",
-                "name": "Chris Lea",
-                "image": "chris-lea.jpg",
-                "twitter": "chrislea",
-                "github": "chrislea",
-                "description": null,
-                "video": null,
-                "videoimg": null
-            },
-            {
-                "title": "The Node.js Ecosystem in Perspective",
-                "name": "Dan Shaw",
-                "image": "dan-shaw.jpg",
-                "twitter": "dshaw",
-                "github": "dshaw",
-                "description": null,
-                "video": null,
-                "videoimg": null
-            },
-            {
-                "title": "TBA",
-                "name": "Wren Reynolds",
-                "image": "wrenr.jpg",
-                "twitter": "",
-                "github": "wrenr",
+                "title": "Soiree at The Culver Hotel",
+                "name": "JS Soiree",
+                "image": "soiree.jpg",
+                "twitter": "jsdotla",
+                "github": "jsla",
                 "description": null,
                 "video": null,
                 "videoimg": null
             }
         ],
-        "sponsors": [
-            {
-                "name": "Farmers Insurance",
-                "logo": "sponsor-farmerinsurance.png",
-                "url": "https://www.farmers.com/careers/"
-            },
-            {
-                "name": "Hack Reactor",
-                "logo": "host-hackreactor.png",
-                "url": "http://www.hackreactor.com/"
-            }
-        ],
-        "titoUrl": "https://ti.to/jsla/october-2016",
+        "sponsors": [],
+        "titoUrl": "https://ti.to/jsla/js-soiree",
         "heroPhotos": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
     },
     "sitemap": {
