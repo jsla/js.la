@@ -25,8 +25,8 @@
                   "twitter": "chrislea",
                   "github": "chrislea",
                   "description": null,
-                  "video": null,
-                  "videoimg": null
+                  "video": "https://www.youtube.com/watch?v=10eMjwDAIgc",
+                  "videoimg": "2016-10_JSLA_title_speaker3_small.png"
               },
               {
                   "title": "The Node.js Ecosystem in Perspective",
@@ -35,8 +35,8 @@
                   "twitter": "dshaw",
                   "github": "dshaw",
                   "description": null,
-                  "video": null,
-                  "videoimg": null
+                  "video": "https://www.youtube.com/watch?v=k4RA5DmPo4U",
+                  "videoimg": "2016-10_JSLA_title_speaker1_small.png"
               },
               {
                   "title": "JS to Slick Native Mobile Apps: A Future-Featured Framework",
@@ -45,8 +45,8 @@
                   "twitter": "",
                   "github": "wrenr",
                   "description": null,
-                  "video": null,
-                  "videoimg": null
+                  "video": "https://www.youtube.com/watch?v=Zp8JHKHNKYY",
+                  "videoimg": "2016-10_JSLA_title_speaker2_small.png"
               }
           ],
           "sponsors": [
@@ -88,8 +88,8 @@
                   "twitter": "AbhiAiyer",
                   "github": "abhiaiyer91",
                   "description": null,
-                  "video": null,
-                  "videoimg": null
+                  "video": "https://www.youtube.com/watch?v=PTowZYV6eRA",
+                  "videoimg": "2016-09_JSLA_title_speaker1_small.png"
               },
               {
                   "title": "React Native",
@@ -98,8 +98,8 @@
                   "twitter": "auser",
                   "github": "auser",
                   "description": null,
-                  "video": null,
-                  "videoimg": null
+                  "video": "https://www.youtube.com/watch?v=x_LpgAgSNFI",
+                  "videoimg": "2016-09_JSLA_title_speaker2_small.png"
               }
           ],
           "sponsors": [
