@@ -16,7 +16,7 @@ header.jsla-hero.layer-1( data-photos=heroPhotos )
                 a( class="jsla-hero-next-location", href="#location" )
                     span at #{host.name}                 
                     i.icon-marker
-                
+            
             div.jsla-toplevel-container
                 ul.jsla-hero-speakers.layer-2
                     // loop here 
@@ -24,5 +24,5 @@ header.jsla-hero.layer-1( data-photos=heroPhotos )
                         != partial("speakers/_speaker-condensed", {title: speaker.title, speaker: speaker.name, description: speaker.description, twitter: speaker.twitter, github: speaker.github, image: speaker.image, video: speaker.video})
 
             != partial( "_action-buttons", { titoUrl: titoUrl } )
-            if sponsors
+            if sponsors.length
                 != partial( "_sponsors-box", { sponsors: sponsors } )

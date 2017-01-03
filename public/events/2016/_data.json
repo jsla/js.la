@@ -3,6 +3,69 @@
     "events": [
       {
           "title": "",
+          "datetime": "Thursday October 27th, 2016 7pm",
+          "date": "10/27/2016 19:00:00",
+          "host": {
+              "address": "6060 Center Drive Unit 950, Los Angeles, CA",
+              "name": "Hack Reactor",
+              "misc": "Cheap parking on the street, slighly more expensive parking in the garage across street.",
+              "url": "http://www.hackreactor.com/"
+          },
+          "drinksjs": {
+              "address": "12236 W Washington Blvd, Los Angeles, CA 90066",
+              "name": "Alibi Room",
+              "misc": null,
+              "url": "https://www.yelp.com/biz/alibi-room-los-angeles-2"
+          },
+          "speakers": [
+              {
+                  "title": "Common Operations Challenges with Node.js and How to Solve Them",
+                  "name": "Chris Lea",
+                  "image": "chris-lea.jpg",
+                  "twitter": "chrislea",
+                  "github": "chrislea",
+                  "description": null,
+                  "video": "https://www.youtube.com/watch?v=10eMjwDAIgc",
+                  "videoimg": "2016-10_JSLA_title_speaker3_small.png"
+              },
+              {
+                  "title": "The Node.js Ecosystem in Perspective",
+                  "name": "Dan Shaw",
+                  "image": "dan-shaw.jpg",
+                  "twitter": "dshaw",
+                  "github": "dshaw",
+                  "description": null,
+                  "video": "https://www.youtube.com/watch?v=k4RA5DmPo4U",
+                  "videoimg": "2016-10_JSLA_title_speaker1_small.png"
+              },
+              {
+                  "title": "JS to Slick Native Mobile Apps: A Future-Featured Framework",
+                  "name": "Wren Reynolds",
+                  "image": "wrenr.jpg",
+                  "twitter": "",
+                  "github": "wrenr",
+                  "description": null,
+                  "video": "https://www.youtube.com/watch?v=Zp8JHKHNKYY",
+                  "videoimg": "2016-10_JSLA_title_speaker2_small.png"
+              }
+          ],
+          "sponsors": [
+              {
+                  "name": "Farmers Insurance",
+                  "logo": "sponsor-farmerinsurance.png",
+                  "url": "https://www.farmers.com/careers/"
+              },
+              {
+                  "name": "Hack Reactor",
+                  "logo": "host-hackreactor.png",
+                  "url": "http://www.hackreactor.com/"
+              }
+          ],
+          "titoUrl": "https://ti.to/jsla/october-2016",
+          "heroPhotos": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
+      },
+      {
+          "title": "",
           "datetime": "Thursday September 29th, 2016 7pm",
           "date": "09/29/2016 19:00:00",
           "host": {
@@ -25,8 +88,8 @@
                   "twitter": "AbhiAiyer",
                   "github": "abhiaiyer91",
                   "description": null,
-                  "video": null,
-                  "videoimg": null
+                  "video": "https://www.youtube.com/watch?v=PTowZYV6eRA",
+                  "videoimg": "2016-09_JSLA_title_speaker1_small.png"
               },
               {
                   "title": "React Native",
@@ -35,8 +98,8 @@
                   "twitter": "auser",
                   "github": "auser",
                   "description": null,
-                  "video": null,
-                  "videoimg": null
+                  "video": "https://www.youtube.com/watch?v=x_LpgAgSNFI",
+                  "videoimg": "2016-09_JSLA_title_speaker2_small.png"
               }
           ],
           "sponsors": [

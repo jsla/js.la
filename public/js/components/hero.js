@@ -1,20 +1,21 @@
 const raf = require('raf')
 const fps = 60
 
-module.exports.attach = function attach (canvas, video) {
+module.exports.attach = function attach (canvas, video, parentEl) {
   const context = canvas.getContext('2d')
   const bgCanvas = document.createElement('canvas')
   const bgContext = bgCanvas.getContext('2d')
 
   video.addEventListener('play', function () {
-    const dimensions = getDimensions(canvas)
-    const width = dimensions.width
-    const height = dimensions.height
+    const dimensions = getDimensions(parentEl)
+    const ogDimensions = getDimensions(video)
+    const {width, height} = dimensions
+    const {width: ogWidth, height: ogHeight} = ogDimensions
     canvas.width = width
     canvas.height = height
     bgCanvas.width = width
     bgCanvas.height = height
-    start(video, context, bgContext, width, height)
+    start(video, context, bgContext, width, height, ogWidth, ogHeight)
   })
 }
 
@@ -49,14 +50,14 @@ function manipulatePixels (bgContext, width, height) {
   return _data
 }
 
-function draw (video, context, bgContext, width, height) {
+function draw (video, context, bgContext, width, height, ogWidth, ogHeight) {
   return function () {
     if (video.paused || video.ended) return
-    bgContext.drawImage(video, 0, 0, width, height)
+    bgContext.drawImage(video, 0, 0, width, height, 0, 0, ogWidth, ogHeight)
     const pixels = manipulatePixels(bgContext, width, height)
     context.putImageData(pixels, 0, 0)
     setTimeout(function () {
-      raf(draw(video, context, bgContext, width, height))
+      raf(draw(video, context, bgContext, width, height, ogWidth, ogHeight))
     }, 1000 / fps)
   }
 }

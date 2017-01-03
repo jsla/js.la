@@ -28,6 +28,7 @@
   "homepage": "http://js.la",
   "devDependencies": {
     "browserify": "^11.1.0",
+    "harp": "^0.22.0",
     "lwip": "0.0.8",
     "minimist": "^1.2.0",
     "surge": "^0.14.4"

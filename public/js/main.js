@@ -13,6 +13,7 @@ $(function () {
   const $body = $('body')
   const video = document.getElementsByClassName('jsla-hero-video')[0]
   const canvas = document.getElementsByClassName('jsla-hero-canvas')[0]
+  const el = document.getElementsByClassName('jsla-hero')[0]
   const fancyboxOptions = {
     openEffect: 'none',
     closeEffect: 'none',
@@ -29,7 +30,7 @@ $(function () {
 
   // attach components
   nav.attach('.jsla-mobile-menu')
-  hero.attach(canvas, video)
+  hero.attach(canvas, video, el)
 
   flickr.addPhotos() // this starts the script
   $('a[rel^=lightbox-video]').fancybox(merge({}, fancyboxOptions, {
