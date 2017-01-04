@@ -17,7 +17,7 @@
       },
       "speakers": [
           {
-            "title": "TBA",
+            "title": "Ionic native web applications",
             "name": "Alex Muramoto",
             "image": "alex-muramoto.jpg",
             "twitter": "amuramoto",
@@ -25,7 +25,7 @@
             "description": null
           },
           {
-            "title": "TBA",
+            "title": "Amazing 3d webgl artwork",
             "name": "Mateusz Marpi Marcinowski",
             "image": "mateusz-marpi-marcinowski.jpg",
             "twitter": "marpi_",
@@ -35,9 +35,9 @@
       ],
       "sponsors": [
           {
-            "name": "Farmers Insurance",
-            "logo": "sponsor-farmerinsurance.png",
-            "url": "https://www.farmers.com/careers/"
+            "name": "Codesmith",
+            "logo": "host-codesmith.png",
+            "url": "https://codesmith.io/"
           },
           {
             "name": "Headspace",
