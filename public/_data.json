@@ -1,35 +1,52 @@
 {
     "current": {
-        "title": "",
-        "datetime": "Sunday December 11th, 2016 3pm - 7pm",
-        "date": "12/11/2016 15:00:00",
-        "host": {
-            "address": "9400 Culver Blvd, Culver City, CA 90232",
-            "name": "The Culver Hotel",
-            "misc": "There is parking structures, and street parking nearby. Also The Culver hotel is a short walk from the Culver City Metro station.",
-            "url": "http://www.culverhotel.com/"
-        },
-        "drinksjs": {
-            "address": null,
-            "name": null,
-            "misc": null,
-            "url": null
-        },
-        "speakers": [
-            {
-                "title": "Soiree at The Culver Hotel",
-                "name": "JS Soiree",
-                "image": "soiree.jpg",
-                "twitter": "jsdotla",
-                "github": "jsla",
-                "description": "js.la’s end of year meet and drink at the Culver Hotel. Come join us for a night of reminiscing over all that has changed in JavaScript this past year.",
-                "video": null,
-                "videoimg": null
-            }
-        ],
-        "sponsors": [],
-        "titoUrl": "https://ti.to/jsla/js-soiree-2016",
-        "heroPhotos": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
+      "title": "",
+      "datetime": "Thursday January 26th, 2016 7pm",
+      "date": "10/27/2016 19:00:00",
+      "host": {
+        "address": "2415 Michigan Ave, Santa Monica, CA",
+        "name": "Hack Reactor",
+        "misc": "Street parking nearby, and next the the 26th St/Bergamot station 🚃",
+        "url": "https://www.headspace.com/join-us"
+      },
+      "drinksjs": {
+        "address": null,
+        "name": null,
+        "misc": null,
+        "url": null
+      },
+      "speakers": [
+          {
+            "title": "TBA",
+            "name": "Alex Muramoto",
+            "image": "alex-muramoto.jpg",
+            "twitter": "amuramoto",
+            "github": "amuramoto",
+            "description": null
+          },
+          {
+            "title": "TBA",
+            "name": "Mateusz Marpi Marcinowski",
+            "image": "mateusz-marpi-marcinowski.jpg",
+            "twitter": "marpi_",
+            "github": "marpi",
+            "description": null
+          }
+      ],
+      "sponsors": [
+          {
+            "name": "Farmers Insurance",
+            "logo": "sponsor-farmerinsurance.png",
+            "url": "https://www.farmers.com/careers/"
+          },
+          {
+            "name": "Headspace",
+            "logo": "host-headspace.png",
+            "url": "https://www.headspace.com/join-us"
+          }
+      ],
+      "titoUrl": "https://ti.to/jsla/january-2017",
+      "heroPhotos": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
     },
     "sitemap": {
         "layout": false
