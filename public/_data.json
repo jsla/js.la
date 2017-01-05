@@ -17,20 +17,20 @@
       },
       "speakers": [
           {
-            "title": "Ionic native web applications",
-            "name": "Alex Muramoto",
-            "image": "alex-muramoto.jpg",
-            "twitter": "amuramoto",
-            "github": "amuramoto",
+            "title": "Load testing your node application",
+            "name": "Jad Meouchy",
+            "image": "jad-meouchy.jpg",
+            "twitter": "jadware",
+            "github": "jadware",
             "description": null
           },
           {
-            "title": "Amazing 3d webgl artwork",
+            "title": "Evolution",
             "name": "Mateusz Marpi Marcinowski",
             "image": "mateusz-marpi-marcinowski.jpg",
             "twitter": "marpi_",
             "github": "marpi",
-            "description": null
+            "description": "Marpi gets deep into generative 3D creatures/worlds with webVR, webGL, shaders, mobile, socket servers, and more ⚡️. He currently works at Obscura Digital :D"
           }
       ],
       "sponsors": [
