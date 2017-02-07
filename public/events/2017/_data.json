@@ -1,0 +1,54 @@
+
+{
+    "events": [
+      {
+        "title": "",
+        "datetime": "Thursday January 26th, 2017 7pm",
+        "date": "1/26/2017 19:00:00",
+        "host": {
+          "address": "2415 Michigan Ave, Santa Monica, CA",
+          "name": "Headspace",
+          "misc": "Street parking nearby, and next the the 26th St/Bergamot station 🚃",
+          "url": "https://www.headspace.com/join-us"
+        },
+        "drinksjs": {
+          "address": "2819 Pico Blvd, Santa Monica, CA 90405",
+          "name": "Barkowski",
+          "misc": null,
+          "url": "https://www.yelp.com/biz/barkowski-santa-monica"
+        },
+        "speakers": [
+            {
+              "title": "Load testing your node application",
+              "name": "Jad Meouchy",
+              "image": "jad-meouchy.jpg",
+              "twitter": "jadware",
+              "github": "jadware",
+              "description": null
+            },
+            {
+              "title": "Evolution",
+              "name": "Mateusz Marpi Marcinowski",
+              "image": "mateusz-marpi-marcinowski.jpg",
+              "twitter": "marpi_",
+              "github": "marpi",
+              "description": "Marpi gets deep into generative 3D creatures/worlds with webVR, webGL, shaders, mobile, socket servers, and more ⚡️. He currently works at Obscura Digital :D"
+            }
+        ],
+        "sponsors": [
+            {
+              "name": "Codesmith",
+              "logo": "host-codesmith.png",
+              "url": "https://codesmith.io/"
+            },
+            {
+              "name": "Headspace",
+              "logo": "host-headspace.png",
+              "url": "https://www.headspace.com/join-us"
+            }
+        ],
+        "titoUrl": "https://ti.to/jsla/january-2017",
+        "heroPhotos": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
+      }
+    ]
+}
