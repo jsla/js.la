@@ -6,7 +6,7 @@
       "host": {
         "address": "200 N Sepulveda Blvd 200, El Segundo, CA 90245",
         "name": "GoGaurdian",
-        "misc": null,
+        "misc": "Visitor parking is off of Sepulveda Blvd. Please park in a visitor parking space in Garage 200. Parking validation will be provided.",
         "url": "https://www.goguardian.com/careers.html"
       },
       "drinksjs": {
