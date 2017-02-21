@@ -24,7 +24,9 @@
               "image": "jad-meouchy.jpg",
               "twitter": "jadware",
               "github": "jadware",
-              "description": null
+              "description": null,
+              "video": null,
+              "videoimg": "2017-01_JSLA_title_speaker2_small.png"
             },
             {
               "title": "Evolution",
@@ -32,7 +34,9 @@
               "image": "mateusz-marpi-marcinowski.jpg",
               "twitter": "marpi_",
               "github": "marpi",
-              "description": "Marpi gets deep into generative 3D creatures/worlds with webVR, webGL, shaders, mobile, socket servers, and more ⚡️. He currently works at Obscura Digital :D"
+              "description": "Marpi gets deep into generative 3D creatures/worlds with webVR, webGL, shaders, mobile, socket servers, and more ⚡️. He currently works at Obscura Digital :D",
+              "video": null,
+              "videoimg": "2017-01_JSLA_title_speaker1_small.png"
             }
         ],
         "sponsors": [
