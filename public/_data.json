@@ -1,35 +1,52 @@
 {
     "current": {
-        "title": "",
-        "datetime": "Sunday December 11th, 2016 3pm - 7pm",
-        "date": "12/11/2016 15:00:00",
-        "host": {
-            "address": "9400 Culver Blvd, Culver City, CA 90232",
-            "name": "The Culver Hotel",
-            "misc": "There is parking structures, and street parking nearby. Also The Culver hotel is a short walk from the Culver City Metro station.",
-            "url": "http://www.culverhotel.com/"
-        },
-        "drinksjs": {
-            "address": null,
-            "name": null,
-            "misc": null,
-            "url": null
-        },
-        "speakers": [
-            {
-                "title": "Soiree at The Culver Hotel",
-                "name": "JS Soiree",
-                "image": "soiree.jpg",
-                "twitter": "jsdotla",
-                "github": "jsla",
-                "description": "js.la’s end of year meet and drink at the Culver Hotel. Come join us for a night of reminiscing over all that has changed in JavaScript this past year.",
-                "video": null,
-                "videoimg": null
-            }
-        ],
-        "sponsors": [],
-        "titoUrl": "https://ti.to/jsla/js-soiree-2016",
-        "heroPhotos": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
+      "title": "",
+      "datetime": "Thursday February 23th, 2017 7pm",
+      "date": "1/23/2017 19:00:00",
+      "host": {
+        "address": "200 N Sepulveda Blvd 200, El Segundo, CA 90245",
+        "name": "GoGuardian",
+        "misc": "Visitor parking is off of Sepulveda Blvd. Please park in a visitor parking space in Garage 200. Parking validation will be provided.",
+        "url": "https://www.goguardian.com/careers.html"
+      },
+      "drinksjs": {
+        "address": "226 Standard St, El Segundo, CA 90245",
+        "name": "The Standard Station",
+        "misc": null,
+        "url": "https://www.yelp.com/biz/the-standard-station-el-segundo-2"
+      },
+      "speakers": [
+          {
+            "title": "Visualizing sound on the web",
+            "name": "Jacob Lowe",
+            "image": "jacob-lowe.jpg",
+            "twitter": "jcblw",
+            "github": "jcblw",
+            "description": null
+          },
+          {
+            "title": "bomBora -  How to hold down your Vegemite In a NonStop Sea of Waves",
+            "name": "Keith Moore",
+            "image": "keith-moore.jpg",
+            "twitter": null,
+            "github": null,
+            "description": "Porting and maintaining a native V8 engine in a car that never stops."
+          }
+      ],
+      "sponsors": [
+          {
+            "name": "Rollmob",
+            "logo": "rollmob.png",
+            "url": "http://rollmob.com"
+          },
+          {
+            "name": "GoGuardian",
+            "logo": "goguardian.png",
+            "url": "https://www.goguardian.com/careers.html"
+          }
+      ],
+      "titoUrl": "https://ti.to/jsla/february-2017",
+      "heroPhotos": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
     },
     "sitemap": {
         "layout": false
