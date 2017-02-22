@@ -25,7 +25,7 @@
               "twitter": "jadware",
               "github": "jadware",
               "description": null,
-              "video": null,
+              "video": "https://www.youtube.com/watch?v=2ggxSZsAjwA",
               "videoimg": "2017-01_JSLA_title_speaker2_small.png"
             },
             {
@@ -35,7 +35,7 @@
               "twitter": "marpi_",
               "github": "marpi",
               "description": "Marpi gets deep into generative 3D creatures/worlds with webVR, webGL, shaders, mobile, socket servers, and more ⚡️. He currently works at Obscura Digital :D",
-              "video": null,
+              "video": "https://www.youtube.com/watch?v=IX71m5iy8ok",
               "videoimg": "2017-01_JSLA_title_speaker1_small.png"
             }
         ],
