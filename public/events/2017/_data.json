@@ -3,6 +3,59 @@
     "events": [
       {
         "title": "",
+        "datetime": "Thursday February 23th, 2017 7pm",
+        "date": "1/23/2017 19:00:00",
+        "host": {
+          "address": "200 N Sepulveda Blvd 200, El Segundo, CA 90245",
+          "name": "GoGuardian",
+          "misc": "Visitor parking is off of Sepulveda Blvd. Please park in a visitor parking space in Garage 200. Parking validation will be provided.",
+          "url": "https://www.goguardian.com/careers.html"
+        },
+        "drinksjs": {
+          "address": "226 Standard St, El Segundo, CA 90245",
+          "name": "The Standard Station",
+          "misc": null,
+          "url": "https://www.yelp.com/biz/the-standard-station-el-segundo-2"
+        },
+        "speakers": [
+            {
+              "title": "Tripping Balls with Javascript",
+              "name": "Jacob Lowe",
+              "image": "jacob-lowe.jpg",
+              "twitter": "jcblw",
+              "github": "jcblw",
+              "description": null,
+              "video": "https://www.youtube.com/watch?v=nxRRbwVlbUE",
+              "videoimg": "2017-02_JSLA_title_speaker2_small.png"
+            },
+            {
+              "title": "bomBora -  How to hold down your Vegemite In a NonStop Sea of Waves",
+              "name": "Keith Moore",
+              "image": "keith-moore.jpg",
+              "twitter": null,
+              "github": null,
+              "description": "Porting and maintaining a native V8 engine in a car that never stops.",
+              "video": "https://www.youtube.com/watch?v=rAInHep17o8",
+              "videoimg": "2017-02_JSLA_title_speaker1_small.png"
+            }
+        ],
+        "sponsors": [
+            {
+              "name": "Rollmob",
+              "logo": "rollmob.png",
+              "url": "http://rollmob.com"
+            },
+            {
+              "name": "GoGuardian",
+              "logo": "goguardian.png",
+              "url": "https://www.goguardian.com/careers.html"
+            }
+        ],
+        "titoUrl": "https://ti.to/jsla/february-2017",
+        "heroPhotos": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
+      },
+      {
+        "title": "",
         "datetime": "Thursday January 26th, 2017 7pm",
         "date": "1/26/2017 19:00:00",
         "host": {
