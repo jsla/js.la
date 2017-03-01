@@ -2,3 +2,13 @@ node_modules
 npm-debug.log
 dist/
 .DS_Store
+
+public/images/Thumbs\.db
+
+public/images/team/Thumbs\.db
+
+public/images/speakers/Thumbs\.db
+
+public/images/speakers/large/Thumbs\.db
+
+public/images/hosts/Thumbs\.db
