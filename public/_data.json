@@ -1,51 +1,56 @@
 {
     "current": {
       "title": "",
-      "datetime": "Thursday February 23th, 2017 7pm",
-      "date": "1/23/2017 19:00:00",
+      "datetime": "Thursday March 30th, 2017 7pm",
+      "date": "3/30/2017 19:00:00",
       "host": {
-        "address": "200 N Sepulveda Blvd 200, El Segundo, CA 90245",
-        "name": "GoGuardian",
-        "misc": "Visitor parking is off of Sepulveda Blvd. Please park in a visitor parking space in Garage 200. Parking validation will be provided.",
-        "url": "https://www.goguardian.com/careers.html"
+        "address": "990 W 8th St Ste 600, Los Angeles, CA 90017",
+        "name": "Honey",
+        "misc": "Near the 7th st. Metro station in DTLA. There is parking in the garage in the building for $15 and parking across the street for $5",
+        "url": "https://www.joinhoney.com/careers"
       },
       "drinksjs": {
-        "address": "226 Standard St, El Segundo, CA 90245",
-        "name": "The Standard Station",
+        "address": null,
+        "name": null,
         "misc": null,
-        "url": "https://www.yelp.com/biz/the-standard-station-el-segundo-2"
+        "url": null
       },
       "speakers": [
           {
-            "title": "Visualizing sound on the web",
-            "name": "Jacob Lowe",
-            "image": "jacob-lowe.jpg",
-            "twitter": "jcblw",
-            "github": "jcblw",
+            "title": "Query the shit out of Facebook's Graph API",
+            "name": "Loren Stewart",
+            "image": "loren-stewart.jpg",
+            "twitter": "lorenstewart111",
+            "github": "lorenseanstewart",
             "description": null
           },
           {
-            "title": "bomBora -  How to hold down your Vegemite In a NonStop Sea of Waves",
-            "name": "Keith Moore",
-            "image": "keith-moore.jpg",
-            "twitter": null,
-            "github": null,
-            "description": "Porting and maintaining a native V8 engine in a car that never stops."
+            "title": "Building Offline First apps with Hoodie",
+            "name": "Gregor Martynus",
+            "image": "gregor-martynus.jpg",
+            "twitter": "gr2m",
+            "github": "gr2m",
+            "description": null
           }
       ],
       "sponsors": [
           {
-            "name": "Rollmob",
-            "logo": "rollmob.png",
-            "url": "http://rollmob.com"
+            "name": "Signal Sciences",
+            "logo": "sponsor-signal-sciences.svg",
+            "url": "https://www.signalsciences.com/"
           },
           {
-            "name": "GoGuardian",
-            "logo": "goguardian.png",
-            "url": "https://www.goguardian.com/careers.html"
+            "name": "Hewlett Packard Enterprise",
+            "logo": "hpe.png",
+            "url": "https://www.hpe.com/us/en/servers/nonstop.html"
+          },
+          {
+            "name": "Honey",
+            "logo": "host-honey.png",
+            "url": "https://www.joinhoney.com/careers"
           }
       ],
-      "titoUrl": "https://ti.to/jsla/february-2017",
+      "titoUrl": "https://ti.to/jsla/march-2017",
       "heroPhotos": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
     },
     "sitemap": {
