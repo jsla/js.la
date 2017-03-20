@@ -4,8 +4,7 @@ node_js:
 script:
   - npm run cibuild
 deploy:
-  on: master
-  skip_cleanup: true
-  provider: surge
-  project: ./dist/
-  domain: js.la
+  provider: script
+  script: npm run deploy
+  on:
+    branch: master

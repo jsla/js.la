@@ -9,7 +9,7 @@
     "start": "harp server public",
     "build": "browserify public/js/main.js -o public/js/bundle.js -d && npm run compress",
     "compress": "uglifyjs -o public/js/bundle.min.js public/js/bundle.js",
-    "cibuild": "npm run build && npm run dist",
+    "cibuild": "npm run build",
     "dist": "rm -rf ./dist; harp compile ./public dist",
     "deploy": "npm run dist && echo 'js.la' > dist/CNAME && surge dist",
     "speakerimages": "node bin/convert-speaker-images.js"
