@@ -1,8 +1,8 @@
 language: node_js
 node_js:
-  - "4"
+  - "6"
 script:
-  - npm build 
+  - npm cibuild
 deploy:
   on: master
   skip_cleanup: true

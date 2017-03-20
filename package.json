@@ -9,6 +9,7 @@
     "start": "harp server public",
     "build": "browserify public/js/main.js -o public/js/bundle.js -d && npm run compress",
     "compress": "uglifyjs -o public/js/bundle.min.js public/js/bundle.js",
+    "cibuild": "npm run build && npm run dist",
     "dist": "rm -rf ./dist; harp compile ./public dist",
     "deploy": "npm run dist && echo 'js.la' > dist/CNAME && surge dist",
     "speakerimages": "node bin/convert-speaker-images.js"
@@ -28,7 +29,6 @@
   "homepage": "http://js.la",
   "devDependencies": {
     "browserify": "^11.1.0",
-    "harp": "^0.22.0",
     "lwip": "0.0.8",
     "minimist": "^1.2.0",
     "surge": "^0.14.4",
@@ -36,6 +36,7 @@
   },
   "dependencies": {
     "eventemitter2": "^0.4.14",
+    "harp": "^0.23.0",
     "jquery": "^2.1.1",
     "merge": "^1.2.0",
     "raf": "^3.1.0"
