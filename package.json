@@ -5,7 +5,7 @@
   "description": "The js.la web site",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "echo \"Just running deploy script\" && exit 0",
     "start": "harp server public",
     "build": "browserify public/js/main.js -o public/js/bundle.js -d && npm run compress",
     "compress": "uglifyjs -o public/js/bundle.min.js public/js/bundle.js",

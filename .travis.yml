@@ -1,4 +1,11 @@
+language: node_js
+node_js:
+  - "4"
+script:
+  - npm build 
 deploy:
+  on: master
+  skip_cleanup: true
   provider: surge
   project: ./dist/
   domain: js.la
