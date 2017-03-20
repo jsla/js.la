@@ -2,7 +2,7 @@ language: node_js
 node_js:
   - "6"
 script:
-  - npm cibuild
+  - npm run cibuild
 deploy:
   on: master
   skip_cleanup: true
