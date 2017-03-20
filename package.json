@@ -29,14 +29,13 @@
   "homepage": "http://js.la",
   "devDependencies": {
     "browserify": "^11.1.0",
-    "lwip": "0.0.8",
+    "harp": "^0.23.0",
     "minimist": "^1.2.0",
     "surge": "^0.14.4",
     "uglify-js": "^2.3.6"
   },
   "dependencies": {
     "eventemitter2": "^0.4.14",
-    "harp": "^0.23.0",
     "jquery": "^2.1.1",
     "merge": "^1.2.0",
     "raf": "^3.1.0"
