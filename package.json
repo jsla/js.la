@@ -31,7 +31,7 @@
     "browserify": "^11.1.0",
     "harp": "^0.23.0",
     "minimist": "^1.2.0",
-    "surge": "^0.14.4",
+    "surge": "^0.19.0",
     "uglify-js": "^2.3.6"
   },
   "dependencies": {
