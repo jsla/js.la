@@ -4,9 +4,12 @@ var argv = require('minimist')(process.argv.slice(2))
     , lwip = require('lwip')
     , path = require('path')
 
+console.log('script is currently broken due to a bad dependency "lwip"')
+process.exit(1)
+
 function print(msg) {
     console.log(msg + '\n')
-} 
+}
 
 function usage() {
     print('Usage:')
