@@ -3,6 +3,64 @@
     "events": [
       {
         "title": "",
+        "datetime": "Thursday March 30th, 2017 7pm",
+        "date": "3/30/2017 19:00:00",
+        "host": {
+          "address": "990 W 8th St, 600, Los Angeles, CA 90017",
+          "name": "Honey",
+          "misc": "Near the 7th st. Metro station 🚋 in DTLA. Despite what Google Maps says, the office is located on the Southeast corner of 8th and Francisco St. There is parking in the garage in the building for $15 and parking across the street for $5",
+          "url": "https://www.joinhoney.com/careers"
+        },
+        "drinksjs": {
+          "address": "417 W 8th St, Los Angeles, CA 90014",
+          "name": "Golden Gopher",
+          "misc": null,
+          "url": "https://www.yelp.com/biz/golden-gopher-los-angeles"
+        },
+        "speakers": [
+            {
+              "title": "Query the shit out of Facebook's Graph API",
+              "name": "Loren Stewart",
+              "image": "loren-stewart.jpg",
+              "twitter": "lorenstewart111",
+              "github": "lorenseanstewart",
+              "description": null,
+              "video": "https://www.youtube.com/watch?v=1VBgdKkuyNs",
+              "videoimg": "2017-03_JSLA_title_speaker1_small.png"
+            },
+            {
+              "title": "Building Offline First apps with Hoodie",
+              "name": "Gregor Martynus",
+              "image": "gregor-martynus.jpg",
+              "twitter": "gr2m",
+              "github": "gr2m",
+              "description": null,
+              "video": "https://www.youtube.com/watch?v=TSDyxtVbbME",
+              "videoimg": "2017-03_JSLA_title_speaker1_small.png"
+            }
+        ],
+        "sponsors": [
+            {
+              "name": "Signal Sciences",
+              "logo": "sponsor-signal-sciences.svg",
+              "url": "https://www.signalsciences.com/"
+            },
+            {
+              "name": "Hewlett Packard Enterprise",
+              "logo": "hpe.png",
+              "url": "https://www.hpe.com/us/en/servers/nonstop.html"
+            },
+            {
+              "name": "Honey",
+              "logo": "host-honey.png",
+              "url": "https://www.joinhoney.com/careers"
+            }
+        ],
+        "titoUrl": "https://ti.to/jsla/march-2017",
+        "heroPhotos": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
+      },
+      {
+        "title": "",
         "datetime": "Thursday February 23th, 2017 7pm",
         "date": "1/23/2017 19:00:00",
         "host": {
