@@ -4,9 +4,9 @@
       "datetime": "Thursday April 27th, 2017 7pm",
       "date": "4/27/2017 19:00:00",
       "host": {
-        "address": "2415 Michigan Avenue, Santa Monica, Los Angeles, CA 90404",
+        "address": "2415 Michigan Ave, Santa Monica, CA",
         "name": "Headspace",
-        "misc": "",
+        "misc": "Street parking nearby, and next the the 26th St/Bergamot station 🚃",
         "url": "https://www.headspace.com/join-us"
       },
       "drinksjs": {
@@ -38,6 +38,11 @@
             "name": "Signal Sciences",
             "logo": "sponsor-signal-sciences.svg",
             "url": "https://www.signalsciences.com/"
+          },
+          {
+            "name": "Headspace",
+            "logo": "host-headspace.png",
+            "url": "https://www.headspace.com/join-us"
           }
       ],
       "titoUrl": "https://ti.to/jsla/april-2017",
