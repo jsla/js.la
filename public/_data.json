@@ -10,10 +10,10 @@
         "url": "https://www.headspace.com/join-us"
       },
       "drinksjs": {
-        "address": "417 W 8th St, Los Angeles, CA 90014",
-        "name": "Golden Gopher",
+        "address": null,
+        "name": null,
         "misc": null,
-        "url": "https://www.yelp.com/biz/golden-gopher-los-angeles"
+        "url": null
       },
       "speakers": [
           {
@@ -40,7 +40,7 @@
             "url": "https://www.signalsciences.com/"
           }
       ],
-      "titoUrl": "https://ti.to/jsla/march-2017",
+      "titoUrl": "https://ti.to/jsla/april-2017",
       "heroPhotos": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
     },
     "sitemap": {
