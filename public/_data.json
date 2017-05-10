@@ -5,7 +5,7 @@
       "date": "5/25/2017 19:00:00",
       "host": {
         "address": "3211 Olympic Blvd, Santa Monica, CA 90404",
-        "name": "SpientRazorFish",
+        "name": "Sapient Razor Nitro Fish Lizard",
         "misc": "",
         "url": "http://www.sapientrazorfish.com/"
       },
@@ -35,14 +35,14 @@
       ],
       "sponsors": [
           {
-            "name": "Signal Sciences",
-            "logo": "sponsor-signal-sciences.svg",
-            "url": "https://www.signalsciences.com/"
+            "name": "Sapient Razor Nitro Fish Lizard",
+            "logo": "host-sapient-nitro-scaled.png",
+            "url": "http://www.sapientrazorfish.com/"
           },
           {
-            "name": "Headspace",
-            "logo": "host-headspace.png",
-            "url": "https://www.headspace.com/join-us"
+            "name": "RisingStack",
+            "logo": "sponsor-risingstack-scaled.png",
+            "url": "https://risingstack.com/trainings"
           }
       ],
       "titoUrl": "https://ti.to/jsla/april-2017",
