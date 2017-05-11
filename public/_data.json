@@ -87,6 +87,13 @@
         "avatar": "/images/team/nate-lubeck.jpg",
         "twitter": "etanlubeck",
         "slack": "etanlubeck"
+      },
+      {
+        "name": "Sean Westfall",
+        "avatar": "/images/team/sean-westfall.jpeg",
+        "twitter": "alphonse86",
+        "slack": "sean"
+        
       }
     ],
     "pastSponsors": [
