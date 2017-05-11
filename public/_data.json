@@ -1,13 +1,13 @@
 {
     "current": {
       "title": "",
-      "datetime": "Thursday April 27th, 2017 7pm",
-      "date": "4/27/2017 19:00:00",
+      "datetime": "Thursday May 25th, 2017 7pm",
+      "date": "5/25/2017 19:00:00",
       "host": {
-        "address": "2415 Michigan Ave, Santa Monica, CA",
-        "name": "Headspace",
-        "misc": "Street parking nearby, and next to the 26th St/Bergamot station 🚃",
-        "url": "https://www.headspace.com/join-us"
+        "address": "3211 Olympic Blvd, Santa Monica, CA 90404",
+        "name": "SapientRazorfish",
+        "misc": "",
+        "url": "http://www.sapientrazorfish.com/"
       },
       "drinksjs": {
         "address": "2819 Pico Blvd, Santa Monica, CA 90405",
@@ -17,35 +17,35 @@
       },
       "speakers": [
           {
-            "title": "High Performance Node.js: learn how to full throttle your code",
-            "name": "Lauren Spiegel & Giorgio Regni",
-            "image": "lauren-spiegel.jpg",
-            "twitter": "laurenspiegel",
-            "github": "laurenspiegel",
+            "title": "Web APIs you (probably) didn’t know existed",
+            "name": "Zeno Rocha",
+            "image": "zeno-rocha.jpeg",
+            "twitter": "zenorocha",
+            "github": "zenorocha",
             "description": null
           },
           {
-            "title": "Career Talk: JavaScript Unicorns",
-            "name": "Jason Campbell",
-            "image": "jason-campbell.jpg",
-            "twitter": "jxson",
-            "github": "jxson",
+            "title": "Wheels, Gears and Labyrinths",
+            "name": "Jim Bumgardner",
+            "image": "jim-bumgardner.jpg",
+            "twitter": "jbum",
+            "github": "jbum",
             "description": null
           }
       ],
       "sponsors": [
           {
-            "name": "Signal Sciences",
-            "logo": "sponsor-signal-sciences.svg",
-            "url": "https://www.signalsciences.com/"
+            "name": "SapientRazorfish",
+            "logo": "host-sapient-nitro-scaled.png",
+            "url": "http://www.sapientrazorfish.com/"
           },
           {
-            "name": "Headspace",
-            "logo": "host-headspace.png",
-            "url": "https://www.headspace.com/join-us"
+            "name": "RisingStack",
+            "logo": "sponsor-risingstack-scaled.png",
+            "url": "https://risingstack.com/trainings"
           }
       ],
-      "titoUrl": "https://ti.to/jsla/april-2017",
+      "titoUrl": "https://ti.to/jsla/may-2017",
       "heroPhotos": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
     },
     "sitemap": {
