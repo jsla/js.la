@@ -93,7 +93,12 @@
         "avatar": "/images/team/sean-westfall.jpeg",
         "twitter": "alphonse86",
         "slack": "sean"
-        
+      },
+      {
+        "name": "Rouzbeh Sarrafieh",
+        "avatar": "/images/team/rouzbeh-sarrafieh.jpg",
+        "twitter": "rouzbeh84",
+        "slack": "rouzbeh"
       }
     ],
     "pastSponsors": [
