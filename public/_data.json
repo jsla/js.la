@@ -5,7 +5,7 @@
       "date": "5/25/2017 19:00:00",
       "host": {
         "address": "3211 Olympic Blvd, Santa Monica, CA 90404",
-        "name": "Sapient Razorfish",
+        "name": "SapientRazorfish",
         "misc": "",
         "url": "http://www.sapientrazorfish.com/"
       },
@@ -35,7 +35,7 @@
       ],
       "sponsors": [
           {
-            "name": "Sapient Razorfish",
+            "name": "SapientRazorfish",
             "logo": "host-sapient-nitro-scaled.png",
             "url": "http://www.sapientrazorfish.com/"
           },
