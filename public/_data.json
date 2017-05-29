@@ -1,13 +1,13 @@
 {
     "current": {
       "title": "",
-      "datetime": "Thursday May 25th, 2017 7pm",
-      "date": "5/25/2017 19:00:00",
+      "datetime": "Thursday June 29th, 2017 7pm",
+      "date": "6/29/2017 19:00:00",
       "host": {
-        "address": "3211 Olympic Blvd, Santa Monica, CA 90404",
-        "name": "SapientRazorfish",
+        "address": "340 Main St, Venice, CA 90291",
+        "name": "Google, Venice",
         "misc": "",
-        "url": "http://www.sapientrazorfish.com/"
+        "url": "https://google.com/"
       },
       "drinksjs": {
         "address": "2819 Pico Blvd, Santa Monica, CA 90405",
@@ -17,35 +17,35 @@
       },
       "speakers": [
           {
-            "title": "Web APIs you (probably) didn’t know existed",
-            "name": "Zeno Rocha",
-            "image": "zeno-rocha.jpeg",
-            "twitter": "zenorocha",
-            "github": "zenorocha",
+            "title": "The Rise of the Sound-Reactive, Beat-Detecting, Robotic Browser VJ",
+            "name": "David Guttman",
+            "image": "davidguttman.png",
+            "twitter": "davidguttman",
+            "github": "davidguttman",
             "description": null
           },
           {
-            "title": "Wheels, Gears and Labyrinths",
-            "name": "Jim Bumgardner",
-            "image": "jim-bumgardner.jpg",
-            "twitter": "jbum",
-            "github": "jbum",
+            "title": "",
+            "name": "",
+            "image": "",
+            "twitter": "",
+            "github": "",
             "description": null
           }
       ],
       "sponsors": [
           {
-            "name": "SapientRazorfish",
-            "logo": "host-sapient-nitro-scaled.png",
-            "url": "http://www.sapientrazorfish.com/"
+            "name": "",
+            "logo": "",
+            "url": ""
           },
           {
-            "name": "RisingStack",
-            "logo": "sponsor-risingstack-scaled.png",
-            "url": "https://risingstack.com/trainings"
+            "name": "",
+            "logo": "",
+            "url": ""
           }
       ],
-      "titoUrl": "https://ti.to/jsla/may-2017",
+      "titoUrl": "https://ti.to/jsla/june-2017",
       "heroPhotos": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
     },
     "sitemap": {
