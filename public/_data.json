@@ -1,56 +1,51 @@
 {
     "current": {
       "title": "",
-      "datetime": "Thursday March 30th, 2017 7pm",
-      "date": "3/30/2017 19:00:00",
+      "datetime": "Thursday May 25th, 2017 7pm",
+      "date": "5/25/2017 19:00:00",
       "host": {
-        "address": "990 W 8th St, 600, Los Angeles, CA 90017",
-        "name": "Honey",
-        "misc": "Near the 7th st. Metro station 🚋 in DTLA. Despite what Google Maps says, the office is located on the Southeast corner of 8th and Francisco St. There is parking in the garage in the building for $15 and parking across the street for $5",
-        "url": "https://www.joinhoney.com/careers"
+        "address": "3211 Olympic Blvd, Santa Monica, CA 90404",
+        "name": "SapientRazorfish",
+        "misc": "",
+        "url": "http://www.sapientrazorfish.com/"
       },
       "drinksjs": {
-        "address": "417 W 8th St, Los Angeles, CA 90014",
-        "name": "Golden Gopher",
+        "address": "2819 Pico Blvd, Santa Monica, CA 90405",
+        "name": "Barkowski",
         "misc": null,
-        "url": "https://www.yelp.com/biz/golden-gopher-los-angeles"
+        "url": "https://www.yelp.com/biz/barkowski-santa-monica"
       },
       "speakers": [
           {
-            "title": "Query the shit out of Facebook's Graph API",
-            "name": "Loren Stewart",
-            "image": "loren-stewart.jpg",
-            "twitter": "lorenstewart111",
-            "github": "lorenseanstewart",
+            "title": "Web APIs you (probably) didn’t know existed",
+            "name": "Zeno Rocha",
+            "image": "zeno-rocha.jpeg",
+            "twitter": "zenorocha",
+            "github": "zenorocha",
             "description": null
           },
           {
-            "title": "Building Offline First apps with Hoodie",
-            "name": "Gregor Martynus",
-            "image": "gregor-martynus.jpg",
-            "twitter": "gr2m",
-            "github": "gr2m",
+            "title": "Wheels, Gears and Labyrinths",
+            "name": "Jim Bumgardner",
+            "image": "jim-bumgardner.jpg",
+            "twitter": "jbum",
+            "github": "jbum",
             "description": null
           }
       ],
       "sponsors": [
           {
-            "name": "Signal Sciences",
-            "logo": "sponsor-signal-sciences.svg",
-            "url": "https://www.signalsciences.com/"
+            "name": "SapientRazorfish",
+            "logo": "host-sapient-nitro-scaled.png",
+            "url": "http://www.sapientrazorfish.com/"
           },
           {
-            "name": "Hewlett Packard Enterprise",
-            "logo": "hpe.png",
-            "url": "https://www.hpe.com/us/en/servers/nonstop.html"
-          },
-          {
-            "name": "Honey",
-            "logo": "host-honey.png",
-            "url": "https://www.joinhoney.com/careers"
+            "name": "RisingStack",
+            "logo": "sponsor-risingstack-scaled.png",
+            "url": "https://risingstack.com/trainings"
           }
       ],
-      "titoUrl": "https://ti.to/jsla/march-2017",
+      "titoUrl": "https://ti.to/jsla/may-2017",
       "heroPhotos": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
     },
     "sitemap": {
@@ -92,6 +87,18 @@
         "avatar": "/images/team/nate-lubeck.jpg",
         "twitter": "etanlubeck",
         "slack": "etanlubeck"
+      },
+      {
+        "name": "Sean Westfall",
+        "avatar": "/images/team/sean-westfall.jpeg",
+        "twitter": "alphonse86",
+        "slack": "sean"
+      },
+      {
+        "name": "Rouzbeh Sarrafieh",
+        "avatar": "/images/team/rouzbeh-sarrafieh.jpg",
+        "twitter": "rouzbeh84",
+        "slack": "rouzbeh"
       }
     ],
     "pastSponsors": [
