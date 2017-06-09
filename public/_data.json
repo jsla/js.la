@@ -38,9 +38,14 @@
             "name": "FullStack React",
             "logo": "sponsor-fullstackreact.png",
             "url": "https://www.fullstackreact.com/"
+          },
+          {
+            "name": "Google",
+            "logo": "host-google.png",
+            "url": "https://careers.google.com/locations/los-angeles/"
           }
       ],
-      "titoUrl": "https://ti.to/jsla/june-2017",
+      "titoUrl": "https://jsla-june-2017.eventbrite.com",
       "heroPhotos": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
     },
     "sitemap": {
