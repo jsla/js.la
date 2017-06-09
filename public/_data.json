@@ -7,7 +7,7 @@
         "address": "340 Main St, Venice, CA 90291",
         "name": "Google, Venice",
         "misc": "",
-        "url": "https://google.com/"
+        "url": "https://careers.google.com/locations/los-angeles/"
       },
       "drinksjs": {
         "address": "2819 Pico Blvd, Santa Monica, CA 90405",
@@ -35,14 +35,9 @@
       ],
       "sponsors": [
           {
-            "name": "",
-            "logo": "",
-            "url": ""
-          },
-          {
-            "name": "",
-            "logo": "",
-            "url": ""
+            "name": "FullStack React",
+            "logo": "sponsor-fullstackreact.png",
+            "url": "https://www.fullstackreact.com/"
           }
       ],
       "titoUrl": "https://ti.to/jsla/june-2017",
