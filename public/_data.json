@@ -123,9 +123,9 @@
             "url": "http://www.wemash.com/"
         },
         {
-            "name": "SapientNitro",
-            "logo": "host-sapient-nitro.png",
-            "url": "http://sapientnitro.com"
+          "name": "SapientRazorfish",
+          "logo": "host-sapient-nitro-scaled.png",
+          "url": "http://www.sapientrazorfish.com/"
         },
         {
             "name": "Hack Reactor",
@@ -186,6 +186,12 @@
             "name": "M-GO",
             "logo": "sponsor-m-go.png",
             "url": "http://m-go.com"
+        },
+        {
+          "name": "RisingStack",
+          "logo": "sponsor-risingstack-scaled.png",
+          "url": "https://risingstack.com/trainings"
         }
+
     ]
 }
