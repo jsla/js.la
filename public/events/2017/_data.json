@@ -24,7 +24,9 @@
               "image": "zeno-rocha.jpeg",
               "twitter": "zenorocha",
               "github": "zenorocha",
-              "description": null
+              "description": null,
+              "video": "",
+              "videoimg": ""
             },
             {
               "title": "Wheels, Gears and Labyrinths",
@@ -32,7 +34,9 @@
               "image": "jim-bumgardner.jpg",
               "twitter": "jbum",
               "github": "jbum",
-              "description": null
+              "description": null,
+              "video": "",
+              "videoimg": ""
             }
         ],
         "sponsors": [
@@ -61,10 +65,10 @@
           "url": "https://www.headspace.com/join-us"
         },
         "drinksjs": {
-          "address": null,
-          "name": null,
+          "address": "2819 Pico Blvd, Santa Monica, CA 90405",
+          "name": "Barkowski",
           "misc": null,
-          "url": null
+          "url": "https://www.yelp.com/biz/barkowski-santa-monica"
         },
         "speakers": [
             {
@@ -73,7 +77,9 @@
               "image": "lauren-spiegel.jpg",
               "twitter": "laurenspiegel",
               "github": "laurenspiegel",
-              "description": null
+              "description": null,
+              "video": "",
+              "videoimg": ""
             },
             {
               "title": "Career Talk: JavaScript Unicorns",
@@ -81,7 +87,9 @@
               "image": "jason-campbell.jpg",
               "twitter": "jxson",
               "github": "jxson",
-              "description": null
+              "description": null,
+              "video": "",
+              "videoimg": ""
             }
         ],
         "sponsors": [
@@ -98,7 +106,7 @@
         ],
         "titoUrl": "https://ti.to/jsla/april-2017",
         "heroPhotos": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
-      }
+      },
       {
         "title": "",
         "datetime": "Thursday March 30th, 2017 7pm",
