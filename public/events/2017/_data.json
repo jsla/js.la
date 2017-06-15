@@ -24,7 +24,9 @@
               "image": "zeno-rocha.jpeg",
               "twitter": "zenorocha",
               "github": "zenorocha",
-              "description": null
+              "description": null,
+              "video": "",
+              "videoimg": ""
             },
             {
               "title": "Wheels, Gears and Labyrinths",
@@ -32,7 +34,9 @@
               "image": "jim-bumgardner.jpg",
               "twitter": "jbum",
               "github": "jbum",
-              "description": null
+              "description": null,
+              "video": "",
+              "videoimg": ""
             }
         ],
         "sponsors": [
@@ -57,7 +61,7 @@
         "host": {
           "address": "2415 Michigan Ave, Santa Monica, CA",
           "name": "Headspace",
-          "misc": "Street parking nearby, and next to the 26th St/Bergamot station 🚃",
+          "misc": "Street parking nearby, and next the the 26th St/Bergamot station 🚃",
           "url": "https://www.headspace.com/join-us"
         },
         "drinksjs": {
@@ -70,10 +74,12 @@
             {
               "title": "High Performance Node.js: learn how to full throttle your code",
               "name": "Lauren Spiegel & Giorgio Regni",
-              "image": "Lauren-Gio.png",
+              "image": "lauren-spiegel.jpg",
               "twitter": "laurenspiegel",
               "github": "laurenspiegel",
-              "description": null
+              "description": null,
+              "video": "",
+              "videoimg": ""
             },
             {
               "title": "Career Talk: JavaScript Unicorns",
@@ -81,7 +87,9 @@
               "image": "jason-campbell.jpg",
               "twitter": "jxson",
               "github": "jxson",
-              "description": null
+              "description": null,
+              "video": "",
+              "videoimg": ""
             }
         ],
         "sponsors": [
