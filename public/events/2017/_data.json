@@ -25,8 +25,8 @@
               "twitter": "zenorocha",
               "github": "zenorocha",
               "description": null,
-              "video": "",
-              "videoimg": ""
+              "video": "https://www.youtube.com/watch?v=K3fyDJDj15s",
+              "videoimg": "2017-05_JSLA_title_speaker1_small.png"
             },
             {
               "title": "Wheels, Gears and Labyrinths",
@@ -35,8 +35,8 @@
               "twitter": "jbum",
               "github": "jbum",
               "description": null,
-              "video": "",
-              "videoimg": ""
+              "video": "https://www.youtube.com/watch?v=HpAwRtWfFPk",
+              "videoimg": "2017-05_JSLA_title_speaker2_small.png"
             }
         ],
         "sponsors": [
@@ -74,12 +74,12 @@
             {
               "title": "High Performance Node.js: learn how to full throttle your code",
               "name": "Lauren Spiegel & Giorgio Regni",
-              "image": "lauren-spiegel.jpg",
+              "image": "Lauren-Gio.png",
               "twitter": "laurenspiegel",
               "github": "laurenspiegel",
               "description": null,
-              "video": "",
-              "videoimg": ""
+              "video": "https://www.youtube.com/watch?v=18d0HosHCX8",
+              "videoimg": "2017-04_JSLA_title_speaker1_small.png"
             },
             {
               "title": "Career Talk: JavaScript Unicorns",
@@ -88,8 +88,8 @@
               "twitter": "jxson",
               "github": "jxson",
               "description": null,
-              "video": "",
-              "videoimg": ""
+              "zvideo": "https://www.youtube.com/watch?v=0SM9aDv0mN8",
+              "zvideoimg": "2017-04_JSLA_title_speaker2_small.png"
             }
         ],
         "sponsors": [
