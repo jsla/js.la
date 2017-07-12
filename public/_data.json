@@ -1,35 +1,35 @@
 {
     "current": {
       "title": "",
-      "datetime": "Thursday June 29th, 2017 7pm",
-      "date": "6/29/2017 19:00:00",
+      "datetime": "Thursday July 27th, 2017 7pm",
+      "date": "7/27/2017 19:00:00",
       "host": {
-        "address": "340 Main St, Venice, CA 90291",
-        "name": "Google, Venice",
+        "address": "1615 16th St, Santa Monica, CA 90404",
+        "name": "Philosophie",
         "misc": "",
-        "url": "https://careers.google.com/locations/los-angeles/"
+        "url": "https://philosophie.is/"
       },
       "drinksjs": {
-        "address": "2536 Lincoln Blvd, Los Angeles, CA 90291, Venice",
-        "name": "The Lincoln",
+        "address": "2819 Pico Blvd, Santa Monica, CA 90405",
+        "name": "Barkowski",
         "misc": null,
-        "url": "https://www.yelp.com/biz/the-lincoln-los-angeles"
+        "url": "https://www.yelp.com/biz/barkowski-santa-monica"
       },
       "speakers": [
           {
-            "title": "The Rise of the Sound-Reactive, Beat-Detecting, Robotic Browser VJ",
-            "name": "David Guttman",
-            "image": "davidguttman.png",
-            "twitter": "davidguttman",
-            "github": "davidguttman",
+            "title": "React and Flow in a Large Codebase",
+            "name": "James Hush",
+            "image": "james-hush.jpg",
+            "twitter": "nflengineers",
+            "github": "jamsea",
             "description": null
           },
           {
-            "title": "Attacking Hardware with Node.js",
-            "name": "Samy Kamkar",
-            "image": "samy-kamkar.jpg",
-            "twitter": "samykamkar",
-            "github": "samyk",
+            "title": "Reshape: Transform HTML With Javascript Plugins",
+            "name": "Jeff Escalante",
+            "image": "jeff-escalante.jpg",
+            "twitter": "jescalan",
+            "github": "jescalan",
             "description": null
           }
       ],
@@ -40,12 +40,12 @@
             "url": "https://www.fullstackreact.com/"
           },
           {
-            "name": "Google",
-            "logo": "host-google.png",
-            "url": "https://careers.google.com/locations/los-angeles/"
+            "name": "Philosophie",
+            "logo": "host-philosophie.png",
+            "url": "https://angel.co/philosophie/jobs"
           }
       ],
-      "titoUrl": "https://jsla-june-2017.eventbrite.com",
+      "titoUrl": "https://jsla-july-2017.eventbrite.com",
       "heroPhotos": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
     },
     "sitemap": {
