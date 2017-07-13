@@ -3,6 +3,59 @@
     "events": [
       {
         "title": "",
+        "datetime": "Thursday June 29th, 2017 7pm",
+        "date": "6/29/2017 19:00:00",
+        "host": {
+          "address": "340 Main St, Venice, CA 90291",
+          "name": "Google, Venice",
+          "misc": "",
+          "url": "https://careers.google.com/locations/los-angeles/"
+        },
+        "drinksjs": {
+          "address": "2536 Lincoln Blvd, Los Angeles, CA 90291, Venice",
+          "name": "The Lincoln",
+          "misc": null,
+          "url": "https://www.yelp.com/biz/the-lincoln-los-angeles"
+        },
+        "speakers": [
+            {
+              "title": "The Rise of the Sound-Reactive, Beat-Detecting, Robotic Browser VJ",
+              "name": "David Guttman",
+              "image": "davidguttman.png",
+              "twitter": "davidguttman",
+              "github": "davidguttman",
+              "description": null,
+              "video": "",
+              "videoimg": ""
+            },
+            {
+              "title": "Attacking Hardware with Node.js",
+              "name": "Samy Kamkar",
+              "image": "samy-kamkar.jpg",
+              "twitter": "samykamkar",
+              "github": "samyk",
+              "description": null,
+              "video": "",
+              "videoimg": ""
+            }
+        ],
+        "sponsors": [
+            {
+              "name": "FullStack React",
+              "logo": "sponsor-fullstackreact.png",
+              "url": "https://www.fullstackreact.com/"
+            },
+            {
+              "name": "Google",
+              "logo": "host-google-upcoming-events-banner.png",
+              "url": "https://careers.google.com/locations/los-angeles/"
+            }
+        ],
+        "titoUrl": "https://jsla-june-2017.eventbrite.com",
+        "heroPhotos": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
+      },
+      {
+        "title": "",
         "datetime": "Thursday May 25th, 2017 7pm",
         "date": "5/25/2017 19:00:00",
         "host": {
