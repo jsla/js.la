@@ -3,6 +3,165 @@
     "events": [
       {
         "title": "",
+        "datetime": "Thursday June 29th, 2017 7pm",
+        "date": "6/29/2017 19:00:00",
+        "host": {
+          "address": "340 Main St, Venice, CA 90291",
+          "name": "Google, Venice",
+          "misc": "",
+          "url": "https://careers.google.com/locations/los-angeles/"
+        },
+        "drinksjs": {
+          "address": "2536 Lincoln Blvd, Los Angeles, CA 90291, Venice",
+          "name": "The Lincoln",
+          "misc": null,
+          "url": "https://www.yelp.com/biz/the-lincoln-los-angeles"
+        },
+        "speakers": [
+            {
+              "title": "The Rise of the Sound-Reactive, Beat-Detecting, Robotic Browser VJ",
+              "name": "David Guttman",
+              "image": "davidguttman.png",
+              "twitter": "davidguttman",
+              "github": "davidguttman",
+              "description": null,
+              "video": "",
+              "videoimg": ""
+            },
+            {
+              "title": "Attacking Hardware with Node.js",
+              "name": "Samy Kamkar",
+              "image": "samy-kamkar.jpg",
+              "twitter": "samykamkar",
+              "github": "samyk",
+              "description": null,
+              "video": "",
+              "videoimg": ""
+            }
+        ],
+        "sponsors": [
+            {
+              "name": "FullStack React",
+              "logo": "sponsor-fullstackreact.png",
+              "url": "https://www.fullstackreact.com/"
+            },
+            {
+              "name": "Google",
+              "logo": "host-google-upcoming-events-banner.png",
+              "url": "https://careers.google.com/locations/los-angeles/"
+            }
+        ],
+        "titoUrl": "https://jsla-june-2017.eventbrite.com",
+        "heroPhotos": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
+      },
+      {
+        "title": "",
+        "datetime": "Thursday May 25th, 2017 7pm",
+        "date": "5/25/2017 19:00:00",
+        "host": {
+          "address": "3211 Olympic Blvd, Santa Monica, CA 90404",
+          "name": "SapientRazorfish",
+          "misc": "",
+          "url": "http://www.sapientrazorfish.com/"
+        },
+        "drinksjs": {
+          "address": "2819 Pico Blvd, Santa Monica, CA 90405",
+          "name": "Barkowski",
+          "misc": null,
+          "url": "https://www.yelp.com/biz/barkowski-santa-monica"
+        },
+        "speakers": [
+            {
+              "title": "Web APIs you (probably) didn’t know existed",
+              "name": "Zeno Rocha",
+              "image": "zeno-rocha.jpeg",
+              "twitter": "zenorocha",
+              "github": "zenorocha",
+              "description": null,
+              "video": "https://www.youtube.com/watch?v=K3fyDJDj15s",
+              "videoimg": "2017-05_JSLA_title_speaker1_small.png"
+            },
+            {
+              "title": "Wheels, Gears and Labyrinths",
+              "name": "Jim Bumgardner",
+              "image": "jim-bumgardner.jpg",
+              "twitter": "jbum",
+              "github": "jbum",
+              "description": null,
+              "video": "https://www.youtube.com/watch?v=HpAwRtWfFPk",
+              "videoimg": "2017-05_JSLA_title_speaker2_small.png"
+            }
+        ],
+        "sponsors": [
+            {
+              "name": "SapientRazorfish",
+              "logo": "host-sapient-nitro-scaled.png",
+              "url": "http://www.sapientrazorfish.com/"
+            },
+            {
+              "name": "RisingStack",
+              "logo": "sponsor-risingstack-scaled.png",
+              "url": "https://risingstack.com/trainings"
+            }
+        ],
+        "titoUrl": "https://ti.to/jsla/may-2017",
+        "heroPhotos": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
+      },
+      {
+        "title": "",
+        "datetime": "Thursday April 27th, 2017 7pm",
+        "date": "4/27/2017 19:00:00",
+        "host": {
+          "address": "2415 Michigan Ave, Santa Monica, CA",
+          "name": "Headspace",
+          "misc": "Street parking nearby, and next the the 26th St/Bergamot station 🚃",
+          "url": "https://www.headspace.com/join-us"
+        },
+        "drinksjs": {
+          "address": "2819 Pico Blvd, Santa Monica, CA 90405",
+          "name": "Barkowski",
+          "misc": null,
+          "url": "https://www.yelp.com/biz/barkowski-santa-monica"
+        },
+        "speakers": [
+            {
+              "title": "High Performance Node.js: learn how to full throttle your code",
+              "name": "Lauren Spiegel & Giorgio Regni",
+              "image": "Lauren-Gio.png",
+              "twitter": "laurenspiegel",
+              "github": "laurenspiegel",
+              "description": null,
+              "video": "https://www.youtube.com/watch?v=18d0HosHCX8",
+              "videoimg": "2017-04_JSLA_title_speaker1_small.png"
+            },
+            {
+              "title": "Career Talk: JavaScript Unicorns",
+              "name": "Jason Campbell",
+              "image": "jason-campbell.jpg",
+              "twitter": "jxson",
+              "github": "jxson",
+              "description": null,
+              "zvideo": "https://www.youtube.com/watch?v=0SM9aDv0mN8",
+              "zvideoimg": "2017-04_JSLA_title_speaker2_small.png"
+            }
+        ],
+        "sponsors": [
+            {
+              "name": "Signal Sciences",
+              "logo": "sponsor-signal-sciences.svg",
+              "url": "https://www.signalsciences.com/"
+            },
+            {
+              "name": "Headspace",
+              "logo": "host-headspace.png",
+              "url": "https://www.headspace.com/join-us"
+            }
+        ],
+        "titoUrl": "https://ti.to/jsla/april-2017",
+        "heroPhotos": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
+      },
+      {
+        "title": "",
         "datetime": "Thursday March 30th, 2017 7pm",
         "date": "3/30/2017 19:00:00",
         "host": {
