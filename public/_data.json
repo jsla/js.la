@@ -1,13 +1,13 @@
 {
     "current": {
       "title": "",
-      "datetime": "Thursday July 27th, 2017 7pm",
-      "date": "7/27/2017 19:00:00",
+      "datetime": "Thursday August 31th, 2017 7pm",
+      "date": "8/31/2017 19:00:00",
       "host": {
-        "address": "1615 16th St, Santa Monica, CA 90404",
-        "name": "Philosophie",
-        "misc": "Limited parking in parking lot, street parking, and building is super close the 17th Street/Santa Monica College station 🚃",
-        "url": "https://philosophie.is/"
+        "address": "2401 Colorado Ave, Santa Monica, CA 90404",
+        "name": "Edmunds",
+        "misc": "",
+        "url": "https://www.edmunds.com/"
       },
       "drinksjs": {
         "address": "2819 Pico Blvd, Santa Monica, CA 90405",
@@ -17,35 +17,35 @@
       },
       "speakers": [
           {
-            "title": "Preventing Accessibility Penalties at the NFL",
-            "name": "James Hush",
-            "image": "james-hush.jpg",
-            "twitter": "nflengineers",
-            "github": "jamsea",
-            "description": "NFL.com didn't just receive a surface level makeover, a lot of time was put into accessibility. I'll speak about how we took our video player accessibility rating all the way to the endzone. In the process, I'll show how to diagnose, debug, fix, and prevent accessibility issues in modern web applications."
+            "title": "Why you should (almost) always use stateful components in React",
+            "name": "Aaron Craig",
+            "image": "aaron-craig.jpeg",
+            "twitter": "aaroncraig",
+            "github": "aaroncraigongithub",
+            "description": "In my work heading up the front end effort for a startup (still in stealth), we've adopted React / React Native / React Native Web for our client facing apps.\n\nAs a hiring manager discussing component architecture with candidates, and in general reading in blogs, etc, I notice that there is still a prevalent use of the data down / actions up pattern popularized by EmberJS and other like frameworks.\n\nWith Redux, a new paradigm is available, that allows smart, stateful components to be composed together, where each component is master of it's own domain, and very little data is shared between them through properties.\n\nThis architecture has worked very well for us so far, though it does have it's own set of complications to deal with.\n\nI'd love to share my story of how we came to really push hard into the world of almost completely stateful components, each plugged into Redux state, and what that's meant for us in terms of code maintainability, a clean and composition based architecture, easier debugging and more!"
           },
           {
-            "title": "Reshape: Transform HTML With Javascript Plugins",
-            "name": "Jeff Escalante",
-            "image": "jeff-escalante.jpg",
-            "twitter": "jescalan",
-            "github": "jescalan",
-            "description": "Introduction to Reshape, a library that opens up opportunity to transform and extend html, as well as some examples of innovation in static tech using it."
+            "title": "The Peer-to-peer Web",
+            "name": "Paul Frazee",
+            "image": "paul-frazee.png",
+            "twitter": "pfrazee",
+            "github": "pfrazee",
+            "description": "We love the Web because it's open, free, and highly connected. But sometimes the Web falls short: big businesses are centralizing control, data is getting tied up on servers, and users are losing their privacy.\n\nHow can we solve these problems, and decentralize the Web?\n\nLet's take a fresh look at peer-to-peer technologies, and see just how far the Web can go with a new protocol in the browser."
           }
       ],
       "sponsors": [
           {
-            "name": "FullStack React",
-            "logo": "sponsor-fullstackreact.png",
-            "url": "https://www.fullstackreact.com/"
+            "name": "Edmunds",
+            "logo": "host-edmunds.png",
+            "url": "https://www.edmunds.com/careers/"
           },
           {
-            "name": "Philosophie",
-            "logo": "host-philosophie.png",
-            "url": "https://philosophie.is/"
+            "name": "Headspace",
+            "logo": "host-headspace.png",
+            "url": "https://www.headspace.com/join-us"
           }
       ],
-      "titoUrl": "https://www.eventbrite.com/e/july-2017-registration-36130641722?aff=site",
+      "titoUrl": "https://www.eventbrite.com/e/august-2017-registration-36130641722?aff=site",
       "heroPhotos": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
     },
     "sitemap": {
