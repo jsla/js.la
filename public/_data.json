@@ -22,7 +22,7 @@
             "image": "aaron-craig.jpeg",
             "twitter": "aaroncraig",
             "github": "aaroncraigongithub",
-            "description": "In my work heading up the front end effort for a startup (still in stealth), we've adopted React / React Native / React Native Web for our client facing apps.\n\nAs a hiring manager discussing component architecture with candidates, and in general reading in blogs, etc, I notice that there is still a prevalent use of the data down / actions up pattern popularized by EmberJS and other like frameworks.\n\nWith Redux, a new paradigm is available, that allows smart, stateful components to be composed together, where each component is master of it's own domain, and very little data is shared between them through properties.\n\nThis architecture has worked very well for us so far, though it does have it's own set of complications to deal with.\n\nI'd love to share my story of how we came to really push hard into the world of almost completely stateful components, each plugged into Redux state, and what that's meant for us in terms of code maintainability, a clean and composition based architecture, easier debugging and more!"
+            "description": ""
           },
           {
             "title": "The Peer-to-peer Web",
@@ -30,7 +30,7 @@
             "image": "paul-frazee.png",
             "twitter": "pfrazee",
             "github": "pfrazee",
-            "description": "We love the Web because it's open, free, and highly connected. But sometimes the Web falls short: big businesses are centralizing control, data is getting tied up on servers, and users are losing their privacy.\n\nHow can we solve these problems, and decentralize the Web?\n\nLet's take a fresh look at peer-to-peer technologies, and see just how far the Web can go with a new protocol in the browser."
+            "description": ""
           }
       ],
       "sponsors": [
