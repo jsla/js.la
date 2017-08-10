@@ -22,7 +22,7 @@
             "image": "aaron-craig.jpeg",
             "twitter": "aaroncraig",
             "github": "aaroncraigongithub",
-            "description": ""
+            "description": "A talk about the tradeoffs between stateful and stateless components, and why you might be doing it wrong."
           },
           {
             "title": "The Peer-to-peer Web",
