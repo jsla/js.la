@@ -1,51 +1,51 @@
 {
     "current": {
       "title": "",
-      "datetime": "Thursday June 29th, 2017 7pm",
-      "date": "6/29/2017 19:00:00",
+      "datetime": "Thursday August 31th, 2017 7pm",
+      "date": "8/31/2017 19:00:00",
       "host": {
-        "address": "340 Main St, Venice, CA 90291",
-        "name": "Google, Venice",
-        "misc": "",
-        "url": "https://careers.google.com/locations/los-angeles/"
+        "address": "2401 Colorado Ave, Santa Monica, CA 90404",
+        "name": "Edmunds",
+        "misc": "Parking validation provided in Colorado Center (company parking lot).",
+        "url": "https://www.edmunds.com/"
       },
       "drinksjs": {
-        "address": "2536 Lincoln Blvd, Los Angeles, CA 90291, Venice",
-        "name": "The Lincoln",
+        "address": "2819 Pico Blvd, Santa Monica, CA 90405",
+        "name": "Barkowski",
         "misc": null,
-        "url": "https://www.yelp.com/biz/the-lincoln-los-angeles"
+        "url": "https://www.yelp.com/biz/barkowski-santa-monica"
       },
       "speakers": [
           {
-            "title": "The Rise of the Sound-Reactive, Beat-Detecting, Robotic Browser VJ",
-            "name": "David Guttman",
-            "image": "davidguttman.png",
-            "twitter": "davidguttman",
-            "github": "davidguttman",
-            "description": null
+            "title": "Why you should (almost) always use stateful components in React",
+            "name": "Aaron Craig",
+            "image": "aaron-craig.jpeg",
+            "twitter": "aaroncraig",
+            "github": "aaroncraigongithub",
+            "description": "A talk about the tradeoffs between stateful and stateless components, and why you might be doing it wrong."
           },
           {
-            "title": "Attacking Hardware with Node.js",
-            "name": "Samy Kamkar",
-            "image": "samy-kamkar.jpg",
-            "twitter": "samykamkar",
-            "github": "samyk",
-            "description": null
+            "title": "The Peer-to-peer Web",
+            "name": "Paul Frazee",
+            "image": "paul-frazee.png",
+            "twitter": "pfrazee",
+            "github": "pfrazee",
+            "description": "We love the Web because it's open, free, and highly connected. But sometimes the Web falls short: big businesses are centralizing control, data is getting tied up on servers, and users are losing their privacy.\n\nHow can we solve these problems, and decentralize the Web?\n\nLet's take a fresh look at peer-to-peer technologies, and see just how far the Web can go with a new protocol in the browser."
           }
       ],
       "sponsors": [
           {
-            "name": "FullStack React",
-            "logo": "sponsor-fullstackreact.png",
-            "url": "https://www.fullstackreact.com/"
+            "name": "Edmunds",
+            "logo": "host-edmunds.png",
+            "url": "https://www.edmunds.com/careers/"
           },
           {
-            "name": "Google",
-            "logo": "host-google.png",
-            "url": "https://careers.google.com/locations/los-angeles/"
+            "name": "Headspace",
+            "logo": "host-headspace.png",
+            "url": "https://www.headspace.com/join-us"
           }
       ],
-      "titoUrl": "https://jsla-june-2017.eventbrite.com",
+      "titoUrl": "https://jsla.eventbrite.com/?aff=site",
       "heroPhotos": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
     },
     "sitemap": {
