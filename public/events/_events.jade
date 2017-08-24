@@ -9,7 +9,7 @@ each event in events
 
     div.jsla-toplevel-container.wide.jsla-past-event
         div.jsla-toplevel-container
-            h2= event.datetime
+            h2(id= event.speakers[0].github)= event.datetime
 
             ul.jsla-speakers-list
                 each speaker in event.speakers
