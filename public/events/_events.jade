@@ -1,3 +1,11 @@
+-
+    function getDateSlug( date ) {
+        if ( !( date instanceof Date )) {
+            date = new Date( date )
+        }
+        return ( date.getMonth() + 1 ) + '-' + date.getFullYear()
+    }
+
 div.jsla-toplevel-container.jsla-event-container
 
     h1
@@ -9,7 +17,7 @@ each event in events
 
     div.jsla-toplevel-container.wide.jsla-past-event
         div.jsla-toplevel-container
-            h2(id= event.speakers[0].github)= event.datetime
+            h2(id= getDateSlug( event.date ))= event.datetime
 
             ul.jsla-speakers-list
                 each speaker in event.speakers
