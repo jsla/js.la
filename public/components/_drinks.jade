@@ -6,4 +6,6 @@ div.jsla-content-section.layer-2.jsla-drinks-container
         h1 Drinks.js
         h4 after the talks, around 9:15
         if url
-          h3.jsla-drinks-location!= "at <a href='" + url + "' title='" + name + "' target='_blank'>" + name + "</a>"
+          h3.jsla-drinks-location
+            = "at "
+            a(href=url, title=name, target='_blank')= name
