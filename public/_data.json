@@ -1,7 +1,7 @@
 {
     "current": {
       "title": "",
-      "datetime": "Thursday August 31th, 2017 7pm",
+      "datetime": "Thursday August 31st, 2017 7pm",
       "date": "8/31/2017 19:00:00",
       "host": {
         "address": "2401 Colorado Ave, Santa Monica, CA 90404",
@@ -10,10 +10,10 @@
         "url": "https://www.edmunds.com/"
       },
       "drinksjs": {
-        "address": "2819 Pico Blvd, Santa Monica, CA 90405",
-        "name": "Barkowski",
+        "address": "2226 Wilshire Blvd, Santa Monica, CA 90403",
+        "name": "O'Briens Irish Pub",
         "misc": null,
-        "url": "https://www.yelp.com/biz/barkowski-santa-monica"
+        "url": "https://www.yelp.com/biz/o-briens-irish-pub-santa-monica"
       },
       "speakers": [
           {
@@ -77,18 +77,6 @@
         "slack": "ashwell"
       },
       {
-        "name": "Ryan Regalado",
-        "avatar": "/images/team/ryan-regalado.jpg",
-        "twitter": "design48",
-        "slack": "d48"
-      },
-      {
-        "name": "Nate Lubeck",
-        "avatar": "/images/team/nate-lubeck.jpg",
-        "twitter": "etanlubeck",
-        "slack": "etanlubeck"
-      },
-      {
         "name": "Sean Westfall",
         "avatar": "/images/team/sean-westfall.jpeg",
         "twitter": "alphonse86",
@@ -99,6 +87,32 @@
         "avatar": "/images/team/rouzbeh-sarrafieh.jpg",
         "twitter": "rouzbeh84",
         "slack": "rouzbeh"
+      }
+    ],
+    "alumni": [
+      {
+        "name": "Jason Campbell",
+        "avatar": "/images/speakers/jason-campbell.jpg",
+        "twitter": "jxson",
+        "slack": "jxson"
+      },
+      {
+        "name": "Mike Matuzak",
+        "avatar": "/images/team/michael-matuzak.jpg",
+        "twitter": "mmatuzak",
+        "slack": "mike"
+      },
+      {
+        "name": "Ryan Regalado",
+        "avatar": "/images/team/ryan-regalado.jpg",
+        "twitter": "design48",
+        "slack": "d48"
+      },
+      {
+        "name": "Nate Lubeck",
+        "avatar": "/images/team/nate-lubeck.jpg",
+        "twitter": "etanlubeck",
+        "slack": "etanlubeck"
       }
     ],
     "pastSponsors": [
