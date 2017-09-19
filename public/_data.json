@@ -4,45 +4,45 @@
       "datetime": "Thursday August 31st, 2017 7pm",
       "date": "8/31/2017 19:00:00",
       "host": {
-        "address": "2401 Colorado Ave, Santa Monica, CA 90404",
-        "name": "Edmunds",
-        "misc": "Parking validation provided in Colorado Center (company parking lot).",
-        "url": "https://www.edmunds.com/"
+        "address": "2110 Broadway, Santa Monica, CA 90404",
+        "name": "TigerText",
+        "misc": "Nearby street parking and some spaces available in their lot",
+        "url": "https://www.tigertext.com/"
       },
       "drinksjs": {
-        "address": "2226 Wilshire Blvd, Santa Monica, CA 90403",
-        "name": "O'Briens Irish Pub",
+        "address": "",
+        "name": "",
         "misc": null,
-        "url": "https://www.yelp.com/biz/o-briens-irish-pub-santa-monica"
+        "url": ""
       },
       "speakers": [
           {
-            "title": "Why you should (almost) always use stateful components in React",
-            "name": "Aaron Craig",
-            "image": "aaron-craig.jpeg",
-            "twitter": "aaroncraig",
-            "github": "aaroncraigongithub",
-            "description": "A talk about the tradeoffs between stateful and stateless components, and why you might be doing it wrong."
+            "title": "Peer to Peer Video Streaming with WebRTC",
+            "name": "Brian Mau",
+            "image": "brian-mau.jpeg",
+            "twitter": "basscord", 
+            "github": "basscord",
+            "description": "WebRTC is a technology that is rapidly stabilizing, and it belongs in your tool-belt. Lets demystify it by building a peer to peer video streaming app."
           },
           {
-            "title": "The Peer-to-peer Web",
-            "name": "Paul Frazee",
-            "image": "paul-frazee.png",
-            "twitter": "pfrazee",
-            "github": "pfrazee",
-            "description": "We love the Web because it's open, free, and highly connected. But sometimes the Web falls short: big businesses are centralizing control, data is getting tied up on servers, and users are losing their privacy.\n\nHow can we solve these problems, and decentralize the Web?\n\nLet's take a fresh look at peer-to-peer technologies, and see just how far the Web can go with a new protocol in the browser."
+            "title": "Using Babel in a Futuristic Working Environment",
+            "name": "Kurtis Rainbolt-Greene",
+            "image": "kurtis-rainbolt-greene.png",
+            "twitter": "krainboltgreene",
+            "github": "krainboltgreene",
+            "description": "Babel, how it's progressed, the future of web development, and what it solves today."
           }
       ],
       "sponsors": [
           {
-            "name": "Edmunds",
-            "logo": "host-edmunds.png",
-            "url": "https://www.edmunds.com/careers/"
+            "name": "TigerText",
+            "logo": "host-tigertext.png",
+            "url": "https://www.tigertext.com/"
           },
           {
-            "name": "Headspace",
-            "logo": "host-headspace.png",
-            "url": "https://www.headspace.com/join-us"
+            "name": "Signal Sciences",
+            "logo": "sponsor-signal-sciences.svg",
+            "url": "https://www.signalsciences.com/"
           }
       ],
       "titoUrl": "https://jsla.eventbrite.com/?aff=site",
