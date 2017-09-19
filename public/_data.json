@@ -25,12 +25,12 @@
             "description": "WebRTC is a technology that is rapidly stabilizing, and it belongs in your tool-belt. Lets demystify it by building a peer to peer video streaming app."
           },
           {
-            "title": "",
-            "name": "",
-            "image": "",
-            "twitter": "",
-            "github": "",
-            "description": ""
+            "title": "Using Babel in a Futuristic Working Environment",
+            "name": "Kurtis Rainbolt-Greene",
+            "image": "kurtis-rainbolt-greene.png",
+            "twitter": "krainboltgreene",
+            "github": "krainboltgreene",
+            "description": "Babel, how it's progressed, the future of web development, and what it solves today."
           }
       ],
       "sponsors": [
