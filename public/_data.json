@@ -1,8 +1,8 @@
 {
     "current": {
       "title": "",
-      "datetime": "Thursday August 31st, 2017 7pm",
-      "date": "8/31/2017 19:00:00",
+      "datetime": "Thursday September 31st, 2017 7pm",
+      "date": "9/31/2017 19:00:00",
       "host": {
         "address": "2110 Broadway, Santa Monica, CA 90404",
         "name": "TigerText",
@@ -20,7 +20,7 @@
             "title": "Peer to Peer Video Streaming with WebRTC",
             "name": "Brian Mau",
             "image": "brian-mau.jpeg",
-            "twitter": "basscord", 
+            "twitter": "basscord",
             "github": "basscord",
             "description": "WebRTC is a technology that is rapidly stabilizing, and it belongs in your tool-belt. Lets demystify it by building a peer to peer video streaming app."
           },
