@@ -1,51 +1,51 @@
 {
     "current": {
       "title": "",
-      "datetime": "Thursday July 27th, 2017 7pm",
-      "date": "7/27/2017 19:00:00",
+      "datetime": "Thursday September 28th, 2017 7pm",
+      "date": "9/28/2017 19:00:00",
       "host": {
-        "address": "1615 16th St, Santa Monica, CA 90404",
-        "name": "Philosophie",
-        "misc": "Limited parking in parking lot, street parking, and building is super close the 17th Street/Santa Monica College station 🚃",
-        "url": "https://philosophie.is/"
+        "address": "2110 Broadway, Santa Monica, CA 90404",
+        "name": "TigerText",
+        "misc": "Nearby street parking and some spaces available in their lot",
+        "url": "https://www.tigertext.com/"
       },
       "drinksjs": {
-        "address": "2819 Pico Blvd, Santa Monica, CA 90405",
-        "name": "Barkowski",
+        "address": "2226 Wilshire Blvd, Santa Monica, CA 90403",
+        "name": "O’Briens Irish Pub",
         "misc": null,
-        "url": "https://www.yelp.com/biz/barkowski-santa-monica"
+        "url": "https://www.yelp.com/biz/o-briens-irish-pub-santa-monica"
       },
       "speakers": [
           {
-            "title": "Preventing Accessibility Penalties at the NFL",
-            "name": "James Hush",
-            "image": "james-hush.jpg",
-            "twitter": "nflengineers",
-            "github": "jamsea",
-            "description": "NFL.com didn't just receive a surface level makeover, a lot of time was put into accessibility. I'll speak about how we took our video player accessibility rating all the way to the endzone. In the process, I'll show how to diagnose, debug, fix, and prevent accessibility issues in modern web applications."
+            "title": "Peer to Peer Video Streaming with WebRTC",
+            "name": "Brian Mau",
+            "image": "brian-mau.jpeg",
+            "twitter": "basscord",
+            "github": "basscord",
+            "description": "WebRTC is a technology that is rapidly stabilizing, and it belongs in your tool-belt. Lets demystify it by building a peer to peer video streaming app."
           },
           {
-            "title": "Reshape: Transform HTML With Javascript Plugins",
-            "name": "Jeff Escalante",
-            "image": "jeff-escalante.jpg",
-            "twitter": "jescalan",
-            "github": "jescalan",
-            "description": "Introduction to Reshape, a library that opens up opportunity to transform and extend html, as well as some examples of innovation in static tech using it."
+            "title": "Using Babel in a Futuristic Working Environment",
+            "name": "Kurtis Rainbolt-Greene",
+            "image": "kurtis-rainbolt-greene.png",
+            "twitter": "krainboltgreene",
+            "github": "krainboltgreene",
+            "description": "Babel, how it's progressed, the future of web development, and what it solves today."
           }
       ],
       "sponsors": [
           {
-            "name": "FullStack React",
-            "logo": "sponsor-fullstackreact.png",
-            "url": "https://www.fullstackreact.com/"
+            "name": "TigerText",
+            "logo": "host-tigertext.png",
+            "url": "https://www.tigertext.com/"
           },
           {
-            "name": "Philosophie",
-            "logo": "host-philosophie.png",
-            "url": "https://philosophie.is/"
+            "name": "Signal Sciences",
+            "logo": "sponsor-signal-sciences.svg",
+            "url": "https://www.signalsciences.com/"
           }
       ],
-      "titoUrl": "https://www.eventbrite.com/e/july-2017-registration-36130641722?aff=site",
+      "titoUrl": "https://jsla.eventbrite.com/?aff=site",
       "heroPhotos": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
     },
     "sitemap": {
@@ -77,6 +77,26 @@
         "slack": "ashwell"
       },
       {
+        "name": "Rouzbeh Sarrafieh",
+        "avatar": "/images/team/rouzbeh-sarrafieh.jpg",
+        "twitter": "rouzbeh84",
+        "slack": "rouzbeh"
+      }
+    ],
+    "alumni": [
+      {
+        "name": "Jason Campbell",
+        "avatar": "/images/speakers/jason-campbell.jpg",
+        "twitter": "jxson",
+        "slack": "jxson"
+      },
+      {
+        "name": "Mike Matuzak",
+        "avatar": "/images/team/michael-matuzak.jpg",
+        "twitter": "mmatuzak",
+        "slack": "mike"
+      },
+      {
         "name": "Ryan Regalado",
         "avatar": "/images/team/ryan-regalado.jpg",
         "twitter": "design48",
@@ -93,12 +113,6 @@
         "avatar": "/images/team/sean-westfall.jpeg",
         "twitter": "alphonse86",
         "slack": "sean"
-      },
-      {
-        "name": "Rouzbeh Sarrafieh",
-        "avatar": "/images/team/rouzbeh-sarrafieh.jpg",
-        "twitter": "rouzbeh84",
-        "slack": "rouzbeh"
       }
     ],
     "pastSponsors": [
