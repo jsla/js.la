@@ -1,43 +1,48 @@
 {
     "current": {
       "title": "",
-      "datetime": "Thursday September 28th, 2017 7pm",
-      "date": "9/28/2017 19:00:00",
+      "datetime": "Thursday October 26th, 2017 7pm",
+      "date": "10/26/2017 19:00:00",
       "host": {
-        "address": "2110 Broadway, Santa Monica, CA 90404",
-        "name": "TigerText",
-        "misc": "Nearby street parking and some spaces available in their lot",
-        "url": "https://www.tigertext.com/"
+        "address": "214 Wilshire Blvd, Santa Monica, CA 90401",
+        "name": "PatientPop",
+        "misc": "There is public Santa Monica parking structure 2 doors down. First 90 minutes are free.",
+        "url": "https://www.patientpop.com/"
       },
       "drinksjs": {
-        "address": "2226 Wilshire Blvd, Santa Monica, CA 90403",
-        "name": "O’Briens Irish Pub",
+        "address": null,
+        "name": null,
         "misc": null,
-        "url": "https://www.yelp.com/biz/o-briens-irish-pub-santa-monica"
+        "url": null
       },
       "speakers": [
           {
-            "title": "Peer to Peer Video Streaming with WebRTC",
-            "name": "Brian Mau",
-            "image": "brian-mau.jpeg",
-            "twitter": "basscord",
-            "github": "basscord",
-            "description": "WebRTC is a technology that is rapidly stabilizing, and it belongs in your tool-belt. Lets demystify it by building a peer to peer video streaming app."
+            "title": "Let’s talk about SRI",
+            "name": "Justin Dorfman",
+            "image": "justin-dorfman.jpg",
+            "twitter": "jdorfman",
+            "github": "jdorfman",
+            "description": "Subresource Integrity (SRI) is an up and coming web security standard from the W3C. SRI enables browsers to verify that files are delivered without unexpected manipulation. This talk will go over the history and ways to generate SRI hashes so you can start protecting your end users."
           },
           {
-            "title": "Using Babel in a Futuristic Working Environment",
-            "name": "Kurtis Rainbolt-Greene",
-            "image": "kurtis-rainbolt-greene.png",
-            "twitter": "krainboltgreene",
-            "github": "krainboltgreene",
-            "description": "Babel, how it's progressed, the future of web development, and what it solves today."
+            "title": "hotsauce.js",
+            "name": "Rouzbeh Sarrafieh",
+            "image": "rouzbeh-sarrafieh.jpg",
+            "twitter": "rouzbeh84",
+            "github": "rouzbeh84",
+            "description": "spice up my life"
           }
       ],
       "sponsors": [
           {
-            "name": "TigerText",
-            "logo": "host-tigertext.png",
-            "url": "https://www.tigertext.com/"
+            "name": "PatientPop",
+            "logo": "host-patientpop.png",
+            "url": "https://www.patientpop.com/"
+          },
+          {
+            "name": "Dollar Shave Club",
+            "logo": "sponsor-dollar-shave-club.png",
+            "url": "http://www.dollarshaveclub.com/"
           },
           {
             "name": "Signal Sciences",
