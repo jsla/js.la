@@ -2,6 +2,59 @@
 {
     "events": [
       {
+      "title": "",
+      "datetime": "Thursday September 28th, 2017 7pm",
+      "date": "9/28/2017 19:00:00",
+      "host": {
+        "address": "2110 Broadway, Santa Monica, CA 90404",
+        "name": "TigerText",
+        "misc": "Nearby street parking and some spaces available in their lot",
+        "url": "https://www.tigertext.com/"
+      },
+      "drinksjs": {
+        "address": "2226 Wilshire Blvd, Santa Monica, CA 90403",
+        "name": "O’Briens Irish Pub",
+        "misc": null,
+        "url": "https://www.yelp.com/biz/o-briens-irish-pub-santa-monica"
+      },
+      "speakers": [
+          {
+            "title": "Peer to Peer Video Streaming with WebRTC",
+            "name": "Brian Mau",
+            "image": "brian-mau.jpeg",
+            "twitter": "basscord",
+            "github": "basscord",
+            "description": "WebRTC is a technology that is rapidly stabilizing, and it belongs in your tool-belt. Lets demystify it by building a peer to peer video streaming app.",
+            "video": "https://youtu.be/pIHYtUJ7hkY",
+            "videoimg": "2017-09_JSLA_title_speaker1_small.png"
+          },
+          {
+            "title": "Using Babel in a Futuristic Working Environment",
+            "name": "Kurtis Rainbolt-Greene",
+            "image": "kurtis-rainbolt-greene.png",
+            "twitter": "krainboltgreene",
+            "github": "krainboltgreene",
+            "description": "Babel, how it's progressed, the future of web development, and what it solves today.",
+            "video": "https://youtu.be/n0b2CNv54Eo",
+            "videoimg": "2017-09_JSLA_title_speaker2_small.png"
+          }
+      ],
+      "sponsors": [
+          {
+            "name": "TigerText",
+            "logo": "host-tigertext.png",
+            "url": "https://www.tigertext.com/"
+          },
+          {
+            "name": "Signal Sciences",
+            "logo": "sponsor-signal-sciences.svg",
+            "url": "https://www.signalsciences.com/"
+          }
+      ],
+      "titoUrl": "https://jsla.eventbrite.com/?aff=site",
+      "heroPhotos": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
+    },
+      {
         "title": "",
         "datetime": "Thursday August 31st, 2017 7pm",
         "date": "8/31/2017 19:00:00",
@@ -25,8 +78,8 @@
               "twitter": "aaroncraig",
               "github": "aaroncraigongithub",
               "description": "A talk about the tradeoffs between stateful and stateless components, and why you might be doing it wrong.",
-              "video": "",
-              "videoimg": ""
+              "video": "https://youtu.be/KnKVANnl9V0",
+              "videoimg": "2017-08_JSLA_title_speaker1_small.png"
             },
             {
               "title": "The Peer-to-peer Web",
@@ -35,8 +88,8 @@
               "twitter": "pfrazee",
               "github": "pfrazee",
               "description": "We love the Web because it's open, free, and highly connected. But sometimes the Web falls short: big businesses are centralizing control, data is getting tied up on servers, and users are losing their privacy.\n\nHow can we solve these problems, and decentralize the Web?\n\nLet's take a fresh look at peer-to-peer technologies, and see just how far the Web can go with a new protocol in the browser.",
-              "video": "",
-              "videoimg": ""
+              "video": "https://youtu.be/4DFalocsoQo",
+              "videoimg": "2017-08_JSLA_title_speaker2_small.png"
             }
         ],
         "sponsors": [
