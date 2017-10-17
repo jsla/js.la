@@ -1,124 +1,128 @@
 {
     "current": {
-      "title": "",
-      "datetime": "Thursday October 26th, 2017 7pm",
-      "date": "10/26/2017 19:00:00",
-      "host": {
-        "address": "214 Wilshire Blvd, Santa Monica, CA 90401",
-        "name": "PatientPop",
-        "misc": "There is public Santa Monica parking structure 2 doors down. First 90 minutes are free.",
-        "url": "https://www.patientpop.com/"
-      },
-      "drinksjs": {
-        "address": null,
-        "name": null,
-        "misc": null,
-        "url": null
-      },
-      "speakers": [
-          {
-            "title": "Let’s talk about SRI",
-            "name": "Justin Dorfman",
-            "image": "justin-dorfman.jpg",
-            "twitter": "jdorfman",
-            "github": "jdorfman",
-            "description": "Subresource Integrity (SRI) is an up and coming web security standard from the W3C. SRI enables browsers to verify that files are delivered without unexpected manipulation. This talk will go over the history and ways to generate SRI hashes so you can start protecting your end users."
-          },
-          {
-            "title": "You Get What You Give",
-            "name": "Rouzbeh Sarrafieh",
-            "image": "rouzbeh-sarrafieh.jpg",
-            "twitter": "rouzbeh84",
-            "github": "rouzbeh84",
-            "description": "Contributing to OSS isn’t as hard as you think it is. How I became a top 10 contributor on big open source projects like Webpack and you can too."
-          }
-      ],
-      "sponsors": [
-          {
+        "title": "",
+        "datetime": "Thursday October 26th, 2017 7pm",
+        "date": "10/26/2017 19:00:00",
+        "host": {
+            "address": "214 Wilshire Blvd, Santa Monica, CA 90401",
             "name": "PatientPop",
-            "logo": "host-patientpop.png",
+            "misc":
+                "There is public Santa Monica parking structure 2 doors down. First 90 minutes are free.",
             "url": "https://www.patientpop.com/"
-          },
-          {
-            "name": "Dollar Shave Club",
-            "logo": "sponsor-dollar-shave-club.png",
-            "url": "http://www.dollarshaveclub.com/"
-          },
-          {
-            "name": "Signal Sciences",
-            "logo": "sponsor-signal-sciences.svg",
-            "url": "https://www.signalsciences.com/"
-          }
-      ],
-      "titoUrl": "https://jsla.eventbrite.com/?aff=site",
-      "heroPhotos": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
+        },
+        "drinksjs": {
+            "address": null,
+            "name": null,
+            "misc": null,
+            "url": null
+        },
+        "speakers": [
+            {
+                "title": "Let’s talk about SRI",
+                "name": "Justin Dorfman",
+                "image": "justin-dorfman.jpg",
+                "twitter": "jdorfman",
+                "github": "jdorfman",
+                "description":
+                    "Subresource Integrity (SRI) is an up and coming web security standard from the W3C. SRI enables browsers to verify that files are delivered without unexpected manipulation. This talk will go over the history and ways to generate SRI hashes so you can start protecting your end users."
+            },
+            {
+                "title": "You Get What You Give",
+                "name": "Rouzbeh Sarrafieh",
+                "image": "rouzbeh-sarrafieh.jpg",
+                "twitter": "rouzbeh84",
+                "github": "rouzbeh84",
+                "description":
+                    "Contributing to OSS isn’t as hard as you think it is. How I became a top 10 contributor on big open source projects like Webpack and you can too."
+            }
+        ],
+        "sponsors": [
+            {
+                "name": "PatientPop",
+                "logo": "host-patientpop.png",
+                "url": "https://www.patientpop.com/"
+            },
+            {
+                "name": "Dollar Shave Club",
+                "logo": "sponsor-dollar-shave-club.png",
+                "url": "http://www.dollarshaveclub.com/"
+            },
+            {
+                "name": "Betagig",
+                "logo": "host-betagig.png",
+                "url": "https://betagig.tech"
+            }
+        ],
+        "titoUrl": "https://jsla.eventbrite.com/?aff=site",
+        "heroPhotos":
+            "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
     },
     "sitemap": {
         "layout": false
     },
     "team": [
-      {
-        "name": "David Guttman",
-        "avatar": "/images/team/david-guttman.jpg",
-        "twitter": "davidguttman",
-        "slack": "dguttman"
-      },
-      {
-        "name": "Omar de Armas",
-        "avatar": "/images/team/omar-de-armas.jpg",
-        "twitter": "omarcito",
-        "slack": "omarcito"
-      },
-      {
-        "name": "Jacob Lowe",
-        "avatar": "/images/team/jacob-lowe.jpg",
-        "twitter": "jcblw",
-        "slack": "jcblw"
-      },
-      {
-        "name": "Ryan Bogle",
-        "avatar": "/images/team/ryan-bogle.jpg",
-        "twitter": "__ashwell__",
-        "slack": "ashwell"
-      },
-      {
-        "name": "Rouzbeh Sarrafieh",
-        "avatar": "/images/team/rouzbeh-sarrafieh.jpg",
-        "twitter": "rouzbeh84",
-        "slack": "rouzbeh"
-      }
+        {
+            "name": "David Guttman",
+            "avatar": "/images/team/david-guttman.jpg",
+            "twitter": "davidguttman",
+            "slack": "dguttman"
+        },
+        {
+            "name": "Omar de Armas",
+            "avatar": "/images/team/omar-de-armas.jpg",
+            "twitter": "omarcito",
+            "slack": "omarcito"
+        },
+        {
+            "name": "Jacob Lowe",
+            "avatar": "/images/team/jacob-lowe.jpg",
+            "twitter": "jcblw",
+            "slack": "jcblw"
+        },
+        {
+            "name": "Ryan Bogle",
+            "avatar": "/images/team/ryan-bogle.jpg",
+            "twitter": "__ashwell__",
+            "slack": "ashwell"
+        },
+        {
+            "name": "Rouzbeh Sarrafieh",
+            "avatar": "/images/team/rouzbeh-sarrafieh.jpg",
+            "twitter": "rouzbeh84",
+            "slack": "rouzbeh"
+        }
     ],
     "alumni": [
-      {
-        "name": "Jason Campbell",
-        "avatar": "/images/speakers/jason-campbell.jpg",
-        "twitter": "jxson",
-        "slack": "jxson"
-      },
-      {
-        "name": "Mike Matuzak",
-        "avatar": "/images/team/michael-matuzak.jpg",
-        "twitter": "mmatuzak",
-        "slack": "mike"
-      },
-      {
-        "name": "Ryan Regalado",
-        "avatar": "/images/team/ryan-regalado.jpg",
-        "twitter": "design48",
-        "slack": "d48"
-      },
-      {
-        "name": "Nate Lubeck",
-        "avatar": "/images/team/nate-lubeck.jpg",
-        "twitter": "etanlubeck",
-        "slack": "etanlubeck"
-      },
-      {
-        "name": "Sean Westfall",
-        "avatar": "/images/team/sean-westfall.jpeg",
-        "twitter": "alphonse86",
-        "slack": "sean"
-      }
+        {
+            "name": "Jason Campbell",
+            "avatar": "/images/speakers/jason-campbell.jpg",
+            "twitter": "jxson",
+            "slack": "jxson"
+        },
+        {
+            "name": "Mike Matuzak",
+            "avatar": "/images/team/michael-matuzak.jpg",
+            "twitter": "mmatuzak",
+            "slack": "mike"
+        },
+        {
+            "name": "Ryan Regalado",
+            "avatar": "/images/team/ryan-regalado.jpg",
+            "twitter": "design48",
+            "slack": "d48"
+        },
+        {
+            "name": "Nate Lubeck",
+            "avatar": "/images/team/nate-lubeck.jpg",
+            "twitter": "etanlubeck",
+            "slack": "etanlubeck"
+        },
+        {
+            "name": "Sean Westfall",
+            "avatar": "/images/team/sean-westfall.jpeg",
+            "twitter": "alphonse86",
+            "slack": "sean"
+        }
     ],
     "pastSponsors": [
         {
