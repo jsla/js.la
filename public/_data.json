@@ -11,10 +11,10 @@
             "url": "https://www.patientpop.com/"
         },
         "drinksjs": {
-            "address": null,
-            "name": null,
+            "address": "116 Santa Monica Blvd, Santa Monica, CA 90401",
+            "name": "Ye Olde Kings Head",
             "misc": null,
-            "url": null
+            "url": "https://www.yelp.com/biz/ye-olde-kings-head-santa-monica"
         },
         "speakers": [
             {
