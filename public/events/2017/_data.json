@@ -1,536 +1,631 @@
-
 {
     "events": [
-      {
-      "title": "",
-      "datetime": "Thursday September 28th, 2017 7pm",
-      "date": "9/28/2017 19:00:00",
-      "host": {
-        "address": "2110 Broadway, Santa Monica, CA 90404",
-        "name": "TigerText",
-        "misc": "Nearby street parking and some spaces available in their lot",
-        "url": "https://www.tigertext.com/"
-      },
-      "drinksjs": {
-        "address": "2226 Wilshire Blvd, Santa Monica, CA 90403",
-        "name": "O’Briens Irish Pub",
-        "misc": null,
-        "url": "https://www.yelp.com/biz/o-briens-irish-pub-santa-monica"
-      },
-      "speakers": [
-          {
-            "title": "Peer to Peer Video Streaming with WebRTC",
-            "name": "Brian Mau",
-            "image": "brian-mau.jpeg",
-            "twitter": "basscord",
-            "github": "basscord",
-            "description": "WebRTC is a technology that is rapidly stabilizing, and it belongs in your tool-belt. Lets demystify it by building a peer to peer video streaming app.",
-            "video": "https://youtu.be/pIHYtUJ7hkY",
-            "videoimg": "2017-09_JSLA_title_speaker1_small.png"
-          },
-          {
-            "title": "Using Babel in a Futuristic Working Environment",
-            "name": "Kurtis Rainbolt-Greene",
-            "image": "kurtis-rainbolt-greene.png",
-            "twitter": "krainboltgreene",
-            "github": "krainboltgreene",
-            "description": "Babel, how it's progressed, the future of web development, and what it solves today.",
-            "video": "https://youtu.be/n0b2CNv54Eo",
-            "videoimg": "2017-09_JSLA_title_speaker2_small.png"
-          }
-      ],
-      "sponsors": [
-          {
-            "name": "TigerText",
-            "logo": "host-tigertext.png",
-            "url": "https://www.tigertext.com/"
-          },
-          {
-            "name": "Signal Sciences",
-            "logo": "sponsor-signal-sciences.svg",
-            "url": "https://www.signalsciences.com/"
-          }
-      ],
-      "titoUrl": "https://jsla.eventbrite.com/?aff=site",
-      "heroPhotos": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
-    },
-      {
-        "title": "",
-        "datetime": "Thursday September 28th, 2017 7pm",
-        "date": "9/28/2017 19:00:00",
-        "host": {
-          "address": "2110 Broadway, Santa Monica, CA 90404",
-          "name": "TigerText",
-          "misc": "Nearby street parking and some spaces available in their lot",
-          "url": "https://www.tigertext.com/"
+        {
+            "title": "",
+            "datetime": "Thursday October 26th, 2017 7pm",
+            "date": "10/26/2017 19:00:00",
+            "host": {
+                "address": "214 Wilshire Blvd, Santa Monica, CA 90401",
+                "name": "PatientPop",
+                "misc":
+                    "There is public Santa Monica parking structure 2 doors down. First 90 minutes are free.",
+                "url": "https://www.patientpop.com/"
+            },
+            "drinksjs": {
+                "address": "116 Santa Monica Blvd, Santa Monica, CA 90401",
+                "name": "Ye Olde Kings Head",
+                "misc": null,
+                "url":
+                    "https://www.yelp.com/biz/ye-olde-kings-head-santa-monica"
+            },
+            "speakers": [
+                {
+                    "title": "Let’s talk about SRI",
+                    "name": "Justin Dorfman",
+                    "image": "justin-dorfman.jpg",
+                    "twitter": "jdorfman",
+                    "github": "jdorfman",
+                    "description":
+                        "Subresource Integrity (SRI) is an up and coming web security standard from the W3C. SRI enables browsers to verify that files are delivered without unexpected manipulation. This talk will go over the history and ways to generate SRI hashes so you can start protecting your end users."
+                },
+                {
+                    "title": "You Get What You Give",
+                    "name": "Rouzbeh Sarrafieh",
+                    "image": "rouzbeh-sarrafieh.jpg",
+                    "twitter": "rouzbeh84",
+                    "github": "rouzbeh84",
+                    "description":
+                        "Contributing to OSS isn’t as hard as you think it is. How I became a top 10 contributor on big open source projects like Webpack and you can too."
+                }
+            ],
+            "sponsors": [
+                {
+                    "name": "PatientPop",
+                    "logo": "host-patientpop.png",
+                    "url": "https://www.patientpop.com/"
+                },
+                {
+                    "name": "Dollar Shave Club",
+                    "logo": "sponsor-dollar-shave-club.png",
+                    "url": "http://www.dollarshaveclub.com/"
+                },
+                {
+                    "name": "Betagig",
+                    "logo": "host-betagig.png",
+                    "url": "https://betagig.tech"
+                }
+            ],
+            "titoUrl": "https://jsla.eventbrite.com/?aff=site",
+            "heroPhotos":
+                "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
         },
-        "drinksjs": {
-          "address": "2226 Wilshire Blvd, Santa Monica, CA 90403",
-          "name": "O’Briens Irish Pub",
-          "misc": null,
-          "url": "https://www.yelp.com/biz/o-briens-irish-pub-santa-monica"
+        {
+            "title": "",
+            "datetime": "Thursday September 28th, 2017 7pm",
+            "date": "9/28/2017 19:00:00",
+            "host": {
+                "address": "2110 Broadway, Santa Monica, CA 90404",
+                "name": "TigerText",
+                "misc":
+                    "Nearby street parking and some spaces available in their lot",
+                "url": "https://www.tigertext.com/"
+            },
+            "drinksjs": {
+                "address": "2226 Wilshire Blvd, Santa Monica, CA 90403",
+                "name": "O’Briens Irish Pub",
+                "misc": null,
+                "url":
+                    "https://www.yelp.com/biz/o-briens-irish-pub-santa-monica"
+            },
+            "speakers": [
+                {
+                    "title": "Peer to Peer Video Streaming with WebRTC",
+                    "name": "Brian Mau",
+                    "image": "brian-mau.jpeg",
+                    "twitter": "basscord",
+                    "github": "basscord",
+                    "description":
+                        "WebRTC is a technology that is rapidly stabilizing, and it belongs in your tool-belt. Lets demystify it by building a peer to peer video streaming app.",
+                    "video": "https://youtu.be/pIHYtUJ7hkY",
+                    "videoimg": "2017-09_JSLA_title_speaker1_small.png"
+                },
+                {
+                    "title": "Using Babel in a Futuristic Working Environment",
+                    "name": "Kurtis Rainbolt-Greene",
+                    "image": "kurtis-rainbolt-greene.png",
+                    "twitter": "krainboltgreene",
+                    "github": "krainboltgreene",
+                    "description":
+                        "Babel, how it's progressed, the future of web development, and what it solves today.",
+                    "video": "https://youtu.be/n0b2CNv54Eo",
+                    "videoimg": "2017-09_JSLA_title_speaker2_small.png"
+                }
+            ],
+            "sponsors": [
+                {
+                    "name": "TigerText",
+                    "logo": "host-tigertext.png",
+                    "url": "https://www.tigertext.com/"
+                },
+                {
+                    "name": "Signal Sciences",
+                    "logo": "sponsor-signal-sciences.svg",
+                    "url": "https://www.signalsciences.com/"
+                }
+            ],
+            "titoUrl": "https://jsla.eventbrite.com/?aff=site",
+            "heroPhotos":
+                "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
         },
-        "speakers": [
-            {
-              "title": "Peer to Peer Video Streaming with WebRTC",
-              "name": "Brian Mau",
-              "image": "brian-mau.jpeg",
-              "twitter": "basscord",
-              "github": "basscord",
-              "description": "WebRTC is a technology that is rapidly stabilizing, and it belongs in your tool-belt. Lets demystify it by building a peer to peer video streaming app."
+        {
+            "title": "",
+            "datetime": "Thursday September 28th, 2017 7pm",
+            "date": "9/28/2017 19:00:00",
+            "host": {
+                "address": "2110 Broadway, Santa Monica, CA 90404",
+                "name": "TigerText",
+                "misc":
+                    "Nearby street parking and some spaces available in their lot",
+                "url": "https://www.tigertext.com/"
             },
-            {
-              "title": "Using Babel in a Futuristic Working Environment",
-              "name": "Kurtis Rainbolt-Greene",
-              "image": "kurtis-rainbolt-greene.png",
-              "twitter": "krainboltgreene",
-              "github": "krainboltgreene",
-              "description": "Babel, how it's progressed, the future of web development, and what it solves today."
-            }
-        ],
-        "sponsors": [
-            {
-              "name": "TigerText",
-              "logo": "host-tigertext.png",
-              "url": "https://www.tigertext.com/"
+            "drinksjs": {
+                "address": "2226 Wilshire Blvd, Santa Monica, CA 90403",
+                "name": "O’Briens Irish Pub",
+                "misc": null,
+                "url":
+                    "https://www.yelp.com/biz/o-briens-irish-pub-santa-monica"
             },
-            {
-              "name": "Signal Sciences",
-              "logo": "sponsor-signal-sciences.svg",
-              "url": "https://www.signalsciences.com/"
-            }
-        ],
-        "titoUrl": "https://jsla.eventbrite.com/?aff=site",
-        "heroPhotos": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
-      },
-      {
-        "title": "",
-        "datetime": "Thursday August 31st, 2017 7pm",
-        "date": "8/31/2017 19:00:00",
-        "host": {
-          "address": "2401 Colorado Ave, Santa Monica, CA 90404",
-          "name": "Edmunds",
-          "misc": "Parking validation provided in Colorado Center (company parking lot).",
-          "url": "https://www.edmunds.com/"
+            "speakers": [
+                {
+                    "title": "Peer to Peer Video Streaming with WebRTC",
+                    "name": "Brian Mau",
+                    "image": "brian-mau.jpeg",
+                    "twitter": "basscord",
+                    "github": "basscord",
+                    "description":
+                        "WebRTC is a technology that is rapidly stabilizing, and it belongs in your tool-belt. Lets demystify it by building a peer to peer video streaming app."
+                },
+                {
+                    "title": "Using Babel in a Futuristic Working Environment",
+                    "name": "Kurtis Rainbolt-Greene",
+                    "image": "kurtis-rainbolt-greene.png",
+                    "twitter": "krainboltgreene",
+                    "github": "krainboltgreene",
+                    "description":
+                        "Babel, how it's progressed, the future of web development, and what it solves today."
+                }
+            ],
+            "sponsors": [
+                {
+                    "name": "TigerText",
+                    "logo": "host-tigertext.png",
+                    "url": "https://www.tigertext.com/"
+                },
+                {
+                    "name": "Signal Sciences",
+                    "logo": "sponsor-signal-sciences.svg",
+                    "url": "https://www.signalsciences.com/"
+                }
+            ],
+            "titoUrl": "https://jsla.eventbrite.com/?aff=site",
+            "heroPhotos":
+                "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
         },
-        "drinksjs": {
-          "address": "2226 Wilshire Blvd, Santa Monica, CA 90403",
-          "name": "O'Briens Irish Pub",
-          "misc": null,
-          "url": "https://www.yelp.com/biz/o-briens-irish-pub-santa-monica"
+        {
+            "title": "",
+            "datetime": "Thursday August 31st, 2017 7pm",
+            "date": "8/31/2017 19:00:00",
+            "host": {
+                "address": "2401 Colorado Ave, Santa Monica, CA 90404",
+                "name": "Edmunds",
+                "misc":
+                    "Parking validation provided in Colorado Center (company parking lot).",
+                "url": "https://www.edmunds.com/"
+            },
+            "drinksjs": {
+                "address": "2226 Wilshire Blvd, Santa Monica, CA 90403",
+                "name": "O'Briens Irish Pub",
+                "misc": null,
+                "url":
+                    "https://www.yelp.com/biz/o-briens-irish-pub-santa-monica"
+            },
+            "speakers": [
+                {
+                    "title":
+                        "Why you should (almost) always use stateful components in React",
+                    "name": "Aaron Craig",
+                    "image": "aaron-craig.jpeg",
+                    "twitter": "aaroncraig",
+                    "github": "aaroncraigongithub",
+                    "description":
+                        "A talk about the tradeoffs between stateful and stateless components, and why you might be doing it wrong.",
+                    "video": "https://youtu.be/KnKVANnl9V0",
+                    "videoimg": "2017-08_JSLA_title_speaker1_small.png"
+                },
+                {
+                    "title": "The Peer-to-peer Web",
+                    "name": "Paul Frazee",
+                    "image": "paul-frazee.png",
+                    "twitter": "pfrazee",
+                    "github": "pfrazee",
+                    "description":
+                        "We love the Web because it's open, free, and highly connected. But sometimes the Web falls short: big businesses are centralizing control, data is getting tied up on servers, and users are losing their privacy.\n\nHow can we solve these problems, and decentralize the Web?\n\nLet's take a fresh look at peer-to-peer technologies, and see just how far the Web can go with a new protocol in the browser.",
+                    "video": "https://youtu.be/4DFalocsoQo",
+                    "videoimg": "2017-08_JSLA_title_speaker2_small.png"
+                }
+            ],
+            "sponsors": [
+                {
+                    "name": "Edmunds",
+                    "logo": "host-edmunds.png",
+                    "url": "https://www.edmunds.com/careers/"
+                },
+                {
+                    "name": "Headspace",
+                    "logo": "host-headspace.png",
+                    "url": "https://www.headspace.com/join-us"
+                }
+            ],
+            "titoUrl": "https://jsla.eventbrite.com/?aff=site",
+            "heroPhotos":
+                "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
         },
-        "speakers": [
-            {
-              "title": "Why you should (almost) always use stateful components in React",
-              "name": "Aaron Craig",
-              "image": "aaron-craig.jpeg",
-              "twitter": "aaroncraig",
-              "github": "aaroncraigongithub",
-              "description": "A talk about the tradeoffs between stateful and stateless components, and why you might be doing it wrong.",
-              "video": "https://youtu.be/KnKVANnl9V0",
-              "videoimg": "2017-08_JSLA_title_speaker1_small.png"
+        {
+            "title": "",
+            "datetime": "Thursday July 27th, 2017 7pm",
+            "date": "7/27/2017 19:00:00",
+            "host": {
+                "address": "1615 16th St, Santa Monica, CA 90404",
+                "name": "Philosophie",
+                "misc":
+                    "Limited parking in parking lot, street parking, and building is super close the 17th Street/Santa Monica College station 🚃",
+                "url": "https://philosophie.is/"
             },
-            {
-              "title": "The Peer-to-peer Web",
-              "name": "Paul Frazee",
-              "image": "paul-frazee.png",
-              "twitter": "pfrazee",
-              "github": "pfrazee",
-              "description": "We love the Web because it's open, free, and highly connected. But sometimes the Web falls short: big businesses are centralizing control, data is getting tied up on servers, and users are losing their privacy.\n\nHow can we solve these problems, and decentralize the Web?\n\nLet's take a fresh look at peer-to-peer technologies, and see just how far the Web can go with a new protocol in the browser.",
-              "video": "https://youtu.be/4DFalocsoQo",
-              "videoimg": "2017-08_JSLA_title_speaker2_small.png"
-            }
-        ],
-        "sponsors": [
-            {
-              "name": "Edmunds",
-              "logo": "host-edmunds.png",
-              "url": "https://www.edmunds.com/careers/"
+            "drinksjs": {
+                "address": "2819 Pico Blvd, Santa Monica, CA 90405",
+                "name": "Barkowski",
+                "misc": null,
+                "url": "https://www.yelp.com/biz/barkowski-santa-monica"
             },
-            {
-              "name": "Headspace",
-              "logo": "host-headspace.png",
-              "url": "https://www.headspace.com/join-us"
-            }
-        ],
-        "titoUrl": "https://jsla.eventbrite.com/?aff=site",
-        "heroPhotos": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
-      },
-      {
-        "title": "",
-        "datetime": "Thursday July 27th, 2017 7pm",
-        "date": "7/27/2017 19:00:00",
-        "host": {
-          "address": "1615 16th St, Santa Monica, CA 90404",
-          "name": "Philosophie",
-          "misc": "Limited parking in parking lot, street parking, and building is super close the 17th Street/Santa Monica College station 🚃",
-          "url": "https://philosophie.is/"
+            "speakers": [
+                {
+                    "title": "Preventing Accessibility Penalties at the NFL",
+                    "name": "James Hush",
+                    "image": "james-hush.jpg",
+                    "twitter": "nflengineers",
+                    "github": "jamsea",
+                    "description":
+                        "NFL.com didn't just receive a surface level makeover, a lot of time was put into accessibility. I'll speak about how we took our video player accessibility rating all the way to the endzone. In the process, I'll show how to diagnose, debug, fix, and prevent accessibility issues in modern web applications.",
+                    "video": "https://www.youtube.com/watch?v=yZiqZE0N504",
+                    "videoimg": "2017-07_JSLA_title_speaker1_small.png"
+                },
+                {
+                    "title": "Reshape: Transform HTML With Javascript Plugins",
+                    "name": "Jeff Escalante",
+                    "image": "jeff-escalante.jpg",
+                    "twitter": "jescalan",
+                    "github": "jescalan",
+                    "description":
+                        "Introduction to Reshape, a library that opens up opportunity to transform and extend html, as well as some examples of innovation in static tech using it.",
+                    "video": "https://www.youtube.com/watch?v=Pp9d4-bIDzk",
+                    "videoimg": "2017-07_JSLA_title_speaker2_small.png"
+                }
+            ],
+            "sponsors": [
+                {
+                    "name": "FullStack React",
+                    "logo": "sponsor-fullstackreact.png",
+                    "url": "https://www.fullstackreact.com/"
+                },
+                {
+                    "name": "Philosophie",
+                    "logo": "host-philosophie.png",
+                    "url": "https://philosophie.is/"
+                }
+            ],
+            "titoUrl":
+                "https://www.eventbrite.com/e/july-2017-registration-36130641722?aff=site",
+            "heroPhotos":
+                "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
         },
-        "drinksjs": {
-          "address": "2819 Pico Blvd, Santa Monica, CA 90405",
-          "name": "Barkowski",
-          "misc": null,
-          "url": "https://www.yelp.com/biz/barkowski-santa-monica"
+        {
+            "title": "",
+            "datetime": "Thursday June 29th, 2017 7pm",
+            "date": "6/29/2017 19:00:00",
+            "host": {
+                "address": "340 Main St, Venice, CA 90291",
+                "name": "Google, Venice",
+                "misc": "",
+                "url": "https://careers.google.com/locations/los-angeles/"
+            },
+            "drinksjs": {
+                "address": "2536 Lincoln Blvd, Los Angeles, CA 90291, Venice",
+                "name": "The Lincoln",
+                "misc": null,
+                "url": "https://www.yelp.com/biz/the-lincoln-los-angeles"
+            },
+            "speakers": [
+                {
+                    "title":
+                        "The Rise of the Sound-Reactive, Beat-Detecting, Robotic Browser VJ",
+                    "name": "David Guttman",
+                    "image": "davidguttman.png",
+                    "twitter": "davidguttman",
+                    "github": "davidguttman",
+                    "description": null,
+                    "video": "https://www.youtube.com/watch?v=M3dYEcJO68c",
+                    "videoimg": "2017-06_JSLA_title_speaker1_small.png"
+                },
+                {
+                    "title": "Attacking Hardware with Node.js",
+                    "name": "Samy Kamkar",
+                    "image": "samy-kamkar.jpg",
+                    "twitter": "samykamkar",
+                    "github": "samyk",
+                    "description": null,
+                    "video": "https://www.youtube.com/watch?v=sIJmuYAoByo",
+                    "videoimg": "2017-06_JSLA_title_speaker2_small.png"
+                }
+            ],
+            "sponsors": [
+                {
+                    "name": "FullStack React",
+                    "logo": "sponsor-fullstackreact.png",
+                    "url": "https://www.fullstackreact.com/"
+                },
+                {
+                    "name": "Google",
+                    "logo": "host-google-upcoming-events-banner.png",
+                    "url": "https://careers.google.com/locations/los-angeles/"
+                }
+            ],
+            "titoUrl": "https://jsla-june-2017.eventbrite.com",
+            "heroPhotos":
+                "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
         },
-        "speakers": [
-            {
-              "title": "Preventing Accessibility Penalties at the NFL",
-              "name": "James Hush",
-              "image": "james-hush.jpg",
-              "twitter": "nflengineers",
-              "github": "jamsea",
-              "description": "NFL.com didn't just receive a surface level makeover, a lot of time was put into accessibility. I'll speak about how we took our video player accessibility rating all the way to the endzone. In the process, I'll show how to diagnose, debug, fix, and prevent accessibility issues in modern web applications.",
-              "video": "https://www.youtube.com/watch?v=yZiqZE0N504",
-              "videoimg": "2017-07_JSLA_title_speaker1_small.png"
+        {
+            "title": "",
+            "datetime": "Thursday May 25th, 2017 7pm",
+            "date": "5/25/2017 19:00:00",
+            "host": {
+                "address": "3211 Olympic Blvd, Santa Monica, CA 90404",
+                "name": "SapientRazorfish",
+                "misc": "",
+                "url": "http://www.sapientrazorfish.com/"
             },
-            {
-              "title": "Reshape: Transform HTML With Javascript Plugins",
-              "name": "Jeff Escalante",
-              "image": "jeff-escalante.jpg",
-              "twitter": "jescalan",
-              "github": "jescalan",
-              "description": "Introduction to Reshape, a library that opens up opportunity to transform and extend html, as well as some examples of innovation in static tech using it.",
-              "video": "https://www.youtube.com/watch?v=Pp9d4-bIDzk",
-              "videoimg": "2017-07_JSLA_title_speaker2_small.png"
-            }
-        ],
-        "sponsors": [
-            {
-              "name": "FullStack React",
-              "logo": "sponsor-fullstackreact.png",
-              "url": "https://www.fullstackreact.com/"
+            "drinksjs": {
+                "address": "2819 Pico Blvd, Santa Monica, CA 90405",
+                "name": "Barkowski",
+                "misc": null,
+                "url": "https://www.yelp.com/biz/barkowski-santa-monica"
             },
-            {
-              "name": "Philosophie",
-              "logo": "host-philosophie.png",
-              "url": "https://philosophie.is/"
-            }
-        ],
-        "titoUrl": "https://www.eventbrite.com/e/july-2017-registration-36130641722?aff=site",
-        "heroPhotos": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
-      },
-      {
-        "title": "",
-        "datetime": "Thursday June 29th, 2017 7pm",
-        "date": "6/29/2017 19:00:00",
-        "host": {
-          "address": "340 Main St, Venice, CA 90291",
-          "name": "Google, Venice",
-          "misc": "",
-          "url": "https://careers.google.com/locations/los-angeles/"
+            "speakers": [
+                {
+                    "title": "Web APIs you (probably) didn’t know existed",
+                    "name": "Zeno Rocha",
+                    "image": "zeno-rocha.jpeg",
+                    "twitter": "zenorocha",
+                    "github": "zenorocha",
+                    "description": null,
+                    "video": "https://www.youtube.com/watch?v=K3fyDJDj15s",
+                    "videoimg": "2017-05_JSLA_title_speaker1_small.png"
+                },
+                {
+                    "title": "Wheels, Gears and Labyrinths",
+                    "name": "Jim Bumgardner",
+                    "image": "jim-bumgardner.jpg",
+                    "twitter": "jbum",
+                    "github": "jbum",
+                    "description": null,
+                    "video": "https://www.youtube.com/watch?v=HpAwRtWfFPk",
+                    "videoimg": "2017-05_JSLA_title_speaker2_small.png"
+                }
+            ],
+            "sponsors": [
+                {
+                    "name": "SapientRazorfish",
+                    "logo": "host-sapient-nitro-scaled.png",
+                    "url": "http://www.sapientrazorfish.com/"
+                },
+                {
+                    "name": "RisingStack",
+                    "logo": "sponsor-risingstack-scaled.png",
+                    "url": "https://risingstack.com/trainings"
+                }
+            ],
+            "titoUrl": "https://ti.to/jsla/may-2017",
+            "heroPhotos":
+                "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
         },
-        "drinksjs": {
-          "address": "2536 Lincoln Blvd, Los Angeles, CA 90291, Venice",
-          "name": "The Lincoln",
-          "misc": null,
-          "url": "https://www.yelp.com/biz/the-lincoln-los-angeles"
+        {
+            "title": "",
+            "datetime": "Thursday April 27th, 2017 7pm",
+            "date": "4/27/2017 19:00:00",
+            "host": {
+                "address": "2415 Michigan Ave, Santa Monica, CA",
+                "name": "Headspace",
+                "misc":
+                    "Street parking nearby, and next the the 26th St/Bergamot station 🚃",
+                "url": "https://www.headspace.com/join-us"
+            },
+            "drinksjs": {
+                "address": "2819 Pico Blvd, Santa Monica, CA 90405",
+                "name": "Barkowski",
+                "misc": null,
+                "url": "https://www.yelp.com/biz/barkowski-santa-monica"
+            },
+            "speakers": [
+                {
+                    "title":
+                        "High Performance Node.js: learn how to full throttle your code",
+                    "name": "Lauren Spiegel & Giorgio Regni",
+                    "image": "Lauren-Gio.png",
+                    "twitter": "laurenspiegel",
+                    "github": "laurenspiegel",
+                    "description": null,
+                    "video": "https://www.youtube.com/watch?v=18d0HosHCX8",
+                    "videoimg": "2017-04_JSLA_title_speaker1_small.png"
+                },
+                {
+                    "title": "Career Talk: JavaScript Unicorns",
+                    "name": "Jason Campbell",
+                    "image": "jason-campbell.jpg",
+                    "twitter": "jxson",
+                    "github": "jxson",
+                    "description": null,
+                    "video": "https://www.youtube.com/watch?v=0SM9aDv0mN8",
+                    "videoimg": "2017-04_JSLA_title_speaker2_small.png"
+                }
+            ],
+            "sponsors": [
+                {
+                    "name": "Signal Sciences",
+                    "logo": "sponsor-signal-sciences.svg",
+                    "url": "https://www.signalsciences.com/"
+                },
+                {
+                    "name": "Headspace",
+                    "logo": "host-headspace.png",
+                    "url": "https://www.headspace.com/join-us"
+                }
+            ],
+            "titoUrl": "https://ti.to/jsla/april-2017",
+            "heroPhotos":
+                "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
         },
-        "speakers": [
-            {
-              "title": "The Rise of the Sound-Reactive, Beat-Detecting, Robotic Browser VJ",
-              "name": "David Guttman",
-              "image": "davidguttman.png",
-              "twitter": "davidguttman",
-              "github": "davidguttman",
-              "description": null,
-              "video": "https://www.youtube.com/watch?v=M3dYEcJO68c",
-              "videoimg": "2017-06_JSLA_title_speaker1_small.png"
+        {
+            "title": "",
+            "datetime": "Thursday March 30th, 2017 7pm",
+            "date": "3/30/2017 19:00:00",
+            "host": {
+                "address": "990 W 8th St, 600, Los Angeles, CA 90017",
+                "name": "Honey",
+                "misc":
+                    "Near the 7th st. Metro station 🚋 in DTLA. Despite what Google Maps says, the office is located on the Southeast corner of 8th and Francisco St. There is parking in the garage in the building for $15 and parking across the street for $5",
+                "url": "https://www.joinhoney.com/careers"
             },
-            {
-              "title": "Attacking Hardware with Node.js",
-              "name": "Samy Kamkar",
-              "image": "samy-kamkar.jpg",
-              "twitter": "samykamkar",
-              "github": "samyk",
-              "description": null,
-              "video": "https://www.youtube.com/watch?v=sIJmuYAoByo",
-              "videoimg": "2017-06_JSLA_title_speaker2_small.png"
-            }
-        ],
-        "sponsors": [
-            {
-              "name": "FullStack React",
-              "logo": "sponsor-fullstackreact.png",
-              "url": "https://www.fullstackreact.com/"
+            "drinksjs": {
+                "address": "417 W 8th St, Los Angeles, CA 90014",
+                "name": "Golden Gopher",
+                "misc": null,
+                "url": "https://www.yelp.com/biz/golden-gopher-los-angeles"
             },
-            {
-              "name": "Google",
-              "logo": "host-google-upcoming-events-banner.png",
-              "url": "https://careers.google.com/locations/los-angeles/"
-            }
-        ],
-        "titoUrl": "https://jsla-june-2017.eventbrite.com",
-        "heroPhotos": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
-      },
-      {
-        "title": "",
-        "datetime": "Thursday May 25th, 2017 7pm",
-        "date": "5/25/2017 19:00:00",
-        "host": {
-          "address": "3211 Olympic Blvd, Santa Monica, CA 90404",
-          "name": "SapientRazorfish",
-          "misc": "",
-          "url": "http://www.sapientrazorfish.com/"
+            "speakers": [
+                {
+                    "title": "Query the shit out of Facebook's Graph API",
+                    "name": "Loren Stewart",
+                    "image": "loren-stewart.jpg",
+                    "twitter": "lorenstewart111",
+                    "github": "lorenseanstewart",
+                    "description": null,
+                    "video": "https://www.youtube.com/watch?v=1VBgdKkuyNs",
+                    "videoimg": "2017-03_JSLA_title_speaker1_small.png"
+                },
+                {
+                    "title": "Building Offline First apps with Hoodie",
+                    "name": "Gregor Martynus",
+                    "image": "gregor-martynus.jpg",
+                    "twitter": "gr2m",
+                    "github": "gr2m",
+                    "description": null,
+                    "video": "https://www.youtube.com/watch?v=TSDyxtVbbME",
+                    "videoimg": "2017-03_JSLA_title_speaker2_small.png"
+                }
+            ],
+            "sponsors": [
+                {
+                    "name": "Signal Sciences",
+                    "logo": "sponsor-signal-sciences.svg",
+                    "url": "https://www.signalsciences.com/"
+                },
+                {
+                    "name": "Hewlett Packard Enterprise",
+                    "logo": "hpe.png",
+                    "url": "https://www.hpe.com/us/en/servers/nonstop.html"
+                },
+                {
+                    "name": "Honey",
+                    "logo": "host-honey.png",
+                    "url": "https://www.joinhoney.com/careers"
+                }
+            ],
+            "titoUrl": "https://ti.to/jsla/march-2017",
+            "heroPhotos":
+                "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
         },
-        "drinksjs": {
-          "address": "2819 Pico Blvd, Santa Monica, CA 90405",
-          "name": "Barkowski",
-          "misc": null,
-          "url": "https://www.yelp.com/biz/barkowski-santa-monica"
+        {
+            "title": "",
+            "datetime": "Thursday February 23th, 2017 7pm",
+            "date": "1/23/2017 19:00:00",
+            "host": {
+                "address": "200 N Sepulveda Blvd 200, El Segundo, CA 90245",
+                "name": "GoGuardian",
+                "misc":
+                    "Visitor parking is off of Sepulveda Blvd. Please park in a visitor parking space in Garage 200. Parking validation will be provided.",
+                "url": "https://www.goguardian.com/careers.html"
+            },
+            "drinksjs": {
+                "address": "226 Standard St, El Segundo, CA 90245",
+                "name": "The Standard Station",
+                "misc": null,
+                "url":
+                    "https://www.yelp.com/biz/the-standard-station-el-segundo-2"
+            },
+            "speakers": [
+                {
+                    "title": "Tripping Balls with Javascript",
+                    "name": "Jacob Lowe",
+                    "image": "jacob-lowe.jpg",
+                    "twitter": "jcblw",
+                    "github": "jcblw",
+                    "description": null,
+                    "video": "https://www.youtube.com/watch?v=nxRRbwVlbUE",
+                    "videoimg": "2017-02_JSLA_title_speaker2_small.png"
+                },
+                {
+                    "title":
+                        "bomBora -  How to hold down your Vegemite In a NonStop Sea of Waves",
+                    "name": "Keith Moore",
+                    "image": "keith-moore.jpg",
+                    "twitter": null,
+                    "github": null,
+                    "description":
+                        "Porting and maintaining a native V8 engine in a car that never stops.",
+                    "video": "https://www.youtube.com/watch?v=rAInHep17o8",
+                    "videoimg": "2017-02_JSLA_title_speaker1_small.png"
+                }
+            ],
+            "sponsors": [
+                {
+                    "name": "Rollmob",
+                    "logo": "rollmob.png",
+                    "url": "http://rollmob.com"
+                },
+                {
+                    "name": "GoGuardian",
+                    "logo": "goguardian.png",
+                    "url": "https://www.goguardian.com/careers.html"
+                }
+            ],
+            "titoUrl": "https://ti.to/jsla/february-2017",
+            "heroPhotos":
+                "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
         },
-        "speakers": [
-            {
-              "title": "Web APIs you (probably) didn’t know existed",
-              "name": "Zeno Rocha",
-              "image": "zeno-rocha.jpeg",
-              "twitter": "zenorocha",
-              "github": "zenorocha",
-              "description": null,
-              "video": "https://www.youtube.com/watch?v=K3fyDJDj15s",
-              "videoimg": "2017-05_JSLA_title_speaker1_small.png"
+        {
+            "title": "",
+            "datetime": "Thursday January 26th, 2017 7pm",
+            "date": "1/26/2017 19:00:00",
+            "host": {
+                "address": "2415 Michigan Ave, Santa Monica, CA",
+                "name": "Headspace",
+                "misc":
+                    "Street parking nearby, and next the the 26th St/Bergamot station 🚃",
+                "url": "https://www.headspace.com/join-us"
             },
-            {
-              "title": "Wheels, Gears and Labyrinths",
-              "name": "Jim Bumgardner",
-              "image": "jim-bumgardner.jpg",
-              "twitter": "jbum",
-              "github": "jbum",
-              "description": null,
-              "video": "https://www.youtube.com/watch?v=HpAwRtWfFPk",
-              "videoimg": "2017-05_JSLA_title_speaker2_small.png"
-            }
-        ],
-        "sponsors": [
-            {
-              "name": "SapientRazorfish",
-              "logo": "host-sapient-nitro-scaled.png",
-              "url": "http://www.sapientrazorfish.com/"
+            "drinksjs": {
+                "address": "2819 Pico Blvd, Santa Monica, CA 90405",
+                "name": "Barkowski",
+                "misc": null,
+                "url": "https://www.yelp.com/biz/barkowski-santa-monica"
             },
-            {
-              "name": "RisingStack",
-              "logo": "sponsor-risingstack-scaled.png",
-              "url": "https://risingstack.com/trainings"
-            }
-        ],
-        "titoUrl": "https://ti.to/jsla/may-2017",
-        "heroPhotos": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
-      },
-      {
-        "title": "",
-        "datetime": "Thursday April 27th, 2017 7pm",
-        "date": "4/27/2017 19:00:00",
-        "host": {
-          "address": "2415 Michigan Ave, Santa Monica, CA",
-          "name": "Headspace",
-          "misc": "Street parking nearby, and next the the 26th St/Bergamot station 🚃",
-          "url": "https://www.headspace.com/join-us"
-        },
-        "drinksjs": {
-          "address": "2819 Pico Blvd, Santa Monica, CA 90405",
-          "name": "Barkowski",
-          "misc": null,
-          "url": "https://www.yelp.com/biz/barkowski-santa-monica"
-        },
-        "speakers": [
-            {
-              "title": "High Performance Node.js: learn how to full throttle your code",
-              "name": "Lauren Spiegel & Giorgio Regni",
-              "image": "Lauren-Gio.png",
-              "twitter": "laurenspiegel",
-              "github": "laurenspiegel",
-              "description": null,
-              "video": "https://www.youtube.com/watch?v=18d0HosHCX8",
-              "videoimg": "2017-04_JSLA_title_speaker1_small.png"
-            },
-            {
-              "title": "Career Talk: JavaScript Unicorns",
-              "name": "Jason Campbell",
-              "image": "jason-campbell.jpg",
-              "twitter": "jxson",
-              "github": "jxson",
-              "description": null,
-              "video": "https://www.youtube.com/watch?v=0SM9aDv0mN8",
-              "videoimg": "2017-04_JSLA_title_speaker2_small.png"
-            }
-        ],
-        "sponsors": [
-            {
-              "name": "Signal Sciences",
-              "logo": "sponsor-signal-sciences.svg",
-              "url": "https://www.signalsciences.com/"
-            },
-            {
-              "name": "Headspace",
-              "logo": "host-headspace.png",
-              "url": "https://www.headspace.com/join-us"
-            }
-        ],
-        "titoUrl": "https://ti.to/jsla/april-2017",
-        "heroPhotos": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
-      },
-      {
-        "title": "",
-        "datetime": "Thursday March 30th, 2017 7pm",
-        "date": "3/30/2017 19:00:00",
-        "host": {
-          "address": "990 W 8th St, 600, Los Angeles, CA 90017",
-          "name": "Honey",
-          "misc": "Near the 7th st. Metro station 🚋 in DTLA. Despite what Google Maps says, the office is located on the Southeast corner of 8th and Francisco St. There is parking in the garage in the building for $15 and parking across the street for $5",
-          "url": "https://www.joinhoney.com/careers"
-        },
-        "drinksjs": {
-          "address": "417 W 8th St, Los Angeles, CA 90014",
-          "name": "Golden Gopher",
-          "misc": null,
-          "url": "https://www.yelp.com/biz/golden-gopher-los-angeles"
-        },
-        "speakers": [
-            {
-              "title": "Query the shit out of Facebook's Graph API",
-              "name": "Loren Stewart",
-              "image": "loren-stewart.jpg",
-              "twitter": "lorenstewart111",
-              "github": "lorenseanstewart",
-              "description": null,
-              "video": "https://www.youtube.com/watch?v=1VBgdKkuyNs",
-              "videoimg": "2017-03_JSLA_title_speaker1_small.png"
-            },
-            {
-              "title": "Building Offline First apps with Hoodie",
-              "name": "Gregor Martynus",
-              "image": "gregor-martynus.jpg",
-              "twitter": "gr2m",
-              "github": "gr2m",
-              "description": null,
-              "video": "https://www.youtube.com/watch?v=TSDyxtVbbME",
-              "videoimg": "2017-03_JSLA_title_speaker2_small.png"
-            }
-        ],
-        "sponsors": [
-            {
-              "name": "Signal Sciences",
-              "logo": "sponsor-signal-sciences.svg",
-              "url": "https://www.signalsciences.com/"
-            },
-            {
-              "name": "Hewlett Packard Enterprise",
-              "logo": "hpe.png",
-              "url": "https://www.hpe.com/us/en/servers/nonstop.html"
-            },
-            {
-              "name": "Honey",
-              "logo": "host-honey.png",
-              "url": "https://www.joinhoney.com/careers"
-            }
-        ],
-        "titoUrl": "https://ti.to/jsla/march-2017",
-        "heroPhotos": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
-      },
-      {
-        "title": "",
-        "datetime": "Thursday February 23th, 2017 7pm",
-        "date": "1/23/2017 19:00:00",
-        "host": {
-          "address": "200 N Sepulveda Blvd 200, El Segundo, CA 90245",
-          "name": "GoGuardian",
-          "misc": "Visitor parking is off of Sepulveda Blvd. Please park in a visitor parking space in Garage 200. Parking validation will be provided.",
-          "url": "https://www.goguardian.com/careers.html"
-        },
-        "drinksjs": {
-          "address": "226 Standard St, El Segundo, CA 90245",
-          "name": "The Standard Station",
-          "misc": null,
-          "url": "https://www.yelp.com/biz/the-standard-station-el-segundo-2"
-        },
-        "speakers": [
-            {
-              "title": "Tripping Balls with Javascript",
-              "name": "Jacob Lowe",
-              "image": "jacob-lowe.jpg",
-              "twitter": "jcblw",
-              "github": "jcblw",
-              "description": null,
-              "video": "https://www.youtube.com/watch?v=nxRRbwVlbUE",
-              "videoimg": "2017-02_JSLA_title_speaker2_small.png"
-            },
-            {
-              "title": "bomBora -  How to hold down your Vegemite In a NonStop Sea of Waves",
-              "name": "Keith Moore",
-              "image": "keith-moore.jpg",
-              "twitter": null,
-              "github": null,
-              "description": "Porting and maintaining a native V8 engine in a car that never stops.",
-              "video": "https://www.youtube.com/watch?v=rAInHep17o8",
-              "videoimg": "2017-02_JSLA_title_speaker1_small.png"
-            }
-        ],
-        "sponsors": [
-            {
-              "name": "Rollmob",
-              "logo": "rollmob.png",
-              "url": "http://rollmob.com"
-            },
-            {
-              "name": "GoGuardian",
-              "logo": "goguardian.png",
-              "url": "https://www.goguardian.com/careers.html"
-            }
-        ],
-        "titoUrl": "https://ti.to/jsla/february-2017",
-        "heroPhotos": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
-      },
-      {
-        "title": "",
-        "datetime": "Thursday January 26th, 2017 7pm",
-        "date": "1/26/2017 19:00:00",
-        "host": {
-          "address": "2415 Michigan Ave, Santa Monica, CA",
-          "name": "Headspace",
-          "misc": "Street parking nearby, and next the the 26th St/Bergamot station 🚃",
-          "url": "https://www.headspace.com/join-us"
-        },
-        "drinksjs": {
-          "address": "2819 Pico Blvd, Santa Monica, CA 90405",
-          "name": "Barkowski",
-          "misc": null,
-          "url": "https://www.yelp.com/biz/barkowski-santa-monica"
-        },
-        "speakers": [
-            {
-              "title": "Load testing your node application",
-              "name": "Jad Meouchy",
-              "image": "jad-meouchy.jpg",
-              "twitter": "jadware",
-              "github": "jadware",
-              "description": null,
-              "video": "https://www.youtube.com/watch?v=2ggxSZsAjwA",
-              "videoimg": "2017-01_JSLA_title_speaker2_small.png"
-            },
-            {
-              "title": "Evolution",
-              "name": "Mateusz Marpi Marcinowski",
-              "image": "mateusz-marpi-marcinowski.jpg",
-              "twitter": "marpi_",
-              "github": "marpi",
-              "description": "Marpi gets deep into generative 3D creatures/worlds with webVR, webGL, shaders, mobile, socket servers, and more ⚡️. He currently works at Obscura Digital :D",
-              "video": "https://www.youtube.com/watch?v=IX71m5iy8ok",
-              "videoimg": "2017-01_JSLA_title_speaker1_small.png"
-            }
-        ],
-        "sponsors": [
-            {
-              "name": "Codesmith",
-              "logo": "host-codesmith.png",
-              "url": "https://codesmith.io/"
-            },
-            {
-              "name": "Headspace",
-              "logo": "host-headspace.png",
-              "url": "https://www.headspace.com/join-us"
-            }
-        ],
-        "titoUrl": "https://ti.to/jsla/january-2017",
-        "heroPhotos": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
-      }
+            "speakers": [
+                {
+                    "title": "Load testing your node application",
+                    "name": "Jad Meouchy",
+                    "image": "jad-meouchy.jpg",
+                    "twitter": "jadware",
+                    "github": "jadware",
+                    "description": null,
+                    "video": "https://www.youtube.com/watch?v=2ggxSZsAjwA",
+                    "videoimg": "2017-01_JSLA_title_speaker2_small.png"
+                },
+                {
+                    "title": "Evolution",
+                    "name": "Mateusz Marpi Marcinowski",
+                    "image": "mateusz-marpi-marcinowski.jpg",
+                    "twitter": "marpi_",
+                    "github": "marpi",
+                    "description":
+                        "Marpi gets deep into generative 3D creatures/worlds with webVR, webGL, shaders, mobile, socket servers, and more ⚡️. He currently works at Obscura Digital :D",
+                    "video": "https://www.youtube.com/watch?v=IX71m5iy8ok",
+                    "videoimg": "2017-01_JSLA_title_speaker1_small.png"
+                }
+            ],
+            "sponsors": [
+                {
+                    "name": "Codesmith",
+                    "logo": "host-codesmith.png",
+                    "url": "https://codesmith.io/"
+                },
+                {
+                    "name": "Headspace",
+                    "logo": "host-headspace.png",
+                    "url": "https://www.headspace.com/join-us"
+                }
+            ],
+            "titoUrl": "https://ti.to/jsla/january-2017",
+            "heroPhotos":
+                "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
+        }
     ]
 }
