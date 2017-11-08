@@ -1,59 +1,33 @@
 {
     "current": {
         "title": "",
-        "datetime": "Thursday October 26th, 2017 7pm",
-        "date": "10/26/2017 19:00:00",
+        "datetime": "Thursday December 9th, 2017 5pm",
+        "date": "12/18/2017 17:00:00",
         "host": {
-            "address": "214 Wilshire Blvd, Santa Monica, CA 90401",
-            "name": "PatientPop",
-            "misc":
-                "There is public Santa Monica parking structure 2 doors down. First 90 minutes are free.",
-            "url": "https://www.patientpop.com/"
+            "address": "9400 Culver Blvd, Culver City, CA 90232",
+            "name": "Culver Hotel",
+            "misc": "",
+            "url": "http://www.culverhotel.com/"
         },
         "drinksjs": {
-            "address": "116 Santa Monica Blvd, Santa Monica, CA 90401",
-            "name": "Ye Olde Kings Head",
+            "address": null,
+            "name": null,
             "misc": null,
-            "url": "https://www.yelp.com/biz/ye-olde-kings-head-santa-monica"
+            "url": null
         },
         "speakers": [
             {
-                "title": "Let’s talk about SRI",
-                "name": "Justin Dorfman",
-                "image": "justin-dorfman.jpg",
-                "twitter": "jdorfman",
-                "github": "jdorfman",
+                "title": "End of 2017 party",
+                "name": "js.soiree",
+                "image": "Soiree.jpg",
+                "twitter": "jsdotla",
+                "github": null,
                 "description":
-                    "Subresource Integrity (SRI) is an up and coming web security standard from the W3C. SRI enables browsers to verify that files are delivered without unexpected manipulation. This talk will go over the history and ways to generate SRI hashes so you can start protecting your end users."
-            },
-            {
-                "title": "You Get What You Give",
-                "name": "Rouzbeh Sarrafieh",
-                "image": "rouzbeh-sarrafieh.jpg",
-                "twitter": "rouzbeh84",
-                "github": "rouzbeh84",
-                "description":
-                    "Contributing to OSS isn’t as hard as you think it is. How I became a top 10 contributor on big open source projects like Webpack and you can too."
+                    "Come meetup with the js.la community for our third annual js.soiree. Drink, network and have a awesome time. Tickets are limited so get yours soon!"
             }
         ],
-        "sponsors": [
-            {
-                "name": "PatientPop",
-                "logo": "host-patientpop.png",
-                "url": "https://www.patientpop.com/"
-            },
-            {
-                "name": "Dollar Shave Club",
-                "logo": "sponsor-dollar-shave-club.png",
-                "url": "http://www.dollarshaveclub.com/"
-            },
-            {
-                "name": "Betagig",
-                "logo": "host-betagig.png",
-                "url": "https://betagig.tech"
-            }
-        ],
-        "titoUrl": "https://jsla.eventbrite.com/?aff=site",
+        "sponsors": [],
+        "titoUrl": "https://ti.to/jsla/js-soiree-2017",
         "heroPhotos":
             "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
     },
