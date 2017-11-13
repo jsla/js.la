@@ -26,7 +26,9 @@
                     "twitter": "jdorfman",
                     "github": "jdorfman",
                     "description":
-                        "Subresource Integrity (SRI) is an up and coming web security standard from the W3C. SRI enables browsers to verify that files are delivered without unexpected manipulation. This talk will go over the history and ways to generate SRI hashes so you can start protecting your end users."
+                        "Subresource Integrity (SRI) is an up and coming web security standard from the W3C. SRI enables browsers to verify that files are delivered without unexpected manipulation. This talk will go over the history and ways to generate SRI hashes so you can start protecting your end users.",
+                    "video": "https://youtu.be/ldk3-dEafVY",
+                    "videoimg": "2017-10_JSLA_title_speaker1_small.png"
                 },
                 {
                     "title": "You Get What You Give",
@@ -35,7 +37,9 @@
                     "twitter": "rouzbeh84",
                     "github": "rouzbeh84",
                     "description":
-                        "Contributing to OSS isn’t as hard as you think it is. How I became a top 10 contributor on big open source projects like Webpack and you can too."
+                        "Contributing to OSS isn’t as hard as you think it is. How I became a top 10 contributor on big open source projects like Webpack and you can too.",
+                    "video": "https://youtu.be/un4s6yzo7Ts",
+                    "videoimg": "2017-10_JSLA_title_speaker2_small.png"
                 }
             ],
             "sponsors": [
