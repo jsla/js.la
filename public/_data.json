@@ -1,119 +1,102 @@
 {
     "current": {
-      "title": "",
-      "datetime": "Thursday September 28th, 2017 7pm",
-      "date": "9/28/2017 19:00:00",
-      "host": {
-        "address": "2110 Broadway, Santa Monica, CA 90404",
-        "name": "TigerText",
-        "misc": "Nearby street parking and some spaces available in their lot",
-        "url": "https://www.tigertext.com/"
-      },
-      "drinksjs": {
-        "address": "2226 Wilshire Blvd, Santa Monica, CA 90403",
-        "name": "O’Briens Irish Pub",
-        "misc": null,
-        "url": "https://www.yelp.com/biz/o-briens-irish-pub-santa-monica"
-      },
-      "speakers": [
-          {
-            "title": "Peer to Peer Video Streaming with WebRTC",
-            "name": "Brian Mau",
-            "image": "brian-mau.jpeg",
-            "twitter": "basscord",
-            "github": "basscord",
-            "description": "WebRTC is a technology that is rapidly stabilizing, and it belongs in your tool-belt. Lets demystify it by building a peer to peer video streaming app."
-          },
-          {
-            "title": "Using Babel in a Futuristic Working Environment",
-            "name": "Kurtis Rainbolt-Greene",
-            "image": "kurtis-rainbolt-greene.png",
-            "twitter": "krainboltgreene",
-            "github": "krainboltgreene",
-            "description": "Babel, how it's progressed, the future of web development, and what it solves today."
-          }
-      ],
-      "sponsors": [
-          {
-            "name": "TigerText",
-            "logo": "host-tigertext.png",
-            "url": "https://www.tigertext.com/"
-          },
-          {
-            "name": "Signal Sciences",
-            "logo": "sponsor-signal-sciences.svg",
-            "url": "https://www.signalsciences.com/"
-          }
-      ],
-      "titoUrl": "https://jsla.eventbrite.com/?aff=site",
-      "heroPhotos": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
+        "title": "",
+        "datetime": "Saturday December 9th, 2017 5pm",
+        "date": "12/18/2017 17:00:00",
+        "host": {
+            "address": "9400 Culver Blvd, Culver City, CA 90232",
+            "name": "Culver Hotel",
+            "misc": "",
+            "url": "http://www.culverhotel.com/"
+        },
+        "drinksjs": {
+            "address": null,
+            "name": null,
+            "misc": null,
+            "url": null
+        },
+        "speakers": [
+            {
+                "title": "End of 2017 party",
+                "name": "js.soiree",
+                "image": "Soiree.jpg",
+                "twitter": "jsdotla",
+                "github": null,
+                "description":
+                    "Come meetup with the js.la community for our third annual js.soiree. Drink, network and have a awesome time. Tickets are limited so get yours soon!"
+            }
+        ],
+        "sponsors": [],
+        "titoUrl": "https://ti.to/jsla/js-soiree-2017",
+        "heroPhotos":
+            "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
     },
     "sitemap": {
         "layout": false
     },
     "team": [
-      {
-        "name": "David Guttman",
-        "avatar": "/images/team/david-guttman.jpg",
-        "twitter": "davidguttman",
-        "slack": "dguttman"
-      },
-      {
-        "name": "Omar de Armas",
-        "avatar": "/images/team/omar-de-armas.jpg",
-        "twitter": "omarcito",
-        "slack": "omarcito"
-      },
-      {
-        "name": "Jacob Lowe",
-        "avatar": "/images/team/jacob-lowe.jpg",
-        "twitter": "jcblw",
-        "slack": "jcblw"
-      },
-      {
-        "name": "Ryan Bogle",
-        "avatar": "/images/team/ryan-bogle.jpg",
-        "twitter": "__ashwell__",
-        "slack": "ashwell"
-      },
-      {
-        "name": "Rouzbeh Sarrafieh",
-        "avatar": "/images/team/rouzbeh-sarrafieh.jpg",
-        "twitter": "rouzbeh84",
-        "slack": "rouzbeh"
-      }
+        {
+            "name": "David Guttman",
+            "avatar": "/images/team/david-guttman.jpg",
+            "twitter": "davidguttman",
+            "slack": "dguttman"
+        },
+        {
+            "name": "Omar de Armas",
+            "avatar": "/images/team/omar-de-armas.jpg",
+            "twitter": "omarcito",
+            "slack": "omarcito"
+        },
+        {
+            "name": "Jacob Lowe",
+            "avatar": "/images/team/jacob-lowe.jpg",
+            "twitter": "jcblw",
+            "slack": "jcblw"
+        },
+        {
+            "name": "Ryan Bogle",
+            "avatar": "/images/team/ryan-bogle.jpg",
+            "twitter": "__ashwell__",
+            "slack": "ashwell"
+        },
+        {
+            "name": "Rouzbeh Sarrafieh",
+            "avatar": "/images/team/rouzbeh-sarrafieh.jpg",
+            "twitter": "rouzbeh84",
+            "slack": "rouzbeh"
+        }
     ],
     "alumni": [
-      {
-        "name": "Jason Campbell",
-        "avatar": "/images/speakers/jason-campbell.jpg",
-        "twitter": "jxson",
-        "slack": "jxson"
-      },
-      {
-        "name": "Mike Matuzak",
-        "avatar": "/images/team/michael-matuzak.jpg",
-        "twitter": "mmatuzak",
-        "slack": "mike"
-      },
-      {
-        "name": "Ryan Regalado",
-        "avatar": "/images/team/ryan-regalado.jpg",
-        "twitter": "design48",
-        "slack": "d48"
-      },
-      {
-        "name": "Nate Lubeck",
-        "avatar": "/images/team/nate-lubeck.jpg",
-        "twitter": "etanlubeck",
-        "slack": "etanlubeck"
-      },
-      {
-        "name": "Sean Westfall",
-        "avatar": "/images/team/sean-westfall.jpeg",
-        "twitter": "alphonse86",
-        "slack": "sean"
-      }
+        {
+            "name": "Jason Campbell",
+            "avatar": "/images/speakers/jason-campbell.jpg",
+            "twitter": "jxson",
+            "slack": "jxson"
+        },
+        {
+            "name": "Mike Matuzak",
+            "avatar": "/images/team/michael-matuzak.jpg",
+            "twitter": "mmatuzak",
+            "slack": "mike"
+        },
+        {
+            "name": "Ryan Regalado",
+            "avatar": "/images/team/ryan-regalado.jpg",
+            "twitter": "design48",
+            "slack": "d48"
+        },
+        {
+            "name": "Nate Lubeck",
+            "avatar": "/images/team/nate-lubeck.jpg",
+            "twitter": "etanlubeck",
+            "slack": "etanlubeck"
+        },
+        {
+            "name": "Sean Westfall",
+            "avatar": "/images/team/sean-westfall.jpeg",
+            "twitter": "alphonse86",
+            "slack": "sean"
+        }
     ],
     "pastSponsors": [
         {
