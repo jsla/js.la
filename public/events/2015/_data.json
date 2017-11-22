@@ -51,7 +51,7 @@
                   "url": "http://www.mheducation.com/"
               }
           ],
-          "titoUrl": "https://ti.to/jsla/october-2015",
+          "eventUrl": "https://ti.to/jsla/october-2015",
           "flickr": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JavascriptLosAngeles&max_taken_date=2015-10-31&min_taken_date=2015-10-29&format=json"
         },
         {
@@ -99,7 +99,7 @@
               }
 
           ],
-          "titoUrl": "https://ti.to/jsla/september-2015"
+          "eventUrl": "https://ti.to/jsla/september-2015"
         },
         {
             "title": "",
@@ -145,7 +145,7 @@
                     "url": "http://www.makersquare.com/"
                 }
             ],
-            "titoUrl": "https://ti.to/jsla/august-2015",
+            "eventUrl": "https://ti.to/jsla/august-2015",
             "flickr": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JavascriptLosAngeles&max_taken_date=2015-08-28&min_taken_date=2015-08-26&format=json"
         },
         {
@@ -206,7 +206,7 @@
                         "url": "http://www.netbuseg.com"
                     }
                 ],
-                "titoUrl": "https://ti.to/jsla/july-2015",
+                "eventUrl": "https://ti.to/jsla/july-2015",
                 "flickr": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JavascriptLosAngeles&max_taken_date=2015-07-31&min_taken_date=2015-07-29&format=json"
         },
         {
@@ -258,7 +258,7 @@
                 "url": "https://google.com"
             }
         ],
-        "titoUrl": "https://ti.to/jsla/june-2015"
+        "eventUrl": "https://ti.to/jsla/june-2015"
         },
         {
             "title": "Internet Of Things",
@@ -320,7 +320,7 @@
                     "url": "http://developer.yahoo.com"
                 }
             ],
-            "titoUrl": "https://ti.to/jsla/may-2015",
+            "eventUrl": "https://ti.to/jsla/may-2015",
             "flickr": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JavascriptLosAngeles&max_taken_date=2015-05-29&min_taken_date=2015-05-27&format=json"
         },
         {
@@ -383,7 +383,7 @@
                     "url": "http://sapientnitro.com"
                 }
             ],
-            "titoUrl": "https://ti.to/jsla/april-js-la-2015"
+            "eventUrl": "https://ti.to/jsla/april-js-la-2015"
         },
         {
             "title": "",
@@ -445,7 +445,7 @@
                     "url": "http://www.codesmith.io/"
                 }
             ],
-            "titoUrl": "https://ti.to/jsla/march-2015",
+            "eventUrl": "https://ti.to/jsla/march-2015",
             "flickr": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JavascriptLosAngeles&max_taken_date=2015-03-27&min_taken_date=2015-03-25&format=json"
         },
         {
@@ -501,7 +501,7 @@
                     "url": "http://www.convertro.com/"
                 }
             ],
-            "titoUrl": "https://ti.to/jsla/feb-26-2015"
+            "eventUrl": "https://ti.to/jsla/feb-26-2015"
         },
         {
             "datetime": "Thursday Jan 29th, 2015 7-10pm",
@@ -557,7 +557,7 @@
                     "url": "http://edgecast.com"
                 }
             ],
-            "titoUrl": "https://ti.to/jsla/jan-29-2015",
+            "eventUrl": "https://ti.to/jsla/jan-29-2015",
 	        "flickr" : "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JavascriptLosAngeles&max_taken_date=2015-01-30&min_taken_date=2015-01-28&format=json"
         }
     ]

@@ -22,6 +22,6 @@ header.jsla-hero.layer-1( data-photos=heroPhotos )
                     each speaker in public._data.current.speakers
                         != partial("speakers/_speaker-condensed", {title: speaker.title, speaker: speaker.name, description: speaker.description, twitter: speaker.twitter, github: speaker.github, image: speaker.image, video: speaker.video})
 
-            != partial( "_action-buttons", { titoUrl: titoUrl } )
+            != partial( "_action-buttons", { eventUrl: eventUrl } )
             if sponsors.length
                 != partial( "_sponsors-box", { sponsors: sponsors } )

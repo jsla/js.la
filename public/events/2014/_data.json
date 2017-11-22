@@ -56,7 +56,7 @@
                 "url": "http://calvingroups.com/"
             }
         ],
-        "titoUrl": "https://ti.to/jsla/oct-2014",
+        "eventUrl": "https://ti.to/jsla/oct-2014",
         "flickr": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JavascriptLosAngeles&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
             
     },
@@ -114,7 +114,7 @@
                 "url": "http://yahoo.com/"
             }
         ],
-        "titoUrl": "http://www.eventbrite.com/e/nodejs-on-the-road-los-angeles-tickets-12844224421",
+        "eventUrl": "http://www.eventbrite.com/e/nodejs-on-the-road-los-angeles-tickets-12844224421",
         "flickr" : "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JavascriptLosAngeles&max_taken_date=2014-10-01&min_taken_date=2014-09-27&format=json"
 	    },
     {
@@ -379,7 +379,7 @@
                 }
             ],
             "flickr": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JavascriptLosAngeles&max_taken_date=2014-04-25&min_taken_date=2014-04-23&format=json",
-            "titoUrl": "https://ti.to/jsla/april-2014"
+            "eventUrl": "https://ti.to/jsla/april-2014"
             
         },
 
@@ -433,7 +433,7 @@
                 }
             ],
             "flickr": "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JavascriptLosAngeles&max_taken_date=2014-04-01&min_taken_date=2014-03-25&format=json",
-            "titoUrl": "https://ti.to/jsla/april-2014"
+            "eventUrl": "https://ti.to/jsla/april-2014"
         },
 
         {
