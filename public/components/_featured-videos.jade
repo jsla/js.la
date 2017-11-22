@@ -4,7 +4,7 @@ div.jsla-featuredVideos-box
     ul.jsla-featuredVideos
         each video in featuredVideos
             li.layer-2.u-display--inlineBlock.jsla-featuredVideo-container 
-                - var videoUrl = (video || '').toString().match(/^http/) ? video : 'http://vimeo.com/' + video
+                - var videoUrl = (video.video || '').toString().match(/^http/) ? video.video : 'http://vimeo.com/' + video.video
                 a.jsla-video-container( rel="lightbox-video-#{github}" href="#{videoUrl}" )
                     img.videoimg.jsla-featuredVideo(src="/images/videos/#{video.videoimg}")
     
