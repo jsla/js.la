@@ -59,7 +59,7 @@
                     "url": "https://betagig.tech"
                 }
             ],
-            "titoUrl": "https://jsla.eventbrite.com/?aff=site",
+            "eventUrl": "https://jsla.eventbrite.com/?aff=site",
             "heroPhotos":
                 "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
         },
@@ -117,7 +117,7 @@
                     "url": "https://www.signalsciences.com/"
                 }
             ],
-            "titoUrl": "https://jsla.eventbrite.com/?aff=site",
+            "eventUrl": "https://jsla.eventbrite.com/?aff=site",
             "heroPhotos":
                 "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
         },
@@ -176,7 +176,7 @@
                     "url": "https://www.headspace.com/join-us"
                 }
             ],
-            "titoUrl": "https://jsla.eventbrite.com/?aff=site",
+            "eventUrl": "https://jsla.eventbrite.com/?aff=site",
             "heroPhotos":
                 "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
         },
@@ -233,7 +233,7 @@
                     "url": "https://philosophie.is/"
                 }
             ],
-            "titoUrl":
+            "eventUrl":
                 "https://www.eventbrite.com/e/july-2017-registration-36130641722?aff=site",
             "heroPhotos":
                 "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
@@ -289,7 +289,7 @@
                     "url": "https://careers.google.com/locations/los-angeles/"
                 }
             ],
-            "titoUrl": "https://jsla-june-2017.eventbrite.com",
+            "eventUrl": "https://jsla-june-2017.eventbrite.com",
             "heroPhotos":
                 "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
         },
@@ -343,7 +343,7 @@
                     "url": "https://risingstack.com/trainings"
                 }
             ],
-            "titoUrl": "https://ti.to/jsla/may-2017",
+            "eventUrl": "https://ti.to/jsla/may-2017",
             "heroPhotos":
                 "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
         },
@@ -399,7 +399,7 @@
                     "url": "https://www.headspace.com/join-us"
                 }
             ],
-            "titoUrl": "https://ti.to/jsla/april-2017",
+            "eventUrl": "https://ti.to/jsla/april-2017",
             "heroPhotos":
                 "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
         },
@@ -459,7 +459,7 @@
                     "url": "https://www.joinhoney.com/careers"
                 }
             ],
-            "titoUrl": "https://ti.to/jsla/march-2017",
+            "eventUrl": "https://ti.to/jsla/march-2017",
             "heroPhotos":
                 "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
         },
@@ -517,7 +517,7 @@
                     "url": "https://www.goguardian.com/careers.html"
                 }
             ],
-            "titoUrl": "https://ti.to/jsla/february-2017",
+            "eventUrl": "https://ti.to/jsla/february-2017",
             "heroPhotos":
                 "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
         },
@@ -573,7 +573,7 @@
                     "url": "https://www.headspace.com/join-us"
                 }
             ],
-            "titoUrl": "https://ti.to/jsla/january-2017",
+            "eventUrl": "https://ti.to/jsla/january-2017",
             "heroPhotos":
                 "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2014-10-31&min_taken_date=2014-10-29&format=json"
         }

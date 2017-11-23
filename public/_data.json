@@ -1,33 +1,16 @@
 {
     "current": {
-        "title": "",
-        "datetime": "Saturday December 9th, 2017 5pm",
-        "date": "12/18/2017 17:00:00",
-        "host": {
-            "address": "9400 Culver Blvd, Culver City, CA 90232",
-            "name": "Culver Hotel",
-            "misc": "",
-            "url": "http://www.culverhotel.com/"
-        },
-        "drinksjs": {
-            "address": null,
-            "name": null,
-            "misc": null,
-            "url": null
-        },
-        "speakers": [
+        "message": "We are taking off December due to the holidays. We will update the site as soon as the next event is finialized. To get updates on when the next event join us on Slack or subscribe to our mailing list.",
+        "featuredVideos": [
             {
-                "title": "End of 2017 party",
-                "name": "js.soiree",
-                "image": "Soiree.jpg",
-                "twitter": "jsdotla",
-                "github": null,
-                "description":
-                    "Come meetup with the js.la community for our third annual js.soiree. Drink, network and have a awesome time. Tickets are limited so get yours soon!"
+                "video": "https://www.youtube.com/watch?v=IX71m5iy8ok",
+                "videoimg": "2017-01_JSLA_title_speaker1_small.png"
+            },
+            {
+                "video": "https://www.youtube.com/watch?v=sIJmuYAoByo",
+                "videoimg": "2017-06_JSLA_title_speaker2_small.png"
             }
         ],
-        "sponsors": [],
-        "titoUrl": "https://ti.to/jsla/js-soiree-2017",
         "heroPhotos":
             "https://api.flickr.com/services/rest/?method=flickr.people.getPublicPhotos&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&format=json&user_id=136573675@N07"
     },

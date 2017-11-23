@@ -1,48 +1,7 @@
-!= partial("components/_hero", public._data.current )
 
-if public._data.current.offmonth
-
-    div.jsla-toplevel-container
-
-        div.off-month.lightning
-
-            h2.off-month-title We are off this month
-            p.description= public._data.current.description
-
-            blockquote Get notified when the next event is by joining the
-                a(href="http://eepurl.com/jdRNb") Newsletter
-
-
-        if public._data.current.videos
-
-            div.featured-videos.lightning
-                h2.off-month-title If you missed us in October, the videos are now available.
-
-                each video in public._data.current.videos
-
-                    div.featured-video
-                        h5.video-title= video.title
-                        a.fancybox-media(href="http://vimeo.com/#{video.video}")
-                            img.videoimg(src="/images/videos/#{video.videoimg}", width="500", height="281")
-
-
-        if public._data.current.events
-
-            div.featured-events.lightning
-                h2.off-month-title Other awesome LA events.
-                ul.events
-                    // pretty much a list of links
-                    each _event in public._data.current.events
-                        li.event
-                            a( href=_event.link )
-                                h6= _event.title
-
-
-        != partial("_want-to-present")
-
-
-else
-
+if public._data.current.datetime
+    // has current event
+    != partial("components/_hero", public._data.current )
     div.jsla-current-event( id="current-event" itemscope itemtype="http://data-vocabulary.org/Event" )
         div.jsla-toplevel-container
             h1( itemprop="summary" )= public._data.current.title
@@ -58,3 +17,8 @@ else
               != partial( "components/_sponsors-box", { sponsors: public._data.current.sponsors } )
         div.jsla-toplevel-container
             != partial( "components/_want-to-present", {} )
+else
+    // empty state
+    != partial("components/_hero-empty", public._data.current )
+    div.jsla-toplevel-container
+        != partial( "components/_want-to-present", {} )
