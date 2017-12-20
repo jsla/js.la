@@ -1,0 +1,17 @@
+- var speaker = public.events['2017']._data.events[0].speakers[0]
+
+script
+  != 'console.log(' + JSON.stringify(speaker) + ')'
+
+.speaker
+  .avatar
+    img(src='/images/speakers/' + speaker.image)
+  .info
+    h1= speaker.name
+    
+    h2= speaker.title
+    
+    .twitter= speaker.twitter
+    
+    .github= speaker.github
+    

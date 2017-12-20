@@ -1,0 +1,30 @@
+html, body {
+  padding: 0;
+  margin: 0;
+}
+
+.logo {
+  position: absolute;
+  left: 1685px;
+  top: 848px;
+  width: 220px;
+  height: 220px;
+  background: #f5dd3d;
+  background-image: url(/images/logo.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  box-shadow: 25px 25px 25px rgba(0, 0, 0, 0.40);
+}
+
+.card {
+  width: 1920px;
+  height: 1080px;
+  background: #fff08a;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.sponsor {
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.25);
+}

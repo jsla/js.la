@@ -1,0 +1,8 @@
+- var sponsors = public.events['2017']._data.events[0].sponsors
+
+script
+  != 'console.log(' + JSON.stringify(sponsors) + ')'
+
+each sponsor in sponsors
+  .sponsor
+    img(src='/images/hosts/' + sponsor.logo)
