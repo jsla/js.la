@@ -1,13 +1,14 @@
 {
     "current": {
         "title": "",
-        "datetime": "Saturday December 9th, 2017 5pm",
-        "date": "12/18/2017 17:00:00",
+        "datetime": "Thursday January 25th, 2018 7pm",
+        "date": "1/25/2018 19:00:00",
         "host": {
-            "address": "9400 Culver Blvd, Culver City, CA 90232",
-            "name": "Culver Hotel",
-            "misc": "",
-            "url": "http://www.culverhotel.com/"
+            "address": "2415 Michigan Ave, Santa Monica, CA",
+            "name": "Headspace",
+            "misc":
+                "Street parking nearby, and next the the 26th St/Bergamot station 🚃",
+            "url": "https://www.headspace.com/join-us"
         },
         "drinksjs": {
             "address": null,
@@ -17,17 +18,42 @@
         },
         "speakers": [
             {
-                "title": "End of 2017 party",
-                "name": "js.soiree",
-                "image": "Soiree.jpg",
-                "twitter": "jsdotla",
-                "github": null,
+                "title": "Ethics huh!? What is it good for?",
+                "name": "Ryan Bogle",
+                "image": "ryan-bogle.jpg",
+                "twitter": "__ashwell__",
+                "github": "ashwell",
                 "description":
-                    "Come meetup with the js.la community for our third annual js.soiree. Drink, network and have a awesome time. Tickets are limited so get yours soon!"
+                    "An everyday ethical approach to software engineering"
+            },
+            {
+                "title": "Monkey Patching CSRF Away",
+                "name": "Joe Rozner",
+                "image": "joe-rozner.jpg",
+                "twitter": "jrozner",
+                "github": "jrozner",
+                "description":
+                    "Despite solutions in many modern frameworks Cross Site Request Forgery (CSRF) still remains an elusive problem for web application security. While we have good and proven solutions it's not uncommon to still see these vulnerabilities in modern and legacy applications in use today. Typically this is due to the solutions not being utilized by the engineers, the application's framework not having support, or the engineers subverting the functionality to work around issues in the application. We'll take a deep dive into just how CSRF works followed by why the vulnerability class exists, and finally end demonstrating a solution that can be injected into any JavaScript frontend application to add support to existing applications."
             }
         ],
-        "sponsors": [],
-        "titoUrl": "https://ti.to/jsla/js-soiree-2017",
+        "sponsors": [
+            {
+                "name": "Codesmith",
+                "logo": "host-codesmith.png",
+                "url": "https://codesmith.io/"
+            },
+            {
+                "name": "Twillio",
+                "logo": "sponsor-twillio.svg",
+                "url": "http://twilio.com"
+            },
+            {
+                "name": "Headspace",
+                "logo": "host-headspace.svg",
+                "url": "https://www.headspace.com/join-us"
+            }
+        ],
+        "titoUrl": "https://jsla.eventbrite.com/?aff=site",
         "heroPhotos":
             "https://api.flickr.com/services/rest/?method=flickr.people.getPublicPhotos&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&format=json&user_id=136573675@N07"
     },
@@ -186,3 +212,4 @@
         }
     ]
 }
+
