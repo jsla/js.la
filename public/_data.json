@@ -38,6 +38,11 @@
         ],
         "sponsors": [
             {
+                "name": "Codesmith",
+                "logo": "host-codesmith.png",
+                "url": "https://codesmith.io/"
+            },
+            {
                 "name": "Twillio",
                 "logo": "sponsor-twillio.svg",
                 "url": "http://twilio.com"
