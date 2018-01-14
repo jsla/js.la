@@ -1,7 +1,7 @@
-module.exports = getDates(10)
-
-function getDates (n) {
+module.exports = function findShowDates (n, timeStart) {
   n = n || 5
+  timeStart = timeStart || Date.now()
+
   var dates = []
 
   var invalidMonths = [-1, 10, 11]
@@ -9,7 +9,7 @@ function getDates (n) {
   var thisMonth
   var lastThurs
   var lastMonth = -1
-  var d = resetDate(new Date())
+  var d = resetDate(new Date(timeStart))
 
   while (dates.length < n) {
     d = incrementDate(d)

@@ -5,7 +5,7 @@
   "description": "The js.la web site",
   "main": "index.js",
   "scripts": {
-    "test": "node test/*.js",
+    "test": "tape test/*.js",
     "start": "harp server public",
     "build": "browserify public/js/main.js -o public/js/bundle.js -d && npm run compress",
     "compress": "uglifyjs -o public/js/bundle.min.js public/js/bundle.js",

@@ -1,12 +1,12 @@
 var moment = require('moment')
-var showDates = require('./show-dates')
+var findShowDates = require('./find-show-dates')
 
-module.exports = function extractNextShow (all) {
+module.exports = function extractNextShow (all, timeStart) {
   var hosts = toArray(all.hosts)
   var sponsors = toArray(all.sponsors)
   var speakers = toArray(all.speakers)
 
-  var date = showDates[0]
+  var date = findShowDates(1, timeStart)[0]
 
   var month = date.slice(0, 7)
   var speakerMatch = speakers.filter(function (speaker) {
