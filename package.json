@@ -12,6 +12,7 @@
     "cibuild": "npm run build",
     "dist": "rm -rf ./dist; harp compile ./public dist",
     "deploy": "npm run dist && echo 'js.la' > dist/CNAME && surge dist",
+    "update-data": "node script/update-site-data.js",
     "speakerimages": "node bin/convert-speaker-images.js"
   },
   "repository": {
@@ -30,6 +31,7 @@
   "devDependencies": {
     "authentic-client": "^1.2.1",
     "browserify": "^11.1.0",
+    "dotenv": "^4.0.0",
     "harp": "^0.24.1",
     "map-async": "^0.1.1",
     "minimist": "^1.2.0",
