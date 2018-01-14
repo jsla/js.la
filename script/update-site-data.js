@@ -1,25 +1,20 @@
+var fs = require('fs')
+var path = require('path')
+
+var siteData = require('../public/_data.json')
 var fetchAdmin = require('./fetch-admin')
 var extractShow = require('./extract-show')
 
 fetchAdmin(function (err, everything) {
   if (err) return console.error(err)
 
-  printEverything(everything)
+  var show = extractShow(everything)
+  siteData.current.date = show.date
+  siteData.current.datetime = show.datetime
+  siteData.current.host = show.host
+  siteData.current.speakers = show.speakers
+  siteData.current.sponsors = show.sponsors
 
-  console.log(extractShow(everything))
+  var target = path.join(__dirname, '../public/_data.json')
+  fs.writeFileSync(target, JSON.stringify(siteData, null, 4))
 })
-
-function printEverything (everything) {
-  Object.keys(everything).forEach(function (type) {
-    console.log('')
-    console.log('----------------------------')
-    console.log(type)
-    console.log('----------------------------')
-    var items = everything[type]
-
-    Object.keys(items).forEach(function (id) {
-      var item = items[id]
-      console.log(item.organization || [item.name, item.title].join(' - '))
-    })
-  })
-}
