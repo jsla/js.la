@@ -23,8 +23,8 @@ module.exports = function extractNextShow (all) {
 
   return formatShow({
     date: date,
-    host: hostMatch[0],
-    speakers: speakerMatch,
+    host: hostMatch[0] || createTBAHost(),
+    speakers: speakerMatch.length ? speakerMatch : [createTBASpeaker()],
     sponsors: sponsorMatch
   })
 }
@@ -35,7 +35,7 @@ function formatShow ({date, host, speakers, sponsors}) {
   if (speakers[1]) showSpeakers.push(formatSpeaker(speakers[1]))
 
   var showSponsors = []
-  showSponsors.push(formatSponsor(host))
+  if (host.organization !== 'TBA') showSponsors.push(formatSponsor(host))
   if (sponsors[0]) showSponsors.push(formatSponsor(sponsors[0]))
   if (sponsors[1]) showSponsors.push(formatSponsor(sponsors[1]))
 
@@ -86,6 +86,25 @@ function formatSponsor (adminSponsor) {
     name: adminSponsor.organization,
     logo: adminSponsor.logo,
     url: adminSponsor.link
+  }
+}
+
+function createTBAHost () {
+  return {
+    address: '',
+    organization: 'TBA',
+    link: 'https://js.la'
+  }
+}
+
+function createTBASpeaker () {
+  return {
+    title: 'TBA',
+    name: 'TBA',
+    avatar: 'https://js.la/images/speakers/speaker.png',
+    twitter: '',
+    github: '',
+    abstract: 'TBA'
   }
 }
 
