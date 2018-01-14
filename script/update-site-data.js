@@ -6,7 +6,10 @@ var fetchAdmin = require('./fetch-admin')
 var extractShow = require('./extract-show')
 
 fetchAdmin(function (err, everything) {
-  if (err) return console.error(err)
+  if (err) {
+    console.error(err)
+    return process.exit(1)
+  }
 
   var show = extractShow(everything)
   siteData.current.date = show.date
