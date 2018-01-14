@@ -1,0 +1,45 @@
+{
+  "datetime": "Thursday January 25th, 2018 7pm",
+  "date": "1/25/2018 19:00:00",
+  "host": {
+    "address": "2415 Michigan Ave, Santa Monica, CA 90404",
+    "name": "Headspace",
+    "misc": "",
+    "url": "https://www.headspace.com/"
+  },
+  "speakers": [
+    {
+      "title": "Ethics huh!? What is it good for?",
+      "name": "Ryan Bogle",
+      "image": "https://js.la/images/team/ryan-bogle.jpg",
+      "twitter": "__ashwell__",
+      "github": "ashwell",
+      "description": "An everyday ethical approach to software engineering"
+    },
+    {
+      "title": "Monkey Patching CSRF Away",
+      "name": "Joe Rozner",
+      "image": "https://pbs.twimg.com/profile_images/753631737163321344/uHROI07o_400x400.jpg",
+      "twitter": "jrozner",
+      "github": "jrozner",
+      "description": "Despite solutions in many modern frameworks Cross Site Request Forgery (CSRF) still remains an elusive problem for web application security. While we have good and proven solutions it's not uncommon to still see these vulnerabilities in modern and legacy applications in use today. Typically this is due to the solutions not being utilized by the engineers, the application's framework not having support, or the engineers subverting the functionality to work around issues in the application. We'll take a deep dive into just how CSRF works followed by why the vulnerability class exists, and finally end demonstrating a solution that can be injected into any JavaScript frontend application to add support to existing applications."
+    }
+  ],
+  "sponsors": [
+    {
+      "name": "Headspace",
+      "logo": "https://www.google.com/search?biw=1280&bih=585&tbm=isch&sa=1&ei=DfclWrDjIMKgjwP2rb3wDg&q=headspace+logo&oq=headspace+logo&gs_l=psy-ab.3..0l4j0i8i30k1j0i24k1j0i10i24k1.8450.9077.0.9258.5.5.0.0.0.0.100.396.4j1.5.0....0...1c.1.64.psy-ab..0.5.394...0i67k1j0i5i30k1.0.lxvqV9scdoU#imgrc=-WJgkKwBHW8pnM:",
+      "url": "https://www.headspace.com/"
+    },
+    {
+      "name": "Dollar Shave Club",
+      "logo": "https://photos.google.com/share/AF1QipMhPrkmFBEZ0iDphSI3xQVnp-k5a8SCx9hehhwWhisTr0x0vI9-zcDBDag33gilFQ?key=bkRVWGpsTjB3NWdOYTIyeUxxWUlTLUhRcXp5SVRR",
+      "url": "https://www.dollarshaveclub.com/careers"
+    },
+    {
+      "name": "Codesmith",
+      "logo": "http://js.la/images/hosts/host-codesmith.png",
+      "url": "https://codesmith.io"
+    }
+  ]
+}
