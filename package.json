@@ -5,13 +5,14 @@
   "description": "The js.la web site",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Just running deploy script\" && exit 0",
+    "test": "tape test/*.js",
     "start": "harp server public",
     "build": "browserify public/js/main.js -o public/js/bundle.js -d && npm run compress",
     "compress": "uglifyjs -o public/js/bundle.min.js public/js/bundle.js",
     "cibuild": "npm run build",
     "dist": "rm -rf ./dist; harp compile ./public dist",
     "deploy": "npm run dist && echo 'js.la' > dist/CNAME && surge dist",
+    "update-data": "node script/update-site-data.js",
     "speakerimages": "node bin/convert-speaker-images.js"
   },
   "repository": {
@@ -28,10 +29,15 @@
   },
   "homepage": "http://js.la",
   "devDependencies": {
+    "authentic-client": "^1.2.1",
     "browserify": "^11.1.0",
+    "dotenv": "^4.0.0",
     "harp": "^0.24.1",
+    "map-async": "^0.1.1",
     "minimist": "^1.2.0",
+    "moment": "^2.20.1",
     "surge": "^0.19.0",
+    "tape": "^4.8.0",
     "uglify-js": "^2.3.6"
   },
   "dependencies": {
