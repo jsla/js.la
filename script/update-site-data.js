@@ -1,9 +1,12 @@
 var fetchAdmin = require('./fetch-admin')
+var extractShow = require('./extract-show')
 
 fetchAdmin(function (err, everything) {
   if (err) return console.error(err)
 
   printEverything(everything)
+
+  console.log(extractShow(everything))
 })
 
 function printEverything (everything) {
