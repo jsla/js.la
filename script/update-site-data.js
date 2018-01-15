@@ -11,7 +11,7 @@ fetchAdmin(function (err, everything) {
     return process.exit(1)
   }
 
-  var show = extractShow(everything)
+  var show = extractShow(everything, '2018-01-26T17:27:26.562Z')
   siteData.current.date = show.date
   siteData.current.datetime = show.datetime
   siteData.current.host = show.host
