@@ -1,6 +1,7 @@
 li.jsla-speaker.clearfix
     a( href="#" + github )
-        img.jsla-avatar(src="#{image}", alt="keynote speaker", width="130")
+        - var imgSrc = image.match(/^http/) ? image : '/images/speakers/' + image
+        img.jsla-avatar(src="#{imgSrc}", alt="keynote speaker", width="130")
         div.jsla-speaker-details.pure-g
             h2.jsla-speaker-name.pure-u-1-4= speaker
             h1.jsla-speaker-title.pure-u-3-4= title

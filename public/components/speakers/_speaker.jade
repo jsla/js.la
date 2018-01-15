@@ -1,5 +1,6 @@
 li.jsla-speaker.clearfix( id=github )
-    img.jsla-avatar.layer-2(src="#{image}", width="130", alt=speaker )
+    - var imgSrc = image.match(/^http/) ? image : '/images/speakers/' + image
+    img.jsla-avatar.layer-2(src="#{imgSrc}", width="130", alt=speaker )
     div.jsla-speaker-details
         ul.jsla-speaker-info.clearfix
             li

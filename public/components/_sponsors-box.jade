@@ -4,4 +4,5 @@ div.jsla-sponsors-box
     ul.jsla-sponsors
         each sponsor in sponsors
             li.jsla-sponsor.layer-2
-                a( alt=sponsor.name href=sponsor.url style="background-image: url(#{sponsor.logo});" )
+                - var imgSrc = sponsor.logo.match(/^http/) ? sponsor.logo : '/images/hosts/' + sponsor.logo
+                a( alt=sponsor.name href=sponsor.url style="background-image: url(#{imgSrc});" )
