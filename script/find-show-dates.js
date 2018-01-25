@@ -1,6 +1,6 @@
 module.exports = function findShowDates (n, timeStart) {
   n = n || 5
-  timeStart = timeStart || Date.now()
+  timeStart = timeStart || Date.now() - 24 * 3600 * 1000
 
   var dates = []
 
