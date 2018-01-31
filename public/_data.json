@@ -86,6 +86,19 @@
             "avatar": "/images/team/rouzbeh-sarrafieh.jpg",
             "twitter": "rouzbeh84",
             "slack": "rouzbeh"
+        },
+
+        {
+            "name": "Spencer Allen",
+            "avatar": "/images/team/spencer-allen.jpg",
+            "twitter": "spencer_allen",
+            "slack": "Spencer.allen"
+        },
+        {
+            "name": "Jarrett Harris",
+            "avatar": "/images/team/jarrett-harris.jpg",
+            "twitter": "twinbnottwina",
+            "slack": "jarrett"
         }
     ],
     "alumni": [
