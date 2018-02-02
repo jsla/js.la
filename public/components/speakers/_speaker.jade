@@ -19,6 +19,7 @@ li.jsla-speaker.clearfix( id=github )
     
             if videoimg
                 - var videoUrl = (video || '').toString().match(/^http/) ? video : 'http://vimeo.com/' + video
+                - var videoImgSrc = videoimg.match(/^http/) ? videoimg : '/images/videos/' + videoimg
 
                 a.jsla-video-container( rel="lightbox-video-#{github}" href="#{videoUrl}")
-                    img.videoimg(src="/images/videos/#{videoimg}")
+                    img.videoimg(src=videoImgSrc)

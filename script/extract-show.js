@@ -77,7 +77,9 @@ function formatSpeaker (adminSpeaker) {
     image: adminSpeaker.avatar,
     twitter: (adminSpeaker.twitter || '').replace('@', ''),
     github: (adminSpeaker.github || '').replace('@', ''),
-    description: adminSpeaker.abstract
+    description: adminSpeaker.abstract,
+    video: adminSpeaker.youtubeUrl,
+    videoimg: adminSpeaker.youtubeImageUrl
   }
 }
 
