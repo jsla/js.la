@@ -14,7 +14,9 @@
       "image": "https://js.la/images/team/ryan-bogle.jpg",
       "twitter": "__ashwell__",
       "github": "ashwell",
-      "description": "An everyday ethical approach to software engineering"
+      "description": "An everyday ethical approach to software engineering",
+      "video": "",
+      "videoimg": ""
     },
     {
       "title": "Monkey Patching CSRF Away",
@@ -22,7 +24,9 @@
       "image": "https://pbs.twimg.com/profile_images/753631737163321344/uHROI07o_400x400.jpg",
       "twitter": "jrozner",
       "github": "jrozner",
-      "description": "Despite solutions in many modern frameworks Cross Site Request Forgery (CSRF) still remains an elusive problem for web application security. While we have good and proven solutions it's not uncommon to still see these vulnerabilities in modern and legacy applications in use today. Typically this is due to the solutions not being utilized by the engineers, the application's framework not having support, or the engineers subverting the functionality to work around issues in the application. We'll take a deep dive into just how CSRF works followed by why the vulnerability class exists, and finally end demonstrating a solution that can be injected into any JavaScript frontend application to add support to existing applications."
+      "description": "Despite solutions in many modern frameworks Cross Site Request Forgery (CSRF) still remains an elusive problem for web application security. While we have good and proven solutions it's not uncommon to still see these vulnerabilities in modern and legacy applications in use today. Typically this is due to the solutions not being utilized by the engineers, the application's framework not having support, or the engineers subverting the functionality to work around issues in the application. We'll take a deep dive into just how CSRF works followed by why the vulnerability class exists, and finally end demonstrating a solution that can be injected into any JavaScript frontend application to add support to existing applications.",
+      "video": "",
+      "videoimg": ""
     }
   ],
   "sponsors": [
