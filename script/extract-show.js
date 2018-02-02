@@ -44,6 +44,7 @@ function formatShow ({date, host, speakers, sponsors}) {
   return {
     datetime: formattedDate.datetime,
     date: formattedDate.date,
+    unixTime: formattedDate.unixTime,
     host: formatHost(host),
     speakers: showSpeakers,
     sponsors: showSponsors
@@ -54,10 +55,12 @@ function formatDate (date) {
   var m = moment(date)
   var human = `${m.format('dddd MMMM Do, YYYY')} 7pm`
   var time = `${m.format('M/D/YYYY')} 19:00:00`
+  var unixTime = m.valueOf()
 
   return {
     datetime: human,
-    date: time
+    date: time,
+    unixTime: unixTime
   }
 }
 

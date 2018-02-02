@@ -29,15 +29,15 @@ function updateCurrent (everything) {
 }
 
 function updatePrevious (everything) {
-  var prevShows = []
+  var shows = []
 
   var t0 = new Date('2018-01-01T00:00:00.000Z').valueOf()
   var msMonth = 31 * 24 * 3600 * 1000
   for (var i = t0; i < Date.now(); i += msMonth) {
-    prevShows.push(extractShow(everything, i))
+    shows.push(extractShow(everything, i))
   }
 
-  pastData.events = prevShows
+  pastData.events = shows.filter(show => show.unixTime < Date.now())
   var target = path.join(__dirname, '../public/events/2018/_data.json')
   fs.writeFileSync(target, JSON.stringify(pastData, null, 4))
 }
