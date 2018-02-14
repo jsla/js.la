@@ -6,12 +6,7 @@
   "main": "index.js",
   "scripts": {
     "test": "tape test/*.js",
-    "start": "harp server public",
-    "build": "browserify public/js/main.js -o public/js/bundle.js -d && npm run compress",
     "compress": "uglifyjs -o public/js/bundle.min.js public/js/bundle.js",
-    "cibuild": "npm run build",
-    "dist": "rm -rf ./dist; harp compile ./public dist",
-    "deploy": "npm run dist && echo 'js.la' > dist/CNAME && surge dist",
     "update-data": "node script/update-site-data.js",
     "speakerimages": "node bin/convert-speaker-images.js"
   },
