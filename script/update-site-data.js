@@ -37,7 +37,7 @@ function updatePrevious (everything) {
     shows.push(extractShow(everything, i))
   }
 
-  pastData.events = shows.filter(show => show.unixTime < Date.now())
+  pastData.events = shows.filter(show => show.unixTime < Date.now()).reverse()
   var target = path.join(__dirname, '../public/events/2018/_data.json')
   fs.writeFileSync(target, JSON.stringify(pastData, null, 4))
 }
