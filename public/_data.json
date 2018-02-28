@@ -70,12 +70,6 @@
             "slack": "omarcito"
         },
         {
-            "name": "Jacob Lowe",
-            "avatar": "/images/team/jacob-lowe.jpg",
-            "twitter": "jcblw",
-            "slack": "jcblw"
-        },
-        {
             "name": "Ryan Bogle",
             "avatar": "/images/team/ryan-bogle.jpg",
             "twitter": "__ashwell__",
@@ -101,6 +95,12 @@
         }
     ],
     "alumni": [
+        {
+            "name": "Jacob Lowe",
+            "avatar": "/images/team/jacob-lowe.jpg",
+            "twitter": "jcblw",
+            "slack": "jcblw"
+        },
         {
             "name": "Jason Campbell",
             "avatar": "/images/speakers/jason-campbell.jpg",
