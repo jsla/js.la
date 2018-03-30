@@ -10,10 +10,10 @@
             "misc": ""
         },
         "drinksjs": {
-            "address": "1927 Hillhurst Ave, Los Angeles, CA 90027",
-            "name": "Big Bar at the Alcove Cafe",
+            "address": null,
+            "name": null,
             "misc": null,
-            "url": "https://www.yelp.com/biz/big-bar-los-angeles-2"
+            "url": null
         },
         "speakers": [
             {
