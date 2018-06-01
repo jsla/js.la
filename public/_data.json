@@ -10,10 +10,10 @@
             "misc": ""
         },
         "drinksjs": {
-            "address": "2310 Pico Blvd, Santa Monica, CA 90405",
-            "name": "The Daily Pint",
+            "address": null,
+            "name": null,
             "misc": null,
-            "url": "https://www.yelp.com/biz/the-daily-pint-santa-monica"
+            "url": null
         },
         "speakers": [
             {
