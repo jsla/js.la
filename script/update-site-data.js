@@ -17,7 +17,7 @@ fetchAdmin(function (err, everything) {
 })
 
 function updateCurrent (everything) {
-  var show = extractShow(everything)
+  var show = extractShow(everything, Date.now() - ( 24 * 3600 * 1000 ))
   currentData.current.date = show.date
   currentData.current.datetime = show.datetime
   currentData.current.host = show.host
