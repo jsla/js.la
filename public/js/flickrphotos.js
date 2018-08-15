@@ -71,12 +71,12 @@ function appendPhoto( el, photo ) {
 
 var getPhotoLink =
 module.exports.getPhotoLink = function( photo ) {
-    return "http://farm" + photo.farm + ".static.flickr.com/" + photo.server + "/" + photo.id + "_" + photo.secret + "_" + "z.jpg";
+    return "https://farm" + photo.farm + ".static.flickr.com/" + photo.server + "/" + photo.id + "_" + photo.secret + "_" + "z.jpg";
 }
 
 var getPhotoSRC =
 module.exports.getPhotoSRC = function( photo ) {
-    return "http://farm" + photo.farm + ".static.flickr.com/" + photo.server + "/" + photo.id + "_" + photo.secret + "_" + "t.jpg";
+    return "https://farm" + photo.farm + ".static.flickr.com/" + photo.server + "/" + photo.id + "_" + photo.secret + "_" + "t.jpg";
 }
 
 function addToPage( resp, el ) {
