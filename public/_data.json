@@ -10,10 +10,10 @@
             "misc": ""
         },
         "drinksjs": {
-            "address": "12223 W Washington Blvd, Culver City, CA 90066",
-            "name": "Alley Lounge",
+            "address": null,
+            "name": null,
             "misc": null,
-            "url": "https://www.yelp.com/biz/alley-lounge-culver-city-2"
+            "url": null
         },
         "speakers": [
             {
