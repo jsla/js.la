@@ -10,10 +10,10 @@
             "misc": ""
         },
         "drinksjs": {
-            "address": "116 Santa Monica Blvd, Santa Monica, CA 90401",
-            "name": "Ye Olde Kings Head",
+            "address": null,
+            "name": null,
             "misc": null,
-            "url": "https://www.yelp.com/biz/ye-olde-kings-head-santa-monica"
+            "url": null
         },
         "speakers": [
             {
