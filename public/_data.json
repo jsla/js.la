@@ -4,10 +4,10 @@
         "datetime": "Thursday December 8th, 2018 7pm",
         "date": "12/8/2018 19:00:00",
         "host": {
-            "address": "9400 Culver Blvd, Culver City, CA 90232",
-            "name": "Culver Hotel",
+            "address": "1936 East 7th Street, Los Angeles, CA 90021",
+            "name": "Everson Royce Bar",
             "misc": "",
-            "url": "http://www.culverhotel.com/"
+            "url": "https://www.erbla.com/"
         },
         "drinksjs": {
             "address": null,
@@ -27,7 +27,7 @@
             }
         ],
         "sponsors": [],
-        "titoUrl": "https://ti.to/jsla/js-soiree-2018",
+        "titoUrl": "https://jsla-soiree-2018.eventbrite.com",
         "heroPhotos":
             "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2018-10-31&min_taken_date=2014-10-29&format=json"
     },
