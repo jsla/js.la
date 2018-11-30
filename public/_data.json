@@ -74,6 +74,12 @@
     ],
     "alumni": [
         {
+            "name": "Omar de Armas",
+            "avatar": "/images/team/omar-de-armas.jpg",
+            "twitter": "omarcito",
+            "slack": "omarcito"
+        },
+        {
             "name": "Jacob Lowe",
             "avatar": "/images/team/jacob-lowe.jpg",
             "twitter": "jcblw",
@@ -108,12 +114,6 @@
             "avatar": "/images/team/sean-westfall.jpeg",
             "twitter": "alphonse86",
             "slack": "sean"
-        },
-        {
-            "name": "Omar de Armas",
-            "avatar": "/images/team/omar-de-armas.jpg",
-            "twitter": "omarcito",
-            "slack": "omarcito"
         }
     ],
     "pastSponsors": [
