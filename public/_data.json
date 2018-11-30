@@ -42,12 +42,6 @@
             "slack": "dguttman"
         },
         {
-            "name": "Omar de Armas",
-            "avatar": "/images/team/omar-de-armas.jpg",
-            "twitter": "omarcito",
-            "slack": "omarcito"
-        },
-        {
             "name": "Ryan Bogle",
             "avatar": "/images/team/ryan-bogle.jpg",
             "twitter": "__ashwell__",
@@ -70,9 +64,21 @@
             "avatar": "/images/team/jarrett-harris.jpg",
             "twitter": "twinbnottwina",
             "slack": "jarrett"
+        },
+        {
+            "name": "Ben Junya",
+            "avatar": "/images/team/ben-junya.jpg",
+            "twitter": "MrBenJ5",
+            "slack": "benjunya"
         }
     ],
     "alumni": [
+        {
+            "name": "Omar de Armas",
+            "avatar": "/images/team/omar-de-armas.jpg",
+            "twitter": "omarcito",
+            "slack": "omarcito"
+        },
         {
             "name": "Jacob Lowe",
             "avatar": "/images/team/jacob-lowe.jpg",
