@@ -27,7 +27,7 @@
             }
         ],
         "sponsors": [],
-        "titoUrl": "https://jsla-soiree-2018.eventbrite.com",
+        "titoUrl": "https://jsla.eventbrite.com",
         "heroPhotos":
             "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=cdab964aa20adf96aabd31cc07e6cd57&tags=JSLA&max_taken_date=2018-10-31&min_taken_date=2014-10-29&format=json"
     },
