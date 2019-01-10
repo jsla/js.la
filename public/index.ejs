@@ -1,0 +1,26 @@
+<% 
+var last_date = new Date(2055, 1, 1);
+var event = public._data.events[0];
+for(var i=0;i<public._data.events.length;i++){
+  if(new Date(public._data.events[i].date).getTime() > new Date().getTime() 
+            && new Date(public._data.events[i].date).getTime() < last_date.getTime()){
+    last_date = new Date(public._data.events[i].date);
+    event = public._data.events[i];
+  }
+}
+%>
+<!-- Banner -->
+<%- partial("_partials/banner", {event: event}) %>
+<!-- Main -->
+<article id="main">
+  <!-- One -->
+  <%- partial("_partials/speakers", {event: event}) %>
+
+  <%- partial("_partials/location", {event: event}) %>
+  <%- partial("_partials/drink.js.ejs") %>
+
+  <%- partial("_partials/sponsors", {event: event}) %>
+</article>
+
+<!-- CTA -->
+<%- partial("_partials/cta") %>

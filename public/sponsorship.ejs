@@ -1,0 +1,64 @@
+<section class="wrapper style3 container special firstbox">
+        <header class="major">
+          <h2>Want to sponsor js.la?</h2>
+          <p>We would love to have your company join the js.la community!</p>
+        </header>
+
+        <div class="row jsla-white-wrapper">
+                <h3>What You Get:  </h3>
+                <div>
+                <li>Opportunity to introduce your company to the attendees</li>
+                <li>Company logo or custom slide on display throughout the event</li>
+                <li>Company logo on all videos recorded that month</li>
+                <li>Company logo on website with link</li>
+                <li>Mention + link in email to full email list + on meetup announce/event page</li>
+                <li>Tweets leading up to the event and after</li>
+                </div>
+
+                </div>
+        <br>
+                <div class="row jsla-white-wrapper">
+                <h3>Sound Good?</h3>
+                <p>
+                To get started, please fill out either the
+
+                <a href='http://contribute.js.la/host' target='_blank'> host</a>
+                or
+                <a href='http://contribute.js.la/sponsor' target='_blank'> sponsor</a>
+                forms.
+            </p>
+              <p>Afterwards, you may click one of the buttons below for payment:</p>
+
+              <form action='https://www.paypal.com/cgi-bin/webscr' method='post' target='_top'>
+                    <input type='hidden' name='cmd' value='_s-xclick'/>
+                    <input type='hidden' name='hosted_button_id' value='KXHWRLKYRXRHL'/>
+                    <button type='submit' class='pure-button-secondary pure-button jsla-button-xlarge' name='submit' alt='PayPal - The safer, easier way to pay online!'> Sponsor Single Month</button>
+                    <img alt='' border='0' src='https://www.paypalobjects.com/en_US/i/scr/pixel.gif' width='1' height='1'/>
+                </form>
+
+              <form action='https://www.paypal.com/cgi-bin/webscr'  method='post'  target='_top'>
+                    <input type='hidden' name='cmd' value='_s-xclick'/>
+                    <input type='hidden' name='hosted_button_id' value='86L34RHAYW9UJ'/>
+                    <button type='submit' class='pure-button-secondary pure-button jsla-button-xlarge' name='submit' alt='PayPal - The safer, easier way to pay online!'> Sponsor Recurring</button>
+                    <img alt='', border='0' src='https://www.paypalobjects.com/en_US/i/scr/pixel.gif' width='1' height='1'/>
+                </form>
+
+        </div>
+      </section>
+      <div class="jsla-sponsors">
+            <h3>Companies that have sponsored js.la:</h3>
+            <div class="sponsors-list">
+                <% let sponsors = public._data.pastSponsors
+                for (var key in sponsors) {
+                    if (sponsors.hasOwnProperty(key)) {
+                    let sponsor = sponsors[key]%>
+                    <a href="<%= sponsor.url %>">
+                        <div class="sponsor" style="background-image: url(<%= pathToUrl(sponsor.logo) %>)">
+
+                        </div>
+                    </a>
+                <%
+            }
+         } %>
+            </div>
+        </div>

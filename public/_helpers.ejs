@@ -1,0 +1,17 @@
+<%
+var DOWs = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
+var months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+
+dateToReadable = function(d){
+  return DOWs[d.getDay()]+" "
+  +months[d.getMonth()]+" "
+  +d.getDate()
+  +(d.getDate()>3?"th":d.getDate()==3?"rd":d.getDate()==2?"nd":"st")
+  +", "+(1900+d.getYear()) + " 7PM"
+}
+
+pathToUrl = function(p){
+  if(!p)return "";
+  return p[0]=='/'?'https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/'+p:p
+}
+%>

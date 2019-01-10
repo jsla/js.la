@@ -1,0 +1,3459 @@
+{
+  "drinkjs": {
+    "address": "2819 Pico Blvd, Santa Monica, CA 90405",
+    "name": "Barkowski",
+    "misc": null,
+    "url": "https://www.yelp.com/biz/barkowski-santa-monica"
+  },
+  "events": [
+    {
+      "titoUrl": "https://jsla.eventbrite.com/?aff=site",
+      "host": "20PWpKlnMh9MWfzYu0llHmhWyMYO",
+      "speakers": [
+        "eWgBU7uf7y6y0KUU9WGISxfIGwhu",
+        "HUpRCF9Fqnd8QGrnzFz2IAEA5YWo"
+      ],
+      "sponsors": [
+        "I50hno5HIPzkajJQXchgtwPh1Q4h",
+        "0bBUYNhhCWpIEULZDrTXNUM90xVh"
+      ],
+      "date": "2012-11-29"
+    },
+    {
+      "titoUrl": "https://jsla.eventbrite.com/?aff=site",
+      "host": "A3U9CMm5KVaIDYC1HTowakF7iHWf",
+      "speakers": [
+        "enTvT7XHdWOZAQROtaBSBNY1Zjqm",
+        "LtwrzUfPd2rL4FSl3LoWgcEpjuPD"
+      ],
+      "sponsors": [
+        "LuQD1G7yzBJfhyEclpgLBVTIcCia",
+        "T717l84HIQfdVS9JnR1tTceFmizT"
+      ],
+      "date": "2012-10-25"
+    },
+    {
+      "titoUrl": "https://jsla.eventbrite.com/?aff=site",
+      "host": "6REA4LXJjIDotOoJrj7okqiGlCqD",
+      "speakers": [
+        "hDYFYfQuQQStDu4EQBQv6IZnay3u"
+      ],
+      "sponsors": [
+        "bQ9HaH19sknLcEcdynuyzXsaekrQ",
+        "DpxRMO6cejXBXBJuen1zqUTT76ei"
+      ],
+      "date": "2012-09-25"
+    },
+    {
+      "titoUrl": "https://jsla.eventbrite.com/?aff=site",
+      "host": "E33iaDGWhrsC0RASz7XQ7L8nBSL2",
+      "speakers": [
+        "Csv5V6VvcbUSktd4dzqYo4hCX9UU",
+        "rfBoAuuoIriJ49oxXt2KMCzB4N1w"
+      ],
+      "sponsors": [
+        "OcoBuGYsqbUQ7lpAJPFbACCTjO2X",
+        "CrKVz2AMJVJAeJvMib5mKE8mtJuh"
+      ],
+      "date": "2012-08-30"
+    },
+    {
+      "titoUrl": "https://jsla.eventbrite.com/?aff=site",
+      "host": "Hu9J5379Fcy8Jca4g9nuoWOjfxa0",
+      "speakers": [
+        "JrjfxA2B8HOTPUDocLgz4ky6Tf9v",
+        "sgAHgVA1fzTG09Zkml9QEMJMSZ6r",
+        "p2jvff2Wus8kV9mFIfKuVCPmDl42"
+      ],
+      "sponsors": [
+        "QDEh9Z73pLb3p60TZwgos1bpbmF0"
+      ],
+      "date": "2012-07-26"
+    },
+    {
+      "titoUrl": "https://jsla.eventbrite.com/?aff=site",
+      "host": "6REA4LXJjIDotOoJrj7okqiGlCqD",
+      "speakers": [
+        "X4GVXKrwwYHipiIBzDZZImpaaq8w",
+        "ZnYSsnTK9qeGlrtrSZdEdF1qf8Wk",
+        "APUQvHXOTpcF5FgIX9fLe6dvS1xr"
+      ],
+      "sponsors": [
+        "2sLxRrXw1TKGK3911CKJzs5U9wlg",
+        "ubPTELFNJ2ae7ZgOPxV0Czxk0UQw"
+      ],
+      "date": "2012-06-"
+    },
+    {
+      "titoUrl": "https://jsla.eventbrite.com/?aff=site",
+      "host": "zuiYvbqnTSCfkwrBGNwUe75CTnvj",
+      "speakers": [
+        "0qZQthkKiGC3RB99klxZi3Q0ke8v",
+        "1y2ruonQfYBVY01opHlfLOVouXYD"
+      ],
+      "sponsors": [
+        "oOeAPcnuBuGvYVxzPNabEAuXWKlA",
+        "ColsvifQXUECdhpzSNbgThjogkUt"
+      ],
+      "date": "2012-05-"
+    },
+    {
+      "titoUrl": "https://jsla.eventbrite.com/?aff=site",
+      "host": "6REA4LXJjIDotOoJrj7okqiGlCqD",
+      "speakers": [
+        "eS0olFngmareDYNKcz9u47Al2CY5",
+        "3wG0o0vWTmyfnSwt6hudRpxGoScR",
+        "LX7Z1uGvayUVF1vAomBlF88VTQYc"
+      ],
+      "sponsors": [
+        "5ROXk97fc1PRWOBetVfuezJgl71a",
+        "klBfcxu7DmyEDuGEwhAY41I1A0Gl"
+      ],
+      "date": "2012-04-"
+    },
+    {
+      "titoUrl": "https://jsla.eventbrite.com/?aff=site",
+      "host": "YGXwdSgKh8vbGIKK9q2lxrZjErAf",
+      "speakers": [
+        "GqSj6CqYxHMKQVQHFD5dPxqN0SuO",
+        "aZJhkB31aHQbx7MouRB8At3BhBV0",
+        "FNsdzeFn0noDvlLnezdsr5DhREa5",
+        "fit1TfCfx6KpfVrJMeX8IQHX2r2E"
+      ],
+      "sponsors": [
+        "x3HnBdYbk4SulcsvckKpqLnssGNL"
+      ],
+      "date": "2012-03-"
+    },
+    {
+      "titoUrl": "https://jsla.eventbrite.com/?aff=site",
+      "host": "s0iPvfV0PJOPhozzL0TYbhbNP6WC",
+      "speakers": [
+        "29f7LDHP3o0OwXASqYvtGeKFjXVH",
+        "yMWgvIm9WoPbRCbif7f1hKi4YoTd"
+      ],
+      "sponsors": [
+        "7WxfZLBwOjaDDVCIXlfyApRRhwxy",
+        "ebuYh1qDj2ixgfjvCT6aZHo7B6tI"
+      ],
+      "date": "2013-10-24"
+    },
+    {
+      "titoUrl": "https://jsla.eventbrite.com/?aff=site",
+      "host": "hVPNFbUV2Npk3cnSlsys4kUz53yN",
+      "speakers": [
+        "nr0Gm3MrDA14s86XwigqPp2X0GHE",
+        "koM0QY5DtjdLlsI0KgY0OcWQLpCJ"
+      ],
+      "sponsors": [
+        "rlnhnbT6IGQzmAsT0nrPfh2YHwOV",
+        "LeyZmg1H4374rvV2rcINWDXmyOxm"
+      ],
+      "date": "2013-09-26"
+    },
+    {
+      "titoUrl": "https://jsla.eventbrite.com/?aff=site",
+      "host": "A3U9CMm5KVaIDYC1HTowakF7iHWf",
+      "speakers": [
+        "796EZGF6pHOhh3KBVoTfR9SqMNsW",
+        "cwKSbu859stg63PevEzNgFZlnCCy"
+      ],
+      "sponsors": [
+        "ek7tDMIJOmdJqmE9EPDm8wooQgVc",
+        "etnIeNrpXevZJ8aui4pFtiWFgVK4"
+      ],
+      "date": "2013-08-29"
+    },
+    {
+      "titoUrl": "https://jsla.eventbrite.com/?aff=site",
+      "host": "rPhKFcyJde7FI4ghmVl7g9RL1UZt",
+      "speakers": [
+        "c5vPPSoWjwKU805e4zOnyrY3Sr0O",
+        "FsdH45sKJ0zixQo26CP6TDdetUic"
+      ],
+      "sponsors": [
+        "1m5P0LY91Yusfo8CwaRZaEIMpkbt",
+        "dT8BWiKQYK7fMnq1yDlhCL5MqDdB"
+      ],
+      "date": "2013-07-25"
+    },
+    {
+      "titoUrl": "https://jsla.eventbrite.com/?aff=site",
+      "host": "M0M7k8twHeIioLZBy0AkpguLxRVU",
+      "speakers": [
+        "sFj5D9z08pxB5y9vUrlWGtrTo8NP",
+        "iqlokqouMaJjdaFao3h2bBcL1NhR"
+      ],
+      "sponsors": [
+        "Zg8NNI8RvgV55F5T4bVFxKvD4CF2",
+        "SlG2TjrUgx7G3TfamKnqERjqyltb"
+      ],
+      "date": "2013-05-30"
+    },
+    {
+      "titoUrl": "https://jsla.eventbrite.com/?aff=site",
+      "host": "A3U9CMm5KVaIDYC1HTowakF7iHWf",
+      "speakers": [
+        "NtjRBbXVwZqj2FesIAEkywfb78Bi",
+        "nsd9Ebi7WtYTkPZdc2bMTnOtdoA2",
+        "ORlmkJBaeXPjD4TEieHgCFCgya1R"
+      ],
+      "sponsors": [
+        "obrvuI2AX1NpXMBcF0CpnMDcLINB",
+        "gH3zAwYWbUwkKB0lJE9B6ENxrwbS"
+      ],
+      "date": "2013-04-25"
+    },
+    {
+      "titoUrl": "https://jsla.eventbrite.com/?aff=site",
+      "host": "DpRlk0L0EiGh22jeypDltnqpzuoT",
+      "speakers": [
+        "KJoQPRcUajIghVrLOjuwEYlgJAfi",
+        "XNHmayWHcmMjxF5ulPxKqxDcEtXg"
+      ],
+      "sponsors": [
+        "dj5TRffvKLrnfnDPXNFwQXYhJ6I9",
+        "GrydNpFGYbHLxPqFxQvs19a6Eus1",
+        "fx7WSKf6sC0q5iwGSnAFH6zru2d0"
+      ],
+      "date": "2013-03-28"
+    },
+    {
+      "titoUrl": "https://jsla.eventbrite.com/?aff=site",
+      "host": "A3U9CMm5KVaIDYC1HTowakF7iHWf",
+      "speakers": [
+        "jrB7BQuKA5LCFgRksGOKBi7GSDDZ",
+        "uPyiV5r3mSiGGmsQcBqgL4kAm8Wi",
+        "pSWcdgYtxpftmCBigSXZgrr9Fl1V"
+      ],
+      "sponsors": [
+        "S2KDp7n5LofsLUx9U8GfaUNXYP59",
+        "aEmpMcQHhfn6VAVXIvflfNq79rcG",
+        "JqVPAov4phEtu3ofKcUx2sfiOtw0"
+      ],
+      "date": "2013-02-28"
+    },
+    {
+      "titoUrl": "https://jsla.eventbrite.com/?aff=site",
+      "host": "6REA4LXJjIDotOoJrj7okqiGlCqD",
+      "speakers": [
+        "qoyNip4yFOo6d5tPRKX3aSj3T48k",
+        "kC9dpFV2uCyxbO3e6TmoNmLM90XL"
+      ],
+      "sponsors": [
+        "CCGuySJWh66jsFBkn7IppTTGkLwD",
+        "QWrM2HbYuMpVk3J82WFHZBW5rGtf",
+        "vaYxEBkENggnHPyEVVA9wDzUjTaD"
+      ],
+      "date": "2013-01-31"
+    },
+    {
+      "titoUrl": "https://jsla.eventbrite.com/?aff=site",
+      "host": "Afsdrse9gJvGOAVxYwevrN55HmzL",
+      "speakers": [
+        "NOkbdRVGtMzKxW9fcaor2fPXoIXd",
+        "yZRCXO2sNX7lwn8c9Vb4t4il74Py",
+        "AWXb7WE6gD4cliUKUiRERCnl0hat"
+      ],
+      "sponsors": [
+        "raSbtauqWwLiBSHyfxid2X0tCZaG",
+        "qUReBt6eO6zc6oTUh8zab6qDOjQk"
+      ],
+      "date": "2014-10-30"
+    },
+    {
+      "titoUrl": "https://jsla.eventbrite.com/?aff=site",
+      "host": "viN7Kz07XGASA90YwDlTYfACp8Q1",
+      "speakers": [
+        "RxfcJEYAvpXfVlT9JCbWAjUTq3pG",
+        "fjsxLsBg8m1xWRjGRCRBX8oh7O4F",
+        "93BP2bZrTeve87idxQ7KOgqASZDs"
+      ],
+      "sponsors": [
+        "b2NmnvFxM6YZNzaNuDpsMwQObXMG",
+        "diSg4ns7gtHf9OcWpoY02tjWQcZM"
+      ],
+      "date": "2014-09-30"
+    },
+    {
+      "titoUrl": "https://jsla.eventbrite.com/?aff=site",
+      "host": "eeKcxs2t88YakhSCeotDJSml8iqg",
+      "speakers": [
+        "lLSeeylWwB1pNRyKRKq6LixKWS5h",
+        "NIiz4Cq4hpumrrZlN7G7Z63lMHku",
+        "Pqvz1b9YWaRNYmZsCn8NtwvGdRA2"
+      ],
+      "sponsors": [
+        "QdzIXjOiM60gQNHwDFD3ucFZkpnr",
+        "dxD9t391jD4bgKyrAsL00SnDIrVC",
+        "maDhKJG8tHNdgEmmUJ8fCcCftrzC"
+      ],
+      "date": "2014-08-28"
+    },
+    {
+      "titoUrl": "https://jsla.eventbrite.com/?aff=site",
+      "host": "20PWpKlnMh9MWfzYu0llHmhWyMYO",
+      "speakers": [
+        "ln8thquhOtqxkW2dqyTHfluMgMfl",
+        "ZqFNEjG1VVxF830erHKjNxpZupJS"
+      ],
+      "sponsors": [
+        "VGmgSd7aCaYW5iwYO7XIXO80rtld",
+        "2P84cSL15RIOa6SjAmy25lyFkQSz"
+      ],
+      "date": "2014-07-31"
+    },
+    {
+      "titoUrl": "https://jsla.eventbrite.com/?aff=site",
+      "host": "iNcYtv0UUSBrObiAR1NcRUXakgC7",
+      "speakers": [
+        "9xIfpt78Rpp9HJsj8HIogsJlnb8Y",
+        "BE8kHdycXKGOa9UrkFrZA0pn1uKR"
+      ],
+      "sponsors": [
+        "bDES0yuVbwszl1rYOCsUHQdgTYQ4",
+        "iiJC9y7GYdTcE6gWNr0QciJFhAB5",
+        "xvoB4WyIgRfmTvoMpi8VcDRdfz8V"
+      ],
+      "date": "2014-06-26"
+    },
+    {
+      "titoUrl": "https://jsla.eventbrite.com/?aff=site",
+      "host": "iNcYtv0UUSBrObiAR1NcRUXakgC7",
+      "speakers": [
+        "i9tEWrV7KbkV1Yw1AYKUmwUANdRo",
+        "n6Bveqrsw8Fp8hVTJrVOWZkraaOZ"
+      ],
+      "sponsors": [
+        "CfXHQKyfIY5g9nhgXjPZGXuBK3Ca",
+        "JbCUlLKkKbPitgPsy7tgl7BMtGlm",
+        "RxZUddVm1zANihBBZ42XQVDo6qeh"
+      ],
+      "date": "2014-05-29"
+    },
+    {
+      "titoUrl": "https://jsla.eventbrite.com/?aff=site",
+      "host": "iNcYtv0UUSBrObiAR1NcRUXakgC7",
+      "speakers": [
+        "3h93laL8wkEkfDRAwi93OiLQLgro",
+        "93Ncl6Eo9cLlVqMUNeMyXnkApHui"
+      ],
+      "sponsors": [
+        "q58cYCONDC1lEls4UGVBsJY7CYFn",
+        "wWqdeyByQ7tsnjJELJyBYsfulnNm",
+        "qXz6Z0iYmfbrnysuKPR17JdH4APg"
+      ],
+      "date": "2014-04-24"
+    },
+    {
+      "titoUrl": "https://jsla.eventbrite.com/?aff=site",
+      "host": "iNcYtv0UUSBrObiAR1NcRUXakgC7",
+      "speakers": [
+        "KEP0oMDOkls3SEd3opVXVnVxvRtY",
+        "veWwXzmF3EGXqjSIEAEkmB8AmEk6"
+      ],
+      "sponsors": [
+        "Ue3Sd5AmGuJSuE7Q2NaqDCNd98v7",
+        "gmjt9jhHkrTVoLY1RwAPRU95pHgj",
+        "Ch0zrtIEDStnKz1AK53tx7E4BsL8"
+      ],
+      "date": "2014-03-27"
+    },
+    {
+      "titoUrl": "https://jsla.eventbrite.com/?aff=site",
+      "host": "viN7Kz07XGASA90YwDlTYfACp8Q1",
+      "speakers": [
+        "FOma0ef9FRPx3VKtlH4bwKt1JY58",
+        "Lsrz4uRdx3N7vdn5qTtRupFXGSlD"
+      ],
+      "sponsors": [
+        "s0MV6SRvD4ZOxHkySyCFrb5GyGYm",
+        "SNnouZPgmdoRP3oLBEMorHHXmmi4",
+        "cbqUBndq5ZXzJiFLuSBDpUldTMYq"
+      ],
+      "date": "2014-02-27"
+    },
+    {
+      "titoUrl": "https://jsla.eventbrite.com/?aff=site",
+      "host": "2dzBt9siRYf7A1VNfdEm70wXTLE4",
+      "speakers": [
+        "mOFQLV0GECQlwoTTIJLhSkvtJlay",
+        "jFJ0WzFVS88qLqrL40nVZEcuPXdE"
+      ],
+      "sponsors": [
+        "clS3542AZEVRZID4EZBjmh6rknMB",
+        "GzBPT4Vb0y48VRHFgwjwhyU71gw7",
+        "h816HakwdHPfQ3IUDrOoipB2a76Z"
+      ],
+      "date": "2014-01-30"
+    },
+    {
+      "titoUrl": "https://jsla.eventbrite.com/?aff=site",
+      "host": "Tv9F28iYotq7fy1hDZXp9N6YzLGJ",
+      "speakers": [
+        "p5bnOWtktDdtTFy2MdW7B3cMdONl",
+        "FcMsLOyiZ1x2BZxMAQY6uSQs6Hgc"
+      ],
+      "sponsors": [
+        "LDEABslJGi632nxsNxSkEYAlwiVn",
+        "lIQxcNWt9RhoodVaPdMJEDQaMwuv"
+      ],
+      "date": "10/29/2015 21:00:00"
+    },
+    {
+      "titoUrl": "https://jsla.eventbrite.com/?aff=site",
+      "host": "eeKcxs2t88YakhSCeotDJSml8iqg",
+      "speakers": [
+        "Xxp2PnTX0kpmAwb9n9e4DPzzvocj",
+        "VmHYUPbONE2cDQEh0bheRg8uJmcj"
+      ],
+      "sponsors": [
+        "tBO4PqQ0q5YZMy7UkXged7rvcSFu",
+        "iff4jpE1EKDqh7wuaJ3iyNcOxrK0"
+      ],
+      "date": "9/24/2015 21:00:00"
+    },
+    {
+      "titoUrl": "https://jsla.eventbrite.com/?aff=site",
+      "host": "HrKp3gHFNl9fCJPKQTkk5UUG2MDY",
+      "speakers": [
+        "92zlwoGeq3WOZGNhC97IAH2R8AfF",
+        "igoy8dwpSZjGGbtQguP4h1On9wbU"
+      ],
+      "sponsors": [
+        "Zi2NiBdAysEh9Ayj4B0VUnXPuZ7r",
+        "v9OGW4NZVFPxqoIIbvO15D4xpkJf"
+      ],
+      "date": "8/27/2015 21:00:00"
+    },
+    {
+      "titoUrl": "https://jsla.eventbrite.com/?aff=site",
+      "host": "yb9tnk55RcZMQHcqxoZWN8qs50bK",
+      "speakers": [
+        "kuLrFpeb9BDidUL1ba9f6pS39vSK",
+        "7vdsP5gUYrhmkI9FAC7gpTi6Fwqz",
+        "dK1we7XhzpiyD6kugckNI2RpNKZ7"
+      ],
+      "sponsors": [
+        "htL7fEmTYtpsMeSsBA1Gdzbf0ezc",
+        "vwH3HJCSvbh5TEbwJGIBq4C7Ygqz",
+        "ChaFuRjMeX9tvgiVspWqoPZ2qdQi"
+      ],
+      "date": "7/30/2015 21:00:00"
+    },
+    {
+      "titoUrl": "https://jsla.eventbrite.com/?aff=site",
+      "host": "DpRlk0L0EiGh22jeypDltnqpzuoT",
+      "speakers": [
+        "pAfR4vxNKBPdLO8dm5MTpPrmj7er",
+        "YULFzgmIEJyauYOoY4chl9gJRaTm"
+      ],
+      "sponsors": [
+        "a3Gvf2QnuYE1iY9nfb5kQUqFP1pS",
+        "Qn0E1s2v2VcRCdO1xL15bNjLIFiJ",
+        "6h101v9V20cg0ZOXags1do2xcneE"
+      ],
+      "date": "6/25/2015 21:00:00"
+    },
+    {
+      "titoUrl": "https://jsla.eventbrite.com/?aff=site",
+      "host": "hVPNFbUV2Npk3cnSlsys4kUz53yN",
+      "speakers": [
+        "ro3pdLFrTwbN3siovbswXsb5cMP4",
+        "NOccTciJUf31ymIydDlaOyJ6P9Hn",
+        "i2fD9rNgRVTgCD5rUS0EB1fgqHIO"
+      ],
+      "sponsors": [
+        "sapAFcGBLRPw0ISVm6hRjHR6J4bI",
+        "oFWxUGPQlCKbKN7ErCJ6gdZMtAZX",
+        "eKyn0Lf1hosEv9CT0MZFVOPUDxyd"
+      ],
+      "date": "5/28/2015 21:00:00"
+    },
+    {
+      "titoUrl": "https://jsla.eventbrite.com/?aff=site",
+      "host": "iNcYtv0UUSBrObiAR1NcRUXakgC7",
+      "speakers": [
+        "TZN6Vp3k7K1jgothmbZe3i2UMT8G",
+        "mDIOowSRcT036JPK4Hv02XI2BDre",
+        "RE2KftxluVTWo9CFoLdt3PhzCbUN"
+      ],
+      "sponsors": [
+        "3FOqO4kNnKLxyfLjsGpbEpDFizRz",
+        "2wP6qgakgRP65yudba5hNKVgBXoO",
+        "7I6RSdMYPKqsO1HdhiHyYPjX5o6C"
+      ],
+      "date": "4/30/2015 21:00:00"
+    },
+    {
+      "titoUrl": "https://jsla.eventbrite.com/?aff=site",
+      "host": "WQd4UYJzUlrT2Ysvxxo32uEf7TLV",
+      "speakers": [
+        "ddlheXENUOffa7mNK70jIk8VOIzJ",
+        "nPQOuJDktrOljFdJRKzz34beYAB1",
+        "Q76ZZpPBcsTeUgBL64zS4NDERmTQ"
+      ],
+      "sponsors": [
+        "KK2FxdruhadEfb6797OD2JfwXsDj",
+        "4xRWARcA7xcYImqgGZqHWNccEPe4",
+        "Lft1N2zHi18LmJNlxmcR55kE5z4P"
+      ],
+      "date": "3/26/2015 21:00:00"
+    },
+    {
+      "titoUrl": "https://jsla.eventbrite.com/?aff=site",
+      "host": "O14dKG1GpG8SIpaX97tEfdY4kKlS",
+      "speakers": [
+        "9pOBAPakIEIlVKAhqrV0w8r9yZmF",
+        "7iT67OY7UaCDVoFZqxiWrYnOEvVh",
+        "iS3u6MpgLupq16Ef7Vgc1E6DmYPz"
+      ],
+      "sponsors": [
+        "hAsOiNm8hWef8NtQ5TtuY8SAfDuS",
+        "iJGWtDSq4jLL69Suog8IyjF7ciRU"
+      ],
+      "date": "2015-02-26"
+    },
+    {
+      "titoUrl": "https://jsla.eventbrite.com/?aff=site",
+      "host": "hVPNFbUV2Npk3cnSlsys4kUz53yN",
+      "speakers": [
+        "WfWkKa2UVScR27oQu4A0ESnOkTiS",
+        "P1MhTT2nSGcMi89hGJXHITYUfbI0",
+        "sHTO3AIVEalbQZ1VEEjsjFcYbqpt"
+      ],
+      "sponsors": [
+        "bVnvbTOTZh2D6E9h0AfK5qD3bWA3",
+        "Z61Lw7oA2bn8Kk6JwhOEHu1rFQU1"
+      ],
+      "date": "2015-01-29"
+    },
+    {
+      "titoUrl": "https://jsla.eventbrite.com/?aff=site",
+      "host": "r8s7YLBWIaBJLwxvin0M3hi72oMi",
+      "speakers": [
+        "tANrp1MKCeIuFB93nWzTtkeDXId6",
+        "2HYMGkONEFT6juLnm6zjGMMLChYm",
+        "sFsqJz2XPr7VFtM7TZusFDCanHKQ"
+      ],
+      "sponsors": [
+        "MXR60DNjk2MGNHELPiWmHS5AndSi",
+        "UP1zxb7Fb1NHgx9uY6tWsAB8am3C"
+      ],
+      "date": "10/27/2016 19:00:00"
+    },
+    {
+      "titoUrl": "https://jsla.eventbrite.com/?aff=site",
+      "host": "8UdDDVT0XNss19Rlxkk9l6aF04cz",
+      "speakers": [
+        "7j7jSSuIJMEo2qSEOUV1amwQvCyk",
+        "rHmxnd2S36XBMd0FPiZCNp0kctu0"
+      ],
+      "sponsors": [
+        "gvmdUzUG53zpO0tYvLfhDADBYyKY",
+        "tzYytnI3SIzo85ImU8Y2BupGMGNo"
+      ],
+      "date": "09/29/2016 19:00:00"
+    },
+    {
+      "titoUrl": "https://jsla.eventbrite.com/?aff=site",
+      "host": "qmaYgR8oTzpqFXPMSuVRkYSrKmpC",
+      "speakers": [
+        "ATxpNCmIm9Ul3FnqyWbdCT8CI0ra",
+        "DcOeFeGz8wCHLCxOgK6OX29rxHLM"
+      ],
+      "sponsors": [
+        "ULR5TPMdiq3jBX5qJRDWp55lIVAC",
+        "C2cIRt7710kuEuzLceWA0QdXOhD8"
+      ],
+      "date": "08/25/2016 19:00:00"
+    },
+    {
+      "titoUrl": "https://jsla.eventbrite.com/?aff=site",
+      "host": "yb9tnk55RcZMQHcqxoZWN8qs50bK",
+      "speakers": [
+        "SPbH14ucPRMgU0WFf8fD3tIzLnCK",
+        "OMS39pYbWgxk6gMk6GnvbY6hSDoa"
+      ],
+      "sponsors": [
+        "gyBl2E6o4XudSX7ScgKjKLdySpB8",
+        "6IWaBxHMzuXXTdSwWobsGbTuvDXb"
+      ],
+      "date": "07/28/2016 19:00:00"
+    },
+    {
+      "titoUrl": "https://jsla.eventbrite.com/?aff=site",
+      "host": "O38pQHqDPXvjBsWR2IhCHwY7aNjf",
+      "speakers": [
+        "Nn4L6yLZiuGvDvq1q1UvIhOxQtHj",
+        "Y230cUdh38cCfvLLlXwHwujQqFvi"
+      ],
+      "sponsors": [
+        "Wkow0I66oQhrR3MH6Q7LEZlGJkiF",
+        "GdrofEmwhceGoAVuFt9HqNUoy90K"
+      ],
+      "date": "06/30/2016 19:00:00"
+    },
+    {
+      "titoUrl": "https://jsla.eventbrite.com/?aff=site",
+      "host": "1XDTuB5pOK1IRgNgmpmCB4XtmtD5",
+      "speakers": [
+        "r5E3KNQsqCSGUQFOz4wdJRIaS6pv",
+        "rqHtbLvlmcwRvx1eX0qEo9TypSP4"
+      ],
+      "sponsors": [
+        "wpWls4UeNUqU8IXNrUiBkG6OUODo",
+        "CqiDxUX6bk9kxDLdDqWkTGrTsFHq"
+      ],
+      "date": "05/26/2016 21:00:00"
+    },
+    {
+      "titoUrl": "https://jsla.eventbrite.com/?aff=site",
+      "host": "Sultwm1ZoScgZ2Jjufq1FWWph25W",
+      "speakers": [
+        "71siCWdA8WdBWGMdSrXib8U10jzI",
+        "m6MfOCgOdaRsbVqmoncBv6tnc7Fn"
+      ],
+      "sponsors": [
+        "vdEoqfvzx42cBDwMv8UkDDGhgnDs",
+        "jb8TbGZ8TOV5Qnoq904ErROanvc7",
+        "BkYw3GFeGUKsgsQ9jJQDgLvlNk3l"
+      ],
+      "date": "04/28/2016 21:00:00"
+    },
+    {
+      "titoUrl": "https://jsla.eventbrite.com/?aff=site",
+      "host": "qmaYgR8oTzpqFXPMSuVRkYSrKmpC",
+      "speakers": [
+        "wjJM3aQ1nyl2dQk0Ht3QqrHwQP6H",
+        "yLchrvVmHmvpE2U9F9lNcP7gPCMK"
+      ],
+      "sponsors": [
+        "IwH8NtDwbUz9vGbtdCw7ZCs6HTNA",
+        "xFILZhprxbZhAJnrmH7gL0lmC7Jd",
+        "f3hMABqOts5O6Gr2LCEA0I3VHJ7I"
+      ],
+      "date": "03/31/2016 21:00:00"
+    },
+    {
+      "titoUrl": "https://jsla.eventbrite.com/?aff=site",
+      "host": "fnpn58VnWklcdAw9ajmENDeOxiMV",
+      "speakers": [
+        "O8v7pQ0MCQP2QSmu6pC77MZ1Ljb5",
+        "EN3E6xPZ3NmvXK9Qqe4LFN2qvdbw"
+      ],
+      "sponsors": [
+        "KgOCTH4FqIz3HVdctNUVWCo609Sm",
+        "sOa6KMjHKbsANvY0JGR1oZTLOULa",
+        "JlKbt7V49kUEqye1lqnP6TYhI0lb"
+      ],
+      "date": "02/25/2016 21:00:00"
+    },
+    {
+      "titoUrl": "https://jsla.eventbrite.com/?aff=site",
+      "host": "2dzBt9siRYf7A1VNfdEm70wXTLE4",
+      "speakers": [
+        "TcI9VHUw6m7graxYS4tVPcZOwLBy",
+        "ta8cm3iyHpGLymLLi41PaVcJq5TM",
+        "Kw6QFk8mqrGiFSSRQfBR87YGuQQH"
+      ],
+      "sponsors": [
+        "ZHUrIwf0kN1sgVokpFe8SOOrPqpv",
+        "ymy1rG86gYYQWXC0xDpysQt2BH7G"
+      ],
+      "date": "01/28/2016 21:00:00"
+    },
+    {
+      "titoUrl": "https://jsla.eventbrite.com/?aff=site",
+      "host": "WdoNAStCNJRocrklcrqICTOAzKmj",
+      "speakers": [
+        "Ww1lPq9LxcPNCFIo9oYpI7s0X11G",
+        "N8agJVvMx7GotQBcc4C4hhhZvsGM"
+      ],
+      "sponsors": [
+        "p1E7yAPbYTcerHUwJLYJxs5P3gnQ",
+        "R2Xc4FANKJOGKmjpFiPPGHzVI6tt"
+      ],
+      "date": "9/28/2017 19:00:00"
+    },
+    {
+      "titoUrl": "https://jsla.eventbrite.com/?aff=site",
+      "host": "ApzBM71Ft8menIiD68pYPmkWli2Q",
+      "speakers": [
+        "EpzVxg82yb650yBeiFz3tQNtR97g",
+        "12DOzL8JkfID7FqfONlI1V7Izh93"
+      ],
+      "sponsors": [
+        "K5PcvzCUmTzbHO4GTtAhenY46THS",
+        "CYYKttV0OT4ifOAstyunxqUj4vpy"
+      ],
+      "date": "8/31/2017 19:00:00"
+    },
+    {
+      "titoUrl": "https://jsla.eventbrite.com/?aff=site",
+      "host": "qmaYgR8oTzpqFXPMSuVRkYSrKmpC",
+      "speakers": [
+        "EmqieQ0c0TCxDyK9DVA26ewvHLRZ",
+        "4yrZ2gZHS2GfF5SabCTnMmOdDbXq"
+      ],
+      "sponsors": [
+        "ECbdtAiLdm19ZkL2m3xPR0RLCFOH",
+        "vz6THEpVli1suBRLwjVvXUVi9HA0"
+      ],
+      "date": "7/27/2017 19:00:00"
+    },
+    {
+      "titoUrl": "https://jsla.eventbrite.com/?aff=site",
+      "host": "DpRlk0L0EiGh22jeypDltnqpzuoT",
+      "speakers": [
+        "IrzQTNGIlHB7ReCXNW2OyZXikjFH",
+        "sDyOJ3qZuH8RTvyQrCZysIJpBka8"
+      ],
+      "sponsors": [
+        "nUJpyaoq7DpAcIxHJfhlux3zcdy6",
+        "OMzABANR4JvJn9DCihWV6aEyhWaJ"
+      ],
+      "date": "6/29/2017 19:00:00"
+    },
+    {
+      "titoUrl": "https://jsla.eventbrite.com/?aff=site",
+      "host": "9zkAFm0LIuGTDoM2aaEcFTzzX0oS",
+      "speakers": [
+        "7TR4ulmD69ApAipTCj1Rqqwm3ddV",
+        "kiz2nddtTtGBE5d3YpvMwfX78AQA"
+      ],
+      "sponsors": [
+        "Y8wGzIszrDF6WSNkkz258OofUjAM",
+        "nQMOa4A0GPwHoEUrWvuRp2cZBPFw"
+      ],
+      "date": "5/25/2017 19:00:00"
+    },
+    {
+      "titoUrl": "https://jsla.eventbrite.com/?aff=site",
+      "host": "YeyMWfQiFLocex689mbdlvDpOaDq",
+      "speakers": [
+        "QAHK8xZtlRUloZOCFapAIBdfzTVN",
+        "7m9qkg5gK3zal4K5Pz1CpcbRXlNd"
+      ],
+      "sponsors": [
+        "yybtDUaFQmWJAW5npIQ6x93zYAFw",
+        "1hJfiVO3rybiQQiq0bg81nJUUrdG"
+      ],
+      "date": "4/27/2017 19:00:00"
+    },
+    {
+      "titoUrl": "https://jsla.eventbrite.com/?aff=site",
+      "host": "EcqTv0eyDHDCbndIDRRIdmNp9UOE",
+      "speakers": [
+        "rqH1hCfbXJqqIUQpe4QZkILH1Gsz",
+        "TrNmn5HMBmcqk1bHEZuXw7HvvjXy"
+      ],
+      "sponsors": [
+        "sONcfzjaMZVk8ce45K3OabwoukUy",
+        "kb5Zg09XUJoAO4ZAW302J8QstERx",
+        "PAeGYs8zCrHHThMH2jjWaSWAWwC5"
+      ],
+      "date": "3/30/2017 19:00:00"
+    },
+    {
+      "titoUrl": "https://jsla.eventbrite.com/?aff=site",
+      "host": "zPWUj1kknLe3CALCHwY92YaX3rrU",
+      "speakers": [
+        "XQznMOO9sA3tIgbYKKrsxvyUfOxF",
+        "ffISuBJONEdu8zap8pH073rb1LXf"
+      ],
+      "sponsors": [
+        "Z0HSJNmNjkNgkHbbFM95MKDaxfhE",
+        "KbeuVowC4nxF7vEf9kHcalqqwlgu"
+      ],
+      "date": "1/23/2017 19:00:00"
+    },
+    {
+      "titoUrl": "https://jsla.eventbrite.com/?aff=site",
+      "host": "YeyMWfQiFLocex689mbdlvDpOaDq",
+      "speakers": [
+        "1EzxN2hk2IPeIxOnMENnlxb4VQ8I",
+        "jzB13vH67lWYBA8StpnXYh2GTk9Z"
+      ],
+      "sponsors": [
+        "tJaoTtydZWFvv8zkfZOmDsarPMvh",
+        "RqPKh66QyhaExwhIbcoz6NE053SE"
+      ],
+      "date": "1/26/2017 19:00:00"
+    }
+  ],
+  "hosts": {
+    "20PWpKlnMh9MWfzYu0llHmhWyMYO": {
+      "organization": "Two Bit Circus",
+      "logo": "/images/hosts/host-two-bit.png",
+      "address": "",
+      "link": "twobitcircus.com"
+    },
+    "A3U9CMm5KVaIDYC1HTowakF7iHWf": {
+      "organization": "The Hub LA",
+      "logo": "/images/hosts/host-the-hub.png",
+      "address": "",
+      "link": "thehubla.com"
+    },
+    "6REA4LXJjIDotOoJrj7okqiGlCqD": {
+      "organization": "Cross Campus",
+      "address": "",
+      "link": "crosscamp.us"
+    },
+    "E33iaDGWhrsC0RASz7XQ7L8nBSL2": {
+      "organization": "Yahoo!, Santa Monica",
+      "address": "",
+      "link": "developer.yahoo.com"
+    },
+    "Hu9J5379Fcy8Jca4g9nuoWOjfxa0": {
+      "organization": "CityGrid Media, West Hollywood",
+      "address": "",
+      "link": "http://www.citygridmedia.com/"
+    },
+    "zuiYvbqnTSCfkwrBGNwUe75CTnvj": {
+      "organization": "ioLA",
+      "logo": "/images/hosts/iola.png",
+      "address": "",
+      "link": "iola.la"
+    },
+    "YGXwdSgKh8vbGIKK9q2lxrZjErAf": {
+      "organization": "CityGrid Media",
+      "address": "",
+      "link": "citygridmedia.com"
+    },
+    "s0iPvfV0PJOPhozzL0TYbhbNP6WC": {
+      "organization": "IdeaLab",
+      "logo": "/images/hosts/host-idealab.png",
+      "address": "",
+      "link": "www.idealab.com"
+    },
+    "hVPNFbUV2Npk3cnSlsys4kUz53yN": {
+      "organization": "Yahoo!",
+      "logo": "/images/hosts/host-yahoo.png",
+      "address": "",
+      "link": "developer.yahoo.com/"
+    },
+    "rPhKFcyJde7FI4ghmVl7g9RL1UZt": {
+      "organization": "HUGE",
+      "logo": "/images/hosts/host-huge.png",
+      "address": "",
+      "link": "hugeinc.com"
+    },
+    "M0M7k8twHeIioLZBy0AkpguLxRVU": {
+      "organization": "M-GO",
+      "address": "",
+      "link": "m-go.com"
+    },
+    "DpRlk0L0EiGh22jeypDltnqpzuoT": {
+      "organization": "Google, Venice",
+      "logo": "/images/hosts/host-google.png",
+      "address": "",
+      "link": "Google.com"
+    },
+    "Afsdrse9gJvGOAVxYwevrN55HmzL": {
+      "organization": "Otto Design Group",
+      "address": "836 Traction Avenue Los Angeles, CA 90013",
+      "link": "http://ottodesigngroup.com/"
+    },
+    "viN7Kz07XGASA90YwDlTYfACp8Q1": {
+      "organization": "Yahoo",
+      "logo": "/images/hosts/host-yahoo.png",
+      "address": "2400 Broadway Santa Monica, CA 90404",
+      "link": "http://yahoo.com/"
+    },
+    "eeKcxs2t88YakhSCeotDJSml8iqg": {
+      "organization": "Maker Studios",
+      "logo": "/images/hosts/host-maker.png",
+      "address": "3562 Eastham Drive, Culver City, CA 90232",
+      "link": "http://www.makerstudios.com/"
+    },
+    "iNcYtv0UUSBrObiAR1NcRUXakgC7": {
+      "organization": "SapientNitro",
+      "logo": "/images/hosts/host-sapient-nitro.png",
+      "address": "3211 Olympic Blvd, Santa Monica, CA 90404",
+      "link": "http://SapientNitro.com/"
+    },
+    "2dzBt9siRYf7A1VNfdEm70wXTLE4": {
+      "organization": "UCLA",
+      "address": "",
+      "link": ""
+    },
+    "Tv9F28iYotq7fy1hDZXp9N6YzLGJ": {
+      "organization": "Fullscreen, Inc.",
+      "address": "12180 Millennium Dr, Los Angeles, CA 90094",
+      "link": "http://www.fullscreen.com/"
+    },
+    "HrKp3gHFNl9fCJPKQTkk5UUG2MDY": {
+      "organization": "Verizon",
+      "logo": "/images/hosts/host-verizon.png",
+      "address": "13031 W Jefferson Blvd. Building 900, Los Angeles, CA 90094",
+      "link": "https://verizon.com/"
+    },
+    "yb9tnk55RcZMQHcqxoZWN8qs50bK": {
+      "organization": "Codesmith",
+      "logo": "/images/hosts/host-codesmith.png",
+      "address": "5300 Beethoven St, Los Angeles, CA 90066",
+      "link": "https://codesmith.io/"
+    },
+    "WQd4UYJzUlrT2Ysvxxo32uEf7TLV": {
+      "organization": "The Culver Hotel",
+      "address": "9400 Culver Blvd, Culver City, CA 90232",
+      "link": "http://www.culverhotel.com/"
+    },
+    "O14dKG1GpG8SIpaX97tEfdY4kKlS": {
+      "organization": "Monarc Gaming Labs",
+      "logo": "/images/hosts/host-monarc.png",
+      "address": "1735 Stewart Street, Santa Monica, CA 90404",
+      "link": "http://www.monarcy.com/"
+    },
+    "r8s7YLBWIaBJLwxvin0M3hi72oMi": {
+      "organization": "Hack Reactor",
+      "logo": "/images/hosts/host-hackreactor.png",
+      "address": "6060 Center Drive Unit 950, Los Angeles, CA",
+      "link": "http://www.hackreactor.com/"
+    },
+    "8UdDDVT0XNss19Rlxkk9l6aF04cz": {
+      "organization": "Riot Games",
+      "logo": "/images/hosts/sponsor-riotgames.png",
+      "address": "12333 W Olympic Blvd, Los Angeles, CA 90064",
+      "link": "https://engineering.riotgames.com/"
+    },
+    "qmaYgR8oTzpqFXPMSuVRkYSrKmpC": {
+      "organization": "Philosophie",
+      "logo": "/images/hosts/sponsor-philosophie.png",
+      "address": "1615 16th St, Santa Monica, CA 90404",
+      "link": "http://philosophie.is/"
+    },
+    "O38pQHqDPXvjBsWR2IhCHwY7aNjf": {
+      "organization": "Dollar Shave Club",
+      "logo": "/images/hosts/sponsor-dollar-shave-club.png",
+      "address": "13335 Maxella Ave Marina Del Rey, CA 90292",
+      "link": "http://www.dollarshaveclub.com/"
+    },
+    "1XDTuB5pOK1IRgNgmpmCB4XtmtD5": {
+      "organization": "MarketShare",
+      "logo": "/images/hosts/sponsor-marketshare.svg",
+      "address": "11150 Santa Monica Blvd, Los Angeles, CA 90025",
+      "link": "http://www.marketshare.com/"
+    },
+    "Sultwm1ZoScgZ2Jjufq1FWWph25W": {
+      "organization": "MakerSquare",
+      "logo": "/images/hosts/host-makersquare.png",
+      "address": "604 Arizona Ave 238, Santa Monica, CA 90401",
+      "link": "http://www.makersquare.com/"
+    },
+    "fnpn58VnWklcdAw9ajmENDeOxiMV": {
+      "organization": "ArcLight Hollywood",
+      "address": "6360 Sunset Blvd, Los Angeles, CA 90028",
+      "link": "https://www.arclightcinemas.com/en/locations/los-angeles/hollywood/showtimes?origin=Hollywood"
+    },
+    "u4OIkz5DY47FoqSA3C1QiVxfCErv": {
+      "organization": "PatientPop",
+      "logo": "/images/hosts/host-patientpop.png",
+      "address": "214 Wilshire Blvd, Santa Monica, CA 90401",
+      "link": "https://www.patientpop.com/"
+    },
+    "WdoNAStCNJRocrklcrqICTOAzKmj": {
+      "organization": "TigerText",
+      "logo": "/images/hosts/host-tigertext.png",
+      "address": "2110 Broadway, Santa Monica, CA 90404",
+      "link": "https://www.tigertext.com/"
+    },
+    "ApzBM71Ft8menIiD68pYPmkWli2Q": {
+      "organization": "Edmunds",
+      "logo": "/images/hosts/host-edmunds.png",
+      "address": "2401 Colorado Ave, Santa Monica, CA 90404",
+      "link": "https://www.edmunds.com/"
+    },
+    "9zkAFm0LIuGTDoM2aaEcFTzzX0oS": {
+      "organization": "SapientRazorfish",
+      "logo": "/images/hosts/host-sapient-nitro-scaled.png",
+      "address": "3211 Olympic Blvd, Santa Monica, CA 90404",
+      "link": "http://www.sapientrazorfish.com/"
+    },
+    "YeyMWfQiFLocex689mbdlvDpOaDq": {
+      "organization": "Headspace",
+      "logo": "/images/hosts/host-headspace.png",
+      "address": "2415 Michigan Ave, Santa Monica, CA",
+      "link": "https://www.headspace.com/join-us"
+    },
+    "EcqTv0eyDHDCbndIDRRIdmNp9UOE": {
+      "organization": "Honey",
+      "logo": "/images/hosts/host-honey.png",
+      "address": "990 W 8th St, 600, Los Angeles, CA 90017",
+      "link": "https://www.joinhoney.com/careers"
+    },
+    "zPWUj1kknLe3CALCHwY92YaX3rrU": {
+      "organization": "GoGuardian",
+      "logo": "/images/hosts/goguardian.png",
+      "address": "200 N Sepulveda Blvd 200, El Segundo, CA 90245",
+      "link": "https://www.goguardian.com/careers.html"
+    },
+    "hz3NB6jNDgQ2VqxWQjQl6kT89omx": {
+      "organization": "Earny, Inc.",
+      "logo": "http://imagizer.imageshack.us/a/img924/7328/Nni1O3.png",
+      "address": "1728 Olympic Blvd, Santa Monica 90404",
+      "link": "https://www.earny.co/jobs"
+    },
+    "RZFEXOHHF4vIGX6YBRUAfPCVldUh": {
+      "organization": "VideoAmp",
+      "logo": "https://i.imgur.com/CQOJNrh_d.jpg?maxwidth=640&shape=thumb&fidelity=medium",
+      "address": "2229 S Carmelina Ave, Los Angeles, CA 90064",
+      "link": "https://videoamp.engineering"
+    },
+    "wN1KTCAd3yyLxM1zIkBgpe8QKQdT": {
+      "organization": "Edmunds.com",
+      "logo": "https://js.la/images/hosts/host-edmunds.png",
+      "address": "2401 Colorado Ave, Santa Monica, CA 90404",
+      "link": "https://www.edmunds.com/careers/"
+    },
+    "9RHX0uLAPuiCOp7aLEH7x8kdQHhl": {
+      "organization": "Smarkets",
+      "logo": "https://raw.githubusercontent.com/jsla/js.la/master/public/images/hosts/sponsor-smarkets.png",
+      "address": "527 W. 7th St. Suite 601, Los Angeles, CA 90014",
+      "link": "http://smarkets.us/"
+    },
+    "p4cFtbH3Q0bnMXZ75phqmGGsmvAk": {
+      "organization": "Open Listings",
+      "logo": "https://i.imgur.com/2qqxCja.png",
+      "address": "1864 North Vermont Ave, Los Angeles, CA 90027",
+      "link": "https://www.openlistings.com"
+    },
+    "xkby5HJViJntHaEED7eN0WFv9KbV": {
+      "organization": "Google",
+      "logo": "/images/hosts/host-google-upcoming-events-banner.png",
+      "address": "340 Main St, Venice, CA 90291",
+      "link": "https://www.google.com/about/locations/los-angeles/"
+    }
+  },
+  "speakers": {
+    "eWgBU7uf7y6y0KUU9WGISxfIGwhu": {
+      "title": "Sandboxing Untrusted Code in Node.js",
+      "name": "Joe Rozner",
+      "image": "/images/speakers/jrozner.jpg",
+      "twitter": "jrozner",
+      "github": "jrozner",
+      "description": "Running untrusted code is always a difficult problem to deal with. This talk will explore some of the potential problems with result from doing this including: resource starvation, data security, remote code execution, and unintended network access. It will then explore some of the design decisions of Node.JS and show how these can be used to help control provide methods to sandbox code to prevent these types of attacks, ending with an explanation of some of the limitations of this technique and possible other solutions.",
+      "video": "",
+      "videoimg": "/images/videos/"
+    },
+    "HUpRCF9Fqnd8QGrnzFz2IAEA5YWo": {
+      "title": "meteor.js",
+      "name": "Philippe Lewicki",
+      "image": "/images/speakers/philfree.jpg",
+      "twitter": "philfree",
+      "github": "philfree",
+      "description": "Meteor is a pure javascript open source platform based on node.js, mongodb, mustache style template with optional  packages like backbone, underscore, bootstrap, coffee script, less, stylus, d3, query... I will present the key concept like live page update, synchronization, hot code push then demo some application and explain how some of the key concept are implemented.",
+      "video": "http://vimeo.com/57173526",
+      "videoimg": "/images/videos/video_thumbnail.png"
+    },
+    "enTvT7XHdWOZAQROtaBSBNY1Zjqm": {
+      "title": "Top 10 Secret Weapons For Front-End Development",
+      "name": "Geoffrey Plitt",
+      "image": "/images/speakers/GeoffreyPlitt.jpg",
+      "twitter": "GeoffreyPlitt",
+      "github": "GeoffreyPlitt",
+      "description": "Geoffrey Plitt, active standup comedian, former Google engineer, and CTO of comedy discovery engine Laffster.com discusses tips, tricks, and pitfalls his teams have learned while using technologies such as KnockoutJS, HeadJS, CoffeeScript, Slim, SASS, Middleman, various jQuery plugins, and Amazon Web Services. Plus he's funny",
+      "video": "http://vimeo.com/52991466",
+      "videoimg": "/images/videos/video_thumbnail.png"
+    },
+    "LtwrzUfPd2rL4FSl3LoWgcEpjuPD": {
+      "title": "Wheatley",
+      "name": "Giles Bowkett",
+      "image": "/images/speakers/gilesgoatboy.jpg",
+      "twitter": "gilesgoatboy",
+      "github": "gilesbowkett",
+      "description": "Wheatley was designed to refactor JavaScript semi-automatically. The project's unfinished, because writing code which will refactor your JavaScript for you automatically is just insanely overambitious, but the few refactorings it can do are very cool. Wheatley can also recognize identical code and nearly-identical code. Legacy code is annoying. Imagine how cool it would be if robots would fix your legacy code for you!",
+      "video": "http://vimeo.com/52996554",
+      "videoimg": "/images/videos/video_thumbnail.png"
+    },
+    "hDYFYfQuQQStDu4EQBQv6IZnay3u": {
+      "title": "Sentiment Analysis in a Post Grammatical World",
+      "name": "Danny Tran, Disney",
+      "image": "/images/speakers/digidanny.jpg",
+      "twitter": "digi_danny",
+      "github": "digidanny",
+      "description": "How do we determine the sentiment of text in a world where syntax and grammer are thrown out of the window? Utilizing Node and Natural, a NLP (Natural Language Processing) toolkit, we'll go through a few techniques ranging from manual polarity determination to machine learning classification, all the while highlighting the challenges of analyzing text in a \"post-grammatical\" world.",
+      "video": "http://vimeo.com/50767532",
+      "videoimg": "/images/videos/video_thumbnail.png"
+    },
+    "Csv5V6VvcbUSktd4dzqYo4hCX9UU": {
+      "title": "Jukebox.js - Experiment with Modern Web Technology",
+      "name": "Jeff Pelton",
+      "image": "/images/speakers/comster.jpg",
+      "twitter": "comster",
+      "github": "",
+      "description": "Today in the browser you can decode audio, parse metadata and album art, using Audio API & File API's, preview files on your computer using FileReader and upload them using XHR2 with HTML progress bars for the best user experience, build visualizations using a drawing library like D3.js and more. Jukebox.js is an open source experiment showing what you can do with some of the latest web technologies like file access, audio playback, chat, and real time collaboration. The web app is built with tools including backbone.js, socket.io, aurora.js, dancer.js, and more.  The server is built on house.js, a node.js open source platform as a service to provide RESTful interfaces to authentication, file systems, data and media. We'll take a quick look at the broad strategy for modern web app development, then we'll dive into as many of these great HTML features and open source javascript libraries as we can!",
+      "video": "http://vimeo.com/49498364",
+      "videoimg": "/images/videos/video_thumbnail.png"
+    },
+    "rfBoAuuoIriJ49oxXt2KMCzB4N1w": {
+      "title": "Sophisticated Views: How Ember's View Layer Handles the Complex Problems",
+      "name": "Peter Wagenet",
+      "image": "/images/speakers/wagenet.png",
+      "twitter": "wagenet",
+      "description": "Simplicity is good, but what happens when your problems aren't simple? In this talk, I'll discuss some of the complexities of handling events and DOM rendering that are overlooked in many Javascript frameworks. We'll then see how Ember provides sophisticated solutions to these issues so that you don't have to.",
+      "video": "http://vimeo.com/49434697",
+      "videoimg": "/images/videos/video_thumbnail.png"
+    },
+    "JrjfxA2B8HOTPUDocLgz4ky6Tf9v": {
+      "title": "JS To Rule Them All",
+      "name": "Michael Anthony",
+      "image": "/images/speakers/activetheory.jpg",
+      "twitter": "_activetheory",
+      "description": "One of the more cringe-inducing terms for any JS developer is \"web page\". We've now reached the point where any meaningful experience needs to be an application. It also needs to be thoughtfully crafted to work on phones and tablets all the while having the level of animation and polish users have come to expect from the technology they use regardless of platform. Static pages with responsive layouts aren't going to cut it in this new universe, so we'll look at using only JavaScript to structure applications, create and style markup, and also be platform aware in order to present users with an interactive experience suited for each device. This talk will be a general theory overview accompanied by plenty of examples and very brief code demonstrations. It will cover interesting points along the way such as best practices for smooth UI and animation, content management, SEO, and even how to use these exact techniques to create native mobile applications.",
+      "video": "http://vimeo.com/47512367",
+      "videoimg": "/images/videos/video_thumbnail.png"
+    },
+    "sgAHgVA1fzTG09Zkml9QEMJMSZ6r": {
+      "title": "Backbone.js: The framework that isn't",
+      "name": "Daniel Hengeveld",
+      "image": "/images/speakers/thedaniel.png",
+      "twitter": "thedaniel",
+      "description": "Backbone.js is often discussed alongside the many other popular client-side frameworks like Ember, Knockout, et cetera. This talk will discuss how Backbone.js is less like those opinionated frameworks and more like a set of glue libraries to build your own framework, and will also cover some useful patterns you can use in your own Backbone application.",
+      "video": "http://vimeo.com/47513334",
+      "videoimg": "/images/videos/video_thumbnail.png"
+    },
+    "p2jvff2Wus8kV9mFIfKuVCPmDl42": {
+      "title": "Going Native: Practical scripting with the JavaScript Image Object",
+      "name": "Aaron Martin",
+      "image": "/images/speakers/aaron-martin.png",
+      "twitter": "citygridmedia",
+      "description": "JQuery, Dojo, Mootools, Ext, Prototype, Script.aculo.us, Backbone, Modernizer….[sigh]…it’s hard to keep up. Remember when there was just something called JavaScript? I do. Don’t get me wrong I love all the aforementioned libraries like a father loves his children, but when it is time to get practical and create performance solutions those babies got to go. I’m going to introduce you to an old friend of mine, the JavaScript native image object. This ol’boy is perhaps one of the most powerful objects in JavaScript and he’s uber simple to get to know. I’m going to show you some of his tricks and try to convince you that he belongs in your JavaScript solutions tool belt!",
+      "video": "http://vimeo.com/47514251",
+      "videoimg": "/images/videos/video_thumbnail.png"
+    },
+    "X4GVXKrwwYHipiIBzDZZImpaaq8w": {
+      "title": "AngularJS",
+      "name": "Igor Minar",
+      "image": "/images/speakers/igorminar.png",
+      "twitter": "IgorMinar",
+      "description": "What if you could write modern web apps with dramatically fewer lines of code and improve its readability and expressiveness at the same time? No, there’s no new language to learn. Just familiar old HTML and JavaScript. As a matter of fact, there’s some stuff for you to un-learn. AngularJS is a client-side JavaScript web development framework where we believe we’ve done something special. We’ve approached the problem let’s say differently from the way any other JavaScript tool has before. Instead of asking what kind of functions we could provide to make writing apps smoother, we asked \"what if the browser worked differently in a way that eliminates code and gives structure to apps?\" This talk will take the audience on a tour of what the web platform of the future will look like and how the AngularJS framework can provide many of the powerful capabilities to existing browsers and bridge the path to web components, model driven views and other platform features that are currently being spec-ed.",
+      "video": "http://vimeo.com/45624403",
+      "videoimg": "/images/videos/video_thumbnail.png"
+    },
+    "ZnYSsnTK9qeGlrtrSZdEdF1qf8Wk": {
+      "title": "Design to Deploy - Mobile Development with Titanium",
+      "name": "Christian Sullivan",
+      "image": "/images/speakers/euforic.jpg",
+      "twitter": "euforic",
+      "description": "This talk is about the entire process of creating a mobile application with Titanium. From the early design stage all the way through to the testing and deployment of the app and how to overcome some of the caveats that come with using Titanium.",
+      "video": "http://vimeo.com/45558673",
+      "videoimg": "/images/videos/video_thumbnail.png"
+    },
+    "APUQvHXOTpcF5FgIX9fLe6dvS1xr": {
+      "title": "Realtime Visualizations w/ D3 and Backbone",
+      "name": "Andrew Cholakian",
+      "image": "/images/speakers/andrewvc.jpg",
+      "twitter": "andrewvc",
+      "description": "D3 is perhaps the most powerful tool available for displaying realtime data on the web. By defining its own level of abstraction, being closer to the DOM than charting tools (e.g. highcharts), and being higher level than drawing primitives (e.g. Raphael), you can create amazing data driven visualizations. This talk will cover the basics of D3, and best practices for integrating D3 visualizations with Backbone.js and realtime websocket data.",
+      "video": "http://vimeo.com/45558674",
+      "videoimg": "/images/videos/video_thumbnail.png"
+    },
+    "0qZQthkKiGC3RB99klxZi3Q0ke8v": {
+      "title": "Faster JavaScript Through Category Theory",
+      "name": "John Bender",
+      "image": "/images/speakers/johnbender.jpg",
+      "twitter": "johnbender",
+      "description": "Math, it's certainly not something you expect to see in a presentation about JavaScript, but even this far from its ivory towers it has an important role to play. Together we'll build two categories and see how, by satisfying the category and functor laws, we can optimize our jQuery plugins and methods. Don't worry, you don't need a background in Math just some curiosity and a desire to speed up your jQuery!",
+      "video": "http://vimeo.com/44085271",
+      "videoimg": "/images/videos/video_thumbnail.png"
+    },
+    "1y2ruonQfYBVY01opHlfLOVouXYD": {
+      "title": "J3D: Adventures with WebGL",
+      "name": "Bartek Drozdz",
+      "image": "/images/speakers/bartekd.jpg",
+      "twitter": "bartekd",
+      "description": "I usually find technologies that interest me, experiment with them, publish demos I do and eventually use them in a commercial project. With WebGL it was different - my first contact with this technology was through a client project. I had to learn WebGL on the go. It took me a few months to actually start apperciating it, but once the project was over and I thought I know everything about it, I decided to write my own engine that I baptized simply J3D. After a good start, I realized I didn't know that much about WebGL after all... Since then I spent many day & nights (mostly nights) learning and creating what I believe is a good tool for other developers to start creating 3D applications in the browser. In my presentation I talk about specific challenges when working WebGL projects and how J3D addresses them. I will also take you on a short walk-through of it's features and present some demos.",
+      "video": "http://vimeo.com/44073881",
+      "videoimg": "/images/videos/video_thumbnail.png"
+    },
+    "eS0olFngmareDYNKcz9u47Al2CY5": {
+      "title": "Introducing Mojito",
+      "name": "Gamaiel Zavala, Yahoo!",
+      "image": "/images/speakers/yahoo.png",
+      "description": "Mojito is a sweet (and minty!) MVC application framework built on YUI 3 that enables agile development of Web applications. Gamaiel Zavala will be presenting an introduction to Mojito including set up, routing, controllers, models, addons, binders, and configuration. Gamaiel has been building Media sites at Yahoo! for 6 years and is currently working on Media's migration to Mojito."
+    },
+    "3wG0o0vWTmyfnSwt6hudRpxGoScR": {
+      "title": "Seeing Sound with HTML5",
+      "name": "David Guttman",
+      "image": "/images/speakers/davidguttman.png",
+      "twitter": "davidguttman",
+      "description": "Embrace JavaScript-induced synesthesia. Thanks to recent advances in web audio API technology, you can now see sound---in your browser. Thus, the time for in-browser music visualization is now! It's easier than ever before with EasyEars.js and David will show you how."
+    },
+    "LX7Z1uGvayUVF1vAomBlF88VTQYc": {
+      "title": "Achieving Native Mobile App Performance using JavaScript",
+      "name": "Michael Anthonya",
+      "image": "/images/speakers/flashtml5.jpg",
+      "twitter": "flashtml5",
+      "description": "JS for mobile development and getting the best performance out of CSS3 tweens."
+    },
+    "GqSj6CqYxHMKQVQHFD5dPxqN0SuO": {
+      "title": "Breaking up big node.js apps into lots of tiny services",
+      "name": "James Haliday",
+      "image": "/images/speakers/substack.jpg",
+      "twitter": "substack",
+      "description": "Splitting up your architecture into tiny processes that talk to each other over the network is useful for many of the same reasons that unix utilities are useful: they can focus on doing one thing well and it's trivial to glue a bunch of tiny processes together to serve some more complicated end goal. It can be difficult to write and deploy applications this way, but I've written some libraries such as dnode, upnode, seaport, and fleet to make this much easier to manage. In this talk I'll show how you can glue tiny processes together and split bigger ones up with these tools."
+    },
+    "aZJhkB31aHQbx7MouRB8At3BhBV0": {
+      "title": "An Introduction to WebGL and three.js",
+      "name": "Travis Glines",
+      "image": "/images/speakers/travisglines.jpeg",
+      "twitter": "travisglines",
+      "description": "I had recently been working a lot with WebGL and three.js and will give a simple primer on what WebGL is, using three.js and how to make something neat."
+    },
+    "FNsdzeFn0noDvlLnezdsr5DhREa5": {
+      "title": "Creating Thumbnails from Movies Using JS and HTML5",
+      "name": "James Baca",
+      "image": "/images/speakers/desertjim.jpg",
+      "twitter": "desertjim",
+      "description": "No description given."
+    },
+    "fit1TfCfx6KpfVrJMeX8IQHX2r2E": {
+      "title": "Streamlining Client Side JS Development",
+      "name": "David Valdman",
+      "image": "/images/speakers/dmvaldman.jpg",
+      "twitter": "dmvaldman",
+      "description": "No description given."
+    },
+    "29f7LDHP3o0OwXASqYvtGeKFjXVH": {
+      "title": "leveldb And Node.js: Choose Your Own Adventure",
+      "name": "Ryan Day",
+      "image": "/images/speakers/soldair.jpg",
+      "twitter": "soldair",
+      "github": "soldair",
+      "description": "The \"Nodebases\" have arrived. <code>`tables flip. chairs fall`</code> Wait.. Rather than running for the hills with screams of \"making databases can't be for me\" let's gear up with some node modules and talk about how we can solve data woes. You can use the level module for great success, but you will find that Leveldb and node together have all of the primitives required to create any database. it's fast and fun. lets have an adventure!",
+      "video": "http://vimeo.com/88445020",
+      "videoimg": "/images/videos/video_thumbnail.png"
+    },
+    "yMWgvIm9WoPbRCbif7f1hKi4YoTd": {
+      "title": "Practical Philosophy: Abstracting Away your Pain with JavaScript",
+      "name": "Mark Nadal",
+      "image": "/images/speakers/amark.jpg",
+      "twitter": "amark",
+      "github": "amark",
+      "description": "An exploration from the fundamentals of computer science all the way up to implementing real time apps in just 8 lines of code. For most people, the latter would reek of assumption dependent frameworks, but we'll discover how to apply some primitive philosophies to escape from that pain and keep full control instead. Yes, you can have your cake and eat it too, with elegant and maintainable code - you'll laugh, you'll cry, we'll kill Socrates, and we'll cook a Kraken. Just don't bring popcorn, or it might burst the kernel into panic.",
+      "video": "http://vimeo.com/85853754",
+      "videoimg": "/images/videos/video_thumbnail.png"
+    },
+    "nr0Gm3MrDA14s86XwigqPp2X0GHE": {
+      "title": "Full Streams Ahead",
+      "name": "David Guttman, js.la/SPEC.LA Organizer",
+      "image": "/images/speakers/davidguttman.png",
+      "twitter": "davidguttman",
+      "github": "davidguttman",
+      "description": "Holy crap streams are awesome. Without a doubt, they are one of the coolest things to happen to JS. Data visualization and processing will never be the same. If you've never coded with streams before, or are interested in taking your game to the next level, you don't want to miss this talk.",
+      "video": "http://vimeo.com/75838237",
+      "videoimg": "/images/videos/video_thumbnail.png"
+    },
+    "koM0QY5DtjdLlsI0KgY0OcWQLpCJ": {
+      "title": "Caffeinated Rhythms: Playing Drums With CoffeeScript",
+      "name": "Giles Bowkett",
+      "image": "/images/speakers/gilesgoatboy.jpg",
+      "twitter": "gilesgoatboy",
+      "github": "gilesbowkett",
+      "description": "If you’ve ever wanted to make music with your computer, it’s easy to do. Any developer working on OS X can write CoffeeScript code which plays drum rhythms. (Solutions exist for other platforms but won’t be within the scope of this talk.) Find out how, with a simple overview of the ubiquitous music protocol MIDI, and the node-midi library which makes it easy.",
+      "video": "http://vimeo.com/76032817",
+      "videoimg": "/images/videos/video_thumbnail.png"
+    },
+    "796EZGF6pHOhh3KBVoTfR9SqMNsW": {
+      "title": "Making a Simple Game in JavaScript Step-By-Step",
+      "name": "Mims H. Wright, Principal Web Developer at Huge",
+      "image": "/images/speakers/mimshwright.jpg",
+      "twitter": "mimshwright",
+      "github": "mimshwright",
+      "description": "All games in any language start with the same basic structure. A timer updates various elements and renders them on the screen. This talk walks through the basics of making a simple game in JavaScript. We start with a game loop and progresses adding a new feature at each step along the way. The end result has graphics, physics, sprite animation, collision detection, text and sound.",
+      "video": "http://vimeo.com/74008847",
+      "videoimg": "/images/videos/video_thumbnail.png"
+    },
+    "cwKSbu859stg63PevEzNgFZlnCCy": {
+      "title": "You Got Your Audio in my Browser: An Introduction to the Web Audio API",
+      "name": "Joe Rozner",
+      "image": "/images/speakers/jrozner.jpg",
+      "twitter": "jrozner",
+      "github": "jrozner",
+      "description": "If you ever thought it might be a good idea to build rich audio applications in the browser and cringe at the thought of using flash to do so, you're in luck.  The Web Audio API has landed in current versions of Chrome and Firefox and is ready for hacking on.  This presentation will provide an introduction to the current draft spec showing the basics of how to use the API and show examples of what it possible by leveraging it as well as some of the additional HTML 5 APIs.",
+      "video": "http://vimeo.com/73505785",
+      "videoimg": "/images/videos/video_thumbnail.png"
+    },
+    "c5vPPSoWjwKU805e4zOnyrY3Sr0O": {
+      "title": "Discovering Music Through Geo Location",
+      "name": "Chris Mendez",
+      "image": "/images/speakers/chrisaiv.jpg",
+      "twitter": "chrisaiv",
+      "github": "chrisaiv",
+      "description": "In 2012, the USC Radio online team set out to create a new type of music discovery app centered around geo location. After months of imagining, planning, developing and iterating, the team finally released Geotunes, an HTML5-based app that provides users with a new way to learn about the relationships between songs and their geographical surroundings. The presentation will take a birds-eye view of the product lifecycle and share what it took to become one of the first 100 apps on the Spotify app ecosystem.",
+      "video": "http://vimeo.com/71287546",
+      "videoimg": "/images/videos/video_thumbnail.png"
+    },
+    "FsdH45sKJ0zixQo26CP6TDdetUic": {
+      "title": "Beyond JSON: On HTML5 data-types and handling bytes in the DOM well",
+      "name": "Sam L'ecuyer",
+      "image": "/images/speakers/qxb.jpg",
+      "twitter": "_qxb",
+      "github": "samlecuyer",
+      "description": "In this talk, Sam L'ecuyer will discuss the issues of handling binary data in the browser via JavaScript, the new ways of dealing with files, and the history that led up to it.  His presentation will not only cover the APIs that allow more native-like applications, but also a demo of a font engine in pure javascript.",
+      "video": "http://vimeo.com/71308717",
+      "videoimg": "/images/videos/video_thumbnail.png"
+    },
+    "sFj5D9z08pxB5y9vUrlWGtrTo8NP": {
+      "title": "Behind Paper.js: On the nuts and bolts of designing and building a vector graphics library in JavaScript",
+      "name": "Jürg Lehni",
+      "image": "/images/speakers/juerglehni.png",
+      "twitter": "juerglehni",
+      "github": "lehni",
+      "description": "As one of the creators of Paper.js, Jürg Lehni will shed light on the history and functionality of the library. His presentation will also focus on various meta-programming tricks, such as the implementation of operator overloading in JavaScript to make vector math a first class citizen, a row of other syntactic goodies that lead to more readable code, almost automatic (de)serialization of data structures, and an internal micro framework used for simple class inheritance with support for accessors and dynamic overloading.",
+      "video": "http://vimeo.com/67631584",
+      "videoimg": "/images/videos/video_thumbnail.png"
+    },
+    "iqlokqouMaJjdaFao3h2bBcL1NhR": {
+      "title": "Behind the Weird Faces: Presets as a technique for rich procedural content creation",
+      "name": "Matthias Dörfelt",
+      "image": "/images/speakers/mokafolio.png",
+      "twitter": "mokafolio",
+      "github": "",
+      "description": "In his presentation Matthias will talk about his art project \"Weird Faces\" which generates an infinite number of unique faces that look very similar to his hand drawn faces. Weird Faces has been programmed in Java Script using PaperJS. In his talk he will use the project to show off the power of using presets as a technique for rich and diverse procedural and generative content creation.",
+      "video": "http://vimeo.com/67807562",
+      "videoimg": "/images/videos/video_thumbnail.png"
+    },
+    "NtjRBbXVwZqj2FesIAEkywfb78Bi": {
+      "title": "The History of Women in Computing",
+      "name": "Jessica Suttles",
+      "image": "/images/speakers/jlsuttles.jpg",
+      "twitter": "jlsuttles",
+      "github": "jlsuttles",
+      "description": "Computer programming was once seen as \"women's work.\" Ada Lovelace, Grace Hopper, Adele Goldberg, and others played pivotal roles in paving the way for today's computing professions. So why then do we see so few women in our community? I'll cover the history of women in computing, possible causes of the gender imbalance, and ideas for how our community can shape a future that includes more women.",
+      "video": "http://vimeo.com/65018643",
+      "videoimg": "/images/videos/video_thumbnail.png"
+    },
+    "nsd9Ebi7WtYTkPZdc2bMTnOtdoA2": {
+      "title": "Modular Widgets with AMD",
+      "name": "Guy Bedford",
+      "image": "/images/speakers/guybedford.jpg",
+      "twitter": "guybedford",
+      "github": "guybedford",
+      "description": "Guy is the author of RequireCSS and ZestJS, which provides a way of writing widgets as AMD modules managing the templates, CSS and dynamic scripts as a single dependency for rendering both on the client and server. He will go over some of the benefits of using AMD modules with RequireJS, including how it's not really that different from CommonJS. See how features such as plugins and dynamic loading work naturally in the browser and how these allow for the ZestJS widget approach.",
+      "video": "http://vimeo.com/65042246",
+      "videoimg": "/images/videos/video_thumbnail.png"
+    },
+    "ORlmkJBaeXPjD4TEieHgCFCgya1R": {
+      "title": "JavaScript Made Simple: JavaScript Object Orientation",
+      "name": "Joe Johnson",
+      "image": "/images/speakers/say2joe.jpg",
+      "twitter": "say2joe",
+      "github": "say2joe",
+      "description": "For this month's installment of JavaScript Made Simple, we talk about the Object (JavaScript's \"atom\"). In Object Orientation, we'll introduce you to the basics of several forms of JavaScript Object creation as well as recognizing and implementing prototypal inheritance.",
+      "video": "http://vimeo.com/65035082",
+      "videoimg": "/images/videos/video_thumbnail.png"
+    },
+    "KJoQPRcUajIghVrLOjuwEYlgJAfi": {
+      "title": "Browserify V2 and You (nix)",
+      "name": "James Halliday",
+      "image": "/images/speakers/substack.png",
+      "twitter": "substack",
+      "github": "substack",
+      "description": "Browserify lets you use node-style require() calls to load files and npm modules in the browser (it's awesome). The recent browserify v2 rewrite embraces streaming APIs, lots of tiny modules all doing exactly one thing well, and timeless unix wisdom. Now you can bundle static assets with source transforms, generate compact bundles with standalone streaming pipeline tools, trivially test your modules in node and against every browser ever and other superpowers all with a new very tiny bundle filesize overhead that supports multiple bundles. Finally the sublime wisdom of node and unix can be realized all the way up the stack in browsers too.",
+      "video": "http://vimeo.com/62988591",
+      "videoimg": "/images/videos/video_thumbnail.png"
+    },
+    "XNHmayWHcmMjxF5ulPxKqxDcEtXg": {
+      "title": "Java Script Made Simple: Hip Hop Array",
+      "name": "Jonny Kang",
+      "image": "/images/speakers/coderjonny.jpg",
+      "twitter": "coderjonny",
+      "github": "coderjonny",
+      "description": "Short talk on arrays in javascript. For our series, Javascript Made Simple.",
+      "video": "http://vimeo.com/62966473",
+      "videoimg": "/images/videos/video_thumbnail.png"
+    },
+    "jrB7BQuKA5LCFgRksGOKBi7GSDDZ": {
+      "title": "Node's Harder Side",
+      "name": "Eric Gradman",
+      "image": "/images/speakers/egradman.jpg",
+      "twitter": "egradman",
+      "github": "",
+      "description": "Eric Gradman is an inventor and entertainer who makes others see technology as magic. He has a colorful history as a circus performer, professional whistler, roboticist, and inventor. In this talk, Eric will discuss the challenges and rewards of interfacing with interesting hardware using Node. If you've never wondered why you'd debounce an unreliable button using Underscore, come check this talk out",
+      "video": "http://vimeo.com/60993092",
+      "videoimg": "/images/videos/video_thumbnail.png"
+    },
+    "uPyiV5r3mSiGGmsQcBqgL4kAm8Wi": {
+      "title": "Creative JavaScript in Advertising",
+      "name": "Michael Anthony and Andy Thelander",
+      "image": "/images/speakers/activetheory.jpg",
+      "twitter": "_activetheroy",
+      "github": "",
+      "description": "Michael Anthony and Andy Thelander of Active Theory will look back on their first 6 months as a digital agency and share select projects like \"http://cloudsovercuba.com\" and \"http://www.mylifein20years.com\" whilst discussing development techniques of client and server-side JavaScript.",
+      "video": "http://vimeo.com/61252376",
+      "videoimg": "/images/videos/video_thumbnail.png"
+    },
+    "pSWcdgYtxpftmCBigSXZgrr9Fl1V": {
+      "title": "JavaScript Made Simple",
+      "name": "Ron Evans",
+      "image": "/images/speakers/deadprogram.jpg",
+      "twitter": "deadprogram",
+      "github": "deadprogram",
+      "description": " If you have never seen Ron present before you are in for a treat. This is the first in a series of very short talks (5-7 mins) which will help introduce some of the basics of JS, as well as point out some interesting aspects that perhaps even \"experts\" might not know.",
+      "video": "http://vimeo.com/60970694",
+      "videoimg": "/images/videos/video_thumbnail.png"
+    },
+    "qoyNip4yFOo6d5tPRKX3aSj3T48k": {
+      "title": "Node.js & Me",
+      "name": "Mike Brevoort",
+      "image": "/images/speakers/mbrevoort.jpg",
+      "twitter": "mbrevoort",
+      "github": "mbrevoort",
+      "description": "Mike has been leading the Node.js efforts at Pearson, a global education and publishing company. He has been responsible for advocating the needs of large organizations in the node community and has unique experience integrating a diverse tech stack into a modern one that developers want to work with. Mike will share his experiences with node.js, where it's a good fit and where it is not. He will discuss some specific examples of how he's used node and dive into some code.",
+      "video": "http://vimeo.com/59748495",
+      "videoimg": "/images/videos/video_thumbnail.png"
+    },
+    "kC9dpFV2uCyxbO3e6TmoNmLM90XL": {
+      "title": "Math Envy and CoffeeScript's Foibles",
+      "name": "John Bender",
+      "image": "/images/speakers/johnbender.jpg",
+      "twitter": "johnbender",
+      "github": "johnbender",
+      "description": "John Bender is the co-creator of Vagrant, a jQuery Mobile contributor, and a recovering polygot. During the day he works full-time on jQuery Mobile at Adobe and otherwise spends his time hacking on open source. CoffeeScript is an extremely popular JavaScript replacement, but its flexible syntax has been the source of some confusion. This talk covers one troublesome interaction between CoffeeScript terms and how mathematics could prevent similar issues in the future. You don't need a background in math to enjoy the talk, just an interest in language design and how math can help solve tough problems.",
+      "video": "http://vimeo.com/58872586",
+      "videoimg": "/images/videos/video_thumbnail.png"
+    },
+    "NOkbdRVGtMzKxW9fcaor2fPXoIXd": {
+      "title": "Ampersand.js: The Non-Frameworky Framework",
+      "name": "Luke Karrys",
+      "image": "/images/speakers/luke-karrys.jpeg",
+      "twitter": "lukekarrys",
+      "github": "lukekarrys",
+      "description": "Ampersand.js is a highly modular, loosely coupled, non-frameworky framework.  Composed of tiny modules, Ampersand is able to leverage the power of npm and Browserify to build advanced applications, while maximizing simplicity in the increasingly complex world of front-end application development. Learn some conventions and how to harness the flexibility of Ampersand to solve real problems presented by today's web apps.",
+      "video": "http://vimeo.com/111015781",
+      "videoimg": "/images/videos/2014-10_JSLA_title_speaker2_small.png"
+    },
+    "yZRCXO2sNX7lwn8c9Vb4t4il74Py": {
+      "title": "A future called Web Components",
+      "name": "Zeno Rocha",
+      "image": "/images/speakers/zeno-rocha.jpeg",
+      "twitter": "zenorocha",
+      "github": "zenorocha",
+      "description": "Discover how this new concept formed by five new specifications (Templates, Decorators, Shadow DOM, Custom Elements, HTML Imports) will revolutionize the way we develop for the web.",
+      "video": "http://vimeo.com/111191562",
+      "videoimg": "/images/videos/2014-10_JSLA_title_speaker3_small.png"
+    },
+    "AWXb7WE6gD4cliUKUiRERCnl0hat": {
+      "title": "Module of the Month: Dotenv",
+      "name": "Scott Motte",
+      "image": "/images/speakers/scottmotte.jpg",
+      "twitter": "motdotla",
+      "github": "motdotla",
+      "description": "Module of the month is a segment that highlights one of the many npm modules that make Nodejs so great. This months module is Dotenv",
+      "video": "http://vimeo.com/111006325",
+      "videoimg": "/images/videos/2014-10_JSLA_title_speaker1_small.png",
+      "motm": true
+    },
+    "RxfcJEYAvpXfVlT9JCbWAjUTq3pG": {
+      "title": "",
+      "name": "TJ Fontaine",
+      "image": "/images/speakers/tj-fontaine.jpeg",
+      "twitter": "tjfontaine",
+      "github": "tjfontaine",
+      "description": "Node.js Project Lead, Joyent",
+      "video": "",
+      "videoimg": "/images/videos/"
+    },
+    "fjsxLsBg8m1xWRjGRCRBX8oh7O4F": {
+      "title": "",
+      "name": "Oren Golan",
+      "image": "/images/speakers/oren.jpg",
+      "twitter": "oreng",
+      "github": "oren",
+      "description": "Senior Software Engineer, Yellow Pages",
+      "video": "",
+      "videoimg": "/images/videos/"
+    },
+    "93BP2bZrTeve87idxQ7KOgqASZDs": {
+      "title": "",
+      "name": "Michael Matuzak",
+      "image": "/images/speakers/matuzak.png",
+      "twitter": "mmatuzak",
+      "github": "emkay",
+      "description": "Senior Software Engineer, Yahoo",
+      "video": "",
+      "videoimg": "/images/videos/"
+    },
+    "lLSeeylWwB1pNRyKRKq6LixKWS5h": {
+      "title": "Node.js in Production",
+      "name": "Jeff Dickey",
+      "image": "/images/speakers/jeff-dickey.jpg",
+      "twitter": "dickeyxxx",
+      "github": "dickeyxxx",
+      "description": "Running Node.js in a production settings requires you to ensure stability, performance, security and maintainability—particularly challenging while the best practices in JavaScript change rapidly. Learn the pros and cons between various tools and providers whether it is deciding on a cloud provider, build system, load balancer and more. Learn about common mistakes made when moving from a development environment to production and ways to harden your system once it comes online.",
+      "video": "http://vimeo.com/105379431",
+      "videoimg": "/images/videos/2014-08_JSLA_title_speaker3_small.png"
+    },
+    "NIiz4Cq4hpumrrZlN7G7Z63lMHku": {
+      "title": "Test-driven Development of Web Apps in Node.js",
+      "name": "Tommy Stanton",
+      "image": "/images/speakers/tommy-stanton.jpg",
+      "twitter": "tommystanton",
+      "github": "tommystanton",
+      "description": "Node.js is a natural choice for anything HTTP, so it has quickly become popular for writing web applications. As a complement, the language offers viable means of conducting test-driven development (TDD). Some of the technologies covered in this talk will be: Express, SuperAgent, Mocha, and Chai. Tommy will explain TDD basics from a Node perspective, transitioning into real examples of clever ways to prove that a web app works as advertised. The result is a surge in programmer confidence and a foundation to ensure long-term software quality!",
+      "video": "http://vimeo.com/105382485",
+      "videoimg": "/images/videos/2014-08_JSLA_title_speaker1_small.png"
+    },
+    "Pqvz1b9YWaRNYmZsCn8NtwvGdRA2": {
+      "title": "Module of the Month: LevelUp",
+      "name": "Jacob Lowe",
+      "image": "/images/speakers/jcblw.jpg",
+      "twitter": "jcblw",
+      "github": "jcblw",
+      "description": "First in a series of Module of the Month presentations: LevelUp",
+      "video": "http://vimeo.com/105372436",
+      "videoimg": "/images/videos/2014-08_JSLA_title_speaker2_small.png"
+    },
+    "ln8thquhOtqxkW2dqyTHfluMgMfl": {
+      "title": "Build Systems: The Next Generation",
+      "name": "Contra",
+      "image": "/images/speakers/contra.png",
+      "twitter": "contrahacks",
+      "github": "contra",
+      "description": "Build systems play a crucial role in a modern web developers life. Why do we settle for subpar processes when we can have it all? Take a journey through the build system to discuss a little philosophy, automation, streams, grunt, gulp, and everything in between.",
+      "video": "http://vimeo.com/102908166",
+      "videoimg": "/images/videos/2014-07_JSLA_title_speaker1_small.png"
+    },
+    "ZqFNEjG1VVxF830erHKjNxpZupJS": {
+      "title": "Real World React",
+      "name": "Aaron Murray",
+      "image": "/images/speakers/funkytek.png",
+      "twitter": "funkytek",
+      "github": "funkytek",
+      "description": "React.js brings significant benefits to front-end development: performant virtual DOM diff, one-way data flow and a great component system. React, however, is just the \"V\" in MVC, so the question of how to actually architect your application quickly arises. Explore using React to build full apps including complementary libs, tooling, pain points and more.",
+      "video": "http://vimeo.com/102964269",
+      "videoimg": "/images/videos/2014-07_JSLA_title_speaker2_small.png"
+    },
+    "9xIfpt78Rpp9HJsj8HIogsJlnb8Y": {
+      "title": "Building Realtime Apps and Developer Communities at Firebase",
+      "name": "Sara Robinson",
+      "image": "/images/speakers/sararob.jpg",
+      "twitter": "SRobTweets",
+      "github": "sararob",
+      "description": "Firebase is a realtime API that lets you store and sync data instantly. Learn how you can use Firebase to build a web or mobile app in minutes without worrying about wiring up a backend. In this session, Sara will do some live coding and deploy an app using Firebase Hosting. She'll also talk about her experience building a community of JavaScript developers at Firebase.",
+      "video": "http://vimeo.com/100528520",
+      "videoimg": "/images/videos/2014-06_JSLA_title_speaker2.png"
+    },
+    "BE8kHdycXKGOa9UrkFrZA0pn1uKR": {
+      "title": "Twilio & WebRTC Turns Your Browser Into a Phone",
+      "name": "Carter Rabasa",
+      "image": "/images/speakers/carterrabasa.jpg",
+      "twitter": "carterrabasa",
+      "github": "crabasa",
+      "description": "WebRTC is revolutionizing the way we handle voice, video and data communication by providing native peer-to-peer communication inside the browser. However unless you're familiar with terms like STUN and TURN, actually deploying an end-to-end WebRTC solution is difficult. At Twilio we use WebRTC to power Twilio Client which enables web developers to embed VOIP in their applications. In this talk I'll provide an overview of how Twilio works and do some live coding with Twilio Client and Node to turn my browser into a phone.",
+      "video": "http://vimeo.com/100593144",
+      "videoimg": "/images/videos/2014-06_JSLA_title_speaker1.png"
+    },
+    "i9tEWrV7KbkV1Yw1AYKUmwUANdRo": {
+      "title": "WebTorrent: How I built a BitTorrent client in the browser",
+      "name": "Feross",
+      "image": "/images/speakers/feross.jpg",
+      "twitter": "feross",
+      "github": "feross",
+      "description": "WebRTC changes everything! For the first time, we can do peer-to-peer, or client-to-client, communication in the browser without plugins, extensions, or a software installation. This enables an entirely new class of applications to be built for the web! This talk will look at WebTorrent, a BitTorrent client for the browser that fully-interoperates with the regular BitTorrent network. WebTorrent uses WebRTC Data Channels and special \"hybrid clients\" to connect to the wider BitTorrent network. By making BitTorrent easier, we're making it accessible to new swathes of users who were previously intimidated, confused, or unwilling to install a program on their computer to participate.",
+      "video": "http://vimeo.com/97324247",
+      "videoimg": "/images/videos/video_thumbnail.png"
+    },
+    "n6Bveqrsw8Fp8hVTJrVOWZkraaOZ": {
+      "title": "Native NodeJS Apps",
+      "name": "Jacob Lowe",
+      "image": "/images/speakers/jacob2dot0.jpg",
+      "twitter": "jacob2dot0",
+      "github": "jacoblwe20",
+      "description": "Native NodeJS apps are a relatively new breed of apps coming out of the NodeJS community that combine NodeJS and Webkit. Ill be going over : what are the options out there, what kind of things can these apps do compared to webapps, what are the current pro/cons of making a NodeJS native app, and more.",
+      "video": "http://vimeo.com/97881078",
+      "videoimg": "/images/videos/video_thumbnail.png"
+    },
+    "3h93laL8wkEkfDRAwi93OiLQLgro": {
+      "title": "Static Web Architecture: Not Just for Hipsters",
+      "name": "Michael Bleigh",
+      "image": "/images/speakers/mbleigh.jpg",
+      "twitter": "mbleigh",
+      "github": "mbleigh",
+      "description": "Building with a separated front and back end makes your applications more scalable, flexible, and modular. Learn the ropes of Service-Oriented Architecture, CORS, authentication, and more for static web apps.",
+      "video": "http://vimeo.com/93049881",
+      "videoimg": "/images/videos/video_thumbnail.png"
+    },
+    "93Ncl6Eo9cLlVqMUNeMyXnkApHui": {
+      "title": "The Intranet of Things with Node.js",
+      "name": "Brian Johnson",
+      "image": "/images/speakers/imbrianj.jpg",
+      "twitter": "imbrianj",
+      "github": "imbrianj",
+      "description": "Universal Controller is a node.js based application intended to run on a device within a local network - preferrably a dedicated server (such as a Raspberry Pi). It allows all web capable devices within that same network to issue commands to any other configured device. You may use your phone, tablet, desktop or laptop browser to interact with any controllable device - or issue simple GET commands programmatically.",
+      "video": "http://vimeo.com/93049880",
+      "videoimg": "/images/videos/video_thumbnail.png"
+    },
+    "KEP0oMDOkls3SEd3opVXVnVxvRtY": {
+      "title": "AngularJS: The Awesome Parts",
+      "name": "Ari Lerner",
+      "image": "/images/speakers/auser.jpg",
+      "twitter": "auser",
+      "github": "auser",
+      "description": "AngularJS is the hottest framework on the web. Come and take a whirlwind tour of Angular and why it has such explosive growth. In this talk, you’ll learn why Angular and then jump right into feeling how powerful it is to build an Angular app (even if you’ve never touched it before). Ari Lerner, the author of the canonical book on Angular will walk you through it’s powerful features. You’ll start building your own Angular apps in no time.",
+      "video": "http://vimeo.com/90388983",
+      "videoimg": "/images/videos/video_thumbnail.png"
+    },
+    "veWwXzmF3EGXqjSIEAEkmB8AmEk6": {
+      "title": "Deprecating the Password",
+      "name": "Scott Motte",
+      "image": "/images/speakers/scottmotte.jpg",
+      "twitter": "scottmotte",
+      "github": "scottmotte",
+      "description": "Scott Motte of SendGrid talks on deprecating the password. Learn about an alternative authentication system - called handshake.js - that is passwordless and uses email only. Make users lives easier and more secure not having to remember a password. See a live demo of it in action and how easy it is to add to your next app using only JavaScript.",
+      "video": "http://vimeo.com/90883185",
+      "videoimg": "/images/videos/video_thumbnail.png"
+    },
+    "FOma0ef9FRPx3VKtlH4bwKt1JY58": {
+      "title": "Taking over the NES with JavaScript",
+      "name": "Michael Matuzak",
+      "image": "/images/speakers/matuzak.png",
+      "twitter": "mmatuzak",
+      "github": "emkay",
+      "description": "The 8-bit classic that started the home video game revolution, now hackable with JavaScript. Learn how to write text to the screen, load sprites and more.",
+      "video": "http://vimeo.com/87926451",
+      "videoimg": "/images/videos/video_thumbnail.png"
+    },
+    "Lsrz4uRdx3N7vdn5qTtRupFXGSlD": {
+      "title": "WebGL, What The Hell",
+      "name": "Giles Bowkett",
+      "image": "/images/speakers/gilesgoatboy.jpg",
+      "twitter": "gilesgoatboy",
+      "github": "gilesbowkett",
+      "description": "WebGL stands for Web Graphics Library. A name so dull and generic may surprise you if you're used to hipster naming conventions, and could cover everything from generating GIFs (hard G for life) to the prepackaged icons you can find in Twitter Bootstrap. But immense power lurks behind this bland name. WebGL lets you put GPU graphics in a <canvas> element, and it powers terrific games, infographics, and demoscene-style visuals. Giles Bowkett will blunder through this library, attempting to make it do things, and tell you all about it.",
+      "video": "http://vimeo.com/87974285",
+      "videoimg": "/images/videos/video_thumbnail.png"
+    },
+    "mOFQLV0GECQlwoTTIJLhSkvtJlay": {
+      "title": "Node.JS and Docker with a side of Continuous Deployment",
+      "name": "Niall O'Higgins",
+      "image": "/images/speakers/niallohiggins.jpg",
+      "twitter": "niallohiggins",
+      "github": "niallo",
+      "description": "Docker is an incredible new tool to manage the deployment and lifecycle of Node.JS network services. This talk will cover using them together for much Continuous Deployment win",
+      "video": "http://vimeo.com/85864661",
+      "videoimg": "/images/videos/video_thumbnail.png"
+    },
+    "jFJ0WzFVS88qLqrL40nVZEcuPXdE": {
+      "title": "Hanging up on Callbacks: Generators in ES6",
+      "name": "Erin Swenson-Healey",
+      "image": "/images/speakers/laser.jpg",
+      "twitter": "",
+      "github": "laser",
+      "description": "While the JavaScript event loop and asynchronous callbacks provide a powerful, easy-to-understand concurrency model - writing applications in continuation-passing style introduces problems of legibility, exception management, and composability. With the introduction of generators in the ECMAScript 6 Draft Specification, programmers can continue to leverage the power of the single-threaded event loop while writing expressive, simple code in a direct, top-down style.",
+      "video": "http://vimeo.com/85855570",
+      "videoimg": "/images/videos/video_thumbnail.png"
+    },
+    "p5bnOWtktDdtTFy2MdW7B3cMdONl": {
+      "title": "Coordinated Concurrency: Reactive (Observables) vs. CSP",
+      "name": "Kyle Simpson",
+      "image": "/images/speakers/kyle-simpson.jpg",
+      "twitter": "getify",
+      "github": "getify",
+      "description": "A lot of hype is building recently around reactive programming (aka observables), which models interactions as the composition and consumption of streams of events (data flowing through steps). But is that exclusively the right path for truly next-gen async programming?",
+      "video": "http://vimeo.com/144325523",
+      "videoimg": "/images/videos/2015-10_JSLA_title_speaker1_small.png"
+    },
+    "FcMsLOyiZ1x2BZxMAQY6uSQs6Hgc": {
+      "title": "Mapping LA: Building Immersive Apps with Geodata",
+      "name": "Sam L'Ecuyer",
+      "image": "/images/speakers/sam-lecuyer.jpg",
+      "twitter": "cateches",
+      "github": "samlecuyer",
+      "description": "There's an astonishing amount of geographic data out there. And there are a ton of ways to process it. Still, most people can only name one or two mapping products to use in webapps. Sam will talk about what this data is, where to find it, how to make it look great, and how to make it meaningful.",
+      "video": "http://vimeo.com/144319037",
+      "videoimg": "/images/videos/2015-10_JSLA_title_speaker2_small.png"
+    },
+    "Xxp2PnTX0kpmAwb9n9e4DPzzvocj": {
+      "title": "Generative art and music",
+      "name": "Patrick Gunderson",
+      "image": "/images/speakers/patrick-gunderson.jpg",
+      "twitter": "gunderson",
+      "github": "gunderson",
+      "description": "There are some things that people do much better than computers. People emote and intuit ideas seemingly out of nowhere while computers must have a defined procedure to follow in whatever they do. In this talk, Patrick will discuss how he's used sine waves to and parametric design to give computers an unsteady hand and the ability to compose music on-the-fly.",
+      "video": "http://vimeo.com/143953796",
+      "videoimg": "/images/videos/2015-09_JSLA_title_speaker1_small.png"
+    },
+    "VmHYUPbONE2cDQEh0bheRg8uJmcj": {
+      "title": "We Don't Need No Stinking Browser - How to Build a CLI Based SaaS",
+      "name": "Brock Whitten",
+      "image": "/images/speakers/brock-whitten.jpg",
+      "twitter": "sintaxi",
+      "github": "sintaxi",
+      "description": "Browsers are so 2015. The SaaS of tomorrow is fast, powerful, and most importantly, composable. We'll look behind the scenes to see how Surge, the zero-bullshit web publishing CDN is built.",
+      "video": "http://vimeo.com/143954788",
+      "videoimg": "/images/videos/2015-09_JSLA_title_speaker2_small.png"
+    },
+    "92zlwoGeq3WOZGNhC97IAH2R8AfF": {
+      "title": "Native Mobile Apps in Javascript - Just Add Cordova! (and a Pinch of Command-Line)",
+      "name": "Wren Reynolds",
+      "image": "/images/speakers/wrenr.jpg",
+      "twitter": "",
+      "github": "wrenr",
+      "description": "Apache Cordova, the free open-source engine behind PhoneGap, builds native apps from Javascript and opens up device features with a handy API. Taking the absolute essentials from a 3-hour \"Intro to Cordova\" workshop, this talk makes cooking native apps less like prepping a 5-course dinner with Gordon Ramsay screaming in your face, and more like making mom's spaghetti.",
+      "video": "https://www.youtube.com/watch?v=0CN9MNRDuZY",
+      "videoimg": "/images/videos/2015-08_JSLA_title_speaker1_small.png"
+    },
+    "igoy8dwpSZjGGbtQguP4h1On9wbU": {
+      "title": "Carefully Composing Logic: Functional JavaScript",
+      "name": "Brad Urani",
+      "image": "/images/speakers/bradurani.jpg",
+      "twitter": "bradurani",
+      "github": "bradurani",
+      "description": "Functional programming is the rage, but you don't need to learn a functional language to get started doing it. In fact, JavaScript has had almost everything you need to program in a purely functional style from the beginning. In this talk, we'll explore the basics of functional programming - higher-order functions, lazy evaluation and immutable persistent data structures. We'll see how a functional style helps you compose logic in a way that's clean, testable and free of certain classes of bugs. Then we'll tie it together into a purely functional style by demonstrating a clever algorithmic game solver.",
+      "video": "http://vimeo.com/138163463",
+      "videoimg": "/images/videos/2015-08_JSLA_title_speaker2_small.png"
+    },
+    "kuLrFpeb9BDidUL1ba9f6pS39vSK": {
+      "title": "My phone runs on JavaScript ;)",
+      "name": "Reza Akhavan",
+      "image": "/images/speakers/reza-akhavan.jpg",
+      "twitter": "jedireza",
+      "github": "jedireza",
+      "description": "Have you seen FirefoxOS lately? This talk is going to re-introduce you to why it's not only cool to have an operating system built with Web technologies, but why it's necessary.\n\nFirefoxOS is designed to provide a complete, community-based alternative for mobile devices, using open standards such as HTML5, JavaScript and open web APIs that allow us to communicate directly with device hardware.",
+      "video": null,
+      "videoimg": "/images/videos/"
+    },
+    "7vdsP5gUYrhmkI9FAC7gpTi6Fwqz": {
+      "title": "Don't Over React, ES.Next Component Guide",
+      "name": "Robbie dela Victoria",
+      "image": "/images/speakers/robbie-dela-victoria.jpg",
+      "twitter": "robbiekaze",
+      "github": "tmbtech",
+      "description": "Get up and running with React and ES6 aka ES2015. Common design patterns, Common pitfalls, and more.",
+      "video": null,
+      "videoimg": "/images/videos/"
+    },
+    "dK1we7XhzpiyD6kugckNI2RpNKZ7": {
+      "title": "Module of the Month: PostCSS",
+      "name": "Nate Lubeck",
+      "image": "/images/speakers/nate-lubeck.jpg",
+      "twitter": "etanlubeck",
+      "github": "etanlubeck",
+      "description": "Module of the month is a segment that highlights one of the many npm modules that make Node.js so great. This month's module is PostCSS",
+      "motm": true
+    },
+    "pAfR4vxNKBPdLO8dm5MTpPrmj7er": {
+      "title": "Successfully Hacking in Your Spare Time",
+      "name": "Bryan Hughes",
+      "image": "/images/speakers/bryan-hughes.jpg",
+      "twitter": "nebrius",
+      "github": "nebrius",
+      "description": "Hacking in your spare time is a lot of fun, but how do you actually finish that project you've been dreaming about? This talk will discuss these constraints and requirements, and how a little creativity goes a long way. Key to this is dreaming big while being realistic, and just getting something out there is important. I will also discuss the role of open source in personal projects, from leveraging existing work to how you actually open source a project properly.",
+      "video": "http://vimeo.com/131993092",
+      "videoimg": "/images/videos/2015-06_JSLA_title_speaker2_small.png"
+    },
+    "YULFzgmIEJyauYOoY4chl9gJRaTm": {
+      "title": "Scalable and Maintainable React",
+      "name": "Lawrence Lau",
+      "image": "/images/speakers/lawrence-lau.jpg",
+      "twitter": "ktslwy",
+      "github": "ktslwy",
+      "description": "React is created for building large web applications with data that changes in response to actions over time. This is exactly what many of our user-facing products are doing. Yet like many other application frameworks, scalability and maintainability are not inherent, because you are still free to organize your application as long as you follow the unidirectional flow. This talk will share lessons learned from my React application development with code samples at different stages of the unidirectional flow with the goal to truly take advantage of React to build a scalable and maintainable application.",
+      "video": "http://vimeo.com/131990549",
+      "videoimg": "/images/videos/2015-06_JSLA_title_speaker1_small.png"
+    },
+    "ro3pdLFrTwbN3siovbswXsb5cMP4": {
+      "title": "Data Painting: A graphical programming environment for making art with GPIO on the Intel Galileo",
+      "name": "Eric Gradman",
+      "image": "/images/speakers/eric-gradman.jpg",
+      "twitter": "egradman",
+      "github": "egradman",
+      "description": "The Intel Galileo is a pretty powerful little board. It comes pre-installed with node.js, and you can use it to interface with electronic components. In collaboration with Intel, we developed a kit to acquaint kids with functional programming concepts and basic electronics through artistic expression. The interface is a simple webpage served by the Galileo. Using a Google Blockly graphical interface, kids connect nodes representing graphical elements to nodes representing switches and sliders connected to the Galileo. And just like that… art.",
+      "video": "http://vimeo.com/130520382",
+      "videoimg": "/images/videos/2015-05_JSLA_title_speaker3_small.png"
+    },
+    "NOccTciJUf31ymIydDlaOyJ6P9Hn": {
+      "title": "Building Intelligent Devices for the Internet of Things: Lessons Learned from the Chain Check Project",
+      "name": "Bill Pierce",
+      "image": "/images/speakers/bill-pierce.jpg",
+      "twitter": "piercewilliam",
+      "github": null,
+      "description": "In 2014, Intel launched the Edison, a tiny single board computer targeting the Internet of Things (IoT) and wearables markets. The Edison supports a full-featured Linux distro, providing a natural platform for rapid prototyping of IoT projects including Node.js and wifi connectivity out of the box. In this talk, I’ll present our experience using the Edison on the Chain Check project, applying machine learning and digital signal processing techniques to predictive maintenance for bicycles.",
+      "video": "http://vimeo.com/130526640",
+      "videoimg": "/images/videos/2015-05_JSLA_title_speaker2_small.png"
+    },
+    "i2fD9rNgRVTgCD5rUS0EB1fgqHIO": {
+      "title": "Module of the Month: Babel",
+      "name": "Jacob Lowe",
+      "image": "/images/speakers/jacob-lowe.jpg",
+      "twitter": "jcblw",
+      "github": "jcblw",
+      "description": "Module of the month is a segment that highlights one of the many npm modules that make Node.js so great. This month's module is babel",
+      "video": "http://vimeo.com/130512676",
+      "videoimg": "/images/videos/2015-05_JSLA_title_speaker1_small.png",
+      "motm": true
+    },
+    "TZN6Vp3k7K1jgothmbZe3i2UMT8G": {
+      "title": "Decentralized Databases, and the End of the Web Host",
+      "name": "Paul Frazee",
+      "image": "/images/speakers/paul-frazee.jpg",
+      "twitter": "pfrazee",
+      "github": "pfraze",
+      "description": "How do we synchronize user devices without using servers or central coordination? Join us for a discussion of content-addressing, secure data structures, the web of trust, and apps-development in a post-host Web.",
+      "video": "http://vimeo.com/126670602",
+      "videoimg": "/images/videos/2015-04_JSLA_title_speaker3_small.png"
+    },
+    "mDIOowSRcT036JPK4Hv02XI2BDre": {
+      "title": "npm-Registry@2.0",
+      "name": "Ben Coe",
+      "image": "/images/speakers/ben-coe.jpg",
+      "twitter": "benjamincoe",
+      "github": "bcoe",
+      "description": "npm has been in the process of rewriting their backend infrastructure. Ben, lead developer of the registry, will be talking to you about the motivations for the rewrite, and the approach that has been taken.",
+      "video": "http://vimeo.com/126671101",
+      "videoimg": "/images/videos/2015-04_JSLA_title_speaker2_small.png"
+    },
+    "RE2KftxluVTWo9CFoLdt3PhzCbUN": {
+      "title": "Module of the Month: keystone",
+      "name": "Hung Q Tran",
+      "image": "/images/speakers/hung-tran.jpg",
+      "twitter": "temojin ",
+      "github": "temojin",
+      "description": "Module of the month is a segment that highlights one of the many npm modules that make Node.js so great. This month's module is keystone",
+      "video": "http://vimeo.com/126659594",
+      "videoimg": "/images/videos/2015-04_JSLA_title_speaker1_small.png",
+      "motm": true
+    },
+    "ddlheXENUOffa7mNK70jIk8VOIzJ": {
+      "title": "How launching Icecomm on HN created the most curious chat roulette ever (and how you can too)",
+      "name": "Will Sentance/Tony Rizko",
+      "image": "/images/speakers/sentance-rizko.png",
+      "twitter": "willsentance",
+      "github": "trizko",
+      "description": "Icecomm lets you take full advantage of WebRTC in under 10 lines of frontend javascript. Learn how to use Icecomm to build a multiway video chat app in minutes without worrying about backend code. To get us started I'll explain some Icecomm basics, we'll live code the video chat app together and we'll even give you a sneak peak of a brand new Icecomm SDK that lets you add video and audio chat right inside emails",
+      "video": "http://vimeo.com/124195045",
+      "videoimg": "/images/videos/2015-03_JSLA_title_speaker2_small.png"
+    },
+    "nPQOuJDktrOljFdJRKzz34beYAB1": {
+      "title": "UX for Developers",
+      "name": "Calley Nye",
+      "image": "/images/speakers/calley-nye.jpg",
+      "twitter": "calleynye",
+      "github": null,
+      "description": "What good is it to make an app if no one will use it? This talk will aim to demystify the broad discipline of user experience, and introduce some core concepts and methods. These concepts will help you develop a useable application, acquire users and keep them coming back for more.",
+      "video": "http://vimeo.com/124228583",
+      "videoimg": "/images/videos/2015-03_JSLA_title_speaker3_small.png"
+    },
+    "Q76ZZpPBcsTeUgBL64zS4NDERmTQ": {
+      "title": "Module of the Month: ReactPivot",
+      "name": "David Guttman",
+      "image": "/images/speakers/davidguttman.png",
+      "twitter": "davidguttman ",
+      "github": "davidguttman",
+      "description": "Module of the month is a segment that highlights one of the many npm modules that make Node.js so great. This month's module is ReactPivot",
+      "video": "http://vimeo.com/124191178",
+      "videoimg": "/images/videos/2015-03_JSLA_title_speaker1_small.png",
+      "motm": true
+    },
+    "9pOBAPakIEIlVKAhqrV0w8r9yZmF": {
+      "title": "PhantomJS Under the Hood.",
+      "name": "Buddy Sandidge",
+      "image": "/images/speakers/buddy-sandidge.jpg",
+      "twitter": "xbudex",
+      "github": "xbudex",
+      "description": "This talk goes into lessons learned from writing a sizeable PhantomJS application. We'll examine the architecture of the PhantomJS application itself and what the implications are for developers. We'll also look at best practices for using 3rd party libraries and running unit tests.",
+      "video": "http://vimeo.com/121624904",
+      "videoimg": "/images/videos/2015-02_JSLA_title_speaker2_small.png"
+    },
+    "7iT67OY7UaCDVoFZqxiWrYnOEvVh": {
+      "title": "Monitoring Applications with StatsD",
+      "name": "Advait Shinde",
+      "image": "/images/speakers/advait-shinde.jpg",
+      "twitter": "advait3000",
+      "github": "advait",
+      "description": "StatsD is a generic, lightweight, flexible protocol/daemon that allows you to keep track of application-specific time series metrics. It's a dead-simple approach that enables developers to instrument their applications with granular monitoring before even deploying to production.",
+      "video": "http://vimeo.com/121627661",
+      "videoimg": "/images/videos/2015-02_JSLA_title_speaker3_small.png"
+    },
+    "iS3u6MpgLupq16Ef7Vgc1E6DmYPz": {
+      "title": "Module of the Month: Request",
+      "name": "Greg Cardoni",
+      "image": "/images/speakers/greg-cardoni.jpg",
+      "twitter": "cardoni",
+      "github": "cardoni",
+      "description": "Module of the month is a segment that highlights one of the many npm modules that make Nodejs so great. This months module is Request",
+      "video": "http://vimeo.com/121620706",
+      "videoimg": "/images/videos/2015-02_JSLA_title_speaker1_small.png",
+      "motm": true
+    },
+    "WfWkKa2UVScR27oQu4A0ESnOkTiS": {
+      "title": "Lovefield: a powerful Javascript SQL-like database query engine for the web.",
+      "name": "Demetrios Papadopoulos",
+      "image": "/images/speakers/demetrios-papadopoulos.jpg",
+      "twitter": null,
+      "gplus": "DemetriosPapadopoulos",
+      "github": "google/lovefield",
+      "description": "Lovefield is providing a feature rich, cross-browser database query engine built using IndexedDB as a backend. It provides an intuitive SQL-like declarative syntax and it is closing a gap in the web development ecosystem that was created by the deprecation of WebSQL back in 2010.",
+      "video": "http://vimeo.com/118934273",
+      "videoimg": "/images/videos/2015-01_JSLA_title_speaker2_small.png"
+    },
+    "P1MhTT2nSGcMi89hGJXHITYUfbI0": {
+      "title": "How to effortlessly integrate Three.js into your projects",
+      "name": "Jason Farrell",
+      "image": "/images/speakers/jason-farrell.jpg",
+      "twitter": "jasonfarrell",
+      "github": "jasonfarrell",
+      "description": "This talk will focus on how to add 3D animation to real-world projects. It'll cover the basics of how to get started with Three.js, and how to build animated interactions that can be used in seemingly normal web apps.",
+      "video": "http://vimeo.com/118976215",
+      "videoimg": "/images/videos/2015-01_JSLA_title_speaker3_small.png"
+    },
+    "sHTO3AIVEalbQZ1VEEjsjFcYbqpt": {
+      "title": "Module of the Month: Sinon",
+      "name": "Helior Colorado",
+      "image": "/images/speakers/helior-colorado.jpg",
+      "twitter": "helior",
+      "github": "helior",
+      "description": "Module of the month is a segment that highlights one of the many npm modules that make Node.js so great. This months module is Sinon",
+      "video": "http://vimeo.com/118923146",
+      "videoimg": "/images/videos/2015-01_JSLA_title_speaker1_small.png",
+      "motm": true
+    },
+    "tANrp1MKCeIuFB93nWzTtkeDXId6": {
+      "title": "Common Operations Challenges with Node.js and How to Solve Them",
+      "name": "Chris Lea",
+      "image": "/images/speakers/chris-lea.jpg",
+      "twitter": "chrislea",
+      "github": "chrislea",
+      "description": "",
+      "video": "https://www.youtube.com/watch?v=10eMjwDAIgc",
+      "videoimg": "/images/videos/2016-10_JSLA_title_speaker3_small.png"
+    },
+    "2HYMGkONEFT6juLnm6zjGMMLChYm": {
+      "title": "The Node.js Ecosystem in Perspective",
+      "name": "Dan Shaw",
+      "image": "/images/speakers/dan-shaw.jpg",
+      "twitter": "dshaw",
+      "github": "dshaw",
+      "description": "",
+      "video": "https://www.youtube.com/watch?v=k4RA5DmPo4U",
+      "videoimg": "/images/videos/2016-10_JSLA_title_speaker1_small.png"
+    },
+    "sFsqJz2XPr7VFtM7TZusFDCanHKQ": {
+      "title": "JS to Slick Native Mobile Apps: A Future-Featured Framework",
+      "name": "Wren Reynolds",
+      "image": "/images/speakers/wrenr.jpg",
+      "twitter": "",
+      "github": "wrenr",
+      "description": "",
+      "video": "https://www.youtube.com/watch?v=Zp8JHKHNKYY",
+      "videoimg": "/images/videos/2016-10_JSLA_title_speaker2_small.png"
+    },
+    "7j7jSSuIJMEo2qSEOUV1amwQvCyk": {
+      "title": "Using GraphQL with Apollo",
+      "name": "Abhi Aiyer",
+      "image": "/images/speakers/abhi-aiyer.jpg",
+      "twitter": "AbhiAiyer",
+      "github": "abhiaiyer91",
+      "description": "",
+      "video": "https://www.youtube.com/watch?v=PTowZYV6eRA",
+      "videoimg": "/images/videos/2016-09_JSLA_title_speaker1_small.png"
+    },
+    "rHmxnd2S36XBMd0FPiZCNp0kctu0": {
+      "title": "React Native",
+      "name": "Ari Lerner",
+      "image": "/images/speakers/ari-lerner.jpg",
+      "twitter": "auser",
+      "github": "auser",
+      "description": "",
+      "video": "https://www.youtube.com/watch?v=x_LpgAgSNFI",
+      "videoimg": "/images/videos/2016-09_JSLA_title_speaker2_small.png"
+    },
+    "ATxpNCmIm9Ul3FnqyWbdCT8CI0ra": {
+      "title": "Why d3 will be the standard for web visualization",
+      "name": "Aman Tsegai",
+      "image": "/images/speakers/aman-tsegai.jpg",
+      "twitter": "ata_aman",
+      "github": "ata-aman",
+      "description": "",
+      "video": "https://www.youtube.com/watch?v=5y6IJOqPXw8",
+      "videoimg": "/images/videos/2016-08_JSLA_title_speaker1_small.png"
+    },
+    "DcOeFeGz8wCHLCxOgK6OX29rxHLM": {
+      "title": "10 Secrets to Writing Perfect Code — You Won’t Believe #4!",
+      "name": "Ray Muneton",
+      "image": "/images/speakers/ray-muneton.jpg",
+      "twitter": "mrsmuneton",
+      "github": "mrsmuneton",
+      "description": "",
+      "video": "https://www.youtube.com/watch?v=COabxKt8cSk",
+      "videoimg": "/images/videos/2016-08_JSLA_title_speaker2_small.png"
+    },
+    "SPbH14ucPRMgU0WFf8fD3tIzLnCK": {
+      "title": "Javascript Testing - Unit tests, TDD, BDD, IDK.",
+      "name": "Sara Raasch",
+      "image": "/images/speakers/sara-raasch.jpg",
+      "twitter": "sararaasch",
+      "github": "SaraaraS",
+      "description": "",
+      "video": "https://www.youtube.com/watch?v=YIdhqW9zBFA",
+      "videoimg": "/images/videos/2016-07_JSLA_title_speaker1_small.png"
+    },
+    "OMS39pYbWgxk6gMk6GnvbY6hSDoa": {
+      "title": "Using Babel in a Modern Working Environment",
+      "name": "Kurtis Rainbolt-Greene",
+      "image": "/images/speakers/kurtis-rainbolt-greene.jpg",
+      "twitter": "krainboltgreene",
+      "github": "krainboltgreene",
+      "description": "",
+      "video": "https://www.youtube.com/watch?v=UBlgqnuJpZQ",
+      "videoimg": "/images/videos/2016-07_JSLA_title_speaker2_small.png"
+    },
+    "Nn4L6yLZiuGvDvq1q1UvIhOxQtHj": {
+      "title": "Discovering our Prismatic Reality",
+      "name": "Isaac Cohen",
+      "image": "/images/speakers/isaac-cohen.jpg",
+      "twitter": "cabbibo",
+      "github": "cabbibo",
+      "description": "",
+      "video": "https://www.youtube.com/watch?v=efcL6yv4DBg",
+      "videoimg": "/images/videos/2016-06_JSLA_title_speaker1_small.png"
+    },
+    "Y230cUdh38cCfvLLlXwHwujQqFvi": {
+      "title": "Constructing DSLs to Automate Automation",
+      "name": "Prakash Venkatraman",
+      "image": "/images/speakers/prakash-venkatraman.jpg",
+      "twitter": "PrakashVenkatra",
+      "github": "dopatraman",
+      "description": "There are plenty of tools out there that make developers' jobs easy. But not all go far enough. Sometimes to automate the things that matter you need instructions specific enough to cover your project but abstract enough to be reusable. I developed a domain specific language for deploying web apps. The moral of the story is: don't just use languages.  Make them.",
+      "video": "https://www.youtube.com/watch?v=qcF3omniwtY",
+      "videoimg": "/images/videos/2016-06_JSLA_title_speaker2_small.png"
+    },
+    "r5E3KNQsqCSGUQFOz4wdJRIaS6pv": {
+      "title": "Code without Keywords",
+      "name": "Sam L'ecuyer",
+      "image": "/images/speakers/sam-lecuyer.jpg",
+      "twitter": "cateches",
+      "github": "samlecuyer",
+      "description": "Let's explore math without numeric literals, data without vars, and high order functions as primitives.  Basically, let's talk Church Encoding and build real programs that don't use any construct except => functions.",
+      "video": "https://www.youtube.com/watch?v=GgNYcEWv72Y",
+      "videoimg": "/images/videos/2016-05_JSLA_title_speaker1_small.png"
+    },
+    "rqHtbLvlmcwRvx1eX0qEo9TypSP4": {
+      "title": "Destroyer of the Monolith APIs",
+      "name": "David Slone",
+      "image": "/images/speakers/david-slone.jpg",
+      "twitter": "dbslone",
+      "github": "dbslone",
+      "description": "Falcor is a framework that utilizes JSON Graph a new convention for modeling graph data. JSON Graph allows delivery an entire graph object in a very simple javascript object that allows Falcor to return data from multiple microservices simultaneously. This talk will cover the basics of JSON Graph beginning with making your first client side request to understanding the data being returned from a Falcor Router and how to create routes in Falcor router that return data from multiple microservices in a single request.",
+      "video": "https://www.youtube.com/watch?v=vB7KcfqzEBc",
+      "videoimg": "/images/videos/2016-05_JSLA_title_speaker2_small.png"
+    },
+    "71siCWdA8WdBWGMdSrXib8U10jzI": {
+      "title": "Secure Coding with Node.js",
+      "name": "Seth Law",
+      "image": "/images/speakers/seth-law.jpg",
+      "twitter": "sethlaw",
+      "github": "sethlaw",
+      "description": "As we all knew it would, JavaScript has finally overtaken the server. This departure from the client to the server introduces a number of security issues and problems that the language does not handle by default. This talk will cover and demonstrate prevalent security vulnerabilities in Node.js applications. In addition, it will address existing security controls within JavaScript code through the use of an intentionally vulnerable Node.js application.",
+      "video": "https://www.youtube.com/watch?v=jloaI6ShcD8",
+      "videoimg": "/images/videos/2016-04_JSLA_title_speaker1_small.png"
+    },
+    "m6MfOCgOdaRsbVqmoncBv6tnc7Fn": {
+      "title": "The sad, strange tale of the boy with only two fingers OR an introduction to how binary is used to make websites",
+      "name": "Mims H. Wright",
+      "image": "/images/speakers/mims-wright.jpg",
+      "twitter": "mimshwright",
+      "github": "mimshwright",
+      "description": "Most people know that computers are \"just a bunch of ones and zeroes,\" but few understand what that really means. How do ones and zeros become numbers, words, and pictures? This talk starts at the beginning, explaining binary numbers and shows how they are used to describe basic datatypes. We begin to uncover what the statement \"just a bunch of ones and zeroes\" really means.",
+      "video": "https://www.youtube.com/watch?v=WG5646x0nIo",
+      "videoimg": "/images/videos/2016-04_JSLA_title_speaker2_small.png"
+    },
+    "wjJM3aQ1nyl2dQk0Ht3QqrHwQP6H": {
+      "title": "Bringing Open-Source Practices to Your Day Job",
+      "name": "Ben Coe",
+      "image": "/images/speakers/ben-coe.jpg",
+      "twitter": "benjamincoe",
+      "github": "bcoe",
+      "description": "npm has built a community that allows millions of JavaScript developers to build together on a daily basis. From this community great software development practices have emerged: unit-testing, test-coverage, modularity. In this talk Ben will discuss how, and why, you should bring these practices to work with you.",
+      "video": null,
+      "videoimg": null
+    },
+    "yLchrvVmHmvpE2U9F9lNcP7gPCMK": {
+      "title": "Crashing the Mobile Party",
+      "name": "Brian Satorius",
+      "image": "/images/speakers/brian-satorius.jpg",
+      "twitter": "bsatorius",
+      "github": "bsatorius",
+      "description": "Native Apps vs. Hybrid vs. Mobile Web. Can a single Javascript codebase be your cross-platform strategy with today’s tools? Learn through the pitfalls and successes we’ve had at PartyOn, the social music app that uses geolocation, web sockets, and music streaming to improve parties",
+      "video": null,
+      "videoimg": null
+    },
+    "O8v7pQ0MCQP2QSmu6pC77MZ1Ljb5": {
+      "title": "Reactive Programming for Couch Potatoes",
+      "name": "Andrew Hao",
+      "image": "/images/speakers/andrew-hao.jpg",
+      "twitter": "andrewhao",
+      "github": "andrewhao",
+      "description": "You've heard the hype about functional reactive programming and how it's the bee's knees. But... you can't figure out how it works, and all the math-talk and theory jargon that surround the subject are confusing to you.",
+      "video": null,
+      "videoimg": null
+    },
+    "EN3E6xPZ3NmvXK9Qqe4LFN2qvdbw": {
+      "title": "High performance apps with DoneJS",
+      "name": "Justin Meyer",
+      "image": "/images/speakers/justin-meyer.jpg",
+      "twitter": "justinbmeyer",
+      "github": "justinbmeyer",
+      "description": "This sentence is wasting your time before you get to useful information. How annoying is that? Annoyed is how your users feel if they can’t see their content immediately while too much JavaScript and CSS downloads too slowly.",
+      "video": null,
+      "videoimg": null
+    },
+    "TcI9VHUw6m7graxYS4tVPcZOwLBy": {
+      "title": "Getting Started with React Native",
+      "name": "Scott Motte",
+      "image": "/images/speakers/scottmotte.jpg",
+      "twitter": "motdotla",
+      "github": "motdotla",
+      "description": "Module of the Month: React Native",
+      "video": "https://www.youtube.com/watch?v=R5ORcXD8SFI&feature=youtu.be&a",
+      "videoimg": "/images/videos/2016-01_JSLA_title_speaker1_small.png",
+      "motm": true
+    },
+    "ta8cm3iyHpGLymLLi41PaVcJq5TM": {
+      "title": "Rendering with React",
+      "name": "Michael Jackson",
+      "image": "/images/speakers/michael-jackson.jpg",
+      "twitter": "mjackson",
+      "github": "mjackson",
+      "description": "The virtual DOM abstraction created by React.js has changed the way the entire industry thinks about rendering web sites. Let's talk about what makes it special, and the cool stuff we can do with it!",
+      "video": "https://www.youtube.com/watch?v=7S8v8jfLb1Q&feature=youtu.be&a",
+      "videoimg": "/images/videos/2016-01_JSLA_title_speaker3_small.png"
+    },
+    "Kw6QFk8mqrGiFSSRQfBR87YGuQQH": {
+      "title": "Scalable Authentication for Microservices and Single Page Apps",
+      "name": "David Guttman",
+      "image": "/images/speakers/davidguttman.png",
+      "twitter": "davidguttman",
+      "github": "davidguttman",
+      "description": "Back in the dark ages of 2015, setting up authentication for microservices and SPAs was a huge PITA. Thankfully, it's now 2016 and it's dead simple. We'll go over what's needed for modern authentication and how easy it is to get it all working with Authentic.",
+      "video": "https://www.youtube.com/watch?v=6Tf3chDp2oE&feature=youtu.be&a",
+      "videoimg": "/images/videos/2016-01_JSLA_title_speaker2_small.png"
+    },
+    "h0jYhgzhiXyYWmMVaafMAlJAFZOX": {
+      "title": "Let’s talk about SRI",
+      "name": "Justin Dorfman",
+      "image": "/images/speakers/justin-dorfman.jpg",
+      "twitter": "jdorfman",
+      "github": "jdorfman",
+      "description": "Subresource Integrity (SRI) is an up and coming web security standard from the W3C. SRI enables browsers to verify that files are delivered without unexpected manipulation. This talk will go over the history and ways to generate SRI hashes so you can start protecting your end users.",
+      "video": "https://youtu.be/ldk3-dEafVY",
+      "videoimg": "/images/videos/2017-10_JSLA_title_speaker1_small.png"
+    },
+    "rA87PHh73I7kbc7fbtC0wdVFvIUL": {
+      "title": "You Get What You Give",
+      "name": "Rouzbeh Sarrafieh",
+      "image": "/images/speakers/rouzbeh-sarrafieh.jpg",
+      "twitter": "rouzbeh84",
+      "github": "rouzbeh84",
+      "description": "Contributing to OSS isn’t as hard as you think it is. How I became a top 10 contributor on big open source projects like Webpack and you can too.",
+      "video": "https://youtu.be/un4s6yzo7Ts",
+      "videoimg": "/images/videos/2017-10_JSLA_title_speaker2_small.png"
+    },
+    "Ww1lPq9LxcPNCFIo9oYpI7s0X11G": {
+      "title": "Peer to Peer Video Streaming with WebRTC",
+      "name": "Brian Mau",
+      "image": "/images/speakers/brian-mau.jpeg",
+      "twitter": "basscord",
+      "github": "basscord",
+      "description": "WebRTC is a technology that is rapidly stabilizing, and it belongs in your tool-belt. Lets demystify it by building a peer to peer video streaming app.",
+      "video": "https://youtu.be/pIHYtUJ7hkY",
+      "videoimg": "/images/videos/2017-09_JSLA_title_speaker1_small.png"
+    },
+    "N8agJVvMx7GotQBcc4C4hhhZvsGM": {
+      "title": "Using Babel in a Futuristic Working Environment",
+      "name": "Kurtis Rainbolt-Greene",
+      "image": "/images/speakers/kurtis-rainbolt-greene.png",
+      "twitter": "krainboltgreene",
+      "github": "krainboltgreene",
+      "description": "Babel, how it's progressed, the future of web development, and what it solves today.",
+      "video": "https://youtu.be/n0b2CNv54Eo",
+      "videoimg": "/images/videos/2017-09_JSLA_title_speaker2_small.png"
+    },
+    "EpzVxg82yb650yBeiFz3tQNtR97g": {
+      "title": "Why you should (almost) always use stateful components in React",
+      "name": "Aaron Craig",
+      "image": "/images/speakers/aaron-craig.jpeg",
+      "twitter": "aaroncraig",
+      "github": "aaroncraigongithub",
+      "description": "A talk about the tradeoffs between stateful and stateless components, and why you might be doing it wrong.",
+      "video": "https://youtu.be/KnKVANnl9V0",
+      "videoimg": "/images/videos/2017-08_JSLA_title_speaker1_small.png"
+    },
+    "12DOzL8JkfID7FqfONlI1V7Izh93": {
+      "title": "The Peer-to-peer Web",
+      "name": "Paul Frazee",
+      "image": "/images/speakers/paul-frazee.png",
+      "twitter": "pfrazee",
+      "github": "pfrazee",
+      "description": "We love the Web because it's open, free, and highly connected. But sometimes the Web falls short: big businesses are centralizing control, data is getting tied up on servers, and users are losing their privacy.\n\nHow can we solve these problems, and decentralize the Web?\n\nLet's take a fresh look at peer-to-peer technologies, and see just how far the Web can go with a new protocol in the browser.",
+      "video": "https://youtu.be/4DFalocsoQo",
+      "videoimg": "/images/videos/2017-08_JSLA_title_speaker2_small.png"
+    },
+    "EmqieQ0c0TCxDyK9DVA26ewvHLRZ": {
+      "title": "Preventing Accessibility Penalties at the NFL",
+      "name": "James Hush",
+      "image": "/images/speakers/james-hush.jpg",
+      "twitter": "nflengineers",
+      "github": "jamsea",
+      "description": "NFL.com didn't just receive a surface level makeover, a lot of time was put into accessibility. I'll speak about how we took our video player accessibility rating all the way to the endzone. In the process, I'll show how to diagnose, debug, fix, and prevent accessibility issues in modern web applications.",
+      "video": "https://www.youtube.com/watch?v=yZiqZE0N504",
+      "videoimg": "/images/videos/2017-07_JSLA_title_speaker1_small.png"
+    },
+    "4yrZ2gZHS2GfF5SabCTnMmOdDbXq": {
+      "title": "Reshape: Transform HTML With Javascript Plugins",
+      "name": "Jeff Escalante",
+      "image": "/images/speakers/jeff-escalante.jpg",
+      "twitter": "jescalan",
+      "github": "jescalan",
+      "description": "Introduction to Reshape, a library that opens up opportunity to transform and extend html, as well as some examples of innovation in static tech using it.",
+      "video": "https://www.youtube.com/watch?v=Pp9d4-bIDzk",
+      "videoimg": "/images/videos/2017-07_JSLA_title_speaker2_small.png"
+    },
+    "IrzQTNGIlHB7ReCXNW2OyZXikjFH": {
+      "title": "The Rise of the Sound-Reactive, Beat-Detecting, Robotic Browser VJ",
+      "name": "David Guttman",
+      "image": "/images/speakers/davidguttman.png",
+      "twitter": "davidguttman",
+      "github": "davidguttman",
+      "description": "",
+      "video": "https://www.youtube.com/watch?v=M3dYEcJO68c",
+      "videoimg": "/images/videos/2017-06_JSLA_title_speaker1_small.png"
+    },
+    "sDyOJ3qZuH8RTvyQrCZysIJpBka8": {
+      "title": "Attacking Hardware with Node.js",
+      "name": "Samy Kamkar",
+      "image": "/images/speakers/samy-kamkar.jpg",
+      "twitter": "samykamkar",
+      "github": "samyk",
+      "description": "",
+      "video": "https://www.youtube.com/watch?v=sIJmuYAoByo",
+      "videoimg": "/images/videos/2017-06_JSLA_title_speaker2_small.png"
+    },
+    "7TR4ulmD69ApAipTCj1Rqqwm3ddV": {
+      "title": "Web APIs you (probably) didn’t know existed",
+      "name": "Zeno Rocha",
+      "image": "/images/speakers/zeno-rocha.jpeg",
+      "twitter": "zenorocha",
+      "github": "zenorocha",
+      "description": "",
+      "video": "https://www.youtube.com/watch?v=K3fyDJDj15s",
+      "videoimg": "/images/videos/2017-05_JSLA_title_speaker1_small.png"
+    },
+    "kiz2nddtTtGBE5d3YpvMwfX78AQA": {
+      "title": "Wheels, Gears and Labyrinths",
+      "name": "Jim Bumgardner",
+      "image": "/images/speakers/jim-bumgardner.jpg",
+      "twitter": "jbum",
+      "github": "jbum",
+      "description": "",
+      "video": "https://www.youtube.com/watch?v=HpAwRtWfFPk",
+      "videoimg": "/images/videos/2017-05_JSLA_title_speaker2_small.png"
+    },
+    "QAHK8xZtlRUloZOCFapAIBdfzTVN": {
+      "title": "High Performance Node.js: learn how to full throttle your code",
+      "name": "Lauren Spiegel & Giorgio Regni",
+      "image": "/images/speakers/Lauren-Gio.png",
+      "twitter": "laurenspiegel",
+      "github": "laurenspiegel",
+      "description": "",
+      "video": "https://www.youtube.com/watch?v=18d0HosHCX8",
+      "videoimg": "/images/videos/2017-04_JSLA_title_speaker1_small.png"
+    },
+    "7m9qkg5gK3zal4K5Pz1CpcbRXlNd": {
+      "title": "Career Talk: JavaScript Unicorns",
+      "name": "Jason Campbell",
+      "image": "/images/speakers/jason-campbell.jpg",
+      "twitter": "jxson",
+      "github": "jxson",
+      "description": "",
+      "video": "https://www.youtube.com/watch?v=0SM9aDv0mN8",
+      "videoimg": "/images/videos/2017-04_JSLA_title_speaker2_small.png"
+    },
+    "rqH1hCfbXJqqIUQpe4QZkILH1Gsz": {
+      "title": "Query the shit out of Facebook's Graph API",
+      "name": "Loren Stewart",
+      "image": "/images/speakers/loren-stewart.jpg",
+      "twitter": "lorenstewart111",
+      "github": "lorenseanstewart",
+      "description": "",
+      "video": "https://www.youtube.com/watch?v=1VBgdKkuyNs",
+      "videoimg": "/images/videos/2017-03_JSLA_title_speaker1_small.png"
+    },
+    "TrNmn5HMBmcqk1bHEZuXw7HvvjXy": {
+      "title": "Building Offline First apps with Hoodie",
+      "name": "Gregor Martynus",
+      "image": "/images/speakers/gregor-martynus.jpg",
+      "twitter": "gr2m",
+      "github": "gr2m",
+      "description": "",
+      "video": "https://www.youtube.com/watch?v=TSDyxtVbbME",
+      "videoimg": "/images/videos/2017-03_JSLA_title_speaker2_small.png"
+    },
+    "XQznMOO9sA3tIgbYKKrsxvyUfOxF": {
+      "title": "Tripping Balls with Javascript",
+      "name": "Jacob Lowe",
+      "image": "/images/speakers/jacob-lowe.jpg",
+      "twitter": "jcblw",
+      "github": "jcblw",
+      "description": "",
+      "video": "https://www.youtube.com/watch?v=nxRRbwVlbUE",
+      "videoimg": "/images/videos/2017-02_JSLA_title_speaker2_small.png"
+    },
+    "ffISuBJONEdu8zap8pH073rb1LXf": {
+      "title": "bomBora -  How to hold down your Vegemite In a NonStop Sea of Waves",
+      "name": "Keith Moore",
+      "image": "/images/speakers/keith-moore.jpg",
+      "twitter": null,
+      "github": null,
+      "description": "Porting and maintaining a native V8 engine in a car that never stops.",
+      "video": "https://www.youtube.com/watch?v=rAInHep17o8",
+      "videoimg": "/images/videos/2017-02_JSLA_title_speaker1_small.png"
+    },
+    "1EzxN2hk2IPeIxOnMENnlxb4VQ8I": {
+      "title": "Load testing your node application",
+      "name": "Jad Meouchy",
+      "image": "/images/speakers/jad-meouchy.jpg",
+      "twitter": "jadware",
+      "github": "jadware",
+      "description": "",
+      "video": "https://www.youtube.com/watch?v=2ggxSZsAjwA",
+      "videoimg": "/images/videos/2017-01_JSLA_title_speaker2_small.png"
+    },
+    "jzB13vH67lWYBA8StpnXYh2GTk9Z": {
+      "title": "Evolution",
+      "name": "Mateusz Marpi Marcinowski",
+      "image": "/images/speakers/mateusz-marpi-marcinowski.jpg",
+      "twitter": "marpi_",
+      "github": "marpi",
+      "description": "Marpi gets deep into generative 3D creatures/worlds with webVR, webGL, shaders, mobile, socket servers, and more ⚡️. He currently works at Obscura Digital :D",
+      "video": "https://www.youtube.com/watch?v=IX71m5iy8ok",
+      "videoimg": "/images/videos/2017-01_JSLA_title_speaker1_small.png"
+    },
+    "tR6fQIHNZKgyXBHd4aLbXBH69YXN": {
+      "title": "You Might Not Need Browser Layout",
+      "name": "Max Harris",
+      "image": "https://i.imgur.com/7bzIdcX.jpg",
+      "twitter": "maxharris9",
+      "github": "maxharris9",
+      "description": "I built a library that helps you build UIs that render to pure SVG (no HTML, no CSS). It handles layout without relying on the browser's layout engine, implements its own shape picking system, events, provides a scrollable text-wrapping component, replaces the browser's input element with a new one, <strong><em>supports drag-and-drop</em></strong>, has a built-in dynamic layout editor, and is currently a React library",
+      "video": "",
+      "videoimg": "/images/videos/"
+    },
+    "dCa1wELvN7lvJkGnD2lGzBcp0Hua": {
+      "title": "🎼Web Audio Visualization Applied to Speech 🗣",
+      "name": "Fabien Lemaitre",
+      "image": "https://i.imgur.com/WsxkJYW.jpg",
+      "twitter": "",
+      "github": "",
+      "description": "How do you leverage web technologies for visualizing speech? We'll cover a bit of the theory behind the Web Audio apis and libraries. Then we'll look at different ways we can visualize the vocal audio data. Finally, we'll explore more advanced techniques such as real time vocal analysis.",
+      "video": "",
+      "videoimg": "/images/videos/"
+    },
+    "OnzsPn1JUei0Vad7aT3P8fDzrHWK": {
+      "title": "How I made a table with 10 million rows",
+      "name": "Tony Germaneri",
+      "image": "https://avatars1.githubusercontent.com/u/17577567",
+      "twitter": "",
+      "github": "TonyGermaneri",
+      "description": "I had a requirement to show tens of thousands of rows of data for a client, the solution? Use immediate drawing mode canvas to create a virtual table of much data.\n<br><br>\nI'd like to talk about algorithm complexity (big O notation) issues encountered while dealing with large arrays and in general how it effects front end web performance.  If there's time, we can even go over using the web component spec to create the project aka the new hotness.",
+      "video": "",
+      "videoimg": "/images/videos/"
+    },
+    "7qAJu2nRIRGiG6RGpwDwVRCU33qB": {
+      "title": "Building Beautiful Websites with Gatsby",
+      "name": "Kyle Mathews",
+      "image": "https://avatars2.githubusercontent.com/u/71047?s=460&v=4",
+      "twitter": "kylemathews",
+      "github": "kyleamathews",
+      "description": "A little bit about the blazing fast React.js static site generator and why it's awesomesauce!",
+      "video": "",
+      "videoimg": "/images/videos/"
+    },
+    "ATtdZaI973iLRPWVLljB5yMx27oe": {
+      "title": "If You Learned FRP, You'd Never Have To Use Redux Again",
+      "name": "Hannah Howard",
+      "image": "https://pbs.twimg.com/profile_images/3517256304/dbef83eb3d40bf35e43588321cb1315e_400x400.png",
+      "twitter": "techgirlwonder",
+      "github": "hannahhoward",
+      "description": "At Carbon Five, we think reactive programming is a great way to build frontend GUI applications. We use ReactiveX, which has amazingly robust libraries across a variety of languages. We've found the concepts translate well across of a variety of client projects, platforms, and frameworks, so much so that it's almost our de facto standard way to build frontends.\n\nWe also work on React projects that use Redux. Often the Redux code becomes a pain point that slows down the rest of the project. We've begun exploring using ReactiveX's javascript library, RxJS, as an alternative to Redux, and we'd like to share what we've learned.\n\nThis talk will provide:\n\n1. A general introduction to functional reactive programming.\n2. An introduction to ReactiveX libraries\n3. A broad comparison between ReactiveX and Redux\n",
+      "video": "",
+      "videoimg": "/images/videos/"
+    },
+    "mMliZk22YgmwxWRhwhZHITTR8TdG": {
+      "title": "Serverless and React (it's just sleight of hand)",
+      "name": "Marina Miranovich",
+      "image": "https://avatars3.githubusercontent.com/u/1267541?s=400&v=4",
+      "twitter": "obnoxious_mari",
+      "github": "Marina-Miranovich",
+      "description": "A few months ago I built a small web page, that supposed to be integrated into the existing mobile app within a webview. Even though that was only one page, it was a checkout page, so there were a lot of things going on there: a lot of API calls to verify the data, need to decrypt the params that were passed there, additionally would need to encrypt the response as well. \nFirst thought was - to build an server app that would return simple HTML/CSS and may have some vanila JS. But that looks too much for hosting one page, and I was really worry about scaling of it, we expected a huge peaks of load. And the final decision was to have AWS lambda render a page for us. \nSo the talk would be about SSR of React app in cloud functions (particularly aws lambda).",
+      "video": "",
+      "videoimg": "/images/videos/"
+    },
+    "X9hSvHw8J00H1WQcJL2qZ4EJzbqU": {
+      "title": "Save Money and Time with CI/CD",
+      "name": "Jeff Wainwright",
+      "image": "https://pbs.twimg.com/profile_images/862234219942105088/5Bw3Rqp7_400x400.jpg",
+      "twitter": "yowaiwnright",
+      "github": "yowainwright",
+      "description": "Discussing how Dollar Shave Club employs a CI/CD pipeline for their front end to improve velocity while saving money and engineering time.",
+      "video": "https://www.youtube.com/watch?v=8YQ8BGSOsyE",
+      "videoimg": "https://i.imgur.com/q3YtO7S.png"
+    },
+    "ocEBKD2KwpNlySgj06WateqpMgd9": {
+      "title": "The Algorithms of CSS",
+      "name": "Lara Schenck",
+      "image": "https://pbs.twimg.com/profile_images/986004858456096768/CPmPfH3r_400x400.jpg",
+      "twitter": "laras126",
+      "github": "laras126",
+      "description": "“CSS isn’t a ‘real’ programming language,” we are often reminded — we don’t ‘program’ in CSS, we describe presentation. Algorithms and CSS, then, don’t exactly go hand-in-hand…or do they? Could CSS be a programming language? ",
+      "video": "https://youtu.be/Vckubc40dsM",
+      "videoimg": "https://i.imgur.com/59T53OH.png"
+    },
+    "R4RuBMa8JukaJXkCCv56Hg8QgB99": {
+      "title": "ML on the CL",
+      "name": "Kylie Stewart",
+      "image": "https://avatars1.githubusercontent.com/u/30479228?s=460&v=4",
+      "twitter": "kyliestew",
+      "github": "kale-stew",
+      "description": "Machine learning is everywhere, but how easy is it to get started? Could your small project benefit from some simple ML? In this talk, we will cover the very basics of artificial intelligence, as well as learn a Python-free approach to big data, basic algorithms, and how easy all of this is to implement in your average shopping cart with a single Node.js file.",
+      "video": "https://youtu.be/MzrDy4s8MF8",
+      "videoimg": "https://i.imgur.com/kuyttCZ.png"
+    },
+    "cT2FpLsTsv3bgSrlxmTyHptruTSd": {
+      "title": "Vector Money: Can we fix the root of most evil with JavaScript?",
+      "name": "Dave Taylor",
+      "image": "http://davetaylor.name/ddt_knee_point1.jpg",
+      "twitter": "_ddt__",
+      "github": "",
+      "description": "\nWhat if the value of every good or service was formally recognized as a million-element heterogeneous vector instead of a single scalar ironically dubbed the “price?”  In this blue sky talk, I propose a way to leverage augmented reality, machine learning, computer vision, and MMO game design to deliver a wholesale replacement for our current system of commerce.",
+      "video": "https://youtu.be/bPA8A9BZ3xs",
+      "videoimg": "https://i.imgur.com/0rm4n2X.png"
+    },
+    "P61t0X6kqMcWoQP5BrKKiUgK8kAB": {
+      "title": "Next-Generation Frontend Testing with Cypress.io",
+      "name": "Amir Rustamzadeh",
+      "image": "https://pbs.twimg.com/profile_images/974830410734514176/2QNhXvuE_400x400.jpg",
+      "twitter": "amirrustam",
+      "github": "amirrustam",
+      "description": "In this talk you'll learn how to write flake-free and deterministic end-to-end and unit tests that run in a real browser with Cypress.io, a testing tool for the modern web. ",
+      "video": "https://youtu.be/UJICwHNb4BQ",
+      "videoimg": "https://i.imgur.com/1GfXuOk.png"
+    },
+    "VJ1qqJGD6olkGU1dAW3dVYgBYrRu": {
+      "title": "JavaScript: It's a feature, not a bug",
+      "name": "Michael Anthony",
+      "image": "https://pbs.twimg.com/profile_images/378800000833452629/3b9ecf5c852b30c7e50afefbc9c340ff.png",
+      "twitter": "michaeltheory",
+      "github": "",
+      "description": "I'd like to talk about JavaScripts large role in our studio's production process and how it's flexibility allows us to define our own rigidity. I'll also go into how we use C++, Swift, Java/Kotlin to extend JavaScripts abilities.",
+      "video": "https://youtu.be/OqsQTFkk1ds",
+      "videoimg": "https://i.imgur.com/3taCV4l.png"
+    },
+    "VZGEGeMac0vsPnajUD7RobqLYV0e": {
+      "title": "A day in the life of a Node.js Core Contributor",
+      "name": "James M Snell",
+      "image": "https://pbs.twimg.com/profile_images/951475542661857280/-05j9Fcq_400x400.jpg",
+      "twitter": "jasnell",
+      "github": "jasnell",
+      "description": "A Day in the life of a Node.js core contributor. This talk will candidly pull back the curtain on how things work within the Node.js core project, including how we get things done, how decisions are made, and insights into how to get involved.",
+      "video": "https://youtu.be/dICWa7cwbdA",
+      "videoimg": "https://i.imgur.com/0pZThwK.png"
+    },
+    "gPi9oCGc5XHuHxFY4km2Ki1pQc79": {
+      "title": "Create Electronic Dance Music with JavaScript!",
+      "name": "Walmik Deshpande",
+      "image": "https://pbs.twimg.com/profile_images/1004204990318108673/Gpn3uUdi_400x400.jpg",
+      "twitter": "_walmik",
+      "github": "walmik",
+      "description": "When you go to a party, what is the most common thing about the music? It's repetitive! As engineers, what comes to mind when we see something repeating again and again? Automate the damn thing! \\m/ Using simple String and Array functions we'll put together a miniature electronic dance track with the host of options available today right in the browser with the Web Audio API as well as on the terminal with Node.js! All you need is a little bit of JavaScript and a little bit of interest in music :)",
+      "video": "https://youtu.be/SySdchiCjsQ",
+      "videoimg": "https://i.imgur.com/44a8gjO.png"
+    },
+    "WmIq6QiadkaemwpYHwcBdI6S4LmZ": {
+      "title": "The Outsourcing Rollercoaster",
+      "name": "Alli McKee",
+      "image": "https://i.imgur.com/infyy6w.png",
+      "twitter": "founderofstick",
+      "github": "allimckee",
+      "description": "I'd love to talk about what it's like to build an early stage product with an outsourced team, both the pros and cons. First with a team in China, then in the Ukraine with a CTO here, then solely with a team in the Ukraine + NYC. Learnings that can be applied to teams big and small, especially in the early stages of a product. ",
+      "video": "https://youtu.be/x6wSz7hrhKw",
+      "videoimg": "https://i.imgur.com/lheTdSU.png"
+    },
+    "0ne2pe81EWkn4N6BEEEiFuvd1Kl0": {
+      "title": "LoopBack at Wordnik",
+      "name": "Erin McKean",
+      "image": "https://avatars2.githubusercontent.com/u/225433?v=3&s=400",
+      "twitter": "emckean",
+      "github": "emckean",
+      "description": "In this talk you'll learn:\n\nhow to connect LoopBack to your datasource\nhow to create a model\nhow to add a custom method\n... and more!",
+      "video": "https://youtu.be/nPz7lQNpqjc",
+      "videoimg": "https://i.imgur.com/avQuU9U.png"
+    },
+    "QyfRnazTTarToyyyvThfBHbkxyql": {
+      "title": "Render All Over the Damn Place with React Native",
+      "name": "Greg Westneat",
+      "image": "https://avatars0.githubusercontent.com/u/2213636?s=400&v=4",
+      "twitter": "leggomuhgreggo",
+      "github": "leggomuhgreggo",
+      "description": "This talk is about the concept of \"cross-platform rendering,\" where one set of view-layer primitives can be used as abstractions to render across different platforms' view-APIs. \n\"Web? iOS & Android? TV!? All with one 'effin set of templates?\" Youbetcha. \nThis talk will focus on how React Native is used for cross-platform development, and cover some of the prominent technologies and challenges involved in making \"Universal\" React Native apps for web and mobile. \n",
+      "video": "https://youtu.be/mCtYs2CUoMk",
+      "videoimg": "https://i.imgur.com/Tg0marS.png"
+    },
+    "ECOLwuuGJWevLnXtoY1KhZZZbME1": {
+      "title": "Serverless Microservices with AWS Lambda and API Gateway",
+      "name": "Alex Tamoykin",
+      "image": "https://i.imgur.com/lvMDXIc.png",
+      "twitter": "fsproru",
+      "github": "fsproru",
+      "description": "This talk is about serverless microservices with AWS Lambda and API Gateway. \nWe'll talk about pros and cons of using serverless as well as microservices, and I'll demonstrate how to set it up with AWS Lambda and API Gateway.",
+      "video": "https://youtu.be/PpXIAcwDQI0",
+      "videoimg": "https://i.imgur.com/1dPbg5r.png"
+    },
+    "FtswKzHP0CQlUau1O2OVoppfj1k4": {
+      "title": "Ethics huh!? What is it good for?",
+      "name": "Ryan Bogle",
+      "image": "https://js.la/images/team/ryan-bogle.jpg",
+      "twitter": "__ashwell__",
+      "github": "ashwell",
+      "description": "An everyday ethical approach to software engineering",
+      "video": "https://youtu.be/0vIiWaFkPuk",
+      "videoimg": "https://i.imgur.com/eXCaTNa.png"
+    },
+    "01Po92a9fIrpNBwEGyzvhXqZ0eHQ": {
+      "title": "Monkey Patching CSRF Away",
+      "name": "Joe Rozner",
+      "image": "https://pbs.twimg.com/profile_images/753631737163321344/uHROI07o_400x400.jpg",
+      "twitter": "jrozner",
+      "github": "jrozner",
+      "description": "Despite solutions in many modern frameworks Cross Site Request Forgery (CSRF) still remains an elusive problem for web application security. While we have good and proven solutions it's not uncommon to still see these vulnerabilities in modern and legacy applications in use today. Typically this is due to the solutions not being utilized by the engineers, the application's framework not having support, or the engineers subverting the functionality to work around issues in the application. We'll take a deep dive into just how CSRF works followed by why the vulnerability class exists, and finally end demonstrating a solution that can be injected into any JavaScript frontend application to add support to existing applications.",
+      "video": "https://youtu.be/lquCROhi9k0",
+      "videoimg": "https://i.imgur.com/jK6Wrsr.png"
+    },
+    "6sa2sgF0jtvUuVw4Wk6lVYqG7EPA": {
+      "title": "Becoming a programmer without a degree or a bootcamp",
+      "name": "Ben Junya",
+      "image": "https://pbs.twimg.com/profile_images/1060307268460113920/1LxU7--P_400x400.jpg",
+      "twitter": "@MrBenJ5",
+      "github": "@MrBenJ",
+      "description": "I'd like to talk about my non-traditional way of getting into the field of programming and software engineering."
+    },
+    "XnXPUvNFHRKBDtBp1f4Vfe7fUCGK": {
+      "title": "Having fun with HTTP/2 in Node.js",
+      "name": "James M Snell",
+      "image": "https://pbs.twimg.com/profile_images/951475542661857280/-05j9Fcq_400x400.jpg",
+      "twitter": "@jasnell",
+      "github": "@jasnell",
+      "description": "Showing off some of the fun stuff you can do with HTTP/2! Talk about some best practices and a bit about what may be coming down the road..."
+    }
+  },
+  "sponsors": {
+    "I50hno5HIPzkajJQXchgtwPh1Q4h": {
+      "name": "Edgecast",
+      "logo": "/images/hosts/sponsor-edge-cast.png",
+      "url": "http://edgecast.com"
+    },
+    "0bBUYNhhCWpIEULZDrTXNUM90xVh": {
+      "name": "Two Bit Circus",
+      "logo": "/images/hosts/host-two-bit.png",
+      "url": "twobitcircus.com"
+    },
+    "LuQD1G7yzBJfhyEclpgLBVTIcCia": {
+      "name": "Edgecast",
+      "logo": "/images/hosts/sponsor-edge-cast.png",
+      "url": "http://edgecast.com"
+    },
+    "T717l84HIQfdVS9JnR1tTceFmizT": {
+      "name": "The Hub LA",
+      "logo": "/images/hosts/host-the-hub.png",
+      "url": "thehubla.com"
+    },
+    "bQ9HaH19sknLcEcdynuyzXsaekrQ": {
+      "name": "Edgecast",
+      "logo": "/images/hosts/sponsor-edge-cast.png",
+      "url": "http://edgecast.com"
+    },
+    "DpxRMO6cejXBXBJuen1zqUTT76ei": {
+      "name": "html5 Dev Conf",
+      "logo": "/images/hosts/sponsor-html5devconf.png",
+      "url": "http://html5devconf-oct2012-jsla.eventbrite.com"
+    },
+    "OcoBuGYsqbUQ7lpAJPFbACCTjO2X": {
+      "name": "Edgecast",
+      "logo": "/images/hosts/sponsor-edge-cast.png",
+      "url": "http://edgecast.com"
+    },
+    "CrKVz2AMJVJAeJvMib5mKE8mtJuh": {
+      "name": "Yahoo!",
+      "logo": "/images/hosts/host-yahoo.png",
+      "url": "developer.yahoo.com"
+    },
+    "QDEh9Z73pLb3p60TZwgos1bpbmF0": {
+      "name": "CityGrid",
+      "logo": "/images/hosts/citygrid.png",
+      "url": "http://www.citygridmedia.com/"
+    },
+    "2sLxRrXw1TKGK3911CKJzs5U9wlg": {
+      "name": "Cross Campus",
+      "logo": "/images/hosts/crosscampus.png",
+      "url": "crosscamp.us"
+    },
+    "ubPTELFNJ2ae7ZgOPxV0Czxk0UQw": {
+      "name": "Yahoo!",
+      "logo": "/images/hosts/sponsor-yahoo.png",
+      "url": "developer.yahoo.com"
+    },
+    "oOeAPcnuBuGvYVxzPNabEAuXWKlA": {
+      "name": "Spire.io",
+      "logo": "/images/hosts/sponsor-spire.png",
+      "url": "spire.io"
+    },
+    "ColsvifQXUECdhpzSNbgThjogkUt": {
+      "name": "ioLA",
+      "logo": "/images/hosts/iola.png",
+      "url": "iola.la"
+    },
+    "5ROXk97fc1PRWOBetVfuezJgl71a": {
+      "name": "Spire.io",
+      "logo": "/images/hosts/sponsor-spire.png",
+      "url": "spire.io"
+    },
+    "klBfcxu7DmyEDuGEwhAY41I1A0Gl": {
+      "name": "Cross Campus",
+      "logo": "/images/hosts/crosscampus.png",
+      "url": "crosscamp.us"
+    },
+    "x3HnBdYbk4SulcsvckKpqLnssGNL": {
+      "name": "CityGrid",
+      "logo": "/images/hosts/citygrid.png",
+      "url": "http://www.citygridmedia.com/"
+    },
+    "7WxfZLBwOjaDDVCIXlfyApRRhwxy": {
+      "name": "Edgecast",
+      "logo": "/images/hosts/sponsor-edge-cast.png",
+      "url": "http://edgecast.com"
+    },
+    "ebuYh1qDj2ixgfjvCT6aZHo7B6tI": {
+      "name": "IdeaLab",
+      "logo": "/images/hosts/host-idealab.png",
+      "url": "www.idealab.com"
+    },
+    "rlnhnbT6IGQzmAsT0nrPfh2YHwOV": {
+      "name": "Edgecast",
+      "logo": "/images/hosts/sponsor-edge-cast.png",
+      "url": "http://edgecast.com"
+    },
+    "LeyZmg1H4374rvV2rcINWDXmyOxm": {
+      "name": "Yahoo!",
+      "logo": "/images/hosts/host-yahoo.png",
+      "url": "http://developer.yahoo.com/"
+    },
+    "ek7tDMIJOmdJqmE9EPDm8wooQgVc": {
+      "name": "Edgecast",
+      "logo": "/images/hosts/sponsor-edge-cast.png",
+      "url": "http://edgecast.com"
+    },
+    "etnIeNrpXevZJ8aui4pFtiWFgVK4": {
+      "name": "The Hub LA",
+      "logo": "/images/hosts/host-the-hub.png",
+      "url": "http://thehubla.com"
+    },
+    "1m5P0LY91Yusfo8CwaRZaEIMpkbt": {
+      "name": "Edgecast",
+      "logo": "/images/hosts/sponsor-edge-cast.png",
+      "url": "http://edgecast.com"
+    },
+    "dT8BWiKQYK7fMnq1yDlhCL5MqDdB": {
+      "name": "HUGE",
+      "logo": "/images/hosts/host-huge.png",
+      "url": "hugeinc.com"
+    },
+    "Zg8NNI8RvgV55F5T4bVFxKvD4CF2": {
+      "name": "Edgecast",
+      "logo": "/images/hosts/sponsor-edge-cast.png",
+      "url": "http://edgecast.com"
+    },
+    "SlG2TjrUgx7G3TfamKnqERjqyltb": {
+      "name": "HUGE",
+      "logo": "/images/hosts/host-huge.png",
+      "url": "hugeinc.com"
+    },
+    "obrvuI2AX1NpXMBcF0CpnMDcLINB": {
+      "name": "Edgecast",
+      "logo": "/images/hosts/sponsor-edge-cast.png",
+      "url": "http://edgecast.com"
+    },
+    "gH3zAwYWbUwkKB0lJE9B6ENxrwbS": {
+      "name": "The Hub LA",
+      "logo": "/images/hosts/host-the-hub.png",
+      "url": "thehubla.com"
+    },
+    "dj5TRffvKLrnfnDPXNFwQXYhJ6I9": {
+      "name": "Edgecast",
+      "logo": "/images/hosts/sponsor-edge-cast.png",
+      "url": "http://edgecast.com"
+    },
+    "GrydNpFGYbHLxPqFxQvs19a6Eus1": {
+      "name": "M-GO",
+      "logo": "/images/hosts/sponsor-m-go.png",
+      "url": "http://m-go.com"
+    },
+    "fx7WSKf6sC0q5iwGSnAFH6zru2d0": {
+      "name": "Google, Venice",
+      "logo": "/images/hosts/host-google.png",
+      "url": "google.com"
+    },
+    "S2KDp7n5LofsLUx9U8GfaUNXYP59": {
+      "name": "Edgecast",
+      "logo": "/images/hosts/sponsor-edge-cast.png",
+      "url": "http://edgecast.com"
+    },
+    "aEmpMcQHhfn6VAVXIvflfNq79rcG": {
+      "name": "Oppenheimer Group",
+      "logo": "/images/hosts/sponsor-oppenheimer.png",
+      "url": "http://www.opco.com"
+    },
+    "JqVPAov4phEtu3ofKcUx2sfiOtw0": {
+      "name": "The Hub LA",
+      "logo": "/images/hosts/host-the-hub.png",
+      "url": "thehubla.com"
+    },
+    "CCGuySJWh66jsFBkn7IppTTGkLwD": {
+      "name": "Edgecast",
+      "logo": "/images/hosts/sponsor-edge-cast.png",
+      "url": "http://edgecast.com"
+    },
+    "QWrM2HbYuMpVk3J82WFHZBW5rGtf": {
+      "name": "American Greetings",
+      "logo": "/images/hosts/sponsor-american-greetings.png",
+      "url": "/"
+    },
+    "vaYxEBkENggnHPyEVVA9wDzUjTaD": {
+      "name": "Cross Campus",
+      "logo": "/images/hosts/crosscampus.png",
+      "url": "crosscamp.us"
+    },
+    "raSbtauqWwLiBSHyfxid2X0tCZaG": {
+      "name": "Edgecast",
+      "logo": "/images/hosts/sponsor-edge-cast.png",
+      "url": "http://edgecast.com"
+    },
+    "qUReBt6eO6zc6oTUh8zab6qDOjQk": {
+      "name": "Calvin Group",
+      "logo": "/images/hosts/sponsor-calvin-group.png",
+      "url": "http://calvingroups.com/"
+    },
+    "b2NmnvFxM6YZNzaNuDpsMwQObXMG": {
+      "name": "Joyent",
+      "logo": "/images/hosts/sponsor-joyent.png",
+      "url": "http://joyent.com"
+    },
+    "diSg4ns7gtHf9OcWpoY02tjWQcZM": {
+      "name": "Yahoo",
+      "logo": "/images/hosts/host-yahoo.png",
+      "url": "http://yahoo.com/"
+    },
+    "QdzIXjOiM60gQNHwDFD3ucFZkpnr": {
+      "name": "Edgecast",
+      "logo": "/images/hosts/sponsor-edge-cast.png",
+      "url": "http://edgecast.com"
+    },
+    "dxD9t391jD4bgKyrAsL00SnDIrVC": {
+      "name": "O'Reilly",
+      "logo": "/images/hosts/sponsor-oreilly.png",
+      "url": "http://velocityconf.com/ny"
+    },
+    "maDhKJG8tHNdgEmmUJ8fCcCftrzC": {
+      "name": "Maker Studios",
+      "logo": "/images/hosts/host-maker.png",
+      "url": "http://www.makerstudios.com/"
+    },
+    "VGmgSd7aCaYW5iwYO7XIXO80rtld": {
+      "name": "Edgecast",
+      "logo": "/images/hosts/sponsor-edge-cast.png",
+      "url": "http://edgecast.com"
+    },
+    "2P84cSL15RIOa6SjAmy25lyFkQSz": {
+      "name": "Two Bit Circus",
+      "logo": "/images/hosts/host-two-bit.png",
+      "url": "http://twobitcircus.com"
+    },
+    "bDES0yuVbwszl1rYOCsUHQdgTYQ4": {
+      "name": "Edgecast",
+      "logo": "/images/hosts/sponsor-edge-cast.png",
+      "url": "http://edgecast.com"
+    },
+    "iiJC9y7GYdTcE6gWNr0QciJFhAB5": {
+      "name": "Dollar Shave Club",
+      "logo": "/images/hosts/sponsor-dollar-shave-club.png",
+      "url": "http://dollarshaveclub.com/"
+    },
+    "xvoB4WyIgRfmTvoMpi8VcDRdfz8V": {
+      "name": "SapientNitro",
+      "logo": "/images/hosts/host-sapient-nitro.png",
+      "url": "http://sapientnitro.com"
+    },
+    "CfXHQKyfIY5g9nhgXjPZGXuBK3Ca": {
+      "name": "Edgecast",
+      "logo": "/images/hosts/sponsor-edge-cast.png",
+      "url": "http://edgecast.com"
+    },
+    "JbCUlLKkKbPitgPsy7tgl7BMtGlm": {
+      "name": "Dollar Shave Club",
+      "logo": "/images/hosts/sponsor-dollar-shave-club.png",
+      "url": "http://dollarshaveclub.com/"
+    },
+    "RxZUddVm1zANihBBZ42XQVDo6qeh": {
+      "name": "SapientNitro",
+      "logo": "/images/hosts/host-sapient-nitro.png",
+      "url": "http://sapientnitro.com"
+    },
+    "q58cYCONDC1lEls4UGVBsJY7CYFn": {
+      "name": "Edgecast",
+      "logo": "/images/hosts/sponsor-edge-cast.png",
+      "url": "http://edgecast.com"
+    },
+    "wWqdeyByQ7tsnjJELJyBYsfulnNm": {
+      "name": "Dollar Shave Club",
+      "logo": "/images/hosts/sponsor-dollar-shave-club.png",
+      "url": "http://dollarshaveclub.com/"
+    },
+    "qXz6Z0iYmfbrnysuKPR17JdH4APg": {
+      "name": "SapientNitro",
+      "logo": "/images/hosts/host-sapient-nitro.png",
+      "url": "http://sapientnitro.com"
+    },
+    "Ue3Sd5AmGuJSuE7Q2NaqDCNd98v7": {
+      "name": "Edgecast",
+      "logo": "/images/hosts/sponsor-edge-cast.png",
+      "url": "http://edgecast.com"
+    },
+    "gmjt9jhHkrTVoLY1RwAPRU95pHgj": {
+      "name": "Dollar Shave Club",
+      "logo": "/images/hosts/sponsor-dollar-shave-club.png",
+      "url": "http://dollarshaveclub.com/"
+    },
+    "Ch0zrtIEDStnKz1AK53tx7E4BsL8": {
+      "name": "SapientNitro",
+      "logo": "/images/hosts/host-sapient-nitro.png",
+      "url": "http://sapientnitro.com"
+    },
+    "s0MV6SRvD4ZOxHkySyCFrb5GyGYm": {
+      "name": "Edgecast",
+      "logo": "/images/hosts/sponsor-edge-cast.png",
+      "url": "http://edgecast.com"
+    },
+    "SNnouZPgmdoRP3oLBEMorHHXmmi4": {
+      "name": "Dollar Shave Club",
+      "logo": "/images/hosts/sponsor-dollar-shave-club.png",
+      "url": "http://dollarshaveclub.com/"
+    },
+    "cbqUBndq5ZXzJiFLuSBDpUldTMYq": {
+      "name": "Yahoo",
+      "logo": "/images/hosts/host-yahoo.png",
+      "url": "http://yahoo.com"
+    },
+    "clS3542AZEVRZID4EZBjmh6rknMB": {
+      "name": "Edgecast",
+      "logo": "/images/hosts/sponsor-edge-cast.png",
+      "url": "http://edgecast.com"
+    },
+    "GzBPT4Vb0y48VRHFgwjwhyU71gw7": {
+      "name": "Dollar Shave Club",
+      "logo": "/images/hosts/sponsor-dollar-shave-club.png",
+      "url": "http://dollarshaveclub.com/"
+    },
+    "h816HakwdHPfQ3IUDrOoipB2a76Z": {
+      "name": "Yahoo",
+      "logo": "/images/hosts/host-yahoo.png",
+      "url": "http://yahoo.com"
+    },
+    "LDEABslJGi632nxsNxSkEYAlwiVn": {
+      "name": "Fullscreen",
+      "logo": "/images/hosts/sponsor-fullscreen.png",
+      "url": "http://www.fullscreen.com/"
+    },
+    "lIQxcNWt9RhoodVaPdMJEDQaMwuv": {
+      "name": "McGraw-Hill Education",
+      "logo": "/images/hosts/sponsor-mcgraw-hill.png",
+      "url": "http://www.mheducation.com/"
+    },
+    "tBO4PqQ0q5YZMy7UkXged7rvcSFu": {
+      "name": "WeMash",
+      "logo": "/images/hosts/sponsor-wemash.png",
+      "url": "http://www.wemash.com/"
+    },
+    "iff4jpE1EKDqh7wuaJ3iyNcOxrK0": {
+      "name": "Maker Studios",
+      "logo": "/images/hosts/host-maker.png",
+      "url": "http://www.makerstudios.com/"
+    },
+    "Zi2NiBdAysEh9Ayj4B0VUnXPuZ7r": {
+      "name": "Verizon",
+      "logo": "/images/hosts/host-verizon.png",
+      "url": "https://www.verizondigitalmedia.com/"
+    },
+    "v9OGW4NZVFPxqoIIbvO15D4xpkJf": {
+      "name": "MakerSquare",
+      "logo": "/images/hosts/host-makersquare.png",
+      "url": "http://www.makersquare.com/"
+    },
+    "htL7fEmTYtpsMeSsBA1Gdzbf0ezc": {
+      "name": "EdgeCast",
+      "logo": "/images/hosts/sponsor-edge-cast.png",
+      "url": "http://edgecast.com"
+    },
+    "vwH3HJCSvbh5TEbwJGIBq4C7Ygqz": {
+      "name": "Codesmith",
+      "logo": "/images/hosts/host-codesmith.png",
+      "url": "https://codesmith.io/"
+    },
+    "ChaFuRjMeX9tvgiVspWqoPZ2qdQi": {
+      "name": "Netbus Engineering",
+      "logo": "/images/hosts/sponsor-netbus.png",
+      "url": "http://www.netbuseg.com"
+    },
+    "a3Gvf2QnuYE1iY9nfb5kQUqFP1pS": {
+      "name": "EdgeCast",
+      "logo": "/images/hosts/sponsor-edge-cast.png",
+      "url": "http://edgecast.com"
+    },
+    "Qn0E1s2v2VcRCdO1xL15bNjLIFiJ": {
+      "name": "Netbus Engineering",
+      "logo": "/images/hosts/sponsor-netbus.png",
+      "url": "http://www.netbuseg.com"
+    },
+    "6h101v9V20cg0ZOXags1do2xcneE": {
+      "name": "Google, Venice",
+      "logo": "/images/hosts/host-google.png",
+      "url": "https://google.com"
+    },
+    "sapAFcGBLRPw0ISVm6hRjHR6J4bI": {
+      "name": "Intel",
+      "logo": "/images/hosts/sponsor-intel.jpg",
+      "url": "https://software.intel.com/en-us/iot"
+    },
+    "oFWxUGPQlCKbKN7ErCJ6gdZMtAZX": {
+      "name": "EdgeCast",
+      "logo": "/images/hosts/sponsor-edge-cast.png",
+      "url": "http://edgecast.com"
+    },
+    "eKyn0Lf1hosEv9CT0MZFVOPUDxyd": {
+      "name": "Yahoo!",
+      "logo": "/images/hosts/host-yahoo.png",
+      "url": "http://developer.yahoo.com"
+    },
+    "3FOqO4kNnKLxyfLjsGpbEpDFizRz": {
+      "name": "Intel",
+      "logo": "/images/hosts/sponsor-intel.jpg",
+      "url": "https://software.intel.com/en-us/iot"
+    },
+    "2wP6qgakgRP65yudba5hNKVgBXoO": {
+      "name": "EdgeCast",
+      "logo": "/images/hosts/sponsor-edge-cast.png",
+      "url": "http://edgecast.com"
+    },
+    "7I6RSdMYPKqsO1HdhiHyYPjX5o6C": {
+      "name": "SapientNitro",
+      "logo": "/images/hosts/host-sapient-nitro.png",
+      "url": "http://sapientnitro.com"
+    },
+    "KK2FxdruhadEfb6797OD2JfwXsDj": {
+      "name": "Edgecast",
+      "logo": "/images/hosts/sponsor-edge-cast.png",
+      "url": "http://edgecast.com"
+    },
+    "4xRWARcA7xcYImqgGZqHWNccEPe4": {
+      "name": "Crowdrise",
+      "logo": "/images/hosts/sponsor-crowdrise.png",
+      "url": "https://www.crowdrise.com/about/jobs"
+    },
+    "Lft1N2zHi18LmJNlxmcR55kE5z4P": {
+      "name": "Codesmith",
+      "logo": "/images/hosts/host-codesmith.png",
+      "url": "http://www.codesmith.io/"
+    },
+    "hAsOiNm8hWef8NtQ5TtuY8SAfDuS": {
+      "name": "Monarc Gaming Labs",
+      "logo": "/images/hosts/host-monarc.png",
+      "url": "http://www.monarcy.com/"
+    },
+    "iJGWtDSq4jLL69Suog8IyjF7ciRU": {
+      "name": "Convertro",
+      "logo": "/images/hosts/sponsor-convertro.jpg",
+      "url": "http://www.convertro.com/"
+    },
+    "bVnvbTOTZh2D6E9h0AfK5qD3bWA3": {
+      "name": "Yahoo!",
+      "logo": "/images/hosts/host-yahoo.png",
+      "url": "http://developer.yahoo.com/"
+    },
+    "Z61Lw7oA2bn8Kk6JwhOEHu1rFQU1": {
+      "name": "Edgecast",
+      "logo": "/images/hosts/sponsor-edge-cast.png",
+      "url": "http://edgecast.com"
+    },
+    "MXR60DNjk2MGNHELPiWmHS5AndSi": {
+      "name": "Farmers Insurance",
+      "logo": "/images/hosts/sponsor-farmerinsurance.png",
+      "url": "https://www.farmers.com/careers/"
+    },
+    "UP1zxb7Fb1NHgx9uY6tWsAB8am3C": {
+      "name": "Hack Reactor",
+      "logo": "/images/hosts/host-hackreactor.png",
+      "url": "http://www.hackreactor.com/"
+    },
+    "gvmdUzUG53zpO0tYvLfhDADBYyKY": {
+      "name": "Farmers Insurance",
+      "logo": "/images/hosts/sponsor-farmerinsurance.png",
+      "url": "https://www.farmers.com/careers/"
+    },
+    "tzYytnI3SIzo85ImU8Y2BupGMGNo": {
+      "name": "Riot Games",
+      "logo": "/images/hosts/sponsor-riotgames.png",
+      "url": "https://engineering.riotgames.com/"
+    },
+    "ULR5TPMdiq3jBX5qJRDWp55lIVAC": {
+      "name": "Remine",
+      "logo": "/images/hosts/sponsor-remine.png",
+      "url": "http://remine.com/"
+    },
+    "C2cIRt7710kuEuzLceWA0QdXOhD8": {
+      "name": "Philosophie",
+      "logo": "/images/hosts/sponsor-philosophie.png",
+      "url": "http://philosophie.is/"
+    },
+    "gyBl2E6o4XudSX7ScgKjKLdySpB8": {
+      "name": "Remine",
+      "logo": "/images/hosts/sponsor-remine.png",
+      "url": "http://remine.com/"
+    },
+    "6IWaBxHMzuXXTdSwWobsGbTuvDXb": {
+      "name": "Codesmith",
+      "logo": "/images/hosts/host-codesmith.png",
+      "url": "https://codesmith.io/"
+    },
+    "Wkow0I66oQhrR3MH6Q7LEZlGJkiF": {
+      "name": "Indeed",
+      "logo": "/images/hosts/sponsor-indeed.png",
+      "url": "http://www.indeed.com/prime?sid=socalnodejs&kw=june2016"
+    },
+    "GdrofEmwhceGoAVuFt9HqNUoy90K": {
+      "name": "Dollar Shave Club",
+      "logo": "/images/hosts/sponsor-dollar-shave-club.png",
+      "url": "http://dollarshaveclub.com/"
+    },
+    "wpWls4UeNUqU8IXNrUiBkG6OUODo": {
+      "name": "Interlincx",
+      "logo": "/images/hosts/sponsor-interlincx.png",
+      "url": "http://www.interlincx.com/jsla"
+    },
+    "CqiDxUX6bk9kxDLdDqWkTGrTsFHq": {
+      "name": "MarketShare",
+      "logo": "/images/hosts/sponsor-marketshare.svg",
+      "url": "http://www.marketshare.com/"
+    },
+    "vdEoqfvzx42cBDwMv8UkDDGhgnDs": {
+      "name": "Interlincx",
+      "logo": "/images/hosts/sponsor-interlincx.png",
+      "url": "http://www.interlincx.com/jsla"
+    },
+    "jb8TbGZ8TOV5Qnoq904ErROanvc7": {
+      "name": "MakerSquare",
+      "logo": "/images/hosts/host-makersquare.png",
+      "url": "http://www.makersquare.com/"
+    },
+    "BkYw3GFeGUKsgsQ9jJQDgLvlNk3l": {
+      "name": "McGraw-Hill Education",
+      "logo": "/images/hosts/sponsor-mcgraw-hill.png",
+      "url": "http://www.mheducation.com/"
+    },
+    "IwH8NtDwbUz9vGbtdCw7ZCs6HTNA": {
+      "name": "Interlincx",
+      "logo": "/images/hosts/sponsor-interlincx.png",
+      "url": "http://www.interlincx.com/jsla"
+    },
+    "xFILZhprxbZhAJnrmH7gL0lmC7Jd": {
+      "name": "Philosophie",
+      "logo": "/images/hosts/sponsor-philosophie.png",
+      "url": "http://philosophie.is/"
+    },
+    "f3hMABqOts5O6Gr2LCEA0I3VHJ7I": {
+      "name": "McGraw-Hill Education",
+      "logo": "/images/hosts/sponsor-mcgraw-hill.png",
+      "url": "http://www.mheducation.com/"
+    },
+    "KgOCTH4FqIz3HVdctNUVWCo609Sm": {
+      "name": "Signal Sciences",
+      "logo": "/images/hosts/sponsor-signal-sciences.svg",
+      "url": "https://signalsciences.com/r/ejsla"
+    },
+    "sOa6KMjHKbsANvY0JGR1oZTLOULa": {
+      "name": "McGraw-Hill Education",
+      "logo": "/images/hosts/sponsor-mcgraw-hill.png",
+      "url": "http://www.mheducation.com/"
+    },
+    "JlKbt7V49kUEqye1lqnP6TYhI0lb": {
+      "name": "NodeJS Foundation",
+      "logo": "/images/hosts/sponsor-nodejs.png",
+      "url": "http://live.nodejs.org/events/los-angeles.html"
+    },
+    "ZHUrIwf0kN1sgVokpFe8SOOrPqpv": {
+      "name": "UCLA",
+      "logo": "/images/hosts/sponsor-ucla.png",
+      "url": "http://www.ucla.edu/"
+    },
+    "ymy1rG86gYYQWXC0xDpysQt2BH7G": {
+      "name": "McGraw-Hill Education",
+      "logo": "/images/hosts/sponsor-mcgraw-hill.png",
+      "url": "http://www.mheducation.com/"
+    },
+    "CnflnRrFFEXAwRzqeGbVEwXKbtlK": {
+      "name": "PatientPop",
+      "logo": "/images/hosts/host-patientpop.png",
+      "url": "https://www.patientpop.com/"
+    },
+    "6cmTiXneD5oDVCGz9r4Rzfr0vgKv": {
+      "name": "Dollar Shave Club",
+      "logo": "/images/hosts/sponsor-dollar-shave-club.png",
+      "url": "http://www.dollarshaveclub.com/"
+    },
+    "QQT17Y7Ds3N3XLNHlGrkNhpvY9JH": {
+      "name": "Betagig",
+      "logo": "/images/hosts/host-betagig.png",
+      "url": "https://betagig.tech"
+    },
+    "p1E7yAPbYTcerHUwJLYJxs5P3gnQ": {
+      "name": "TigerText",
+      "logo": "/images/hosts/host-tigertext.png",
+      "url": "https://www.tigertext.com/"
+    },
+    "R2Xc4FANKJOGKmjpFiPPGHzVI6tt": {
+      "name": "Signal Sciences",
+      "logo": "/images/hosts/sponsor-signal-sciences.svg",
+      "url": "https://www.signalsciences.com/"
+    },
+    "K5PcvzCUmTzbHO4GTtAhenY46THS": {
+      "name": "Edmunds",
+      "logo": "/images/hosts/host-edmunds.png",
+      "url": "https://www.edmunds.com/careers/"
+    },
+    "CYYKttV0OT4ifOAstyunxqUj4vpy": {
+      "name": "Headspace",
+      "logo": "/images/hosts/host-headspace.png",
+      "url": "https://www.headspace.com/join-us"
+    },
+    "ECbdtAiLdm19ZkL2m3xPR0RLCFOH": {
+      "name": "FullStack React",
+      "logo": "/images/hosts/sponsor-fullstackreact.png",
+      "url": "https://www.fullstackreact.com/"
+    },
+    "vz6THEpVli1suBRLwjVvXUVi9HA0": {
+      "name": "Philosophie",
+      "logo": "/images/hosts/host-philosophie.png",
+      "url": "https://philosophie.is/"
+    },
+    "nUJpyaoq7DpAcIxHJfhlux3zcdy6": {
+      "name": "FullStack React",
+      "logo": "/images/hosts/sponsor-fullstackreact.png",
+      "url": "https://www.fullstackreact.com/"
+    },
+    "OMzABANR4JvJn9DCihWV6aEyhWaJ": {
+      "name": "Google",
+      "logo": "/images/hosts/host-google-upcoming-events-banner.png",
+      "url": "https://careers.google.com/locations/los-angeles/"
+    },
+    "Y8wGzIszrDF6WSNkkz258OofUjAM": {
+      "name": "SapientRazorfish",
+      "logo": "/images/hosts/host-sapient-nitro-scaled.png",
+      "url": "http://www.sapientrazorfish.com/"
+    },
+    "nQMOa4A0GPwHoEUrWvuRp2cZBPFw": {
+      "name": "RisingStack",
+      "logo": "/images/hosts/sponsor-risingstack-scaled.png",
+      "url": "https://risingstack.com/trainings"
+    },
+    "yybtDUaFQmWJAW5npIQ6x93zYAFw": {
+      "name": "Signal Sciences",
+      "logo": "/images/hosts/sponsor-signal-sciences.svg",
+      "url": "https://www.signalsciences.com/"
+    },
+    "1hJfiVO3rybiQQiq0bg81nJUUrdG": {
+      "name": "Headspace",
+      "logo": "/images/hosts/host-headspace.png",
+      "url": "https://www.headspace.com/join-us"
+    },
+    "sONcfzjaMZVk8ce45K3OabwoukUy": {
+      "name": "Signal Sciences",
+      "logo": "/images/hosts/sponsor-signal-sciences.svg",
+      "url": "https://www.signalsciences.com/"
+    },
+    "kb5Zg09XUJoAO4ZAW302J8QstERx": {
+      "name": "Hewlett Packard Enterprise",
+      "logo": "/images/hosts/hpe.png",
+      "url": "https://www.hpe.com/us/en/servers/nonstop.html"
+    },
+    "PAeGYs8zCrHHThMH2jjWaSWAWwC5": {
+      "name": "Honey",
+      "logo": "/images/hosts/host-honey.png",
+      "url": "https://www.joinhoney.com/careers"
+    },
+    "Z0HSJNmNjkNgkHbbFM95MKDaxfhE": {
+      "name": "Rollmob",
+      "logo": "/images/hosts/rollmob.png",
+      "url": "http://rollmob.com"
+    },
+    "KbeuVowC4nxF7vEf9kHcalqqwlgu": {
+      "name": "GoGuardian",
+      "logo": "/images/hosts/goguardian.png",
+      "url": "https://www.goguardian.com/careers.html"
+    },
+    "tJaoTtydZWFvv8zkfZOmDsarPMvh": {
+      "name": "Codesmith",
+      "logo": "/images/hosts/host-codesmith.png",
+      "url": "https://codesmith.io/"
+    },
+    "RqPKh66QyhaExwhIbcoz6NE053SE": {
+      "name": "Headspace",
+      "logo": "/images/hosts/host-headspace.png",
+      "url": "https://www.headspace.com/join-us"
+    },
+    "vdpIsW4sbck7ES0MHn17QnPOkbbD": {
+      "name": "Earny, Inc.",
+      "logo": "http://imagizer.imageshack.us/a/img924/7328/Nni1O3.png",
+      "url": "https://www.earny.co/jobs"
+    },
+    "Q4XBBz1ir96K0hiWYpFgWFw43NxV": {
+      "name": "Codesmith",
+      "logo": "https://js.la/images/hosts/host-codesmith.png",
+      "url": "https://codesmith.io"
+    },
+    "ifpYA2qxiqqZoFaC97b7fUwdn0XC": {
+      "name": "VideoAmp",
+      "logo": "https://i.imgur.com/CQOJNrh_d.jpg?maxwidth=640&shape=thumb&fidelity=medium",
+      "url": "https://videoamp.engineering"
+    },
+    "AIiywhOkRlzkJ4Fr1iguzTKFAge6": {
+      "name": "PatientPop",
+      "logo": "https://i.imgur.com/BqAprBu.png",
+      "url": "https://www.patientpop.com/"
+    },
+    "JxnKfGM7WkaltQ8aEBqVFAsMc8yg": {
+      "name": "Codesmith",
+      "logo": "https://js.la/images/hosts/host-codesmith.png",
+      "url": "https://codesmith.io"
+    },
+    "YmETjvsEndDC0p9DWkDAzsiQMqjT": {
+      "name": "VideoAmp",
+      "logo": "https://i.imgur.com/CQOJNrh_d.jpg?maxwidth=640&shape=thumb&fidelity=medium",
+      "url": "https://videoamp.engineering"
+    },
+    "uw2dLhx99tP0mf2BYHG3IJKEBcQ0": {
+      "name": "VideoAmp",
+      "logo": "https://i.imgur.com/CQOJNrh_d.jpg?maxwidth=640&shape=thumb&fidelity=medium",
+      "url": "https://videoamp.engineering"
+    },
+    "otP2fWnQoSCbi4sJVJ62zxTgIx7e": {
+      "name": "Codesmith",
+      "logo": "https://js.la/images/hosts/host-codesmith.png",
+      "url": "https://codesmith.io"
+    },
+    "bWfU6sneRhgLytDWjSstfWsu9Vx0": {
+      "name": "REX Real Estate Inc",
+      "logo": "https://s3.amazonaws.com/org-rex-media/marketing/logos/rex_logo_sponsor_b.png",
+      "url": "http://www.rexchange.com"
+    },
+    "3OLQgQKPAlS3BoavvhNl37cbVgpa": {
+      "name": "Dollar Shave Club",
+      "logo": "https://i.imgur.com/sFV7Ow6.png",
+      "url": "https://www.dollarshaveclub.com/"
+    },
+    "wrLTZDAjQEhPtuhoYS4oI2UvseTk": {
+      "name": "Earny, Inc.",
+      "logo": "http://imagizer.imageshack.us/a/img924/7328/Nni1O3.png",
+      "url": "https://www.earny.co/jobs"
+    },
+    "tizgeh6me1hzsEX13BmYYa6rXlxy": {
+      "name": "Codesmith",
+      "logo": "https://js.la/images/hosts/host-codesmith.png",
+      "url": "https://codesmith.io"
+    },
+    "az0hyS6lzwHlMx4OJuFfVwlMfWmQ": {
+      "name": "Honey",
+      "logo": "https://cdn.joinhoney.com/images/website-press-page/honey-images/honey-logo.svg",
+      "url": "https://www.joinhoney.com/"
+    },
+    "RWdVikDgeOx03NdkxGox2HZ3KGrp": {
+      "name": "Codesmith",
+      "logo": "https://js.la/images/hosts/host-codesmith.png",
+      "url": "https://codesmith.io"
+    },
+    "r1aktxavUdpE5ETU1BHBrLX00WCR": {
+      "name": "Smarkets",
+      "logo": "https://raw.githubusercontent.com/jsla/js.la/master/public/images/hosts/sponsor-smarkets.png",
+      "url": "http://smarkets.us/"
+    },
+    "WMK0OK60vfNYOREqWyngphuXFIeo": {
+      "name": "Edmunds.com",
+      "logo": "https://js.la/images/hosts/host-edmunds.png",
+      "url": "https://www.edmunds.com/careers/"
+    },
+    "f7RVHrhcMscuiStv629gwoYZhtza": {
+      "name": "Dollar Shave Club",
+      "logo": "https://i.imgur.com/sFV7Ow6.png",
+      "url": "https://www.dollarshaveclub.com/careers"
+    },
+    "4OsxrCmhje83bmUosNSlKzl68IKr": {
+      "name": "Codesmith",
+      "logo": "https://js.la/images/hosts/host-codesmith.png",
+      "url": "https://codesmith.io"
+    },
+    "fDVLIbRMkItZ7naUwrfj9BxjJ1t5": {
+      "name": "Smarkets",
+      "logo": "https://raw.githubusercontent.com/jsla/js.la/master/public/images/hosts/sponsor-smarkets.png",
+      "url": "http://smarkets.us/"
+    },
+    "ZBr9vSelTj4OfH2KsIpvE0EjHY1E": {
+      "name": "Dollar Shave Club",
+      "logo": "https://i.imgur.com/sFV7Ow6.png",
+      "url": "https://www.dollarshaveclub.com/careers"
+    },
+    "KlNIcbQMNeh8AKnk5I7dLWLbLwe2": {
+      "name": "Codesmith",
+      "logo": "https://js.la/images/hosts/host-codesmith.png",
+      "url": "https://codesmith.io"
+    },
+    "KOx4525FRLDhmMNNbJ46epyjHkg5": {
+      "name": "Open Listings",
+      "logo": "https://i.imgur.com/2qqxCja.png",
+      "url": "https://www.openlistings.com"
+    },
+    "wl5Yysyp5skjkMMTZWkzW1aO5HHp": {
+      "name": "Codesmith",
+      "logo": "https://js.la/images/hosts/host-codesmith.png",
+      "url": "https://codesmith.io"
+    },
+    "keZctGRlJpz7DacVhaV8RVDFUIKY": {
+      "name": "Twilio",
+      "logo": "https://www.twilio.com/marketing/bundles/company-brand/img/logos/red/twilio-logo-red.png",
+      "url": "http://twilio.com"
+    },
+    "hzVdMDNuAI4WyfF8VnyVih1jImcL": {
+      "name": "Edmunds.com",
+      "logo": "https://js.la/images/hosts/host-edmunds.png",
+      "url": "https://www.edmunds.com/careers/"
+    },
+    "OigHsVfQTne5vlPfyUWjGToYUuPp": {
+      "name": "Codesmith",
+      "logo": "https://js.la/images/hosts/host-codesmith.png",
+      "url": "https://codesmith.io"
+    },
+    "31Eu98Q69ItMTyZG2R32gXRnszyF": {
+      "name": "Twilio",
+      "logo": "https://www.twilio.com/marketing/bundles/company-brand/img/logos/red/twilio-logo-red.png",
+      "url": "http://twilio.com"
+    },
+    "yShWbbLVRvv5BrByQUIoz9o4hHrp": {
+      "name": "Headspace",
+      "logo": "https://i.imgur.com/AVv0Vhc.png",
+      "url": "https://www.headspace.com/"
+    },
+    "SyzYy1McCObpkGU0Y6sqfYP7p51A": {
+      "name": "Dollar Shave Club",
+      "logo": "https://i.imgur.com/sFV7Ow6.png",
+      "url": "https://www.dollarshaveclub.com/careers"
+    },
+    "EgstbQgAtC2xE4iHkSyYoFh9uoor": {
+      "name": "Codesmith",
+      "logo": "https://js.la/images/hosts/host-codesmith.png",
+      "url": "https://codesmith.io"
+    }
+  },
+  "team": [
+    {
+      "name": "David Guttman",
+      "avatar": "/images/team/david-guttman.jpg",
+      "twitter": "davidguttman",
+      "slack": "dguttman"
+    },
+    {
+      "name": "Ryan Bogle",
+      "avatar": "/images/team/ryan-bogle.jpg",
+      "twitter": "__ashwell__",
+      "slack": "ashwell"
+    },
+    {
+      "name": "Rouzbeh Sarrafieh",
+      "avatar": "/images/team/rouzbeh-sarrafieh.jpg",
+      "twitter": "rouzbeh84",
+      "slack": "rouzbeh"
+    },
+    {
+      "name": "Spencer Allen",
+      "avatar": "/images/team/spencer-allen.jpg",
+      "twitter": "spencer_allen",
+      "slack": "Spencer.allen"
+    },
+    {
+      "name": "Jarrett Harris",
+      "avatar": "/images/team/jarrett-harris.jpg",
+      "twitter": "twinbnottwina",
+      "slack": "jarrett"
+    },
+    {
+      "name": "Ben Junya",
+      "avatar": "/images/team/ben-junya.jpg",
+      "twitter": "MrBenJ5",
+      "slack": "benjunya"
+
+    }
+  ],
+  "alumni": [
+    {
+      "name": "Omar de Armas",
+      "avatar": "/images/team/omar-de-armas.jpg",
+      "twitter": "omarcito",
+      "slack": "omarcito"
+    },
+    {
+      "name": "Jacob Lowe",
+      "avatar": "/images/team/jacob-lowe.jpg",
+      "twitter": "jcblw",
+      "slack": "jcblw"
+    },
+    {
+      "name": "Jason Campbell",
+      "avatar": "/images/team/jason-campbell.jpg",
+      "twitter": "jxson",
+      "slack": "jxson"
+    },
+    {
+      "name": "Mike Matuzak",
+      "avatar": "/images/team/michael-matuzak.jpg",
+      "twitter": "mmatuzak",
+      "slack": "mike"
+    },
+    {
+      "name": "Ryan Regalado",
+      "avatar": "/images/team/ryan-regalado.jpg",
+      "twitter": "design48",
+      "slack": "d48"
+    },
+    {
+      "name": "Nate Lubeck",
+      "avatar": "/images/team/nate-lubeck.jpg",
+      "twitter": "etanlubeck",
+      "slack": "etanlubeck"
+    },
+    {
+      "name": "Sean Westfall",
+      "avatar": "/images/team/sean-westfall.jpeg",
+      "twitter": "alphonse86",
+      "slack": "sean"
+    }
+  ],
+  "pastSponsors": []
+}

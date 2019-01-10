@@ -1,0 +1,54 @@
+<section class="wrapper style3 container special firstbox">
+    <header class="major">
+        <h2>The js.la team</h2>
+    </header>
+    <% for(var i=0;i<public._data.team.length;i++){ 
+let member = public._data.team[i];
+if(i%2==0){%>
+    <div class="row">
+        <%}%>
+        <div class="col-6 col-12-narrower">
+            <section>
+                <a href="#" class="image featured"><img src="<%= member.avatar %>" alt="" /></a>
+                <header>
+                    <h3>
+                        <%= member.name %>
+                    </h3>
+                </header>
+                <p><i class="icon fa-slack"></i> <b>
+                        <%= member.slack %></b>
+                    <i class="icon fa-twitter"></i> <b>
+                        <%= member.twitter %></b></p>
+            </section>
+        </div>
+        <%if(i%2==1){%>
+    </div>
+    <% }} %>
+</section>
+<section class="wrapper style3 container special firstbox">
+    <header class="major">
+        <h2>Alumni</h2>
+    </header>
+    <% for(var i=0;i<public._data.alumni.length;i++){ 
+        let member = public._data.alumni[i];
+        if(i%2==0){%>
+    <div class="row">
+        <%}%>
+        <div class="col-6 col-12-narrower">
+            <section>
+                <a href="#" class="image featured"><img src="<%= member.avatar %>" alt="" /></a>
+                <header>
+                    <h3>
+                        <%= member.name %>
+                    </h3>
+                </header>
+                <p><i class="icon fa-slack"></i> <b>
+                        <%= member.slack %></b>
+                    <i class="icon fa-twitter"></i> <b>
+                        <%= member.twitter %></b></p>
+            </section>
+        </div>
+        <%if(i%2==1){%>
+    </div>
+    <% }} %>
+</section>
