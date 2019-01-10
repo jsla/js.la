@@ -1,0 +1,70 @@
+<% include ../_helpers.ejs %>
+<script>
+    function switchSpeakersDescriptionLength(i) {
+        if ($("#text-less" + i.toString()).attr('hidden') == "hidden") {
+            $("#text-less" + i.toString()).removeAttr('hidden')
+            $("#read-more-less-button" + i).text("Read more")
+        } else {
+            $("#text-less" + i.toString()).attr('hidden', "hidden")
+            $("#read-more-less-button" + i).text("Read less")
+        }
+        if ($("#text-more" + i.toString()).attr('hidden') == "hidden") {
+            $("#text-more" + i.toString()).removeAttr('hidden')
+        } else {
+            $("#text-more" + i.toString()).attr('hidden', "hidden")
+        }
+
+    }
+</script>
+<header class="special container">
+    <span class="icon fa-laptop"></span>
+    <h2>Presentations from
+        <%= year %>
+    </h2>
+</header>
+<% for(var j=0;j<public._data.events.length;j++){
+    let event = public._data.events[j]; 
+    if(new Date(event.date).getYear()+1900!=year)continue;
+    %>
+<section class="wrapper style3 container special">
+    <h1 style="font-weight: 500; font-size: 28px;">
+        <%= dateToReadable(new Date(event.date)) %>
+    </h1>
+    <div class="row" id="speakers">
+        <% for(var i=0;i<event.speakers.length;i++){
+                let speaker = public._data.speakers[event.speakers[i]]; %>
+        <div class="col-6 col-12-narrower speaker">
+            <section>
+                <span><img class="speaker-photo" src="<%= pathToUrl(speaker.image) %>" /></span>
+                <span>
+                    <h4>
+                        <%= speaker.name %>
+                        <a href="https://www.github.com/<%= speaker.github %>"><span class="icon fa-github" style="color: #050505"></span></a>
+                        <a href="https://www.twitter.com/<%= speaker.twitter %>"><span class="icon fa-twitter" style="color: #01B9FF"></span></a>
+                    </h4>
+                </span>
+                <header>
+                    <h3 class="speaker-description" style="font-weight: 400">
+                        <%= speaker.title %>
+                    </h3>
+                </header>
+                <% if(speaker.description){ %>
+                <p id="text-less<%=i%>-<%=j%>" class="speaker-abstract">
+                    <%= speaker.description.substring(0, 100)+(speaker.description.length>100?"...":"") %>
+                    <p id="text-more<%=i%>-<%=j%>" class="speaker-abstract" hidden=1>
+                        <%= speaker.description %>
+                    </p><%}%>
+                    <button id="read-more-less-button<%=i%>-<%=j%>" onclick=switchSpeakersDescriptionLength("<%=i%>-<%=j%>")>Read
+                        more</button>
+                    <% if(pathToUrl(speaker.video) && speaker.video.indexOf("vimeo")==-1){ %>
+                    <a href="<%= pathToUrl(speaker.video) %>" data-lity class="jsla-video-container"><img src="<%=pathToUrl(speaker.videoimg)%>"
+                            class="videoimg"></a>
+                    <% } %>
+            </section>
+        </div>
+        <% } %>
+    </div>
+    <%- partial("../_partials/sponsors", {event: event}) %>
+</section>
+<hr>
+<% } %>

@@ -1,0 +1,14 @@
+<%if(event.sponsors.length>0){ %><div class="jsla-sponsors">
+        <h3>Sponsored by:</h3>
+        <div class="sponsors-list">
+            <% for(var i=0;i<event.sponsors.length;i++){
+                let sponsor = public._data.sponsors[event.sponsors[i]]%>
+                <a href="<%= sponsor.url %>">
+                    <div class="sponsor" style="background-image: url(<%= pathToUrl(sponsor.logo) %>)">
+
+                    </div>
+                </a>
+            <% } %>
+        </div>
+    </div>
+    <%}%>

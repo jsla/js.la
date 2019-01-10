@@ -1,0 +1,27 @@
+<% include ../_helpers.ejs %>
+<section id="banner">
+  <!--
+    ".inner" is set up as an inline-block so it automatically expands
+    in both directions to fit whatever's inside it. This means it won't
+    automatically wrap lines, so be sure to use line breaks where
+    appropriate (<br />).
+  -->
+  <div class="inner">
+    <header><h2>js.la</h2></header>
+    <p>
+      The Los Angeles Javascript meetup <br />
+    </p>
+    <footer>
+      <ul class="buttons stacked">
+        <li><strong><h2>Next event:</h2>  <h3><%= dateToReadable(new Date(event.date)) %></h3></strong></li>
+        <li><h3>at <a href="#location"><%= public._data.hosts[event.host].organization %></a></h3></li>
+      </ul>
+      <%- partial("speakers_small_card", {event: event}) %>
+      <ul class="buttons stacked">
+          <li><a href="<%= event.titoUrl %>" class="button fit scrolly">RSVP for event</a></li>
+          <li><a href="http://eepurl.com/jdRNb" class="button fit scrolly">Join mailing list</a></li>
+      </ul>
+    </footer>
+  </div>
+  <%- partial("sponsors", {event: event}) %>
+</section>

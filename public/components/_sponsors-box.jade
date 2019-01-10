@@ -1,8 +1,0 @@
-div.jsla-sponsors-box
-    if !noTitle
-        span.jsla-sponsored-by.clearfix Sponsored By:
-    ul.jsla-sponsors
-        each sponsor in sponsors
-            li.jsla-sponsor.layer-2
-                - var imgSrc = sponsor.logo.match(/^http/) ? sponsor.logo : '/images/hosts/' + sponsor.logo
-                a( alt=sponsor.name href=sponsor.url style="background-image: url(#{imgSrc});" )
