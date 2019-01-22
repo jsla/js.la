@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "harp server public",
-    "build": "npm run update-data && harp compile public dist",
+    "build": "npm run update-data && npx harp compile public dist",
     "test": "standard",
     "update-data": "node scripts/generate_data_file.js"
   },
