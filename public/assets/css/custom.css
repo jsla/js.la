@@ -19,7 +19,8 @@ a{
 }
 
 .jsla-hero-speakers .jsla-speaker .jsla-speaker-details {
-    margin-left: 70px
+    margin-left: 60px;
+    min-height: 71px;
 }
 
 .jsla-hero-speakers .jsla-speaker .jsla-avatar {
@@ -31,10 +32,10 @@ a{
 }
 
 .jsla-hero-speakers .jsla-speaker h1,.jsla-hero-speakers .jsla-speaker h2 {
-    line-height: 35px;
+    line-height: 30px;
     margin: 0;
     font-size: 1em;
-    padding: 0 1em;
+    padding: 0.1em 1em;
     font-weight: 500;
     text-align: left;
     overflow: hidden;
@@ -44,7 +45,10 @@ a{
 
 .jsla-hero-speakers .jsla-speaker h2 {
     color: #969696;
-    font-size: 1em
+    font-size: 1em;
+}
+.jsla-hero-speakers .jsla-speaker h1 {
+    margin-top: -10px;
 }
 
 .jsla-sponsors{
@@ -86,17 +90,36 @@ a{
         margin-top: 80px;
     }
 }
+div.speaker > section {
+    text-align: initial !important;
+    padding: 50px 50px 0;
+}
 .speaker-photo{
     width: 100px;
     border-radius: 50%;
+    display: inline-block;
 }
-
+.speaker-links {
+  display: block
+}
+.speaker-details {
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 20px;
+    text-align: left;
+}
+.speaker-details a > span {
+    font-size: 28px !important;
+    margin-right: 5px;
+}
 .speaker-description{
-    height: 70px;
+    text-align: left;
     line-height: 22px;
+    font-weight: 600;
 }
 .speaker-abstract{
     min-height: 80px;
+    text-align: left !important;
 }
 .row{
     margin-left: auto;
