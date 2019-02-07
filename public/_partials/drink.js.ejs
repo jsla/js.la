@@ -1,4 +1,4 @@
-<% if(public._data.drinkjs.name){ %><section class="wrapper style2 container special-alt">
+<!--<% if(public._data.drinkjs.name){ %><section class="wrapper style2 container special-alt">
         <div class="row gtr-50">
           <div class="col-4 col-12-narrower">
             <header>
@@ -32,3 +32,14 @@
         </div>
       </section>
 <% } %>
+    -->
+    
+<div class="owl-carousel owl-theme">
+  <div class="item">
+    <%- partial("jsla-event", {obj: {name: "Drinks.js", color: "#83d3c9", image: "/images/drinks.svg", map: true, drinksjs: true}}) %>
+  </div>
+  <div class="item">
+    <%- partial("jsla-event", {obj: {name: "Nodeschool LA", color: "#594b5a", image: "https://nodejs.org/static/images/logo.svg", text: 'Hands down the best way to learn JavaScript, Node.js, and related technologies. Work through guided lessons tailored to your skill level with the help of our mentors.\n\nEvent runs from 2-5pm at Replicated in Culver City .'}}) %>
+  </div>
+</div>
+

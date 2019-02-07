@@ -127,3 +127,34 @@ a{
         max-width: 100%;
     }
 }
+
+owl-dot{
+    width: 50px;
+}
+
+.owl-theme > .owl-nav > .owl-prev:hover{
+    background: inherit;
+    outline: 0;
+    border: none;
+    -moz-outline-style: none;
+}
+.owl-theme > .owl-nav > .owl-next:hover{
+    background: inherit;
+}
+.owl-prev:focus, .owl-next:focus{
+    outline: 0;
+    border: none;
+    -moz-outline-style: none;
+}
+.owl-prev, .owl-next {
+    width: 15px;
+    height: 100px;
+    position: absolute;
+    top: 40%;
+    transform: translateY(-50%);
+    display: block !important;
+    border:0px solid black;
+}
+.owl-prev { left: -20px; }
+.owl-next { right: -20px; }
+.owl-prev i, .owl-next i {transform : scale(2,5); color: #ccc;}
