@@ -127,29 +127,30 @@ function fillPastSponsors () {
 
   each(DATA.events, function (eKey, event) {
     each(event.sponsors, function (sKey, sponsorId) {
+      var dSponsor = DATA.sponsors[sponsorId]
+      if (!dSponsor) return
+
       let sponsorFound = false
-      for (let sponsor in DATA.pastSponsors) {
-        if (!DATA.sponsors[sponsorId]['organization']) { DATA.sponsors[sponsorId]['organization'] = DATA.sponsors[sponsorId]['name'] }
-        if (DATA.sponsors[sponsorId] && DATA.pastSponsors[sponsor]['name'] === DATA.sponsors[sponsorId]['organization']) {
-          sponsorFound = true
-          break
-        }
-      }
-      if (DATA.sponsors[sponsorId] && !sponsorFound) {
-        DATA.pastSponsors.push({
-          name: DATA.sponsors[sponsorId]['organization'],
-          logo: DATA.sponsors[sponsorId]['logo'],
-          url: DATA.sponsors[sponsorId]['url']
-        })
-      }
+      each(DATA.pastSponsors, function (sponsor, pSponsor) {
+        if (sponsorFound) return
+
+        if (!dSponsor.organization) dSponsor.organization = dSponsor.name
+        if (pSponsor.name === dSponsor.organization) sponsorFound = true
+      })
+
+      if (sponsorFound) return
+
+      DATA.pastSponsors.push({
+        name: dSponsor.organization,
+        logo: dSponsor.logo,
+        url: dSponsor.url
+      })
     })
   })
 }
 
 function each (obj, fn) {
-  for (let key in obj) {
-    if (obj.hasOwnProperty(key)) fn(key, obj[key])
-  }
+  for (let key in obj) { if (obj.hasOwnProperty(key)) fn(key, obj[key]) }
 }
 
 function fetchData (cb) {
