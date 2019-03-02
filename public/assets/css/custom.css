@@ -65,7 +65,7 @@ a{
     width: 30%;
     margin-left: 7px;
     display: inline-block;
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
     background-color: white;
