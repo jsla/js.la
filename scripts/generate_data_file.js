@@ -15,32 +15,19 @@ const creds = {
 
 let DATA = require('./data_not_on_server.json')
 
-auth.login(creds, function (err) {
+fetchData(creds, function (err, { speakers, sponsors, hosts }) {
   if (err) return console.error(err)
 
-  const url = 'https://admin.apps.js.la/api/list/'
-  auth.get(url + 'host', function (err, hosts) {
-    if (err) throw err
-    auth.get(url + 'sponsor', function (err, sponsors) {
-      if (err) throw err
-      auth.get(url + 'speaker', function (err, speakers) {
-        if (err) throw err
-
-        getAllDates({ speakers, sponsors, hosts })
-
-        fillHosts(hosts)
-        fillSpeakers(speakers)
-        fillSponsors(sponsors)
-        fillPastSponsors()
-
-        console.log(JSON.stringify(DATA, null, 2))
-      })
-    })
-  })
+  updateData({ speakers, sponsors, hosts })
+  console.log(JSON.stringify(DATA, null, 2))
 })
 
-function generateUniqeId (obj) {
-  return sha1(JSON.stringify(obj))
+function updateData ({ speakers, sponsors, hosts }) {
+  getAllDates({ speakers, sponsors, hosts })
+  fillHosts(hosts)
+  fillSpeakers(speakers)
+  fillSponsors(sponsors)
+  fillPastSponsors()
 }
 
 function getAllDates ({ hosts, speakers, sponsors }) {
@@ -153,17 +140,41 @@ function each (obj, fn) {
   for (let key in obj) { if (obj.hasOwnProperty(key)) fn(key, obj[key]) }
 }
 
-function fetchData (cb) {
+function fetchData (creds, cb) {
+  const url = 'https://admin.apps.js.la/api/list/'
+
   auth.login(creds, function (err) {
-    if (err) return console.error(err)
+    if (err) return cb(err)
 
-    const base = 'https://admin.apps.js.la/api/list'
-    const urls = {
-      hosts: `${base}/host`,
-      sponsors: `${base}/sponsor`,
-      speakers: `${base}/speaker`
-    }
+    auth.get(url + 'host', function (err, hosts) {
+      if (err) return cb(err)
+      auth.get(url + 'sponsor', function (err, sponsors) {
+        if (err) return cb(err)
+        auth.get(url + 'speaker', function (err, speakers) {
+          if (err) return cb(err)
 
-    async.map(urls, auth.get, cb)
+          cb(null, { speakers, sponsors, hosts })
+        })
+      })
+    })
   })
+}
+
+// function fetchData (cb) {
+//   auth.login(creds, function (err) {
+//     if (err) return console.error(err)
+//
+//     const base = 'https://admin.apps.js.la/api/list'
+//     const urls = {
+//       hosts: `${base}/host`,
+//       sponsors: `${base}/sponsor`,
+//       speakers: `${base}/speaker`
+//     }
+//
+//     async.map(urls, auth.get, cb)
+//   })
+// }
+
+function generateUniqeId (obj) {
+  return sha1(JSON.stringify(obj))
 }
