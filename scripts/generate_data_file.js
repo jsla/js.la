@@ -39,21 +39,6 @@ auth.login(creds, function (err) {
   })
 })
 
-function fetchData (cb) {
-  auth.login(creds, function (err) {
-    if (err) return console.error(err)
-
-    const base = 'https://admin.apps.js.la/api/list'
-    const urls = {
-      hosts: `${base}/host`,
-      sponsors: `${base}/sponsor`,
-      speakers: `${base}/speaker`
-    }
-
-    async.map(urls, auth.get, cb)
-  })
-}
-
 function generateUniqeId (obj) {
   return sha1(JSON.stringify(obj))
 }
@@ -107,62 +92,77 @@ function fillHosts (hosts) {
 
 function fillSpeakers (speakers) {
   DATA.speakers = Object.assign(DATA.speakers, speakers)
-  for (let sKey in DATA.speakers) {
-    if (DATA.speakers.hasOwnProperty(sKey)) {
-      if (DATA.speakers[sKey]['avatar']) { // If the speaker is from the old _data file
-        delete Object.assign(DATA.speakers[sKey],
-          { description: DATA.speakers[sKey]['abstract'] })['abstract']
-        delete Object.assign(DATA.speakers[sKey],
-          { image: DATA.speakers[sKey]['avatar'] })['avatar']
-        delete Object.assign(DATA.speakers[sKey],
-          { video: DATA.speakers[sKey]['youtubeUrl'] })['youtubeUrl']
-        delete Object.assign(DATA.speakers[sKey],
-          { videoimg: DATA.speakers[sKey]['youtubeImageUrl'] })['youtubeImageUrl']
-      }
-    }
-  }
+
+  each(DATA.speakers, function (sKey, speaker) {
+    if (!speaker.avatar) return
+
+    // If the speaker is from the old _data file
+    speaker.description = speaker.abstract
+    delete speaker.abstract
+
+    speaker.image = speaker.avatar
+    delete speaker.avatar
+
+    speaker.video = speaker.youtubeUrl
+    delete speaker.youtubeUrl
+
+    speaker.videoimg = speaker.youtubeImageUrl
+    delete speaker.youtubeImageUrl
+  })
 }
 
 function fillSponsors (sponsors) {
   DATA.sponsors = Object.assign(DATA.sponsors, sponsors)
-  for (let sKey in DATA.sponsors) {
-    if (DATA.sponsors.hasOwnProperty(sKey)) {
-      if (DATA.sponsors[sKey]['link']) {
-        delete Object.assign(DATA.sponsors[sKey],
-          { url: DATA.sponsors[sKey]['link'] })['link']
-      }
-    }
-  }
+
+  each(DATA.sponsors, function (sKey, sponsor) {
+    if (!sponsor.link) return
+
+    sponsor.url = sponsor.link
+    delete sponsor.link
+  })
 }
 
 function fillPastSponsors () {
   DATA.pastSponsors = []
-  for (let eKey in DATA.events) {
-    if (DATA.events.hasOwnProperty(eKey)) {
-      for (let sKey in DATA.events[eKey]['sponsors']) {
-        let sponsorFound = false
-        let sponsorId = DATA.events[eKey]['sponsors'][sKey]
-        for (let sponsor in DATA.pastSponsors) {
-          if (!DATA.sponsors[sponsorId]['organization']) { DATA.sponsors[sponsorId]['organization'] = DATA.sponsors[sponsorId]['name'] }
-          if (DATA.sponsors[sponsorId] && DATA.pastSponsors[sponsor]['name'] === DATA.sponsors[sponsorId]['organization']) {
-            sponsorFound = true
-            break
-          }
-        }
-        if (DATA.sponsors[sponsorId] && !sponsorFound) {
-          DATA.pastSponsors.push({
-            name: DATA.sponsors[sponsorId]['organization'],
-            logo: DATA.sponsors[sponsorId]['logo'],
-            url: DATA.sponsors[sponsorId]['url']
-          })
+
+  each(DATA.events, function (eKey, event) {
+    each(event.sponsors, function (sKey, sponsorId) {
+      let sponsorFound = false
+      for (let sponsor in DATA.pastSponsors) {
+        if (!DATA.sponsors[sponsorId]['organization']) { DATA.sponsors[sponsorId]['organization'] = DATA.sponsors[sponsorId]['name'] }
+        if (DATA.sponsors[sponsorId] && DATA.pastSponsors[sponsor]['name'] === DATA.sponsors[sponsorId]['organization']) {
+          sponsorFound = true
+          break
         }
       }
-    }
-  }
+      if (DATA.sponsors[sponsorId] && !sponsorFound) {
+        DATA.pastSponsors.push({
+          name: DATA.sponsors[sponsorId]['organization'],
+          logo: DATA.sponsors[sponsorId]['logo'],
+          url: DATA.sponsors[sponsorId]['url']
+        })
+      }
+    })
+  })
 }
 
 function each (obj, fn) {
   for (let key in obj) {
     if (obj.hasOwnProperty(key)) fn(key, obj[key])
   }
+}
+
+function fetchData (cb) {
+  auth.login(creds, function (err) {
+    if (err) return console.error(err)
+
+    const base = 'https://admin.apps.js.la/api/list'
+    const urls = {
+      hosts: `${base}/host`,
+      sponsors: `${base}/sponsor`,
+      speakers: `${base}/speaker`
+    }
+
+    async.map(urls, auth.get, cb)
+  })
 }
