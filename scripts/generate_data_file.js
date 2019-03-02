@@ -1,5 +1,8 @@
+require('dotenv').config()
+
+const sha1 = require('sha1')
+const async = require('async')
 const Authentic = require('authentic-client')
-const fs = require('fs')
 
 const auth = Authentic({
   server: 'https://authentic.apps.js.la/'
@@ -10,18 +13,7 @@ const creds = {
   password: process.env.AUTHENTIC_PASSWORD
 }
 
-let DATA = JSON.parse(fs.readFileSync('scripts/data_not_on_server.json', 'utf8'))
-
-function generateUniqeId () {
-  let text = ''
-  const possible = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789'
-
-  for (let i = 0; i < 28; i++) {
-    text += possible.charAt(Math.floor(Math.random() * possible.length))
-  }
-
-  return text
-}
+let DATA = require('./data_not_on_server.json')
 
 auth.login(creds, function (err) {
   if (err) return console.error(err)
@@ -51,7 +43,7 @@ auth.login(creds, function (err) {
                 titoUrl: 'https://jsla.eventbrite.com/?aff=site'
               }
               let sponsorHost = {
-                id: generateUniqeId(),
+                id: generateUniqeId(hosts[hostKey]),
                 name: hosts[hostKey].organization,
                 logo: hosts[hostKey].logo,
                 url: hosts[hostKey].link
@@ -132,13 +124,28 @@ auth.login(creds, function (err) {
             }
           }
         }
-        fs.writeFile('public/_data.json', JSON.stringify(DATA, null, 2), function (err) {
-          if (err) {
-            return console.log(err)
-          }
-          console.log('The file was saved!')
-        })
+
+        console.log(JSON.stringify(DATA, null, 2))
       })
     })
   })
 })
+
+function fetchData (cb) {
+  auth.login(creds, function (err) {
+    if (err) return console.error(err)
+
+    const base = 'https://admin.apps.js.la/api/list'
+    const urls = {
+      hosts: `${base}/host`,
+      sponsors: `${base}/sponsor`,
+      speakers: `${base}/speaker`
+    }
+
+    async.map(urls, auth.get, cb)
+  })
+}
+
+function generateUniqeId (obj) {
+  return sha1(JSON.stringify(obj))
+}
