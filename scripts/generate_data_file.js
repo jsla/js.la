@@ -60,54 +60,56 @@ function generateUniqeId (obj) {
 
 function getAllDates ({ hosts, speakers, sponsors }) {
   // Get all dates
-  for (let hostKey in hosts) {
-    if (hosts.hasOwnProperty(hostKey) && hosts[hostKey].bookedShows) {
-      if (hosts[hostKey].bookedShows.length > 10) {
-        hosts[hostKey].bookedShows = hosts[hostKey].bookedShows.split('\n')
-      } else {
-        hosts[hostKey].bookedShows = [hosts[hostKey].bookedShows]
-      }
-      for (let ij = 0; ij < hosts[hostKey].bookedShows.length; ij++) {
-        let date = hosts[hostKey].bookedShows[ij]
-        let event = {
-          host: hostKey,
-          date: date,
-          speakers: [],
-          sponsors: [],
-          titoUrl: 'https://jsla.eventbrite.com/?aff=site'
-        }
-        let sponsorHost = {
-          id: generateUniqeId(hosts[hostKey]),
-          name: hosts[hostKey].organization,
-          logo: hosts[hostKey].logo,
-          url: hosts[hostKey].link
-        }
+  each(hosts, function (hostKey) {
+    if (!hosts[hostKey].bookedShows) return
 
-        DATA.sponsors[sponsorHost.id] = sponsorHost
-        event.sponsors.push(sponsorHost.id)
-
-        for (let speakerKey in speakers) {
-          if (speakers.hasOwnProperty(speakerKey)) {
-            if (speakers[speakerKey].bookedShows === date) {
-              event.speakers.push(speakerKey)
-            }
-          }
-        }
-        for (let sponsorKey in sponsors) {
-          if (sponsors.hasOwnProperty(sponsorKey)) {
-            if (sponsors[sponsorKey].bookedShows &&
-                  sponsors[sponsorKey].bookedShows.indexOf(date) !== -1) {
-              event.sponsors.push(sponsorKey)
-            }
-          }
-        }
-        DATA.events.push(event)
-        DATA.events.sort(function (a, b) {
-          return new Date(b.date) - new Date(a.date)
-        })
-      }
+    if (hosts[hostKey].bookedShows.length > 10) {
+      hosts[hostKey].bookedShows = hosts[hostKey].bookedShows.split('\n')
+    } else {
+      hosts[hostKey].bookedShows = [hosts[hostKey].bookedShows]
     }
-  }
+
+    for (let ij = 0; ij < hosts[hostKey].bookedShows.length; ij++) {
+      let date = hosts[hostKey].bookedShows[ij]
+      let event = {
+        host: hostKey,
+        date: date,
+        speakers: [],
+        sponsors: [],
+        titoUrl: 'https://jsla.eventbrite.com/?aff=site'
+      }
+      let sponsorHost = {
+        id: generateUniqeId(hosts[hostKey]),
+        name: hosts[hostKey].organization,
+        logo: hosts[hostKey].logo,
+        url: hosts[hostKey].link
+      }
+
+      DATA.sponsors[sponsorHost.id] = sponsorHost
+      event.sponsors.push(sponsorHost.id)
+
+      for (let speakerKey in speakers) {
+        if (speakers.hasOwnProperty(speakerKey)) {
+          if (speakers[speakerKey].bookedShows === date) {
+            event.speakers.push(speakerKey)
+          }
+        }
+      }
+      for (let sponsorKey in sponsors) {
+        if (sponsors.hasOwnProperty(sponsorKey)) {
+          if (sponsors[sponsorKey].bookedShows &&
+                sponsors[sponsorKey].bookedShows.indexOf(date) !== -1) {
+            event.sponsors.push(sponsorKey)
+          }
+        }
+      }
+      DATA.events.push(event)
+      DATA.events.sort(function (a, b) {
+        return new Date(b.date) - new Date(a.date)
+      })
+    }
+
+  })
 }
 
 function fillHosts (hosts) {
@@ -167,5 +169,11 @@ function fillPastSponsors () {
         }
       }
     }
+  }
+}
+
+function each (obj, fn) {
+  for (let key in obj) {
+    if (obj.hasOwnProperty(key)) fn(key, obj[key])
   }
 }
