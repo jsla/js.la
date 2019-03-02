@@ -60,17 +60,12 @@ function generateUniqeId (obj) {
 
 function getAllDates ({ hosts, speakers, sponsors }) {
   // Get all dates
-  each(hosts, function (hostKey) {
-    if (!hosts[hostKey].bookedShows) return
+  each(hosts, function (hostKey, host) {
+    if (!host.bookedShows) return
 
-    if (hosts[hostKey].bookedShows.length > 10) {
-      hosts[hostKey].bookedShows = hosts[hostKey].bookedShows.split('\n')
-    } else {
-      hosts[hostKey].bookedShows = [hosts[hostKey].bookedShows]
-    }
+    host.bookedShows = host.bookedShows.split('\n')
 
-    for (let ij = 0; ij < hosts[hostKey].bookedShows.length; ij++) {
-      let date = hosts[hostKey].bookedShows[ij]
+    host.bookedShows.forEach(function (date) {
       let event = {
         host: hostKey,
         date: date,
@@ -78,37 +73,31 @@ function getAllDates ({ hosts, speakers, sponsors }) {
         sponsors: [],
         titoUrl: 'https://jsla.eventbrite.com/?aff=site'
       }
+
       let sponsorHost = {
-        id: generateUniqeId(hosts[hostKey]),
-        name: hosts[hostKey].organization,
-        logo: hosts[hostKey].logo,
-        url: hosts[hostKey].link
+        id: generateUniqeId(host),
+        name: host.organization,
+        logo: host.logo,
+        url: host.link
       }
 
       DATA.sponsors[sponsorHost.id] = sponsorHost
       event.sponsors.push(sponsorHost.id)
 
-      for (let speakerKey in speakers) {
-        if (speakers.hasOwnProperty(speakerKey)) {
-          if (speakers[speakerKey].bookedShows === date) {
-            event.speakers.push(speakerKey)
-          }
-        }
-      }
-      for (let sponsorKey in sponsors) {
-        if (sponsors.hasOwnProperty(sponsorKey)) {
-          if (sponsors[sponsorKey].bookedShows &&
-                sponsors[sponsorKey].bookedShows.indexOf(date) !== -1) {
-            event.sponsors.push(sponsorKey)
-          }
-        }
-      }
-      DATA.events.push(event)
-      DATA.events.sort(function (a, b) {
-        return new Date(b.date) - new Date(a.date)
+      each(speakers, function (speakerKey, speaker) {
+        if (speaker.bookedShows === date) event.speakers.push(speakerKey)
       })
-    }
 
+      each(sponsors, function (sponsorKey, sponsor) {
+        if (sponsor.bookedShows && sponsor.bookedShows.indexOf(date) > -1) {
+          event.sponsors.push(sponsorKey)
+        }
+      })
+
+      DATA.events.push(event)
+    })
+
+    DATA.events.sort((a, b) => new Date(b.date) - new Date(a.date))
   })
 }
 
