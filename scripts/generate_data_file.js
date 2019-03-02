@@ -1,5 +1,8 @@
+require('dotenv').config()
+
+const map = require('map-async')
+const sha1 = require('sha1')
 const Authentic = require('authentic-client')
-const fs = require('fs')
 
 const auth = Authentic({
   server: 'https://authentic.apps.js.la/'
@@ -10,135 +13,148 @@ const creds = {
   password: process.env.AUTHENTIC_PASSWORD
 }
 
-let DATA = JSON.parse(fs.readFileSync('scripts/data_not_on_server.json', 'utf8'))
+let DATA = require('./data_not_on_server.json')
 
-function generateUniqeId () {
-  let text = ''
-  const possible = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789'
-
-  for (let i = 0; i < 28; i++) {
-    text += possible.charAt(Math.floor(Math.random() * possible.length))
-  }
-
-  return text
-}
-
-auth.login(creds, function (err) {
+fetchData(creds, function (err, { speakers, sponsors, hosts }) {
   if (err) return console.error(err)
 
-  const url = 'https://admin.apps.js.la/api/list/'
-  auth.get(url + 'host', function (err, hosts) {
-    if (err) throw err
-    auth.get(url + 'sponsor', function (err, sponsors) {
-      if (err) throw err
-      auth.get(url + 'speaker', function (err, speakers) {
-        if (err) throw err
-        // Get all dates
-        for (let hostKey in hosts) {
-          if (hosts.hasOwnProperty(hostKey) && hosts[hostKey].bookedShows) {
-            if (hosts[hostKey].bookedShows.length > 10) {
-              hosts[hostKey].bookedShows = hosts[hostKey].bookedShows.split('\n')
-            } else {
-              hosts[hostKey].bookedShows = [hosts[hostKey].bookedShows]
-            }
-            for (let ij = 0; ij < hosts[hostKey].bookedShows.length; ij++) {
-              let date = hosts[hostKey].bookedShows[ij]
-              let event = {
-                host: hostKey,
-                date: date,
-                speakers: [],
-                sponsors: [],
-                titoUrl: 'https://jsla.eventbrite.com/?aff=site'
-              }
-              let sponsorHost = {
-                id: generateUniqeId(),
-                name: hosts[hostKey].organization,
-                logo: hosts[hostKey].logo,
-                url: hosts[hostKey].link
-              }
+  updateData({ speakers, sponsors, hosts })
+  console.log(JSON.stringify(DATA, null, 2))
+})
 
-              DATA.sponsors[sponsorHost.id] = sponsorHost
-              event.sponsors.push(sponsorHost.id)
+function updateData ({ speakers, sponsors, hosts }) {
+  getAllDates({ speakers, sponsors, hosts })
+  fillHosts(hosts)
+  fillSpeakers(speakers)
+  fillSponsors(sponsors)
+  fillPastSponsors()
+}
 
-              for (let speakerKey in speakers) {
-                if (speakers.hasOwnProperty(speakerKey)) {
-                  if (speakers[speakerKey].bookedShows === date) {
-                    event.speakers.push(speakerKey)
-                  }
-                }
-              }
-              for (let sponsorKey in sponsors) {
-                if (sponsors.hasOwnProperty(sponsorKey)) {
-                  if (sponsors[sponsorKey].bookedShows &&
-                        sponsors[sponsorKey].bookedShows.indexOf(date) !== -1) {
-                    event.sponsors.push(sponsorKey)
-                  }
-                }
-              }
-              DATA.events.push(event)
-              DATA.events.sort(function (a, b) {
-                return new Date(b.date) - new Date(a.date)
-              })
-            }
-          }
-        }
+function getAllDates ({ hosts, speakers, sponsors }) {
+  // Get all dates
+  each(hosts, function (hostKey, host) {
+    if (!host.bookedShows) return
 
-        // Fill info about dates
-        DATA.hosts = Object.assign(DATA.hosts, hosts)
-        DATA.speakers = Object.assign(DATA.speakers, speakers)
-        for (let sKey in DATA.speakers) {
-          if (DATA.speakers.hasOwnProperty(sKey)) {
-            if (DATA.speakers[sKey]['avatar']) { // If the speaker is from the old _data file
-              delete Object.assign(DATA.speakers[sKey],
-                { description: DATA.speakers[sKey]['abstract'] })['abstract']
-              delete Object.assign(DATA.speakers[sKey],
-                { image: DATA.speakers[sKey]['avatar'] })['avatar']
-              delete Object.assign(DATA.speakers[sKey],
-                { video: DATA.speakers[sKey]['youtubeUrl'] })['youtubeUrl']
-              delete Object.assign(DATA.speakers[sKey],
-                { videoimg: DATA.speakers[sKey]['youtubeImageUrl'] })['youtubeImageUrl']
-            }
-          }
+    host.bookedShows = host.bookedShows.split('\n')
+
+    host.bookedShows.forEach(function (date) {
+      let event = {
+        host: hostKey,
+        date: date,
+        speakers: [],
+        sponsors: [],
+        titoUrl: 'https://jsla.eventbrite.com/?aff=site'
+      }
+
+      let sponsorHost = {
+        id: generateUniqeId(host),
+        name: host.organization,
+        logo: host.logo,
+        url: host.link
+      }
+
+      DATA.sponsors[sponsorHost.id] = sponsorHost
+      event.sponsors.push(sponsorHost.id)
+
+      each(speakers, function (speakerKey, speaker) {
+        if (speaker.bookedShows === date) event.speakers.push(speakerKey)
+      })
+
+      each(sponsors, function (sponsorKey, sponsor) {
+        if (sponsor.bookedShows && sponsor.bookedShows.indexOf(date) > -1) {
+          event.sponsors.push(sponsorKey)
         }
-        DATA.sponsors = Object.assign(DATA.sponsors, sponsors)
-        for (let sKey in DATA.sponsors) {
-          if (DATA.sponsors.hasOwnProperty(sKey)) {
-            if (DATA.sponsors[sKey]['link']) {
-              delete Object.assign(DATA.sponsors[sKey],
-                { url: DATA.sponsors[sKey]['link'] })['link']
-            }
-          }
-        }
-        DATA.pastSponsors = []
-        for (let eKey in DATA.events) {
-          if (DATA.events.hasOwnProperty(eKey)) {
-            for (let sKey in DATA.events[eKey]['sponsors']) {
-              let sponsorFound = false
-              let sponsorId = DATA.events[eKey]['sponsors'][sKey]
-              for (let sponsor in DATA.pastSponsors) {
-                if (!DATA.sponsors[sponsorId]['organization']) { DATA.sponsors[sponsorId]['organization'] = DATA.sponsors[sponsorId]['name'] }
-                if (DATA.sponsors[sponsorId] && DATA.pastSponsors[sponsor]['name'] === DATA.sponsors[sponsorId]['organization']) {
-                  sponsorFound = true
-                  break
-                }
-              }
-              if (DATA.sponsors[sponsorId] && !sponsorFound) {
-                DATA.pastSponsors.push({
-                  name: DATA.sponsors[sponsorId]['organization'],
-                  logo: DATA.sponsors[sponsorId]['logo'],
-                  url: DATA.sponsors[sponsorId]['url']
-                })
-              }
-            }
-          }
-        }
-        fs.writeFile('public/_data.json', JSON.stringify(DATA, null, 2), function (err) {
-          if (err) {
-            return console.log(err)
-          }
-          console.log('The file was saved!')
-        })
+      })
+
+      DATA.events.push(event)
+    })
+
+    DATA.events.sort((a, b) => new Date(b.date) - new Date(a.date))
+  })
+}
+
+function fillHosts (hosts) {
+  DATA.hosts = Object.assign(DATA.hosts, hosts)
+}
+
+function fillSpeakers (speakers) {
+  DATA.speakers = Object.assign(DATA.speakers, speakers)
+
+  each(DATA.speakers, function (sKey, speaker) {
+    if (!speaker.avatar) return
+
+    // If the speaker is from the old _data file
+    speaker.description = speaker.abstract
+    delete speaker.abstract
+
+    speaker.image = speaker.avatar
+    delete speaker.avatar
+
+    speaker.video = speaker.youtubeUrl
+    delete speaker.youtubeUrl
+
+    speaker.videoimg = speaker.youtubeImageUrl
+    delete speaker.youtubeImageUrl
+  })
+}
+
+function fillSponsors (sponsors) {
+  DATA.sponsors = Object.assign(DATA.sponsors, sponsors)
+
+  each(DATA.sponsors, function (sKey, sponsor) {
+    if (!sponsor.link) return
+
+    sponsor.url = sponsor.link
+    delete sponsor.link
+  })
+}
+
+function fillPastSponsors () {
+  DATA.pastSponsors = []
+
+  each(DATA.events, function (eKey, event) {
+    each(event.sponsors, function (sKey, sponsorId) {
+      var dSponsor = DATA.sponsors[sponsorId]
+      if (!dSponsor) return
+
+      let sponsorFound = false
+      each(DATA.pastSponsors, function (sponsor, pSponsor) {
+        if (sponsorFound) return
+
+        if (!dSponsor.organization) dSponsor.organization = dSponsor.name
+        if (pSponsor.name === dSponsor.organization) sponsorFound = true
+      })
+
+      if (sponsorFound) return
+
+      DATA.pastSponsors.push({
+        name: dSponsor.organization,
+        logo: dSponsor.logo,
+        url: dSponsor.url
       })
     })
   })
-})
+}
+
+function each (obj, fn) {
+  for (let key in obj) { if (obj.hasOwnProperty(key)) fn(key, obj[key]) }
+}
+
+function fetchData (creds, cb) {
+  auth.login(creds, function (err) {
+    if (err) return console.error(err)
+
+    const base = 'https://admin.apps.js.la/api/list'
+    const urls = {
+      hosts: `${base}/host`,
+      sponsors: `${base}/sponsor`,
+      speakers: `${base}/speaker`
+    }
+
+    map(urls, auth.get.bind(auth), cb)
+  })
+}
+
+function generateUniqeId (obj) {
+  return sha1(JSON.stringify(obj))
+}

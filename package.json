@@ -7,7 +7,7 @@
     "start": "harp server public",
     "build": "npm run update-data && harp compile public dist",
     "test": "standard",
-    "update-data": "node scripts/generate_data_file.js"
+    "update-data": "node scripts/generate_data_file.js > public/_data.json"
   },
   "standard": {
     "ignore": [
@@ -27,7 +27,13 @@
   },
   "dependencies": {
     "authentic-client": "^1.2.2",
+    "dotenv": "^6.2.0",
     "harp": "^0.29.0",
+    "map-async": "^0.1.1",
     "standard": "^12.0.1"
+  },
+  "devDependencies": {
+    "sha1": "^1.1.1",
+    "tape": "^4.10.1"
   }
 }
