@@ -1,8 +1,9 @@
 var fs = require('fs')
 var tape = require('tape')
 var { fork } = require('child_process')
+var path = require('path')
 
-var testdata = fs.readFileSync(__dirname + '/testdata.json')
+var testdata = fs.readFileSync(path.join(__dirname, '/testdata.json'))
 
 tape('do it', function (t) {
   var cp = fork('scripts/generate_data_file.js', {

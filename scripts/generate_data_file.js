@@ -1,7 +1,7 @@
 require('dotenv').config()
 
+const map = require('map-async')
 const sha1 = require('sha1')
-const async = require('async')
 const Authentic = require('authentic-client')
 
 const auth = Authentic({
@@ -141,39 +141,19 @@ function each (obj, fn) {
 }
 
 function fetchData (creds, cb) {
-  const url = 'https://admin.apps.js.la/api/list/'
-
   auth.login(creds, function (err) {
-    if (err) return cb(err)
+    if (err) return console.error(err)
 
-    auth.get(url + 'host', function (err, hosts) {
-      if (err) return cb(err)
-      auth.get(url + 'sponsor', function (err, sponsors) {
-        if (err) return cb(err)
-        auth.get(url + 'speaker', function (err, speakers) {
-          if (err) return cb(err)
+    const base = 'https://admin.apps.js.la/api/list'
+    const urls = {
+      hosts: `${base}/host`,
+      sponsors: `${base}/sponsor`,
+      speakers: `${base}/speaker`
+    }
 
-          cb(null, { speakers, sponsors, hosts })
-        })
-      })
-    })
+    map(urls, auth.get.bind(auth), cb)
   })
 }
-
-// function fetchData (cb) {
-//   auth.login(creds, function (err) {
-//     if (err) return console.error(err)
-//
-//     const base = 'https://admin.apps.js.la/api/list'
-//     const urls = {
-//       hosts: `${base}/host`,
-//       sponsors: `${base}/sponsor`,
-//       speakers: `${base}/speaker`
-//     }
-//
-//     async.map(urls, auth.get, cb)
-//   })
-// }
 
 function generateUniqeId (obj) {
   return sha1(JSON.stringify(obj))
