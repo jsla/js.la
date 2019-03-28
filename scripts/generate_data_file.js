@@ -15,22 +15,22 @@ const creds = {
 
 let DATA = require('./data_not_on_server.json')
 
-fetchData(creds, function (err, { speakers, sponsors, hosts }) {
+fetchData(creds, function (err, { speakers, sponsors, hosts, drinks }) {
   if (err) return console.error(err)
 
-  updateData({ speakers, sponsors, hosts })
+  updateData({ speakers, sponsors, hosts, drinks })
   console.log(JSON.stringify(DATA, null, 2))
 })
 
-function updateData ({ speakers, sponsors, hosts }) {
-  getAllDates({ speakers, sponsors, hosts })
+function updateData ({ speakers, sponsors, hosts, drinks }) {
+  getAllDates({ speakers, sponsors, hosts, drinks })
   fillHosts(hosts)
   fillSpeakers(speakers)
   fillSponsors(sponsors)
   fillPastSponsors()
 }
 
-function getAllDates ({ hosts, speakers, sponsors }) {
+function getAllDates ({ hosts, speakers, sponsors, drinks }) {
   // Get all dates
   each(hosts, function (hostKey, host) {
     if (!host.bookedShows) return
@@ -63,6 +63,12 @@ function getAllDates ({ hosts, speakers, sponsors }) {
       each(sponsors, function (sponsorKey, sponsor) {
         if (sponsor.bookedShows && sponsor.bookedShows.indexOf(date) > -1) {
           event.sponsors.push(sponsorKey)
+        }
+      })
+
+      each(drinks, function (key, drink) {
+        if (drink.bookedShows && drink.bookedShows.indexOf(date) > -1) {
+          event.drinkjs = drink
         }
       })
 
@@ -148,7 +154,8 @@ function fetchData (creds, cb) {
     const urls = {
       hosts: `${base}/host`,
       sponsors: `${base}/sponsor`,
-      speakers: `${base}/speaker`
+      speakers: `${base}/speaker`,
+      drinks: `${base}/drinksjs`
     }
 
     map(urls, auth.get.bind(auth), cb)
