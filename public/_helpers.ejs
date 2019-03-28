@@ -3,15 +3,15 @@ var DOWs = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "S
 var months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
 
 dateToReadable = function(d){
-  var date = d.getDate()
+  var date = d.getUTCDate()
 
   var suffixes = {1: 'st', 2: 'nd', 3: 'rd'}
   var suffix = (date > 3 && date < 21)
     ? 'th'
     : suffixes[parseFloat(date.toString().slice(-1)[0])] || 'th'
 
-  return DOWs[d.getDay()]+" "
-  +months[d.getMonth()]+" "
+  return DOWs[d.getUTCDay()]+" "
+  +months[d.getUTCMonth()]+" "
   +date
   +suffix
   +", "+(1900+d.getYear()) + " 7PM"
