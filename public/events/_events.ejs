@@ -25,6 +25,7 @@
 <% for(var j=0;j<public._data.events.length;j++){
     let event = public._data.events[j]; 
     if(new Date(event.date).getYear()+1900!=year)continue;
+    if (new Date().toISOString().slice(0, 10) <= event.date) continue;
     %>
 <section class="wrapper style3 container special">
     <h1 style="font-weight: 500; font-size: 28px;">
