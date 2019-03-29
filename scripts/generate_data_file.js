@@ -38,12 +38,14 @@ function getAllDates ({ hosts, speakers, sponsors, drinks }) {
     host.bookedShows = host.bookedShows.split('\n')
 
     host.bookedShows.forEach(function (date) {
+      var [year, month] = date.split('-')
+
       let event = {
         host: hostKey,
         date: date,
         speakers: [],
         sponsors: [],
-        titoUrl: 'https://jsla.eventbrite.com/?aff=site'
+        titoUrl: `https://jsla-${months[month - 1]}-${year}.eventbrite.com/?aff=site`
       }
 
       let sponsorHost = {
@@ -165,3 +167,17 @@ function fetchData (creds, cb) {
 function generateUniqeId (obj) {
   return sha1(JSON.stringify(obj))
 }
+
+var months = [
+  'january',
+  'february',
+  'march',
+  'april',
+  'may',
+  'june',
+  'july',
+  'august',
+  'september',
+  'november',
+  'december'
+]
