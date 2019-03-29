@@ -1,2 +1,17 @@
 script.
-  window.location.href = 'https://jsla-next.eventbrite.com'
+  var d = new Date()
+  var year = d.getFullYear()
+  var month = [
+    'january',
+    'february',
+    'march',
+    'april',
+    'may',
+    'june',
+    'july',
+    'august',
+    'september',
+    'november',
+    'december'
+  ][d.getMonth() + 1]
+  window.location.href = `https://jsla-${month}-${year}.eventbrite.com/?aff=site`
