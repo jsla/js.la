@@ -1,5 +1,6 @@
 script.
   var d = new Date()
+  d.setMonth(d.getMonth() + 1)
   var year = d.getFullYear()
   var month = [
     'january',
@@ -13,5 +14,5 @@ script.
     'september',
     'november',
     'december'
-  ][d.getMonth() + 1]
+  ][d.getMonth()]
   window.location.href = `https://jsla-${month}-${year}.eventbrite.com/?aff=site`
