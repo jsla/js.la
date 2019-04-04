@@ -23,7 +23,7 @@
     </h2>
 </header>
 <% for(var j=0;j<public._data.events.length;j++){
-    let event = public._data.events[j]; 
+    let event = public._data.events[j];
     if(new Date(event.date).getYear()+1900!=year)continue;
     if (new Date().toISOString().slice(0, 10) <= event.date) continue;
     %>
@@ -36,7 +36,8 @@
                 let speaker = public._data.speakers[event.speakers[i]]; %>
         <div class="col-6 col-12-narrower speaker">
             <section>
-                <span><img class="speaker-photo" src="<%= pathToUrl(speaker.image) %>" /></span>
+                <!-- <span><img class="speaker-photo" src="<%= pathToUrl(speaker.image) %>" /></span> -->
+                <div class="speaker-photo" style="background: url(<%= speaker.image %>); background-size: cover; margin: 0 auto;"></div>
                 <span>
                     <h4>
                         <%= speaker.name %>
