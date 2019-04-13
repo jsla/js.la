@@ -29,6 +29,7 @@
     "authentic-client": "^1.2.2",
     "dotenv": "^6.2.0",
     "harp": "^0.29.0",
+    "lodash": "^4.17.11",
     "map-async": "^0.1.1",
     "standard": "^12.0.1"
   },

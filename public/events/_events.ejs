@@ -33,11 +33,11 @@
     </h1>
     <div class="row" id="speakers">
         <% for(var i=0;i<event.speakers.length;i++){
-                let speaker = public._data.speakers[event.speakers[i]]; %>
+                let speaker = event.speakers[i]; %>
         <div class="col-6 col-12-narrower speaker">
             <section>
-                <!-- <span><img class="speaker-photo" src="<%= pathToUrl(speaker.image) %>" /></span> -->
-                <div class="speaker-photo" style="background: url(<%= speaker.image %>); background-size: cover; margin: 0 auto;"></div>
+                <!-- <span><img class="speaker-photo" src="<%= pathToUrl(speaker.avatar) %>" /></span> -->
+                <div class="speaker-photo" style="background: url(<%= speaker.avatar %>); background-size: cover; margin: 0 auto;"></div>
                 <span>
                     <h4>
                         <%= speaker.name %>
@@ -50,11 +50,11 @@
                         <%= speaker.title %>
                     </h3>
                 </header>
-                <% if(speaker.description){ %>
+                <% if(speaker.abstract){ %>
                 <p id="text-less<%=i%>-<%=j%>" class="speaker-abstract">
-                    <%= speaker.description.substring(0, 100)+(speaker.description.length>100?"...":"") %>
+                    <%= speaker.abstract.substring(0, 100)+(speaker.abstract.length>100?"...":"") %>
                     <p id="text-more<%=i%>-<%=j%>" class="speaker-abstract" hidden=1>
-                        <%= speaker.description %>
+                        <%= speaker.abstract %>
                     </p><%}%>
                     <button id="read-more-less-button<%=i%>-<%=j%>" onclick=switchSpeakersDescriptionLength("<%=i%>-<%=j%>")>Read
                         more</button>

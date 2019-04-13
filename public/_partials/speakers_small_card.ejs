@@ -1,17 +1,17 @@
 <div class="small_card_speakers">
     <ul class="jsla-hero-speakers layer-2">
-        <% for(var i=0;i<event.speakers.length;i++){ %>
+        <% event.speakers.forEach(function (speaker) { %>
             <li class="jsla-speaker clearfix">
                 <a href="#speakers">
-                <div class="jsla-avatar" style="background: url(<%= public._data.speakers[event.speakers[i]].image %>); background-size: cover">
+                <div class="jsla-avatar" style="background: url(<%= speaker.avatar %>); background-size: cover">
 
                 </div>
                     <div class="jsla-speaker-details pure-g">
-                        <h2 class="jsla-speaker-name pure-u-1-4"><%= public._data.speakers[event.speakers[i]].name %></h2>
-                        <h1 class="jsla-speaker-title pure-u-3-4"><%= public._data.speakers[event.speakers[i]].title %></h1>
+                        <h2 class="jsla-speaker-name pure-u-1-4"><%= speaker.name %></h2>
+                        <h1 class="jsla-speaker-title pure-u-3-4"><%= speaker.title %></h1>
                     </div>
                 </a>
             </li>
-        <% } %>
+        <% }) %>
     </ul>
 </div>

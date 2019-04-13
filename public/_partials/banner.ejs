@@ -7,14 +7,25 @@
     appropriate (<br />).
   -->
   <div class="inner">
-    <header><h2><img class="jsla-banner-logo" src="/images/logo.svg"></h2></header>
+    <header>
+      <h2>
+        <img class="jsla-banner-logo" src="/images/logo.svg">
+      </h2>
+    </header>
     <p>
       The Los Angeles Javascript meetup <br />
     </p>
     <footer>
       <ul class="buttons stacked">
-        <li><strong><h2>Next event:</h2>  <h3><%= dateToReadable(new Date(event.date)) %></h3></strong></li>
-        <li><h3>at <a href="#location"><%= public._data.hosts[event.host].organization %></a></h3></li>
+        <li>
+          <strong>
+            <h2>Next event:</h2>
+            <h3><%= dateToReadable(new Date(event.date)) %></h3>
+          </strong>
+        </li>
+        <li>
+          <h3>at <a href="#location"><%= event.host.organization %></a></h3>
+        </li>
       </ul>
       <%- partial("speakers_small_card", {event: event}) %>
       <ul class="buttons stacked">

@@ -1,11 +1,17 @@
-<% let filtered = event.sponsors.filter(s => public._data.sponsors[s].name !== 'js.la') %>
+<% let filtered = event.sponsors.filter(s => s.name !== 'js.la') %>
 <% if (filtered.length > 0){ %>
   <div class="jsla-sponsors">
         <h3>Sponsored by:</h3>
         <div class="sponsors-list">
+          <% if (event.host ){ %>
+              <a href="<%= event.host.link %>">
+                  <div class="sponsor" style="width: 275px; height: 100px; background-image: url(<%= pathToUrl(event.host.logo) %>)">
+                  </div>
+              </a>
+          <% } %>
             <% for(var i=0; i < event.sponsors.length; i++){
-                let sponsor = public._data.sponsors[event.sponsors[i]]%>
-                <a href="<%= sponsor.url %>">
+                let sponsor = event.sponsors[i]%>
+                <a href="<%= sponsor.link %>">
                     <div class="sponsor" style="width: 275px; height: 100px; background-image: url(<%= pathToUrl(sponsor.logo) %>)">
                     </div>
                 </a>

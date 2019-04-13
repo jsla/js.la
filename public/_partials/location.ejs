@@ -5,13 +5,13 @@
         </strong>
     </h2>
     <h3>
-        
+
     </h3>
     <div class="row gtr-50">
         <div class="col-7 col-12-narrower">
             <div class="mapouter">
                 <div class="gmap_canvas">
-                    <iframe width="100%" height="400" id="gmap_canvas" src="https://maps.google.com/maps?q=<%=public._data.hosts[event.host].address%>&t=&z=13&ie=UTF8&iwloc=&output=embed"
+                    <iframe width="100%" height="400" id="gmap_canvas" src="https://maps.google.com/maps?q=<%=event.host.address%>&t=&z=13&ie=UTF8&iwloc=&output=embed"
                         frameborder="0" scrolling="no" marginheight="0" marginwidth="0" style="float: left;"></iframe>
                     </div>
                 <style>
@@ -33,11 +33,11 @@
         <div class="col-5 col-12-narrower imp-narrower">
             <center>
             <strong>
-                Our next event will be hosted by <%= public._data.hosts[event.host].organization %>.
+                Our next event will be hosted by <%= event.host.organization %>.
             </strong>
-            <a href="<%=public._data.hosts[event.host].link%>"><img src="<%=public._data.hosts[event.host].logo%>" width="90%"/></a>
-            <strong><%if(public._data.hosts[event.host].address){%>Located at <% } %>
-            <%=public._data.hosts[event.host].address%>
+            <a href="<%=event.host.link%>"><img src="<%=event.host.logo%>" width="90%"/></a>
+            <strong><%if(event.host.address){%>Located at <% } %>
+            <%=event.host.address%>
         </strong></center>
         </div>
     </div>

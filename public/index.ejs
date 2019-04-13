@@ -1,17 +1,18 @@
-<% 
+<%
 var last_date = new Date(2055, 1, 1);
 var event = public._data.events[0];
 for(var i=0;i<public._data.events.length;i++){
   let date = new Date(public._data.events[i].date)
   // If the time of the event is not set we want +32 hours offset of 00:00 UTC time
   date.setUTCHours(32-date.getUTCHours())
-  if(date.getTime() > new Date().getTime() 
+  if(date.getTime() > new Date().getTime()
             && date.getTime() < last_date.getTime()){
     last_date = date;
     event = public._data.events[i];
   }
 }
 %>
+
 <!-- Banner -->
 <%- partial("_partials/banner", {event: event}) %>
 <!-- Main -->

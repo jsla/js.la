@@ -1,8 +1,10 @@
 require('dotenv').config()
+const _ = require('lodash')
 
 const map = require('map-async')
-const sha1 = require('sha1')
 const Authentic = require('authentic-client')
+
+const findShowDates = require('./show-dates')
 
 const auth = Authentic({
   server: 'https://authentic.apps.js.la/'
@@ -24,119 +26,79 @@ fetchData(creds, function (err, { speakers, sponsors, hosts, drinks }) {
 
 function updateData ({ speakers, sponsors, hosts, drinks }) {
   getAllDates({ speakers, sponsors, hosts, drinks })
-  fillHosts(hosts)
-  fillSpeakers(speakers)
-  fillSponsors(sponsors)
   fillPastSponsors()
 }
 
 function getAllDates ({ hosts, speakers, sponsors, drinks }) {
-  // Get all dates
-  each(hosts, function (hostKey, host) {
-    if (!host.bookedShows) return
+  const dateStart = '2012-03-01'
+  const count = Math.round((Date.now() - new Date(dateStart)) / (30 * 24 * 3600 * 1000))
 
-    host.bookedShows = host.bookedShows.split('\n')
-
-    host.bookedShows.forEach(function (date) {
-      var [year, month] = date.split('-')
-
-      let event = {
-        host: hostKey,
-        date: date,
-        speakers: [],
-        sponsors: [],
-        titoUrl: `https://jsla-${months[month - 1]}-${year}.eventbrite.com/?aff=site`
-      }
-
-      let sponsorHost = {
-        id: generateUniqeId(host),
-        name: host.organization,
-        logo: host.logo,
-        url: host.link
-      }
-
-      DATA.sponsors[sponsorHost.id] = sponsorHost
-      event.sponsors.push(sponsorHost.id)
-
-      each(speakers, function (speakerKey, speaker) {
-        if (speaker.bookedShows === date) event.speakers.push(speakerKey)
-      })
-
-      each(sponsors, function (sponsorKey, sponsor) {
-        if (sponsor.bookedShows && sponsor.bookedShows.indexOf(date) > -1) {
-          event.sponsors.push(sponsorKey)
-        }
-      })
-
-      each(drinks, function (key, drink) {
-        if (drink.bookedShows && drink.bookedShows.indexOf(date) > -1) {
-          event.drinkjs = drink
-        }
-      })
-
-      DATA.events.push(event)
-    })
-
-    DATA.events.sort((a, b) => new Date(b.date) - new Date(a.date))
+  const showDates = findShowDates({
+    count,
+    dateStart,
+    ignoreInvalid: true
   })
-}
 
-function fillHosts (hosts) {
-  DATA.hosts = Object.assign(DATA.hosts, hosts)
-}
+  const nextShow = findShowDates({ count: 1 })
+  showDates.filter(d => d <= nextShow)
 
-function fillSpeakers (speakers) {
-  DATA.speakers = Object.assign(DATA.speakers, speakers)
+  const shows = showDates.map(function (date) {
+    const [year, month] = date.split('-')
 
-  each(DATA.speakers, function (sKey, speaker) {
-    if (!speaker.avatar) return
+    const showHost = _.find(hosts, h => hasDate(h, date))
+    const showSponsors = _.filter(sponsors, s => hasDate(s, date))
+    const showSpeakers = _.filter(speakers, s => hasDate(s, date))
+    const showDrinks = _.find(drinks, d => hasDate(d, date))
 
-    // If the speaker is from the old _data file
-    speaker.description = speaker.abstract
-    delete speaker.abstract
+    if (!showSpeakers.length) return
 
-    speaker.image = speaker.avatar
-    delete speaker.avatar
+    return {
+      date: date,
+      host: showHost,
+      sponsors: showSponsors,
+      speakers: showSpeakers,
+      drinkjs: showDrinks,
+      titoUrl: `https://jsla-${months[month - 1]}-${year}.eventbrite.com/?aff=site`
+    }
+  }).filter(s => s)
 
-    speaker.video = speaker.youtubeUrl
-    delete speaker.youtubeUrl
-
-    speaker.videoimg = speaker.youtubeImageUrl
-    delete speaker.youtubeImageUrl
-  })
-}
-
-function fillSponsors (sponsors) {
-  DATA.sponsors = Object.assign(DATA.sponsors, sponsors)
-
-  each(DATA.sponsors, function (sKey, sponsor) {
-    if (!sponsor.link) return
-
-    sponsor.url = sponsor.link
-    delete sponsor.link
-  })
+  DATA.events = shows
 }
 
 function fillPastSponsors () {
   DATA.pastSponsors = []
 
-  each(DATA.events, function (eKey, event) {
-    each(event.sponsors, function (sKey, sponsorId) {
-      var dSponsor = DATA.sponsors[sponsorId]
-      if (!dSponsor) return
+  DATA.events.slice().reverse().forEach(function (event) {
+    const dHost = event.host
+    let hostFound = false
 
+    each(DATA.pastSponsors, function (sponsor, pSponsor) {
+      if (hostFound || !dHost) return
+
+      if (pSponsor.organization === dHost.organization) hostFound = true
+    })
+
+    if (!hostFound && dHost) {
+      DATA.pastSponsors.push({
+        organization: dHost.organization,
+        logo: dHost.logo,
+        url: dHost.url
+      })
+    }
+
+    event.sponsors.forEach(function (dSponsor) {
       let sponsorFound = false
+
       each(DATA.pastSponsors, function (sponsor, pSponsor) {
         if (sponsorFound) return
 
-        if (!dSponsor.organization) dSponsor.organization = dSponsor.name
-        if (pSponsor.name === dSponsor.organization) sponsorFound = true
+        if (pSponsor.organization === dSponsor.organization) sponsorFound = true
       })
 
       if (sponsorFound) return
 
       DATA.pastSponsors.push({
-        name: dSponsor.organization,
+        organization: dSponsor.organization,
         logo: dSponsor.logo,
         url: dSponsor.url
       })
@@ -164,10 +126,6 @@ function fetchData (creds, cb) {
   })
 }
 
-function generateUniqeId (obj) {
-  return sha1(JSON.stringify(obj))
-}
-
 var months = [
   'january',
   'february',
@@ -178,6 +136,11 @@ var months = [
   'july',
   'august',
   'september',
+  'october',
   'november',
   'december'
 ]
+
+function hasDate (obj, date) {
+  return (obj.bookedShows || '').split('\n').indexOf(date) > -1
+}

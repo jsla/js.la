@@ -52,8 +52,8 @@
                 for (var key in sponsors) {
                     if (sponsors.hasOwnProperty(key)) {
                     let sponsor = sponsors[key]%>
-                    <a href="<%= sponsor.url %>">
-                        <div class="sponsor" style="background-image: url(<%= pathToUrl(sponsor.logo) %>)">
+                    <a href="<%= sponsor.link %>">
+                        <div class="sponsor" style="background-image: url(<%= pathToUrl(sponsor.logo) %>); background-size: contain">
 
                         </div>
                     </a>
