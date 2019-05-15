@@ -25,7 +25,7 @@
             <section>
                 <div class="speaker-photo" style="background: url(<%= speaker.avatar %>); background-size: cover; margin: 0 auto;"></div>
                 <span><h4 style="font-weight: bold"><%= speaker.name %>
-                    <a href="https://www.github.com/<%= speaker.github %>"><span class="icon fa-github" style="color: #050505"></span></a>
+                    <a href="https://www.github.com/<%= (speaker.github || '').replace('@', '') %>"><span class="icon fa-github" style="color: #050505"></span></a>
                     <a href="https://www.twitter.com/<%= speaker.twitter %>"><span class="icon fa-twitter" style="color: #01B9FF"></span></a>
                 </h4></span>
                 <header><h3 class="speaker-description"><%= speaker.title %></h3></header>

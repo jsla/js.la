@@ -41,7 +41,7 @@
                 <span>
                     <h4>
                         <%= speaker.name %>
-                        <a href="https://www.github.com/<%= speaker.github %>"><span class="icon fa-github" style="color: #050505"></span></a>
+                        <a href="https://www.github.com/<%= (speaker.github || '').replace('@', '') %>"><span class="icon fa-github" style="color: #050505"></span></a>
                         <a href="https://www.twitter.com/<%= speaker.twitter %>"><span class="icon fa-twitter" style="color: #01B9FF"></span></a>
                     </h4>
                 </span>
