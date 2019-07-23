@@ -45,7 +45,12 @@
       "avatar": "/images/team/ben-junya.jpg",
       "twitter": "MrBenJ5",
       "slack": "benjunya"
-
+    },
+    {
+      "name": "Denise Ngai",
+      "avatar": "/images/team/denise-ny.jpg",
+      "twitter": "thisgunforhire",
+      "slack": "denise"
     }
   ],
   "alumni": [
