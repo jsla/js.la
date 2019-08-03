@@ -20,8 +20,8 @@
   <span class="icon fa-laptop"></span>
   <h2>Presentations from <%= year %></h2>
 </header>
-<% for(var j = 0; j < public._data.events.length; j++){
-  let event = public._data.events[j];
+<% for(var j = public._data.events.length; j > 0; j--){
+  let event = public._data.events[j - 1];
   if (new Date(event.date).getYear() + 1900 != year) continue;
   if (new Date().toISOString().slice(0, 10) <= event.date) continue;
 %>
