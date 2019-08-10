@@ -1,0 +1,66 @@
+html, body {
+  padding: 0;
+  margin: 0;
+  font-family: sans-serif;
+}
+
+h1 {
+  font-size: 76pt;
+}
+
+h2 {
+  font-size: 48pt;
+}
+
+.logo {
+  position: absolute;
+  left: 1685px;
+  top: 848px;
+  width: 220px;
+  height: 220px;
+  background: #f5dd3d;
+  background-image: url(/images/logo.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  box-shadow: 25px 25px 25px rgba(0, 0, 0, 0.40);
+}
+
+.card {
+  width: 1920px;
+  height: 1080px;
+  background: #fff08a;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.sponsor {
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.25);
+}
+
+.avatar {
+  width: 860px;
+  height: 860px;
+  border: 30px solid white;
+  background-size: contain;
+  background-position: center;
+  float: left;
+}
+
+.info {
+  max-width: 45%;
+}
+
+.twitter, .github {
+  font-size: 36pt;
+  font-weight: 100;
+  clear: both;
+}
+
+.icon {
+  width: 30pt;
+  float: left;
+}
+.icon img, .icon img {
+  height: 20pt;
+}

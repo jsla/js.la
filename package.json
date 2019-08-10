@@ -4,8 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "harp server public",
-    "build": "npm run update-data && harp compile public dist",
+    "start": "npm run watch-js & harp server public",
+    "watch-js": "watchify client/cards.js -o public/js/cards.js",
+    "build-js": "browserify client/cards.js > public/js/cards.js",
+    "build": "npm run build-js && npm run update-data && harp compile public dist",
     "test": "standard",
     "update-data": "node scripts/generate_data_file.js > public/_data.json"
   },
@@ -27,10 +29,13 @@
   },
   "dependencies": {
     "authentic-client": "^1.2.2",
+    "browserify": "^16.5.0",
     "dotenv": "^6.2.0",
     "harp": "^0.29.0",
     "lodash": "^4.17.11",
+    "lodash.find": "^4.6.0",
     "map-async": "^0.1.1",
+    "nanohtml": "^1.6.3",
     "standard": "^12.0.1"
   },
   "devDependencies": {
