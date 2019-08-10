@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="video.css">
+    <title></title>
+  </head>
+  <body>
+    <div class='target'><%- yield %></div>
+    <div class='logo'></div>
+    <script src='/js/cards.js'></script>
+    <script>
+      videoCards(
+        document.querySelector('.target'),
+        <%- JSON.stringify(public._data.events) %>
+      )
+    </script>
+  </body>
+</html>
