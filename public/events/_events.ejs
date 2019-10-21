@@ -68,11 +68,13 @@
               </p>
             </p>
           <% } %>
-          <button
-            id="read-more-less-button<%=i%>-<%=j%>"
-            onclick=switchSpeakersDescriptionLength("<%=i%>-<%=j%>")>
-            Read more
-          </button>
+          <% if (speaker.abstract && speaker.abstract.length > 100) { %>
+            <button
+              id="read-more-less-button<%=i%>-<%=j%>"
+              onclick=switchSpeakersDescriptionLength("<%=i%>-<%=j%>")>
+              Read more
+            </button>
+          <% } %>
           <% if (pathToUrl(speaker.video) && speaker.video.indexOf("vimeo") == -1) { %>
             <a
               href="<%= pathToUrl(speaker.video) %>"
