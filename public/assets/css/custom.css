@@ -99,11 +99,13 @@ a{
 }
 
 .speaker-description{
-    height: 70px;
+    height: 50px;
     line-height: 22px;
+    width: 96%;
 }
 .speaker-abstract{
     min-height: 80px;
+    width: 98%;
 }
 .row{
     margin-left: auto;
@@ -120,7 +122,8 @@ a{
 
 .videoimg{
     max-width: 500px;
-    width: 100%;
+    width: 95%;
+    margin-bottom: 10px;
 }
 .jsla-white-wrapper{
     text-align: left;
