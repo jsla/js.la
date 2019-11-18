@@ -4504,6 +4504,55 @@
         }
       ],
       "titoUrl": "https://jsla-may-2019.eventbrite.com/?aff=site"
+    },
+    {
+      "date": "2019-12-07", 
+      "host": {
+        "_announced": true,
+        "address": "1519 Wilshire Blvd, Santa Monica, CA 90403", 
+        "bookedShows": "2019-12-07",
+        "capacity": "",
+        "dates": {
+          "0": "2019-12-07"
+        },
+        "email": "david@js.la",
+        "goal": "",
+        "hasMicrophone": "",
+        "hasProjector": "",
+        "id": "",
+        "link": "http://www.estate1519.com/guestroom", 
+        "logo": "",
+        "name": "",
+        "organization": "Estate Restaurant + Bar",
+        "parking": "",
+        "refreshments": "",
+        "slack": "@dguttman",
+        "submitState": "done"
+      },
+      "sponsors": [
+      ],
+      "speakers": [
+        {
+          "_announced": true,
+          "abstract": "Come meet up with the js.la community for our fifth annual js.soiree. Drink, network and have an awesome time. Tickets are limited so get yours soon!",
+          "avatar": "",
+          "bookedShows": "2019-12-07",
+          "dates": {
+            "0": "2019-12-07"
+          },
+          "email": null,
+          "github": null,
+          "id": "",
+          "isArchived": false,
+          "name": "js.soiree",
+          "slack": null,
+          "submitState": "done",
+          "title": "End of 2019 party",
+          "twitter": "@jsdotla",
+          "updatedAt": ""
+        } 
+      ],
+      "titoUrl": "https://www.eventbrite.com/e/jsla-soiree-2019-tickets-82248368083"
     }
   ],
   "hosts": {},

@@ -25,7 +25,7 @@ a{
 }
 
 .jsla-hero-speakers .jsla-speaker .jsla-speaker-details {
-    margin-left: 70px
+    padding: 1em;
 }
 
 .jsla-hero-speakers .jsla-speaker .jsla-avatar {
@@ -42,15 +42,15 @@ a{
     font-size: 1em;
     padding: 0 1em;
     font-weight: 500;
-    text-align: left;
+    text-align: center;
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap
 }
 
-.jsla-hero-speakers .jsla-speaker h2 {
-    color: #969696;
-    font-size: 1em
+.jsla-hero-speakers .jsla-speaker p {
+    color: black;
+    font-size: 0.7em
 }
 
 .jsla-sponsors{
