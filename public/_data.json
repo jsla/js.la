@@ -20,10 +20,11 @@
       "speakers": [
         {
           "_announced": true,
-          "abstract": "No description given.",
+          "abstract": "",
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/dmvaldman.jpg",
           "bookedShows": "2012-03-29",
           "github": "",
+          "id": "004ca98ea666094f081ce1dab614",
           "name": "David Valdman",
           "title": "Streamlining Client Side JS Development",
           "twitter": "dmvaldman"
@@ -138,9 +139,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/johnbender.jpg",
           "bookedShows": "2012-05-31",
           "github": "",
+          "id": "2a00a8042445f18613b27cb1f827",
           "name": "John Bender",
           "title": "Faster JavaScript Through Category Theory",
-          "twitter": "johnbender"
+          "twitter": "johnbender",
+          "youtubeImageUrl": "",
+          "youtubeUrl": ""
         },
         {
           "_announced": true,
@@ -148,9 +152,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/bartekd.jpg",
           "bookedShows": "2012-05-31",
           "github": "",
+          "id": "e79328ac43ded7f35d03c70340fa",
           "name": "Bartek Drozdz",
           "title": "J3D: Adventures with WebGL",
-          "twitter": "bartekd"
+          "twitter": "bartekd",
+          "youtubeImageUrl": "https://i.imgur.com/NJNXD5W.png",
+          "youtubeUrl": "https://youtu.be/MfTMxJWAsW4"
         }
       ],
       "titoUrl": "https://jsla-may-2012.eventbrite.com/?aff=site"
@@ -180,9 +187,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/euforic.jpg",
           "bookedShows": "2012-06-28",
           "github": "",
+          "id": "958fc9f23e3f748cedd3accfed60",
           "name": "Christian Sullivan",
           "title": "Design to Deploy - Mobile Development with Titanium",
-          "twitter": "euforic"
+          "twitter": "euforic",
+          "youtubeImageUrl": "https://i.imgur.com/TjPmd6Y.png",
+          "youtubeUrl": "https://youtu.be/BP6SM8tBJwI"
         },
         {
           "_announced": true,
@@ -190,9 +200,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/igorminar.png",
           "bookedShows": "2012-06-28",
           "github": "",
+          "id": "dd37209643165391439b3c556223",
           "name": "Igor Minar",
           "title": "AngularJS",
-          "twitter": "IgorMinar"
+          "twitter": "IgorMinar",
+          "youtubeImageUrl": "https://i.imgur.com/MqyP4LF.png",
+          "youtubeUrl": "https://youtu.be/3Iee38xFRR8"
         },
         {
           "_announced": true,
@@ -200,9 +213,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/andrewvc.jpg",
           "bookedShows": "2012-06-28",
           "github": "",
+          "id": "e547347b5c185b4bfb07b5468414",
           "name": "Andrew Cholakian",
           "title": "Realtime Visualizations w/ D3 and Backbone",
-          "twitter": "andrewvc"
+          "twitter": "andrewvc",
+          "youtubeImageUrl": "https://i.imgur.com/0vFrtGD.png",
+          "youtubeUrl": "https://youtu.be/MoPaT1ls1Hc"
         }
       ],
       "titoUrl": "https://jsla-june-2012.eventbrite.com/?aff=site"
@@ -225,9 +241,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/activetheory.jpg",
           "bookedShows": "2012-07-26",
           "github": "",
+          "id": "0c84bd37937b530e8541a63d401b",
           "name": "Michael Anthony",
           "title": "JS To Rule Them All",
-          "twitter": "_activetheory"
+          "twitter": "_activetheory",
+          "youtubeImageUrl": "https://i.imgur.com/I47UL0i.png",
+          "youtubeUrl": "https://youtu.be/Kpfes-cKw9A"
         },
         {
           "_announced": true,
@@ -235,9 +254,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/thedaniel.png",
           "bookedShows": "2012-07-26",
           "github": "",
+          "id": "39887bef1d8fc143177404db00f0",
           "name": "Daniel Hengeveld",
           "title": "Backbone.js: The framework that isn't",
-          "twitter": "thedaniel"
+          "twitter": "thedaniel",
+          "youtubeImageUrl": "https://i.imgur.com/c71vmbD.png",
+          "youtubeUrl": "https://youtu.be/ILdq2Jv9rVE"
         },
         {
           "_announced": true,
@@ -245,9 +267,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/aaron-martin.png",
           "bookedShows": "2012-07-26",
           "github": "",
+          "id": "b315b70578b8b840e679a23aa8dd",
           "name": "Aaron Martin",
           "title": "Going Native: Practical scripting with the JavaScript Image Object",
-          "twitter": "citygridmedia"
+          "twitter": "citygridmedia",
+          "youtubeImageUrl": "https://i.imgur.com/LrQ3270.png",
+          "youtubeUrl": "https://youtu.be/awly1zrVx0M"
         }
       ],
       "titoUrl": "https://jsla-july-2012.eventbrite.com/?aff=site"
@@ -277,9 +302,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/wagenet.png",
           "bookedShows": "2012-08-30",
           "github": "",
+          "id": "273d84a9f1091495d8e3f145fc4e",
           "name": "Peter Wagenet",
           "title": "Sophisticated Views: How Ember's View Layer Handles the Complex Problems",
-          "twitter": "wagenet"
+          "twitter": "wagenet",
+          "youtubeImageUrl": "https://i.imgur.com/1Ea4nFn.png",
+          "youtubeUrl": "https://youtu.be/GBVM3nrdicE"
         },
         {
           "_announced": true,
@@ -287,9 +315,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/comster.jpg",
           "bookedShows": "2012-08-30",
           "github": "",
+          "id": "926fa7da9635a5946861d179cd55",
           "name": "Jeff Pelton",
           "title": "Jukebox.js - Experiment with Modern Web Technology",
-          "twitter": "comster"
+          "twitter": "comster",
+          "youtubeImageUrl": "https://i.imgur.com/DQJh5wZ.png",
+          "youtubeUrl": "https://youtu.be/Sj2he86oCmI"
         }
       ],
       "titoUrl": "https://jsla-august-2012.eventbrite.com/?aff=site"
@@ -319,9 +350,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/digidanny.jpg",
           "bookedShows": "2012-09-27",
           "github": "digidanny",
-          "name": "Danny Tran, Disney",
+          "id": "b6332805741d80df84c3a5594eda",
+          "name": "Danny Tran",
           "title": "Sentiment Analysis in a Post Grammatical World",
-          "twitter": "digi_danny"
+          "twitter": "digi_danny",
+          "youtubeImageUrl": "https://i.imgur.com/uivItlv.png",
+          "youtubeUrl": "https://youtu.be/Mt6ar9jpPlA"
         }
       ],
       "titoUrl": "https://jsla-september-2012.eventbrite.com/?aff=site"
@@ -351,9 +385,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/GeoffreyPlitt.jpg",
           "bookedShows": "2012-10-25",
           "github": "GeoffreyPlitt",
+          "id": "0f79afcae5b2844d2ae557be07d3",
           "name": "Geoffrey Plitt",
           "title": "Top 10 Secret Weapons For Front-End Development",
-          "twitter": "GeoffreyPlitt"
+          "twitter": "GeoffreyPlitt",
+          "youtubeImageUrl": "https://i.imgur.com/jgkIFjh.png",
+          "youtubeUrl": "https://youtu.be/Ai2KpZSgSOk"
         },
         {
           "_announced": true,
@@ -361,9 +398,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/gilesgoatboy.jpg",
           "bookedShows": "2012-10-25",
           "github": "gilesbowkett",
+          "id": "99dd64fa450d4a0239104c4a5f51",
           "name": "Giles Bowkett",
           "title": "Wheatley",
-          "twitter": "gilesgoatboy"
+          "twitter": "gilesgoatboy",
+          "youtubeImageUrl": "https://i.imgur.com/iEGcQP3.png",
+          "youtubeUrl": "https://youtu.be/uGnWtmI7D48"
         }
       ],
       "titoUrl": "https://jsla-october-2012.eventbrite.com/?aff=site"
@@ -393,9 +433,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/jrozner.jpg",
           "bookedShows": "2012-11-29",
           "github": "jrozner",
+          "id": "d58fe1f43f665a947f183511cda1",
           "name": "Joe Rozner",
           "title": "Sandboxing Untrusted Code in Node.js",
-          "twitter": "jrozner"
+          "twitter": "jrozner",
+          "youtubeImageUrl": "",
+          "youtubeUrl": ""
         },
         {
           "_announced": true,
@@ -403,9 +446,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/philfree.jpg",
           "bookedShows": "2012-11-29",
           "github": "philfree",
+          "id": "f4aaae927b87c1fa17c75d169722",
           "name": "Philippe Lewicki",
           "title": "meteor.js",
-          "twitter": "philfree"
+          "twitter": "philfree",
+          "youtubeImageUrl": "https://i.imgur.com/GZJ5HVv.png",
+          "youtubeUrl": "https://youtu.be/KlOivbeKMUQ"
         }
       ],
       "titoUrl": "https://jsla-november-2012.eventbrite.com/?aff=site"
@@ -442,9 +488,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/mbrevoort.jpg",
           "bookedShows": "2013-01-31",
           "github": "mbrevoort",
+          "id": "53837f941f388b9b8704fd75116e",
           "name": "Mike Brevoort",
           "title": "Node.js & Me",
-          "twitter": "mbrevoort"
+          "twitter": "mbrevoort",
+          "youtubeImageUrl": "https://i.imgur.com/prvcflM.png",
+          "youtubeUrl": "https://youtu.be/086Vkrbi3gA"
         },
         {
           "_announced": true,
@@ -452,9 +501,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/johnbender.jpg",
           "bookedShows": "2013-01-31",
           "github": "johnbender",
+          "id": "c6c85aa8cbafeea6b3850e42b462",
           "name": "John Bender",
           "title": "Math Envy and CoffeeScript's Foibles",
-          "twitter": "johnbender"
+          "twitter": "johnbender",
+          "youtubeImageUrl": "https://i.imgur.com/xP3lcj8.png",
+          "youtubeUrl": "https://youtu.be/MV1yHcubKaI"
         }
       ],
       "titoUrl": "https://jsla-january-2013.eventbrite.com/?aff=site"
@@ -491,9 +543,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/deadprogram.jpg",
           "bookedShows": "2013-02-28",
           "github": "deadprogram",
+          "id": "2baa84f81a6b776bbfd5f1c6a0b7",
           "name": "Ron Evans",
           "title": "JavaScript Made Simple",
-          "twitter": "deadprogram"
+          "twitter": "deadprogram",
+          "youtubeImageUrl": "https://i.imgur.com/uBCD8Ru.png",
+          "youtubeUrl": "https://youtu.be/mBCwNFpLGs8"
         },
         {
           "_announced": true,
@@ -501,9 +556,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/egradman.jpg",
           "bookedShows": "2013-02-28",
           "github": "",
+          "id": "7e7d0647647a7a112561148fe334",
           "name": "Eric Gradman",
           "title": "Node's Harder Side",
-          "twitter": "egradman"
+          "twitter": "egradman",
+          "youtubeImageUrl": "https://i.imgur.com/jFIIZrC.png",
+          "youtubeUrl": "https://youtu.be/pni0I-RdBYw"
         },
         {
           "_announced": true,
@@ -511,9 +569,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/activetheory.jpg",
           "bookedShows": "2013-02-28",
           "github": "",
+          "id": "f15df936ee53af0176626903bc1d",
           "name": "Michael Anthony and Andy Thelander",
           "title": "Creative JavaScript in Advertising",
-          "twitter": "_activetheroy"
+          "twitter": "_activetheroy",
+          "youtubeImageUrl": "https://i.imgur.com/otvM0aV.png",
+          "youtubeUrl": "https://youtu.be/nHO6DDTgyJg"
         }
       ],
       "titoUrl": "https://jsla-february-2013.eventbrite.com/?aff=site"
@@ -550,9 +611,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/substack.png",
           "bookedShows": "2013-03-28",
           "github": "substack",
+          "id": "9264274424bbc32ba3218a32ec54",
           "name": "James Halliday",
           "title": "Browserify V2 and You (nix)",
-          "twitter": "substack"
+          "twitter": "substack",
+          "youtubeImageUrl": "https://i.imgur.com/BAeT3dn.png",
+          "youtubeUrl": "https://youtu.be/KzqGiNRMBbk"
         },
         {
           "_announced": true,
@@ -560,9 +624,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/coderjonny.jpg",
           "bookedShows": "2013-03-28",
           "github": "coderjonny",
+          "id": "95ac41386e518edd70a4826a3040",
           "name": "Jonny Kang",
           "title": "Java Script Made Simple: Hip Hop Array",
-          "twitter": "coderjonny"
+          "twitter": "coderjonny",
+          "youtubeImageUrl": "https://i.imgur.com/Uw6RIzi.png",
+          "youtubeUrl": "https://youtu.be/JAXuYrkRnbE"
         }
       ],
       "titoUrl": "https://jsla-march-2013.eventbrite.com/?aff=site"
@@ -592,9 +659,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/say2joe.jpg",
           "bookedShows": "2013-04-25",
           "github": "say2joe",
+          "id": "5a9d711ea6368df6cdfed80ce990",
           "name": "Joe Johnson",
           "title": "JavaScript Made Simple: JavaScript Object Orientation",
-          "twitter": "say2joe"
+          "twitter": "say2joe",
+          "youtubeImageUrl": "https://i.imgur.com/9Ky713j.png",
+          "youtubeUrl": "https://youtu.be/7iYN3fjbJoE"
         },
         {
           "_announced": true,
@@ -602,9 +672,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/guybedford.jpg",
           "bookedShows": "2013-04-25",
           "github": "guybedford",
+          "id": "5ed7c8c6d6e28dd27d25909bf430",
           "name": "Guy Bedford",
           "title": "Modular Widgets with AMD",
-          "twitter": "guybedford"
+          "twitter": "guybedford",
+          "youtubeImageUrl": "https://i.imgur.com/7EaKOAi.png",
+          "youtubeUrl": "https://youtu.be/svZFGdBXsAM"
         },
         {
           "_announced": true,
@@ -612,9 +685,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/jlsuttles.jpg",
           "bookedShows": "2013-04-25",
           "github": "jlsuttles",
+          "id": "67109136dc58d40f7595bfdaf000",
           "name": "Jessica Suttles",
           "title": "The History of Women in Computing",
-          "twitter": "jlsuttles"
+          "twitter": "jlsuttles",
+          "youtubeImageUrl": "https://i.imgur.com/HWC0jEZ.png",
+          "youtubeUrl": "https://youtu.be/IYLFj0sMxUg"
         }
       ],
       "titoUrl": "https://jsla-april-2013.eventbrite.com/?aff=site"
@@ -644,9 +720,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/juerglehni.png",
           "bookedShows": "2013-05-30",
           "github": "lehni",
+          "id": "30cf13aeb002db39715ce8632354",
           "name": "Jürg Lehni",
           "title": "Behind Paper.js: On the nuts and bolts of designing and building a vector graphics library in JavaScript",
-          "twitter": "juerglehni"
+          "twitter": "juerglehni",
+          "youtubeImageUrl": "https://i.imgur.com/iNPnI0X.png",
+          "youtubeUrl": "https://youtu.be/Ikt4LK6TSBE"
         },
         {
           "_announced": true,
@@ -654,9 +733,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/mokafolio.png",
           "bookedShows": "2013-05-30",
           "github": "",
+          "id": "fc9b4a3b73d349738f8ff194d005",
           "name": "Matthias Dörfelt",
           "title": "Behind the Weird Faces: Presets as a technique for rich procedural content creation",
-          "twitter": "mokafolio"
+          "twitter": "mokafolio",
+          "youtubeImageUrl": "https://i.imgur.com/NJp3yn1.png",
+          "youtubeUrl": "https://youtu.be/sLvM5xNN6uI"
         }
       ],
       "titoUrl": "https://jsla-may-2013.eventbrite.com/?aff=site"
@@ -686,9 +768,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/chrisaiv.jpg",
           "bookedShows": "2013-07-25",
           "github": "chrisaiv",
+          "id": "3dc73a9ba6fd8c761797b9f2b75c",
           "name": "Chris Mendez",
           "title": "Discovering Music Through Geo Location",
-          "twitter": "chrisaiv"
+          "twitter": "chrisaiv",
+          "youtubeImageUrl": "https://i.imgur.com/EWmEHRy.png",
+          "youtubeUrl": "https://youtu.be/ciaGgOtSM_g"
         },
         {
           "_announced": true,
@@ -696,9 +781,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/qxb.jpg",
           "bookedShows": "2013-07-25",
           "github": "samlecuyer",
+          "id": "d4a51bb940c2c8b6e2d300a69eba",
           "name": "Sam L'ecuyer",
           "title": "Beyond JSON: On HTML5 data-types and handling bytes in the DOM well",
-          "twitter": "_qxb"
+          "twitter": "_qxb",
+          "youtubeImageUrl": "https://i.imgur.com/RT2hXTR.png",
+          "youtubeUrl": "https://youtu.be/9vNOu6VBLrw"
         }
       ],
       "titoUrl": "https://jsla-july-2013.eventbrite.com/?aff=site"
@@ -728,9 +816,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/mimshwright.jpg",
           "bookedShows": "2013-08-29",
           "github": "mimshwright",
-          "name": "Mims H. Wright, Principal Web Developer at Huge",
+          "id": "317720c15c495a032fa5574d7749",
+          "name": "Mims H. Wright",
           "title": "Making a Simple Game in JavaScript Step-By-Step",
-          "twitter": "mimshwright"
+          "twitter": "mimshwright",
+          "youtubeImageUrl": "https://i.imgur.com/YJYtnNB.png",
+          "youtubeUrl": "https://youtu.be/ZcXXxsYY8uU"
         },
         {
           "_announced": true,
@@ -738,9 +829,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/jrozner.jpg",
           "bookedShows": "2013-08-29",
           "github": "jrozner",
+          "id": "74b08ab03d9697e19d99520eca53",
           "name": "Joe Rozner",
           "title": "You Got Your Audio in my Browser: An Introduction to the Web Audio API",
-          "twitter": "jrozner"
+          "twitter": "jrozner",
+          "youtubeImageUrl": "https://i.imgur.com/B849Tu3.png",
+          "youtubeUrl": "https://youtu.be/iCqS3AFnfkY"
         }
       ],
       "titoUrl": "https://jsla-august-2013.eventbrite.com/?aff=site"
@@ -770,9 +864,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/davidguttman.png",
           "bookedShows": "2013-09-26",
           "github": "davidguttman",
+          "id": "364d69b660464ced468afbf8a969",
           "name": "David Guttman, js.la/SPEC.LA Organizer",
           "title": "Full Streams Ahead",
-          "twitter": "davidguttman"
+          "twitter": "davidguttman",
+          "youtubeImageUrl": "https://i.imgur.com/c5AjLFd.png",
+          "youtubeUrl": "https://youtu.be/Gu2kuXbo4-w"
         },
         {
           "_announced": true,
@@ -780,9 +877,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/gilesgoatboy.jpg",
           "bookedShows": "2013-09-26",
           "github": "gilesbowkett",
+          "id": "a3f4cce80e64b99b3478812fd27f",
           "name": "Giles Bowkett",
           "title": "Caffeinated Rhythms: Playing Drums With CoffeeScript",
-          "twitter": "gilesgoatboy"
+          "twitter": "gilesgoatboy",
+          "youtubeImageUrl": "https://i.imgur.com/wmESegT.png",
+          "youtubeUrl": "https://youtu.be/nJwNbJJ890I"
         }
       ],
       "titoUrl": "https://jsla-september-2013.eventbrite.com/?aff=site"
@@ -812,9 +912,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/amark.jpg",
           "bookedShows": "2013-10-31",
           "github": "amark",
+          "id": "02cb9e854a3b03e02b2481dae2ea",
           "name": "Mark Nadal",
           "title": "Practical Philosophy: Abstracting Away your Pain with JavaScript",
-          "twitter": "amark"
+          "twitter": "amark",
+          "youtubeImageUrl": "https://i.imgur.com/0V70rc8.png",
+          "youtubeUrl": "https://youtu.be/oAur9zxXOCA"
         },
         {
           "_announced": true,
@@ -822,9 +925,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/soldair.jpg",
           "bookedShows": "2013-10-31",
           "github": "soldair",
+          "id": "c6fec7f103a04c60e835f3fac5fd",
           "name": "Ryan Day",
           "title": "leveldb And Node.js: Choose Your Own Adventure",
-          "twitter": "soldair"
+          "twitter": "soldair",
+          "youtubeImageUrl": "https://i.imgur.com/jPmKlsz.png",
+          "youtubeUrl": "https://youtu.be/o5fb1ZsNPQE"
         }
       ],
       "titoUrl": "https://jsla-october-2013.eventbrite.com/?aff=site"
@@ -861,9 +967,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/laser.jpg",
           "bookedShows": "2014-01-30",
           "github": "laser",
+          "id": "af9319a4b9b69e9d932963471c05",
           "name": "Erin Swenson-Healey",
           "title": "Hanging up on Callbacks: Generators in ES6",
-          "twitter": ""
+          "twitter": "",
+          "youtubeImageUrl": "https://i.imgur.com/7TeI1BM.png",
+          "youtubeUrl": "https://youtu.be/ph8K6HT7i6k"
         },
         {
           "_announced": true,
@@ -871,9 +980,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/niallohiggins.jpg",
           "bookedShows": "2014-01-30",
           "github": "niallo",
+          "id": "b9a14de5a0ce7f6a9153276d07a7",
           "name": "Niall O'Higgins",
           "title": "Node.JS and Docker with a side of Continuous Deployment",
-          "twitter": "niallohiggins"
+          "twitter": "niallohiggins",
+          "youtubeImageUrl": "https://i.imgur.com/mcsc1uf.png",
+          "youtubeUrl": "https://youtu.be/4D7xjvvEtCA"
         }
       ],
       "titoUrl": "https://jsla-january-2014.eventbrite.com/?aff=site"
@@ -910,9 +1022,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/matuzak.png",
           "bookedShows": "2014-02-27",
           "github": "emkay",
+          "id": "457955cae2a37f3ca2e41ca824e3",
           "name": "Michael Matuzak",
           "title": "Taking over the NES with JavaScript",
-          "twitter": "mmatuzak"
+          "twitter": "mmatuzak",
+          "youtubeImageUrl": "https://i.imgur.com/HeeMIco.png",
+          "youtubeUrl": "https://youtu.be/zPEXKcMBNRA"
         },
         {
           "_announced": true,
@@ -920,9 +1035,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/gilesgoatboy.jpg",
           "bookedShows": "2014-02-27",
           "github": "gilesbowkett",
+          "id": "6b578358083878e33edc5c983fdc",
           "name": "Giles Bowkett",
           "title": "WebGL, What The Hell",
-          "twitter": "gilesgoatboy"
+          "twitter": "gilesgoatboy",
+          "youtubeImageUrl": "https://i.imgur.com/GACDtm8.png",
+          "youtubeUrl": "https://youtu.be/34nmG-XqV5I"
         }
       ],
       "titoUrl": "https://jsla-february-2014.eventbrite.com/?aff=site"
@@ -959,9 +1077,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/scottmotte.jpg",
           "bookedShows": "2014-03-27",
           "github": "scottmotte",
+          "id": "13e2f44329192ccaf6e84060bbf7",
           "name": "Scott Motte",
           "title": "Deprecating the Password",
-          "twitter": "scottmotte"
+          "twitter": "scottmotte",
+          "youtubeImageUrl": "https://i.imgur.com/oYZ49G9.png",
+          "youtubeUrl": "https://youtu.be/JZsN4XXT9Xc"
         },
         {
           "_announced": true,
@@ -969,9 +1090,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/auser.jpg",
           "bookedShows": "2014-03-27",
           "github": "auser",
+          "id": "f92f47db811b3f961a52a902b482",
           "name": "Ari Lerner",
           "title": "AngularJS: The Awesome Parts",
-          "twitter": "auser"
+          "twitter": "auser",
+          "youtubeImageUrl": "https://i.imgur.com/N1TYiHN.png",
+          "youtubeUrl": "https://youtu.be/5My90w1N40s"
         }
       ],
       "titoUrl": "https://jsla-march-2014.eventbrite.com/?aff=site"
@@ -1008,9 +1132,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/imbrianj.jpg",
           "bookedShows": "2014-04-24",
           "github": "imbrianj",
+          "id": "a9255e7048edf9609d73ee9a2354",
           "name": "Brian Johnson",
           "title": "The Intranet of Things with Node.js",
-          "twitter": "imbrianj"
+          "twitter": "imbrianj",
+          "youtubeImageUrl": "https://i.imgur.com/K9Hlw2e.png",
+          "youtubeUrl": "https://youtu.be/B33KHgFjJsQ"
         },
         {
           "_announced": true,
@@ -1018,9 +1145,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/mbleigh.jpg",
           "bookedShows": "2014-04-24",
           "github": "mbleigh",
+          "id": "b03626c15a3eae6919f149da418e",
           "name": "Michael Bleigh",
           "title": "Static Web Architecture: Not Just for Hipsters",
-          "twitter": "mbleigh"
+          "twitter": "mbleigh",
+          "youtubeImageUrl": "https://i.imgur.com/jOUUwIY.png",
+          "youtubeUrl": "https://youtu.be/COcuo6VH_0I"
         }
       ],
       "titoUrl": "https://jsla-april-2014.eventbrite.com/?aff=site"
@@ -1057,9 +1187,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/feross.jpg",
           "bookedShows": "2014-05-29",
           "github": "feross",
+          "id": "6be56336da717adc3cf7212b7cfc",
           "name": "Feross",
           "title": "WebTorrent: How I built a BitTorrent client in the browser",
-          "twitter": "feross"
+          "twitter": "feross",
+          "youtubeImageUrl": "https://i.imgur.com/Df11lHY.png",
+          "youtubeUrl": "https://youtu.be/aVgH-mVdS6s"
         },
         {
           "_announced": true,
@@ -1067,9 +1200,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/jacob2dot0.jpg",
           "bookedShows": "2014-05-29",
           "github": "jacoblwe20",
+          "id": "ee5da1d9535ec3792fa358bf16a9",
           "name": "Jacob Lowe",
           "title": "Native NodeJS Apps",
-          "twitter": "jacob2dot0"
+          "twitter": "jacob2dot0",
+          "youtubeImageUrl": "https://i.imgur.com/zVpTM0Y.png",
+          "youtubeUrl": "https://youtu.be/ClQQc41AKxo"
         }
       ],
       "titoUrl": "https://jsla-may-2014.eventbrite.com/?aff=site"
@@ -1106,9 +1242,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/carterrabasa.jpg",
           "bookedShows": "2014-06-26",
           "github": "crabasa",
+          "id": "9dc348cf8ab9e825b9ea3bd0ed78",
           "name": "Carter Rabasa",
           "title": "Twilio & WebRTC Turns Your Browser Into a Phone",
-          "twitter": "carterrabasa"
+          "twitter": "carterrabasa",
+          "youtubeImageUrl": "https://i.imgur.com/5JMwHGE.png",
+          "youtubeUrl": "https://youtu.be/GF9sam3JBpk"
         },
         {
           "_announced": true,
@@ -1116,9 +1255,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/sararob.jpg",
           "bookedShows": "2014-06-26",
           "github": "sararob",
+          "id": "f68c6007dff35583cc74f76c05a7",
           "name": "Sara Robinson",
           "title": "Building Realtime Apps and Developer Communities at Firebase",
-          "twitter": "SRobTweets"
+          "twitter": "SRobTweets",
+          "youtubeImageUrl": "https://i.imgur.com/BTgKhsC.png",
+          "youtubeUrl": "https://youtu.be/ZGREOIO10mw"
         }
       ],
       "titoUrl": "https://jsla-june-2014.eventbrite.com/?aff=site"
@@ -1148,9 +1290,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/contra.png",
           "bookedShows": "2014-07-31",
           "github": "contra",
+          "id": "7c26be8ae71a970c6fb1e75eab16",
           "name": "Contra",
           "title": "Build Systems: The Next Generation",
-          "twitter": "contrahacks"
+          "twitter": "contrahacks",
+          "youtubeImageUrl": "https://i.imgur.com/VzgUZYb.png",
+          "youtubeUrl": "https://youtu.be/z8Zr8gBiX4g"
         },
         {
           "_announced": true,
@@ -1158,9 +1303,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/funkytek.png",
           "bookedShows": "2014-07-31",
           "github": "funkytek",
+          "id": "8d771a9623f0962978b0a4dcf2eb",
           "name": "Aaron Murray",
           "title": "Real World React",
-          "twitter": "funkytek"
+          "twitter": "funkytek",
+          "youtubeImageUrl": "https://i.imgur.com/nMLG9d6.png",
+          "youtubeUrl": "https://youtu.be/2LN7X87fiUA"
         }
       ],
       "titoUrl": "https://jsla-july-2014.eventbrite.com/?aff=site"
@@ -1197,9 +1345,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/tommy-stanton.jpg",
           "bookedShows": "2014-08-28",
           "github": "tommystanton",
+          "id": "7bc2647c512435ca01e84c01378b",
           "name": "Tommy Stanton",
           "title": "Test-driven Development of Web Apps in Node.js",
-          "twitter": "tommystanton"
+          "twitter": "tommystanton",
+          "youtubeImageUrl": "https://i.imgur.com/knkYhfw.png",
+          "youtubeUrl": "https://youtu.be/VcKTU2wjP7g"
         },
         {
           "_announced": true,
@@ -1207,9 +1358,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/jeff-dickey.jpg",
           "bookedShows": "2014-08-28",
           "github": "dickeyxxx",
+          "id": "953baa5cd2131d4395159c3ff7c4",
           "name": "Jeff Dickey",
           "title": "Node.js in Production",
-          "twitter": "dickeyxxx"
+          "twitter": "dickeyxxx",
+          "youtubeImageUrl": "https://i.imgur.com/QwV41mh.png",
+          "youtubeUrl": "https://youtu.be/WYtYu7Grr4M"
         },
         {
           "_announced": true,
@@ -1217,9 +1371,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/jcblw.jpg",
           "bookedShows": "2014-08-28",
           "github": "jcblw",
+          "id": "e2076eeef1a3d3dbb6b1f7ea5bfc",
           "name": "Jacob Lowe",
           "title": "Module of the Month: LevelUp",
-          "twitter": "jcblw"
+          "twitter": "jcblw",
+          "youtubeImageUrl": "https://i.imgur.com/p5KXPbr.png",
+          "youtubeUrl": "https://youtu.be/vv7EtNjpuKA"
         }
       ],
       "titoUrl": "https://jsla-august-2014.eventbrite.com/?aff=site"
@@ -1252,6 +1409,44 @@
           "name": "Michael Matuzak",
           "title": "",
           "twitter": "mmatuzak"
+        },
+        {
+          "abstract": "Node.js Project Lead, Joyent",
+          "avatar": "https://i.imgur.com/CFVGOBT.jpg",
+          "bookedShows": "2014-09-25",
+          "email": "",
+          "github": "https://github.com/tjfontaine",
+          "id": "HHL4Qdz3rfedNPttNTKW2nCEI7C3",
+          "name": "TJ Fontaine",
+          "slack": "",
+          "twitter": "@tjfontaine"
+        },
+        {
+          "_announced": true,
+          "abstract": "Senior Software Engineer, Yellow Pages",
+          "avatar": "https://i.imgur.com/aGJPz3n.jpg",
+          "bookedShows": "2014-09-25",
+          "dates": {
+            "0": "2018-03-29",
+            "1": "2018-04-26",
+            "2": "2018-05-31",
+            "3": "2018-06-28",
+            "4": "2018-07-26",
+            "5": "2018-08-30",
+            "6": "2018-09-27",
+            "7": "2018-10-25",
+            "8": "2019-01-31",
+            "9": "2019-02-28"
+          },
+          "email": "",
+          "github": "https://github.com/oren",
+          "id": "cgVbMso4xJYr8eUgGr8gUiGY3UJ2",
+          "isArchived": false,
+          "name": "Oren Golan",
+          "slack": "",
+          "submitState": "done",
+          "title": "",
+          "twitter": "@oreng"
         }
       ],
       "titoUrl": "https://jsla-september-2014.eventbrite.com/?aff=site"
@@ -1281,9 +1476,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/zeno-rocha.jpeg",
           "bookedShows": "2014-10-30",
           "github": "zenorocha",
+          "id": "640883994c6cd1fba8a8cf5b8356",
           "name": "Zeno Rocha",
           "title": "A future called Web Components",
-          "twitter": "zenorocha"
+          "twitter": "zenorocha",
+          "youtubeImageUrl": "https://i.imgur.com/FAD0ui2.png",
+          "youtubeUrl": "https://youtu.be/B4M4hoQVzgs"
         },
         {
           "_announced": true,
@@ -1291,9 +1489,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/scottmotte.jpg",
           "bookedShows": "2014-10-30",
           "github": "motdotla",
+          "id": "677ebe80a5f4be3f26c14da8ba40",
           "name": "Scott Motte",
           "title": "Module of the Month: Dotenv",
-          "twitter": "motdotla"
+          "twitter": "motdotla",
+          "youtubeImageUrl": "https://i.imgur.com/qWrIeHG.png",
+          "youtubeUrl": "https://youtu.be/MC08iCoSuBw"
         },
         {
           "_announced": true,
@@ -1301,9 +1502,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/luke-karrys.jpeg",
           "bookedShows": "2014-10-30",
           "github": "lukekarrys",
+          "id": "6981c707ed6bd2fbc7e04b5cea5f",
           "name": "Luke Karrys",
           "title": "Ampersand.js: The Non-Frameworky Framework",
-          "twitter": "lukekarrys"
+          "twitter": "lukekarrys",
+          "youtubeImageUrl": "https://i.imgur.com/wABk5qw.png",
+          "youtubeUrl": "https://youtu.be/0UO9YfbIyGc"
         }
       ],
       "titoUrl": "https://jsla-october-2014.eventbrite.com/?aff=site"
@@ -1333,9 +1537,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/helior-colorado.jpg",
           "bookedShows": "2015-01-29",
           "github": "helior",
+          "id": "2f58d791b7f963f110d38ed906d1",
           "name": "Helior Colorado",
           "title": "Module of the Month: Sinon",
-          "twitter": "helior"
+          "twitter": "helior",
+          "youtubeImageUrl": "https://i.imgur.com/jTnRFUa.png",
+          "youtubeUrl": "https://youtu.be/dXA_eJ-cmZw"
         },
         {
           "_announced": true,
@@ -1343,9 +1550,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/jason-farrell.jpg",
           "bookedShows": "2015-01-29",
           "github": "jasonfarrell",
+          "id": "5e469533875e0a20bbc2bd553eba",
           "name": "Jason Farrell",
           "title": "How to effortlessly integrate Three.js into your projects",
-          "twitter": "jasonfarrell"
+          "twitter": "jasonfarrell",
+          "youtubeImageUrl": "https://i.imgur.com/peMR3L9.png",
+          "youtubeUrl": "https://youtu.be/748A2ohUMEg"
         },
         {
           "_announced": true,
@@ -1353,9 +1563,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/demetrios-papadopoulos.jpg",
           "bookedShows": "2015-01-29",
           "github": "google/lovefield",
+          "id": "86077ab9409dc4f1808b2cdd889b",
           "name": "Demetrios Papadopoulos",
-          "title": "Lovefield: a powerful Javascript SQL-like database query engine for the web.",
-          "twitter": ""
+          "title": "Lovefield: a powerful Javascript SQL-like database query engine for the web",
+          "twitter": "",
+          "youtubeImageUrl": "https://i.imgur.com/nlWrEyG.png",
+          "youtubeUrl": "https://youtu.be/pwCzMFoheGw"
         }
       ],
       "titoUrl": "https://jsla-january-2015.eventbrite.com/?aff=site"
@@ -1385,9 +1598,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/buddy-sandidge.jpg",
           "bookedShows": "2015-02-26",
           "github": "xbudex",
+          "id": "a9d2332c64dcef9505bb3f649d67",
           "name": "Buddy Sandidge",
-          "title": "PhantomJS Under the Hood.",
-          "twitter": "xbudex"
+          "title": "PhantomJS Under the Hood",
+          "twitter": "xbudex",
+          "youtubeImageUrl": "https://i.imgur.com/wLlz3JC.png",
+          "youtubeUrl": "https://youtu.be/aP7I2MgRfZA"
         },
         {
           "_announced": true,
@@ -1395,9 +1611,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/advait-shinde.jpg",
           "bookedShows": "2015-02-26",
           "github": "advait",
+          "id": "c98cb625c1a6a802cc21b3a26638",
           "name": "Advait Shinde",
           "title": "Monitoring Applications with StatsD",
-          "twitter": "advait3000"
+          "twitter": "advait3000",
+          "youtubeImageUrl": "https://i.imgur.com/XW319CE.png",
+          "youtubeUrl": "https://youtu.be/NydIHi8Y224"
         },
         {
           "_announced": true,
@@ -1405,9 +1624,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/greg-cardoni.jpg",
           "bookedShows": "2015-02-26",
           "github": "cardoni",
+          "id": "ce38ce5ba83d72f385105f4f7dcd",
           "name": "Greg Cardoni",
           "title": "Module of the Month: Request",
-          "twitter": "cardoni"
+          "twitter": "cardoni",
+          "youtubeImageUrl": "https://i.imgur.com/dwlnJDu.png",
+          "youtubeUrl": "https://youtu.be/GMjMZKNSCTk"
         }
       ],
       "titoUrl": "https://jsla-february-2015.eventbrite.com/?aff=site"
@@ -1444,9 +1666,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/calley-nye.jpg",
           "bookedShows": "2015-03-26",
           "github": "",
+          "id": "5609a746f0f6c2ef2efd737c19ee",
           "name": "Calley Nye",
           "title": "UX for Developers",
-          "twitter": "calleynye"
+          "twitter": "calleynye",
+          "youtubeImageUrl": "https://i.imgur.com/EhoZ2KC.png",
+          "youtubeUrl": "https://youtu.be/zKwNkX7MU3c"
         },
         {
           "_announced": true,
@@ -1454,9 +1679,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/davidguttman.png",
           "bookedShows": "2015-03-26",
           "github": "davidguttman",
+          "id": "7e307dba646b3efffded9e4b37a0",
           "name": "David Guttman",
           "title": "Module of the Month: ReactPivot",
-          "twitter": "davidguttman "
+          "twitter": "davidguttman ",
+          "youtubeImageUrl": "https://i.imgur.com/bf4bpEy.png",
+          "youtubeUrl": "https://youtu.be/LfOeRT1gMVI"
         },
         {
           "_announced": true,
@@ -1464,9 +1692,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/sentance-rizko.png",
           "bookedShows": "2015-03-26",
           "github": "trizko",
+          "id": "824b8e858bad1b363fd75f67f91d",
           "name": "Will Sentance/Tony Rizko",
           "title": "How launching Icecomm on HN created the most curious chat roulette ever (and how you can too)",
-          "twitter": "willsentance"
+          "twitter": "willsentance",
+          "youtubeImageUrl": "https://i.imgur.com/Xps7Ax0.png",
+          "youtubeUrl": "https://youtu.be/Off7-V9GcQk"
         }
       ],
       "titoUrl": "https://jsla-march-2015.eventbrite.com/?aff=site"
@@ -1503,9 +1734,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/ben-coe.jpg",
           "bookedShows": "2015-04-30",
           "github": "bcoe",
+          "id": "005a22ae130c414ba0be1a0fbb44",
           "name": "Ben Coe",
           "title": "npm-Registry@2.0",
-          "twitter": "benjamincoe"
+          "twitter": "benjamincoe",
+          "youtubeImageUrl": "https://i.imgur.com/2XwWNqC.png",
+          "youtubeUrl": "https://youtu.be/i1-l_SoXMBA"
         },
         {
           "_announced": true,
@@ -1513,9 +1747,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/hung-tran.jpg",
           "bookedShows": "2015-04-30",
           "github": "temojin",
+          "id": "16e30cd399a28709bd9ba2aede89",
           "name": "Hung Q Tran",
           "title": "Module of the Month: keystone",
-          "twitter": "temojin "
+          "twitter": "temojin ",
+          "youtubeImageUrl": "https://i.imgur.com/UXNfZpF.png",
+          "youtubeUrl": "https://youtu.be/a8TAFkLNkLw"
         },
         {
           "_announced": true,
@@ -1523,9 +1760,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/paul-frazee.jpg",
           "bookedShows": "2015-04-30",
           "github": "pfraze",
+          "id": "a52417fd7e2c9574fa471e7efc7c",
           "name": "Paul Frazee",
           "title": "Decentralized Databases, and the End of the Web Host",
-          "twitter": "pfrazee"
+          "twitter": "pfrazee",
+          "youtubeImageUrl": "https://i.imgur.com/qWgSmkt.png",
+          "youtubeUrl": "https://youtu.be/8sXTEi8U2bw"
         }
       ],
       "titoUrl": "https://jsla-april-2015.eventbrite.com/?aff=site"
@@ -1562,9 +1802,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/jacob-lowe.jpg",
           "bookedShows": "2015-05-28",
           "github": "jcblw",
+          "id": "1326975f97648eaee58e2043ff3a",
           "name": "Jacob Lowe",
           "title": "Module of the Month: Babel",
-          "twitter": "jcblw"
+          "twitter": "jcblw",
+          "youtubeImageUrl": "https://i.imgur.com/4KTTFyV.png",
+          "youtubeUrl": "https://youtu.be/TmngDf0l1c8"
         },
         {
           "_announced": true,
@@ -1572,9 +1815,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/bill-pierce.jpg",
           "bookedShows": "2015-05-28",
           "github": "",
+          "id": "7d3ae915d6fbe7d6d5db90341ca7",
           "name": "Bill Pierce",
           "title": "Building Intelligent Devices for the Internet of Things: Lessons Learned from the Chain Check Project",
-          "twitter": "piercewilliam"
+          "twitter": "piercewilliam",
+          "youtubeImageUrl": "https://i.imgur.com/rTZICC2.png",
+          "youtubeUrl": "https://youtu.be/1CcTcNETQaI"
         },
         {
           "_announced": true,
@@ -1582,9 +1828,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/eric-gradman.jpg",
           "bookedShows": "2015-05-28",
           "github": "egradman",
+          "id": "c0a6759049ac0defdca496f2c5d3",
           "name": "Eric Gradman",
           "title": "Data Painting: A graphical programming environment for making art with GPIO on the Intel Galileo",
-          "twitter": "egradman"
+          "twitter": "egradman",
+          "youtubeImageUrl": "https://i.imgur.com/CodcAUf.png",
+          "youtubeUrl": "https://youtu.be/ahwFmc1n_5U"
         }
       ],
       "titoUrl": "https://jsla-may-2015.eventbrite.com/?aff=site"
@@ -1621,9 +1870,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/bryan-hughes.jpg",
           "bookedShows": "2015-06-25",
           "github": "nebrius",
+          "id": "69eb6eab048a1f920c0bcc6fb3ad",
           "name": "Bryan Hughes",
           "title": "Successfully Hacking in Your Spare Time",
-          "twitter": "nebrius"
+          "twitter": "nebrius",
+          "youtubeImageUrl": "https://i.imgur.com/V6Y8gzU.png",
+          "youtubeUrl": "https://youtu.be/ahTC4UwL7y0"
         },
         {
           "_announced": true,
@@ -1631,9 +1883,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/lawrence-lau.jpg",
           "bookedShows": "2015-06-25",
           "github": "ktslwy",
+          "id": "7b77dcda3ed5edbccab508ea6a52",
           "name": "Lawrence Lau",
           "title": "Scalable and Maintainable React",
-          "twitter": "ktslwy"
+          "twitter": "ktslwy",
+          "youtubeImageUrl": "https://i.imgur.com/cdFmkac.png",
+          "youtubeUrl": "https://youtu.be/qZDqJuaTKY8"
         }
       ],
       "titoUrl": "https://jsla-june-2015.eventbrite.com/?aff=site"
@@ -1670,9 +1925,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/robbie-dela-victoria.jpg",
           "bookedShows": "2015-07-30",
           "github": "tmbtech",
+          "id": "0cdf5a0752d5865cdbfd65140d46",
           "name": "Robbie dela Victoria",
           "title": "Don't Over React, ES.Next Component Guide",
-          "twitter": "robbiekaze"
+          "twitter": "robbiekaze",
+          "youtubeImageUrl": "",
+          "youtubeUrl": ""
         },
         {
           "_announced": true,
@@ -1722,9 +1980,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/bradurani.jpg",
           "bookedShows": "2015-08-27",
           "github": "bradurani",
+          "id": "71eefca17a264b3f3ddf9a18d959",
           "name": "Brad Urani",
           "title": "Carefully Composing Logic: Functional JavaScript",
-          "twitter": "bradurani"
+          "twitter": "bradurani",
+          "youtubeImageUrl": "https://i.imgur.com/kPfK8KP.png",
+          "youtubeUrl": "https://youtu.be/zm6ERC5J1A0"
         },
         {
           "_announced": true,
@@ -1732,9 +1993,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/wrenr.jpg",
           "bookedShows": "2015-08-27",
           "github": "wrenr",
+          "id": "dc2c6f0b929d462e918f27571f27",
           "name": "Wren Reynolds",
           "title": "Native Mobile Apps in Javascript - Just Add Cordova! (and a Pinch of Command-Line)",
-          "twitter": ""
+          "twitter": "",
+          "youtubeImageUrl": "https://i.imgur.com/LRO2vLA.png",
+          "youtubeUrl": "https://youtu.be/0CN9MNRDuZY"
         }
       ],
       "titoUrl": "https://jsla-august-2015.eventbrite.com/?aff=site"
@@ -1764,9 +2028,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/brock-whitten.jpg",
           "bookedShows": "2015-09-24",
           "github": "sintaxi",
+          "id": "6870837168ba782bc7e8f182abdf",
           "name": "Brock Whitten",
           "title": "We Don't Need No Stinking Browser - How to Build a CLI Based SaaS",
-          "twitter": "sintaxi"
+          "twitter": "sintaxi",
+          "youtubeImageUrl": "https://i.imgur.com/TELj2fC.png",
+          "youtubeUrl": "https://youtu.be/0ppeSP_LfPI"
         },
         {
           "_announced": true,
@@ -1774,9 +2041,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/patrick-gunderson.jpg",
           "bookedShows": "2015-09-24",
           "github": "gunderson",
+          "id": "e71d0923fa57f494d0b141a3928d",
           "name": "Patrick Gunderson",
           "title": "Generative art and music",
-          "twitter": "gunderson"
+          "twitter": "gunderson",
+          "youtubeImageUrl": "https://i.imgur.com/Oz6OOS1.png",
+          "youtubeUrl": "https://youtu.be/EBWShymRTaI"
         }
       ],
       "titoUrl": "https://jsla-september-2015.eventbrite.com/?aff=site"
@@ -1806,9 +2076,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/kyle-simpson.jpg",
           "bookedShows": "2015-10-29",
           "github": "getify",
+          "id": "96c1ab67906c26418b57dba997a4",
           "name": "Kyle Simpson",
           "title": "Coordinated Concurrency: Reactive (Observables) vs. CSP",
-          "twitter": "getify"
+          "twitter": "getify",
+          "youtubeImageUrl": "https://i.imgur.com/qZv47t5.png",
+          "youtubeUrl": "https://youtu.be/NNcT9ZehM6g"
         },
         {
           "_announced": true,
@@ -1816,9 +2089,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/sam-lecuyer.jpg",
           "bookedShows": "2015-10-29",
           "github": "samlecuyer",
+          "id": "db842227c22a170e6ac51e444b98",
           "name": "Sam L'Ecuyer",
           "title": "Mapping LA: Building Immersive Apps with Geodata",
-          "twitter": "cateches"
+          "twitter": "cateches",
+          "youtubeImageUrl": "https://i.imgur.com/WLHAhTi.png",
+          "youtubeUrl": "https://youtu.be/mjCXY2oPbH0"
         }
       ],
       "titoUrl": "https://jsla-october-2015.eventbrite.com/?aff=site"
@@ -1848,9 +2124,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/scottmotte.jpg",
           "bookedShows": "2016-01-28",
           "github": "motdotla",
+          "id": "78b92672aeb9e310e0654dcd0ad1",
           "name": "Scott Motte",
           "title": "Getting Started with React Native",
-          "twitter": "motdotla"
+          "twitter": "motdotla",
+          "youtubeImageUrl": "https://i.imgur.com/MJAFc26.png",
+          "youtubeUrl": "https://youtu.be/R5ORcXD8SFI"
         },
         {
           "_announced": true,
@@ -1858,9 +2137,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/michael-jackson.jpg",
           "bookedShows": "2016-01-28",
           "github": "mjackson",
+          "id": "7c50ab8929ba70c95caf2ed2fcc4",
           "name": "Michael Jackson",
           "title": "Rendering with React",
-          "twitter": "mjackson"
+          "twitter": "mjackson",
+          "youtubeImageUrl": "https://i.imgur.com/DvRBLHV.png",
+          "youtubeUrl": "https://youtu.be/7S8v8jfLb1Q"
         },
         {
           "_announced": true,
@@ -1868,9 +2150,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/davidguttman.png",
           "bookedShows": "2016-01-28",
           "github": "davidguttman",
+          "id": "d3aa23f6e007b24231a3163ecaee",
           "name": "David Guttman",
           "title": "Scalable Authentication for Microservices and Single Page Apps",
-          "twitter": "davidguttman"
+          "twitter": "davidguttman",
+          "youtubeImageUrl": "https://i.imgur.com/aHyzr8w.png",
+          "youtubeUrl": "https://youtu.be/6Tf3chDp2oE"
         }
       ],
       "titoUrl": "https://jsla-january-2016.eventbrite.com/?aff=site"
@@ -1966,9 +2251,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/brian-satorius.jpg",
           "bookedShows": "2016-03-31",
           "github": "bsatorius",
+          "id": "78249b0ef5d73f3c9472010e5873",
           "name": "Brian Satorius",
           "title": "Crashing the Mobile Party",
-          "twitter": "bsatorius"
+          "twitter": "bsatorius",
+          "youtubeImageUrl": "",
+          "youtubeUrl": ""
         }
       ],
       "titoUrl": "https://jsla-march-2016.eventbrite.com/?aff=site"
@@ -2005,9 +2293,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/mims-wright.jpg",
           "bookedShows": "2016-04-28",
           "github": "mimshwright",
+          "id": "848295f6d6207bc05c6c2b71131e",
           "name": "Mims H. Wright",
           "title": "The sad, strange tale of the boy with only two fingers OR an introduction to how binary is used to make websites",
-          "twitter": "mimshwright"
+          "twitter": "mimshwright",
+          "youtubeImageUrl": "https://i.imgur.com/cnIFgGq.png",
+          "youtubeUrl": "https://youtu.be/WG5646x0nIo"
         },
         {
           "_announced": true,
@@ -2015,9 +2306,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/seth-law.jpg",
           "bookedShows": "2016-04-28",
           "github": "sethlaw",
+          "id": "d3a43188738ac44ecdfd1867f93d",
           "name": "Seth Law",
           "title": "Secure Coding with Node.js",
-          "twitter": "sethlaw"
+          "twitter": "sethlaw",
+          "youtubeImageUrl": "https://i.imgur.com/q0J0dFC.png",
+          "youtubeUrl": "https://youtu.be/jloaI6ShcD8"
         }
       ],
       "titoUrl": "https://jsla-april-2016.eventbrite.com/?aff=site"
@@ -2047,9 +2341,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/david-slone.jpg",
           "bookedShows": "2016-05-26",
           "github": "dbslone",
+          "id": "761b1f49b5392fd6440fbb1dab9c",
           "name": "David Slone",
           "title": "Destroyer of the Monolith APIs",
-          "twitter": "dbslone"
+          "twitter": "dbslone",
+          "youtubeImageUrl": "https://i.imgur.com/OZnVgsu.png",
+          "youtubeUrl": "https://youtu.be/vB7KcfqzEBc"
         },
         {
           "_announced": true,
@@ -2057,9 +2354,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/sam-lecuyer.jpg",
           "bookedShows": "2016-05-26",
           "github": "samlecuyer",
+          "id": "c88a474bc76320c8c9752cc11bae",
           "name": "Sam L'ecuyer",
           "title": "Code without Keywords",
-          "twitter": "cateches"
+          "twitter": "cateches",
+          "youtubeImageUrl": "https://i.imgur.com/PcDxhSU.png",
+          "youtubeUrl": "https://youtu.be/GgNYcEWv72Y"
         }
       ],
       "titoUrl": "https://jsla-may-2016.eventbrite.com/?aff=site"
@@ -2088,9 +2388,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/isaac-cohen.jpg",
           "bookedShows": "2016-06-30",
           "github": "cabbibo",
+          "id": "23d075a10f63f3a803c9150be2e1",
           "name": "Isaac Cohen",
           "title": "Discovering our Prismatic Reality",
-          "twitter": "cabbibo"
+          "twitter": "cabbibo",
+          "youtubeImageUrl": "https://i.imgur.com/ZEexBHU.png",
+          "youtubeUrl": "https://youtu.be/efcL6yv4DBg"
         },
         {
           "_announced": true,
@@ -2098,9 +2401,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/prakash-venkatraman.jpg",
           "bookedShows": "2016-06-30",
           "github": "dopatraman",
+          "id": "72211335d2380291018e43f13791",
           "name": "Prakash Venkatraman",
           "title": "Constructing DSLs to Automate Automation",
-          "twitter": "PrakashVenkatra"
+          "twitter": "PrakashVenkatra",
+          "youtubeImageUrl": "https://i.imgur.com/l4s1YwV.png",
+          "youtubeUrl": "https://youtu.be/qcF3omniwtY"
         }
       ],
       "titoUrl": "https://jsla-june-2016.eventbrite.com/?aff=site"
@@ -2129,18 +2435,24 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/sara-raasch.jpg",
           "bookedShows": "2016-07-28",
           "github": "SaraaraS",
+          "id": "76981dc85545394313c018ba6987",
           "name": "Sara Raasch",
-          "title": "Javascript Testing - Unit tests, TDD, BDD, IDK.",
-          "twitter": "sararaasch"
+          "title": "Javascript Testing - Unit tests, TDD, BDD, IDK",
+          "twitter": "sararaasch",
+          "youtubeImageUrl": " https://i.imgur.com/xzCua08.png",
+          "youtubeUrl": "https://youtu.be/YIdhqW9zBFA"
         },
         {
           "_announced": true,
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/kurtis-rainbolt-greene.jpg",
           "bookedShows": "2016-07-28",
           "github": "krainboltgreene",
+          "id": "ef29f8ab0b802b01784bbbcc2417",
           "name": "Kurtis Rainbolt-Greene",
           "title": "Using Babel in a Modern Working Environment",
-          "twitter": "krainboltgreene"
+          "twitter": "krainboltgreene",
+          "youtubeImageUrl": "https://i.imgur.com/wd92WPX.png",
+          "youtubeUrl": "https://youtu.be/UBlgqnuJpZQ"
         }
       ],
       "titoUrl": "https://jsla-july-2016.eventbrite.com/?aff=site"
@@ -2169,18 +2481,24 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/aman-tsegai.jpg",
           "bookedShows": "2016-08-25",
           "github": "ata-aman",
+          "id": "3f35c920413d7a46aecfff765760",
           "name": "Aman Tsegai",
           "title": "Why d3 will be the standard for web visualization",
-          "twitter": "ata_aman"
+          "twitter": "ata_aman",
+          "youtubeImageUrl": "https://i.imgur.com/RFRnB4y.png",
+          "youtubeUrl": "https://youtu.be/5y6IJOqPXw8"
         },
         {
           "_announced": true,
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/ray-muneton.jpg",
           "bookedShows": "2016-08-25",
           "github": "mrsmuneton",
+          "id": "f493d09154a494dd5539b734d690",
           "name": "Ray Muneton",
           "title": "10 Secrets to Writing Perfect Code — You Won’t Believe #4!",
-          "twitter": "mrsmuneton"
+          "twitter": "mrsmuneton",
+          "youtubeImageUrl": "https://i.imgur.com/cKExXnc.png",
+          "youtubeUrl": "https://youtu.be/COabxKt8cSk"
         }
       ],
       "titoUrl": "https://jsla-august-2016.eventbrite.com/?aff=site"
@@ -2209,18 +2527,24 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/ari-lerner.jpg",
           "bookedShows": "2016-09-29",
           "github": "auser",
+          "id": "4a08836c6bcdf1391fbdd21e62fc",
           "name": "Ari Lerner",
           "title": "React Native",
-          "twitter": "auser"
+          "twitter": "auser",
+          "youtubeImageUrl": "https://i.imgur.com/jmazOgO.png",
+          "youtubeUrl": "https://youtu.be/x_LpgAgSNFI"
         },
         {
           "_announced": true,
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/abhi-aiyer.jpg",
           "bookedShows": "2016-09-29",
           "github": "abhiaiyer91",
+          "id": "4e4eb8cab5590d27c44d9f01623a",
           "name": "Abhi Aiyer",
           "title": "Using GraphQL with Apollo",
-          "twitter": "AbhiAiyer"
+          "twitter": "AbhiAiyer",
+          "youtubeImageUrl": "https://i.imgur.com/Qgna4vW.png",
+          "youtubeUrl": "https://youtu.be/PTowZYV6eRA"
         }
       ],
       "titoUrl": "https://jsla-september-2016.eventbrite.com/?aff=site"
@@ -2249,27 +2573,36 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/wrenr.jpg",
           "bookedShows": "2016-10-27",
           "github": "wrenr",
+          "id": "38e3a416773af742085bd07fa4b3",
           "name": "Wren Reynolds",
           "title": "JS to Slick Native Mobile Apps: A Future-Featured Framework",
-          "twitter": ""
+          "twitter": "",
+          "youtubeImageUrl": "https://i.imgur.com/FR6AJwD.png",
+          "youtubeUrl": "https://youtu.be/Zp8JHKHNKYY"
         },
         {
           "_announced": true,
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/chris-lea.jpg",
           "bookedShows": "2016-10-27",
           "github": "chrislea",
+          "id": "7ce356294dd61a0dd640201d9fd0",
           "name": "Chris Lea",
           "title": "Common Operations Challenges with Node.js and How to Solve Them",
-          "twitter": "chrislea"
+          "twitter": "chrislea",
+          "youtubeImageUrl": "https://i.imgur.com/8YFgvdu.png",
+          "youtubeUrl": "https://youtu.be/10eMjwDAIgc"
         },
         {
           "_announced": true,
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/dan-shaw.jpg",
           "bookedShows": "2016-10-27",
           "github": "dshaw",
+          "id": "ff097efb655028a0f173ad39c6e6",
           "name": "Dan Shaw",
           "title": "The Node.js Ecosystem in Perspective",
-          "twitter": "dshaw"
+          "twitter": "dshaw",
+          "youtubeImageUrl": "https://i.imgur.com/izDFHpY.png",
+          "youtubeUrl": "https://youtu.be/k4RA5DmPo4U"
         }
       ],
       "titoUrl": "https://jsla-october-2016.eventbrite.com/?aff=site"
@@ -2298,9 +2631,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/jad-meouchy.jpg",
           "bookedShows": "2017-01-26",
           "github": "jadware",
+          "id": "3c4e983d9089107de6e1c6c0c3eb",
           "name": "Jad Meouchy",
           "title": "Load testing your node application",
-          "twitter": "jadware"
+          "twitter": "jadware",
+          "youtubeImageUrl": "https://i.imgur.com/qEgODrp.png",
+          "youtubeUrl": "https://youtu.be/2ggxSZsAjwA"
         },
         {
           "_announced": true,
@@ -2308,9 +2644,12 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/mateusz-marpi-marcinowski.jpg",
           "bookedShows": "2017-01-26",
           "github": "marpi",
+          "id": "8207c2ad0a29d7f7690f64902919",
           "name": "Mateusz Marpi Marcinowski",
           "title": "Evolution",
-          "twitter": "marpi_"
+          "twitter": "marpi_",
+          "youtubeImageUrl": "https://i.imgur.com/ZBYbsAW.png",
+          "youtubeUrl": "https://youtu.be/IX71m5iy8ok"
         }
       ],
       "titoUrl": "https://jsla-january-2017.eventbrite.com/?aff=site"
@@ -2340,32 +2679,24 @@
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/keith-moore.jpg",
           "bookedShows": "2017-02-23",
           "github": "",
+          "id": "64088166b759702871ed2b6ad307",
           "name": "Keith Moore",
           "title": "bomBora -  How to hold down your Vegemite In a NonStop Sea of Waves",
-          "twitter": ""
+          "twitter": "",
+          "youtubeImageUrl": "https://i.imgur.com/Y4IN9zD.png",
+          "youtubeUrl": "https://youtu.be/rAInHep17o8"
         },
         {
           "_announced": true,
           "avatar": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/speakers/jacob-lowe.jpg",
           "bookedShows": "2017-02-23",
           "github": "jcblw",
+          "id": "ef473acdaa8228e3355155de6425",
           "name": "Jacob Lowe",
           "title": "Tripping Balls with Javascript",
-          "twitter": "jcblw"
-        },
-        {
-          "_announced": true,
-          "abstract": "Subtitle:\nPorting and maintaining a native V8 engine in a car that never stops.\n \nThis talk will be a brief discussion about the continuing value, saga, and successes associated with a very special enterprise build of node.js for the HPE NonStop Server class of systems. This talk will give behind-the-scenes talk of low-level and odd design features and constraints of putting open (and semi-open) virtual machines onto a specialized operating system.",
-          "avatar": "http://i.imgur.com/aP1pxBB.png",
-          "bookedShows": "2017-02-23",
-          "dates": {
-            "0": "2017-02-23"
-          },
-          "email": "joel.sigman@hpe.com",
-          "id": "fNSYFvrXEDWFzHuemWuMPjzXo8p1",
-          "name": "Keith Moore",
-          "submitState": "done",
-          "title": "bomBora -  How to hold down your Vegemite In a NonStop Sea of Waves"
+          "twitter": "jcblw",
+          "youtubeImageUrl": "https://i.imgur.com/a5fzRij.png",
+          "youtubeUrl": "https://youtu.be/nxRRbwVlbUE"
         }
       ],
       "titoUrl": "https://jsla-february-2017.eventbrite.com/?aff=site"
@@ -2411,7 +2742,9 @@
           "name": "Loren Stewart",
           "submitState": "done",
           "title": "Query the shit out of Facebook's Graph API (I can change the title...)",
-          "twitter": "@lorenstewart111"
+          "twitter": "@lorenstewart111",
+          "youtubeImageUrl": "https://i.imgur.com/Lynunip.png",
+          "youtubeUrl": "https://youtu.be/1VBgdKkuyNs"
         },
         {
           "_announced": true,
@@ -2427,7 +2760,9 @@
           "name": "Gregor Martynus",
           "submitState": "done",
           "title": "Building Offline First apps with Hoodie",
-          "twitter": "@gr2m"
+          "twitter": "@gr2m",
+          "youtubeImageUrl": "https://i.imgur.com/udtW5NA.png",
+          "youtubeUrl": "https://youtu.be/TSDyxtVbbME"
         }
       ],
       "titoUrl": "https://jsla-march-2017.eventbrite.com/?aff=site"
@@ -2453,7 +2788,7 @@
       "speakers": [
         {
           "_announced": true,
-          "abstract": "...",
+          "abstract": "",
           "avatar": "https://avatars1.githubusercontent.com/u/10993?v=3&s=400",
           "bookedShows": "2017-04-27",
           "dates": {
@@ -2466,11 +2801,13 @@
           "slack": "@jxson",
           "submitState": "done",
           "title": "Career Talk: JavaScript Unicorns",
-          "twitter": "@jxson"
+          "twitter": "@jxson",
+          "youtubeImageUrl": "https://i.imgur.com/0MBRSoT.png",
+          "youtubeUrl": "https://youtu.be/0SM9aDv0mN8"
         },
         {
           "_announced": true,
-          "abstract": "Giorgio's picture: https://pbs.twimg.com/profile_images/783807920001589249/mtIhw57x_400x400.jpg",
+          "abstract": "",
           "avatar": "https://avatars2.githubusercontent.com/u/7368115?v=3&s=400",
           "bookedShows": "2017-04-27",
           "dates": {
@@ -2483,7 +2820,9 @@
           "slack": "@lauren & @ giorgio",
           "submitState": "done",
           "title": "High Performance Node.js: learn how to full throttle your code",
-          "twitter": "@notfollowingyet & @giorgioregni"
+          "twitter": "@notfollowingyet & @giorgioregni",
+          "youtubeImageUrl": "https://i.imgur.com/x4gy8Qz.png",
+          "youtubeUrl": "https://youtu.be/18d0HosHCX8"
         }
       ],
       "titoUrl": "https://jsla-april-2017.eventbrite.com/?aff=site"
@@ -2508,6 +2847,22 @@
       ],
       "speakers": [
         {
+          "abstract": "",
+          "avatar": "https://i.imgur.com/Cqbp5PV.png",
+          "bookedShows": "2017-05-25",
+          "email": "",
+          "github": "https://github.com/zenorocha",
+          "id": "5ZxRlQlrOqPErTRp5eWRNJSNiXh2",
+          "intro": "sdds",
+          "name": "Zeno Rocha",
+          "slack": "dsds",
+          "title": "Web APIs you (probably) didn't know existed",
+          "twitter": "@zenorocha",
+          "updatedAt": "Mon, 26 Aug 2019 10:45:13 GMT",
+          "youtubeImageUrl": "https://i.imgur.com/0vIidUm.png",
+          "youtubeUrl": "https://youtu.be/K3fyDJDj15s"
+        },
+        {
           "_announced": true,
           "abstract": "Jim Bumgardner has been making and publishing free puzzles at Krazydad.com since 2005. The site now offers over a million puzzles, free to download and print. Jim has worked for over 30 years as a computer software developer and is also a pianist and composer.",
           "avatar": "https://pbs.twimg.com/profile_images/849133903902253056/7U8aORxV.jpg",
@@ -2522,7 +2877,9 @@
           "slack": "@jbum",
           "submitState": "done",
           "title": "Wheels, Gears and Labyrinths",
-          "twitter": "@jbum"
+          "twitter": "@jbum",
+          "youtubeImageUrl": "https://i.imgur.com/dAwTmEG.png",
+          "youtubeUrl": "https://youtu.be/HpAwRtWfFPk"
         }
       ],
       "titoUrl": "https://jsla-may-2017.eventbrite.com/?aff=site"
@@ -2548,7 +2905,7 @@
       "speakers": [
         {
           "_announced": true,
-          "abstract": "https://samy.pl/poisontap/",
+          "abstract": "",
           "avatar": "https://avatars1.githubusercontent.com/u/411832?v=3&s=460",
           "bookedShows": "2017-06-29",
           "dates": {
@@ -2561,7 +2918,9 @@
           "notes": "super awesome talk",
           "submitState": "done",
           "title": "Attacking Hardware with Node.js",
-          "twitter": "samykamkar"
+          "twitter": "samykamkar",
+          "youtubeImageUrl": "https://i.imgur.com/JzjMtc2.png",
+          "youtubeUrl": "https://youtu.be/sIJmuYAoByo"
         },
         {
           "_announced": true,
@@ -2582,7 +2941,9 @@
           "slack": "@gregw",
           "submitState": "done",
           "title": "The Rise of the Sound-Reactive, Beat-Detecting, Robotic Browser VJ",
-          "twitter": "davidguttman"
+          "twitter": "davidguttman",
+          "youtubeImageUrl": "https://i.imgur.com/6JqLoun.png",
+          "youtubeUrl": "https://youtu.be/M3dYEcJO68c"
         }
       ],
       "titoUrl": "https://jsla-june-2017.eventbrite.com/?aff=site"
@@ -2607,6 +2968,19 @@
       ],
       "speakers": [
         {
+          "abstract": "Introduction to Reshape, a library that opens up opportunity to transform and extend html, as well as some examples of innovation in static tech using it.",
+          "avatar": "https://i.imgur.com/KftmeY6.png",
+          "bookedShows": "2017-07-27",
+          "github": "https://github.com/jescalan",
+          "id": "F6dFemn53IPLM31n0LDV6fILBTA2",
+          "name": "Jeff Escalante",
+          "title": "Reshape: Transform HTML With Javascript Plugins",
+          "twitter": "@jescalan",
+          "updatedAt": "Mon, 11 Feb 2019 21:06:48 GMT",
+          "youtubeImageUrl": "https://i.imgur.com/Nai553S.png",
+          "youtubeUrl": "https://youtu.be/Pp9d4-bIDzk"
+        },
+        {
           "_announced": true,
           "abstract": "I'm putting together a talk about using Flow with React based on our experience migrating thousands of lines of code at the NFL.\n\nSpecifically it'll be about some of tooling we've used that aren't mentioned that often in other places (flow-runtime, eslint-plugin-flowtype, text editor plugins) and React specific Flow tricks that aren't mentioned too often (adding flow types to PropTypes, state, react refs, lifecycle methods, etc). ",
           "avatar": "https://en.gravatar.com/userimage/44562346/8a604ef7edce08bc35711fad905a883e.jpg?size=200",
@@ -2621,7 +2995,9 @@
           "slack": "@jamsea",
           "submitState": "done",
           "title": "React and Flow in a Large Codebase",
-          "twitter": "@nflengineers"
+          "twitter": "@nflengineers",
+          "youtubeImageUrl": "https://i.imgur.com/LESlRa4.png",
+          "youtubeUrl": "https://youtu.be/yZiqZE0N504"
         }
       ],
       "titoUrl": "https://jsla-july-2017.eventbrite.com/?aff=site"
@@ -2660,7 +3036,9 @@
           "slack": "@pfrazee",
           "submitState": "done",
           "title": "The Peer-to-peer Web",
-          "twitter": "@pfrazee"
+          "twitter": "@pfrazee",
+          "youtubeImageUrl": "https://i.imgur.com/27sX27Y.png",
+          "youtubeUrl": "https://youtu.be/4DFalocsoQo"
         },
         {
           "_announced": true,
@@ -2679,7 +3057,9 @@
           "slack": "@aaroncraig",
           "submitState": "done",
           "title": "Why you should (almost) always use stateful components in React",
-          "twitter": "@aaroncraig"
+          "twitter": "@aaroncraig",
+          "youtubeImageUrl": "https://i.imgur.com/ZBDVyrj.png",
+          "youtubeUrl": "https://youtu.be/KnKVANnl9V0"
         }
       ],
       "titoUrl": "https://jsla-august-2017.eventbrite.com/?aff=site"
@@ -2719,7 +3099,9 @@
           "slack": "@basscord",
           "submitState": "done",
           "title": "Peer to Peer Video Streaming with WebRTC",
-          "twitter": "@basscord"
+          "twitter": "@basscord",
+          "youtubeImageUrl": "https://i.imgur.com/fHoHiK5.png",
+          "youtubeUrl": "https://youtu.be/pIHYtUJ7hkY"
         },
         {
           "_announced": true,
@@ -2736,7 +3118,9 @@
           "slack": "@krainboltgreene",
           "submitState": "done",
           "title": "Using Babel in a Futuristic Working Environment",
-          "twitter": "@krainboltgreene"
+          "twitter": "@krainboltgreene",
+          "youtubeImageUrl": "https://i.imgur.com/AqKKwxs.png",
+          "youtubeUrl": "https://youtu.be/n0b2CNv54Eo"
         }
       ],
       "titoUrl": "https://jsla-september-2017.eventbrite.com/?aff=site"
@@ -2748,7 +3132,7 @@
         "address": "214 Wilshire Blvd, Santa Monica, CA 90401",
         "bookedEvents": "2017-10-26",
         "bookedExperiences": "2017-10-26\n2018-02-22",
-        "bookedShows": "2017-10-26\n2018-09-27\n2019-03-28\n2019-05-30",
+        "bookedShows": "2017-10-26\n2018-09-27\n2019-03-28",
         "capacity": "150-200 ",
         "dates": {
           "0": "2017-09-28",
@@ -2819,19 +3203,12 @@
           "link": "http://dollarshaveclub.com/",
           "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/sponsor-dollar-shave-club.png",
           "organization": "Dollar Shave Club"
-        },
-        {
-          "_announced": true,
-          "bookedShows": "2017-10-26",
-          "link": "https://www.patientpop.com/",
-          "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/host-patientpop.png",
-          "organization": "PatientPop"
         }
       ],
       "speakers": [
         {
           "_announced": true,
-          "abstract": "learn things",
+          "abstract": "",
           "avatar": "https://i.imgur.com/eMtmbWM.png",
           "bookedExperiences": "2017-10-26",
           "bookedShows": "2017-10-26",
@@ -2845,12 +3222,14 @@
           "slack": "rouzbeh",
           "submitState": "done",
           "title": "webpack TOP10",
-          "twitter": "rouzbeh84"
+          "twitter": "rouzbeh84",
+          "youtubeImageUrl": "https://i.imgur.com/bDQjrfU.png",
+          "youtubeUrl": "https://youtu.be/un4s6yzo7Ts"
         },
         {
           "_announced": true,
           "abstract": "Subresource Integrity (SRI) is an up and coming web security standard from the W3C. SRI enables browsers to verify that files are delivered without unexpected manipulation. This talk will go over the history and ways to generate SRI hashes so you can start protecting your end users.",
-          "avatar": "https://pbs.twimg.com/profile_images/885377513450491904/YND5q_CG_400x400.jpg",
+          "avatar": "https://i.imgur.com/6sm9dGp.png",
           "bookedExperiences": "2017-10-26",
           "bookedShows": "2017-10-26",
           "dates": {
@@ -2863,7 +3242,9 @@
           "slack": "@jdorfman",
           "submitState": "done",
           "title": "Let’s talk about SRI",
-          "twitter": "@jdorfman"
+          "twitter": "@jdorfman",
+          "youtubeImageUrl": "https://i.imgur.com/HR6LBNN.png",
+          "youtubeUrl": "https://youtu.be/ldk3-dEafVY"
         }
       ],
       "titoUrl": "https://jsla-october-2017.eventbrite.com/?aff=site"
@@ -3437,7 +3818,7 @@
         "hasProjector": "Yes to the projector. We usually project onto a white wall in our event space. ",
         "id": "gROkh0Zy12cenIhwWSwcErJ7pcx1",
         "link": "https://www.joinhoney.com/",
-        "logo": "https://cdn.joinhoney.com/images/website-press-page/honey-images/honey-logo.svg",
+        "logo": "https://cl.ly/3980178707e6/Image%2525202019-06-04%252520at%2525207.00.29%252520PM.png",
         "name": "Paulina Tassoudji",
         "organization": "Honey",
         "parking": "Our parking lot is available (eventing rate is $10). There are also a few lots nearby with cheaper rates ($5-6 evening), and a metro stop about 2 blocks away from the office.",
@@ -3806,7 +4187,7 @@
         "address": "214 Wilshire Blvd, Santa Monica, CA 90401",
         "bookedEvents": "2017-10-26",
         "bookedExperiences": "2017-10-26\n2018-02-22",
-        "bookedShows": "2017-10-26\n2018-09-27\n2019-03-28\n2019-05-30",
+        "bookedShows": "2017-10-26\n2018-09-27\n2019-03-28",
         "capacity": "150-200 ",
         "dates": {
           "0": "2017-09-28",
@@ -3925,21 +4306,21 @@
       "date": "2018-10-25",
       "host": {
         "address": "1728 Olympic Blvd, Santa Monica 90404",
-        "bookedShows": "2018-10-25",
-        "capacity": "Not sure - I'll look into this",
+        "bookedShows": "2018-10-25\n2019-05-30",
+        "capacity": "80",
         "dates": {
           "0": "2018-05-31",
           "1": "2018-06-28",
           "2": "2018-07-26"
         },
-        "email": "jadeb@earny.com",
+        "email": "evelynk@earny.co",
         "goal": "We're looking to hire JS engineers and build product awareness.  I'd like to get more information about hosting and sponsoring events.",
         "hasMicrophone": "No",
         "hasProjector": "No",
         "id": "8JqTgC9nlvSjY3j13HzZnv9SS4Q2",
         "link": "https://www.earny.co/jobs",
-        "logo": "http://imagizer.imageshack.us/a/img924/7328/Nni1O3.png",
-        "name": "Jade Brown",
+        "logo": "https://imagizer.imageshack.us/a/img924/7328/Nni1O3.png",
+        "name": "Evelyn Kinney",
         "organization": "Earny, Inc.",
         "parking": "Our parking lot or nearby street parking.",
         "refreshments": "Suggestions welcome"
@@ -4057,15 +4438,15 @@
           "1": "2017-06-29",
           "2": "2017-04-27"
         },
-        "email": "jlklein@google.com",
+        "email": "jonmann@google.com",
         "goal": "A group in our office is trying to get Google more directly involved in supporting and promoting the tech community in LA. We just want to help LA continue on its trajectory to become one of the top tech communities in the world.\n\nIf we have an event topic that fits, we'd love to also offer a speaker from our office or Google Mountain View. ",
         "hasMicrophone": "Yes",
         "hasProjector": "Yes",
         "id": "kKmCAvqvc1cUxcRdX7ZHPFCab663",
         "link": "https://www.google.com/about/locations/los-angeles/",
         "logo": "https://lh3.googleusercontent.com/-ZxK7RcVQdOE/Vd5bJfv4tYI/AAAAAAAAQ70/p8tAh6KU-OQfaAEiXteXDCpzLXe1jag6gCHM/d/logo_420_color_2x.png",
-        "name": "Jeremy Klein",
-        "notes": "There is also a 240 person room that *might* be available\nVideo file policy can be challenging",
+        "name": "Jon Mann",
+        "notes": "There is also a 240 person room that *might* be available\nJon's cell number  703-819-7339\n",
         "organization": "Google",
         "refreshments": "Beer/wine and some bar food (sliders/mac & cheese/salad)",
         "submitState": "done"
@@ -4108,7 +4489,9 @@
           "submitState": "done",
           "title": "Becoming a programmer without a CS degree & bootcamp free!",
           "twitter": "@MrBenJ5",
-          "updatedAt": "Wed, 07 Nov 2018 23:08:34 GMT"
+          "updatedAt": "Wed, 07 Nov 2018 23:08:34 GMT",
+          "youtubeImageUrl": "https://i.imgur.com/X0XHPjB.png",
+          "youtubeUrl": "https://youtu.be/X9Q4n3zcXHY"
         },
         {
           "_announced": true,
@@ -4127,7 +4510,9 @@
           "submitState": "done",
           "title": "From WordPress to React while keeping everyone happy.",
           "twitter": "@codecareercoach",
-          "updatedAt": "Tue, 16 Oct 2018 21:25:12 GMT"
+          "updatedAt": "Tue, 16 Oct 2018 21:25:12 GMT",
+          "youtubeImageUrl": "https://i.imgur.com/OOE1Sig.png",
+          "youtubeUrl": "https://youtu.be/pf35mxKTE50"
         }
       ],
       "drinkjs": {
@@ -4207,7 +4592,9 @@
           "submitState": "done",
           "title": "JAM Stack: The Total Victory of JavaScript",
           "twitter": "@swyx",
-          "updatedAt": "Sat, 05 Jan 2019 03:55:59 GMT"
+          "updatedAt": "Sat, 05 Jan 2019 03:55:59 GMT",
+          "youtubeImageUrl": "",
+          "youtubeUrl": ""
         },
         {
           "_announced": true,
@@ -4225,7 +4612,9 @@
           "submitState": "done",
           "title": "Having fun with HTTP/2 in Node.js",
           "twitter": "@jasnell",
-          "updatedAt": "Wed, 31 Oct 2018 04:25:33 GMT"
+          "updatedAt": "Wed, 31 Oct 2018 04:25:33 GMT",
+          "youtubeImageUrl": "https://i.imgur.com/SmMy66L.png",
+          "youtubeUrl": "https://youtu.be/j41ZPJAOuhY"
         }
       ],
       "drinkjs": {
@@ -4243,7 +4632,7 @@
         "address": "214 Wilshire Blvd, Santa Monica, CA 90401",
         "bookedEvents": "2017-10-26",
         "bookedExperiences": "2017-10-26\n2018-02-22",
-        "bookedShows": "2017-10-26\n2018-09-27\n2019-03-28\n2019-05-30",
+        "bookedShows": "2017-10-26\n2018-09-27\n2019-03-28",
         "capacity": "150-200 ",
         "dates": {
           "0": "2017-09-28",
@@ -4268,19 +4657,10 @@
         {
           "_announced": true,
           "bookedShows": "2019-03-28",
-          "dates": {
-            "0": "2019-03-28"
-          },
-          "desiredMonths": "3",
-          "email": "frank@replicated.com",
-          "goal": "We're awesome and we host Nodeschool and we're looking to hire some amazing JS engineers.",
-          "id": "psJ5IJDoRhhteMNpQSWcaSqJhOu1",
-          "link": "https://www.replicated.com/careers/",
-          "logo": "https://media.publit.io/file/45zDxnASq71WiIHcMEsjHrDm.png",
-          "name": "Frank Shotwell",
-          "organization": "Replicated ",
-          "slack": "@fshot",
-          "submitState": "done"
+          "id": "f416345a201311d226935a9e1262",
+          "link": "https://www.patientpop.com/",
+          "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/host-patientpop.png",
+          "organization": "PatientPop"
         }
       ],
       "speakers": [
@@ -4308,11 +4688,13 @@
           "submitState": "done",
           "title": "Get Over Yourself",
           "twitter": "@enminc",
-          "updatedAt": "Thu, 10 Jan 2019 23:38:06 GMT"
+          "updatedAt": "Thu, 10 Jan 2019 23:38:06 GMT",
+          "youtubeImageUrl": "https://i.imgur.com/LFRjEXR.png",
+          "youtubeUrl": "https://www.youtube.com/embed/uFmVO09nOpo"
         },
         {
           "_announced": true,
-          "abstract": "I recently left Google after ~4.5 years to work on some new projects. Since then, I've been spending most of my time working on multi-layered data visualizations, and would love to talk through the creation of a few examples. I could also discuss the workflow I've developed to present them both as interactive visualizations on the web and as pre-rendered videos for consumption on twitter, facebook, etc.\n\n...on the other hand, I may have some new ideas by next year, so let's circle back a bit beforehand to make sure this is still the best topic.",
+          "abstract": "I recently left Google after ~4.5 years to work on some new projects. Since then, I've been spending most of my time working on multi-layered data visualizations, and will talk through the creation of a few examples. I'll also discuss the workflow I've developed to present them both as interactive visualizations on the web and as pre-rendered videos for consumption on twitter, facebook, etc.",
           "avatar": "https://i.imgur.com/vpmikpa.jpg",
           "bookedShows": "2019-03-28",
           "dates": {
@@ -4328,7 +4710,9 @@
           "submitState": "done",
           "title": "Narrative Visualizations",
           "twitter": "zzzev",
-          "updatedAt": "Fri, 02 Nov 2018 17:50:04 GMT"
+          "updatedAt": "Fri, 02 Nov 2018 17:50:04 GMT",
+          "youtubeImageUrl": "https://i.imgur.com/NN4BWoQ.png",
+          "youtubeUrl": "https://youtu.be/KVkc_sX9aw8"
         }
       ],
       "drinkjs": {
@@ -4351,7 +4735,7 @@
         "hasProjector": "Yes",
         "id": "psJ5IJDoRhhteMNpQSWcaSqJhOu1",
         "link": "https://www.fender.com/pages/careers",
-        "logo": "https://i.imgur.com/3tobmg4.jpg",
+        "logo": "https://i.imgur.com/n8Xs6Uk.png",
         "name": "Joshua Couch",
         "organization": "Fender ",
         "parking": "You may park in the underground parking facility (Columbia Square Parking) off of Gower or El Centro (in between Sunset and Selma). Take the elevator (or large staircase) to the Plaza Level and proceed to the Fender offices (Building #1). Bring your ticket with you, and Fender will validate. ",
@@ -4393,7 +4777,9 @@
           "name": "Ryan Dahl",
           "submitState": "done",
           "title": "A secure runtime for JavaScript and TypeScript built with V8, Rust, and Tokio",
-          "updatedAt": "Tue, 02 Apr 2019 16:00:55 GMT"
+          "updatedAt": "Tue, 02 Apr 2019 16:00:55 GMT",
+          "youtubeImageUrl": "https://i.imgur.com/UwmWe0J.png",
+          "youtubeUrl": "https://www.youtube.com/watch?v=RAmqgbv247s"
         },
         {
           "_announced": true,
@@ -4413,50 +4799,67 @@
           "submitState": "done",
           "title": "Gaming in the Browser (Using Only The Platform)",
           "twitter": "yankouskia",
-          "updatedAt": "Thu, 21 Feb 2019 22:44:20 GMT"
+          "updatedAt": "Thu, 21 Feb 2019 22:44:20 GMT",
+          "youtubeImageUrl": "https://i.imgur.com/hYogvkx.png",
+          "youtubeUrl": "https://www.youtube.com/watch?v=5rof3gt9nlo"
         }
       ],
       "drinkjs": {
         "address": "6124 Hollywood Blvd, Los Angeles, CA 90028",
         "bookedShows": "2019-04-25",
         "id": "bjGCmTanRlJrCzMzXXXDkQVYw05f",
-        "name": "Blue Palms Brewhouse"
+        "name": "Blue Palms Brewhouse (NOT THE BEST)"
       },
       "titoUrl": "https://jsla-april-2019.eventbrite.com/?aff=site"
     },
     {
       "date": "2019-05-30",
       "host": {
-        "_announced": true,
-        "address": "214 Wilshire Blvd, Santa Monica, CA 90401",
-        "bookedEvents": "2017-10-26",
-        "bookedExperiences": "2017-10-26\n2018-02-22",
-        "bookedShows": "2017-10-26\n2018-09-27\n2019-03-28\n2019-05-30",
-        "capacity": "150-200 ",
+        "address": "1728 Olympic Blvd, Santa Monica 90404",
+        "bookedShows": "2018-10-25\n2019-05-30",
+        "capacity": "80",
         "dates": {
-          "0": "2017-09-28",
-          "1": "2017-10-26"
+          "0": "2018-05-31",
+          "1": "2018-06-28",
+          "2": "2018-07-26"
         },
-        "email": "amanda.alex@patientpop.com",
-        "goal": "We are trying to raise brand awareness in the community and become a common name within the Santa Monica tech community.\nWe are also growing rapidly, building two more brand new engineering teams. Bringing engineers into our space would help build community interest.",
-        "hasMicrophone": "Yes",
-        "hasProjector": "Yes",
-        "id": "MfmnsGZFUCQ2gh6gGp6EITBFoTt2",
-        "link": "https://www.patientpop.com/",
-        "logo": "https://i.imgur.com/BqAprBu.png",
-        "name": "Amanda Alex",
-        "notes": "Points of contact- \nAmanda Alex- 810-569-8102\nTristan Couvares 323.533.9671 tristan.couvares@patientpop.com\nChristophe Louvion chris@patientpop.com",
-        "organization": "PatientPop",
-        "parking": "We have a public Santa Monica parking structure 2 doors down. First 90 minutes are free.",
-        "refreshments": "We have in office kegs of craft beer we will fill the morning of, we also have water and a keg of kombucha for non beer drinkers. We will cater food from a santa monica restaurant or can do the classic pizza. Whatever you think the group would like. ",
-        "slack": "fdomin3",
-        "submitState": "done"
+        "email": "evelynk@earny.co",
+        "goal": "We're looking to hire JS engineers and build product awareness.  I'd like to get more information about hosting and sponsoring events.",
+        "hasMicrophone": "No",
+        "hasProjector": "No",
+        "id": "8JqTgC9nlvSjY3j13HzZnv9SS4Q2",
+        "link": "https://www.earny.co/jobs",
+        "logo": "https://imagizer.imageshack.us/a/img924/7328/Nni1O3.png",
+        "name": "Evelyn Kinney",
+        "organization": "Earny, Inc.",
+        "parking": "Our parking lot or nearby street parking.",
+        "refreshments": "Suggestions welcome"
       },
-      "sponsors": [],
+      "sponsors": [
+        {
+          "_announced": true,
+          "bookedShows": "2019-05-30",
+          "dates": {
+            "0": "2019-03-28",
+            "1": "2019-05-30"
+          },
+          "desiredMonths": "1",
+          "email": "buckholzd@dnb.com",
+          "goal": "We have a pretty solid group of JS engineers who would like get some like minds to join our teams - would also like to support the community.",
+          "id": "psJ5IJDoRhhteMNpQSWcaSqJhOu1",
+          "link": "https://www.dnb.com/about-us/careers-and-people.html",
+          "logo": "https://media.publit.io/file/JK7l78XFssUKrKorrR48w2XN.jpg",
+          "name": "Dutch Buckholz",
+          "notes": "Paid for May 2019 ---- Dutch's Cell num 480-319-0551",
+          "organization": "Dun & Bradstreet",
+          "slack": "@dutchb",
+          "submitState": "done"
+        }
+      ],
       "speakers": [
         {
           "_announced": true,
-          "abstract": "I work for CitizenNet / Conde Nast. About a year ago we were looking to move away from a legacy Angular application. We looked at React, Elm and Reason but ultimately decided on PureScript. I would like to talk about why we decided to go with PureScript instead of another technology, how we are approaching our migration, and how has it gone now that we have had PureScript in production for a little of 6 months. ",
+          "abstract": "2 years ago we were looking to migrate away from a legacy Angular application. We evaluated React, Elm, and Reason but ultimately decided on PureScript. I am going to talk about why we picked PureScript and how things have turned out thus far.",
           "avatar": "https://avatars3.githubusercontent.com/u/6046447?s=460&v=4",
           "bookedShows": "2019-05-30",
           "dates": {
@@ -4473,37 +4876,605 @@
           "notes": "2019-04-16: David: emailed to schedule phone call about speaking",
           "slack": "@foresttoney",
           "submitState": "done",
-          "title": "6 Months of PureScript in Production",
-          "twitter": "@foresttoney"
+          "title": "A Functional Journey: 2 Years of PureScript in Production",
+          "twitter": "@foresttoney",
+          "youtubeImageUrl": "https://i.imgur.com/V5HI4sW.png",
+          "youtubeUrl": "https://www.youtube.com/embed/G01lKh8K9KY"
         },
         {
           "_announced": true,
-          "abstract": "I recently gave a talk to my team at NuORDER on functional programming 101. I'd love to give a similar talk at js.la featuring some demos with ramda and maybe jest tests. Topics covered include pure functions, immutability, function composition, and declarative programming.",
-          "avatar": "https://avatars1.githubusercontent.com/u/4237388?s=400&v=4",
+          "abstract": "\"fp, fp, fp - BLAH! All Forrest ever talks about is functional programming - why?!\" I'd love to give a concrete demonstration of the power of functional programming by doing a live coding imperative-to-functional refactor on some real code I've seen in the wild. (The names of these functions have been changed to protect the innocent)",
+          "avatar": "https://media.publit.io/file/4qqmWAH8HO1wNqJFUQvo5zdS.png",
           "bookedShows": "2019-05-30",
           "dates": {
-            "0": "2019-02-28",
-            "1": "2019-03-28",
-            "2": "2019-05-30",
-            "3": "2019-04-25",
-            "4": "2019-06-27",
-            "5": "2019-01-31",
-            "6": "2019-07-25",
-            "7": "2019-08-29",
-            "8": "2019-09-26"
+            "0": "2019-05-30",
+            "1": "2020-02-28",
+            "2": "2020-03-26",
+            "3": "2020-04-30",
+            "4": "2020-05-28",
+            "5": "2020-06-25",
+            "6": "2020-07-30"
           },
           "email": "forrest.akin@gmail.com",
           "github": "@forrest-akin",
-          "id": "Jp26xdnIAgSl8Rbw0LF3lofr0sV2",
+          "id": "O3oh9kBZaBcauSXjbkuaY1vDMec2",
+          "intro": "TBD",
           "name": "Forrest Akin",
           "slack": "@forrest",
           "submitState": "done",
-          "title": "Functional Programming 101",
-          "twitter": "@drum_4est_drum",
-          "updatedAt": "Sat, 30 Mar 2019 18:13:22 GMT"
+          "title": "Functional Programming: A guided Tour",
+          "twitter": "@forrest_akin",
+          "updatedAt": "Sat, 10 Aug 2019 01:56:08 GMT",
+          "youtubeImageUrl": "https://i.imgur.com/BUrNRt8.png",
+          "youtubeUrl": "https://youtu.be/vTlPdeub71A"
         }
       ],
+      "drinkjs": {
+        "address": "2310 Pico Blvd Santa Monica, CA 90405",
+        "bookedShows": "2019-05-30",
+        "id": "aTZ2XFzq0L2FHVd6icZIC7gAbTTa",
+        "name": "The Daily Pint"
+      },
       "titoUrl": "https://jsla-may-2019.eventbrite.com/?aff=site"
+    },
+    {
+      "date": "2019-06-27",
+      "host": {
+        "_announced": true,
+        "address": "990 W 8th Street Suite 600 Los Angeles CA 90017",
+        "bookedShows": "2018-06-28\n2019-06-27",
+        "capacity": "140",
+        "dates": {
+          "0": "2018-06-28"
+        },
+        "email": "paulina@joinhoney.com",
+        "goal": "Build product awareness and foster community! ",
+        "hasMicrophone": "I believe so. Will have to double check! ",
+        "hasProjector": "Yes to the projector. We usually project onto a white wall in our event space. ",
+        "id": "gROkh0Zy12cenIhwWSwcErJ7pcx1",
+        "link": "https://www.joinhoney.com/",
+        "logo": "https://cl.ly/3980178707e6/Image%2525202019-06-04%252520at%2525207.00.29%252520PM.png",
+        "name": "Paulina Tassoudji",
+        "organization": "Honey",
+        "parking": "Our parking lot is available (eventing rate is $10). There are also a few lots nearby with cheaper rates ($5-6 evening), and a metro stop about 2 blocks away from the office.",
+        "refreshments": "Sandwiches, small bites, and beer/soda/water",
+        "slack": "n/a",
+        "submitState": "done"
+      },
+      "sponsors": [
+        {
+          "_announced": true,
+          "bookedShows": "2019-06-27",
+          "dates": {
+            "0": "2019-06-27",
+            "1": "2019-05-30"
+          },
+          "desiredMonths": "1",
+          "email": "tyler@polycade.com",
+          "goal": "We're looking to hire amazing JS engineers!",
+          "id": "bfREXtOh8LN7h23IVTiesulsoiw2",
+          "link": "https://angel.co/company/polycade/jobs/418438-full-stack-developer-nodejs-windows",
+          "logo": "https://media.publit.io/file/hUezQetp-kjJlJ0t4JN8wmeB.png",
+          "name": "Tyler Bushnell",
+          "notes": "Paid 2019-06-19",
+          "organization": "Polycade Inc.",
+          "slack": "@wunderlink",
+          "submitState": "done"
+        }
+      ],
+      "speakers": [
+        {
+          "_announced": true,
+          "abstract": "This is a talk about all the problems that occur when programmers try to validate and sanitize names. My last name has an apostrophe, and it's a horrible experience. I know someone whose first name is one letter. I have friends with accented characters in their names.\n\nProgrammers do a horrible job of respecting people's monikers, so I am on a mission to make people understand the flaws in their ways.\n\nI recently gave a shorter version of this talk: https://www.youtube.com/watch?v=YFEO0qKYaiU",
+          "avatar": "https://avatars2.githubusercontent.com/u/748180",
+          "bookedShows": "2019-06-27",
+          "dates": {
+            "0": "2018-09-27",
+            "1": "2018-10-25",
+            "2": "2019-02-01",
+            "3": "2019-03-01",
+            "4": "2018-08-30",
+            "5": "2019-03-28",
+            "6": "2019-04-25",
+            "7": "2019-05-30",
+            "8": "2019-06-27",
+            "9": "2019-07-25"
+          },
+          "email": "grardb@gmail.com",
+          "github": "@grardb",
+          "id": "cglHFfu16FUXcKjO4dnxoTSJ1K83",
+          "name": "Gerard O'Neill",
+          "notes": "2019-04-16: David: Emailed to schedule call to discuss talk",
+          "slack": "@gerard",
+          "submitState": "done",
+          "title": "Put Some Respek on My Name",
+          "twitter": "@grardb",
+          "updatedAt": "Thu, 02 Aug 2018 04:57:41 GMT",
+          "youtubeImageUrl": "https://i.imgur.com/U2AVYhH.png",
+          "youtubeUrl": "https://youtu.be/NfKhY3sAQ9E"
+        },
+        {
+          "_announced": true,
+          "abstract": "Imposter Syndrome is okay. It’s okay to feel like you don’t know what you’re doing at your job, that’s your job as a Software Engineer.\n\nIn all 11 years of my career, every job I’ve had to learn there tech stack on the job, whether it was backbone, angularjs, or react. Instead what helped me in my career was focusing on the basics of programming and algorithms, and understanding the JavaScript Language itself.\n\nI want to share my story of how for every job I’ve had there we’re several moments where I had no idea what I was doing, but by focusing what I did know, and learning the foundations of what I needed to know. I’ve been able to build a pretty successful career.\n\nTLDR;\nFeeling like you don’t know what your doing is okay. Learn JavaScript not React, and you’ll be fine.",
+          "avatar": "https://media.publit.io/file/HJNC7p_qPT7o-FI5tOoBjgd4.png",
+          "bookedShows": "2019-06-27",
+          "dates": {
+            "0": "2019-07-25",
+            "1": "2019-06-27",
+            "2": "2019-08-29",
+            "3": "2019-09-26",
+            "4": "2020-03-26",
+            "5": "2020-04-30"
+          },
+          "email": "Angusp@angusp.com",
+          "github": "@anguspiv",
+          "id": "kdQkFHKymdRqfoX5E4htH6vbv6Y2",
+          "intro": "Not sure? Kinda new to this...\n\n",
+          "name": "Angus Perkerson",
+          "slack": "@angusp",
+          "submitState": "done",
+          "title": "11 Years of Having No Idea of What I’m Doing ",
+          "twitter": "@angusp",
+          "updatedAt": "Sat, 18 May 2019 22:05:53 GMT",
+          "youtubeImageUrl": "https://i.imgur.com/Hk3viSE.png",
+          "youtubeUrl": "https://youtu.be/T7u2VI3XegQ"
+        }
+      ],
+      "drinkjs": {
+        "address": "417 W 8th St Los Angeles, CA 90014",
+        "bookedShows": "2019-06-27",
+        "id": "UgQjszl4gN27YkknJIPu4IVKZndH",
+        "name": "Golden Gopher"
+      },
+      "titoUrl": "https://jsla-june-2019.eventbrite.com/?aff=site"
+    },
+    {
+      "date": "2019-07-25",
+      "host": {
+        "_announced": true,
+        "address": "320 Hampton Drive Venice CA 90291",
+        "bookedShows": "2019-01-31\n2019-07-25",
+        "capacity": "100",
+        "dates": {
+          "0": "2017-05-25",
+          "1": "2017-06-29",
+          "2": "2017-04-27"
+        },
+        "email": "jonmann@google.com",
+        "goal": "A group in our office is trying to get Google more directly involved in supporting and promoting the tech community in LA. We just want to help LA continue on its trajectory to become one of the top tech communities in the world.\n\nIf we have an event topic that fits, we'd love to also offer a speaker from our office or Google Mountain View. ",
+        "hasMicrophone": "Yes",
+        "hasProjector": "Yes",
+        "id": "kKmCAvqvc1cUxcRdX7ZHPFCab663",
+        "link": "https://www.google.com/about/locations/los-angeles/",
+        "logo": "https://lh3.googleusercontent.com/-ZxK7RcVQdOE/Vd5bJfv4tYI/AAAAAAAAQ70/p8tAh6KU-OQfaAEiXteXDCpzLXe1jag6gCHM/d/logo_420_color_2x.png",
+        "name": "Jon Mann",
+        "notes": "There is also a 240 person room that *might* be available\nJon's cell number  703-819-7339\n",
+        "organization": "Google",
+        "refreshments": "Beer/wine and some bar food (sliders/mac & cheese/salad)",
+        "submitState": "done"
+      },
+      "sponsors": [
+        {
+          "_announced": true,
+          "bookedShows": "2019-07-25\n2019-08-29",
+          "dates": {
+            "0": "2019-07-25",
+            "1": "2019-08-29",
+            "2": "2019-09-26"
+          },
+          "desiredMonths": "1-2",
+          "email": "joselyn.lai@picktrace.com",
+          "goal": "We are a fast-growing enterprise SaaS start-up establishing our presence in the east-side tech scene. We do awesome and unique work in the agricultural tech space, and we think people will love learning about new start-ups in LA. We're also hiring :)",
+          "id": "VoTpMumsCVOCER8tYaSRCZrDcOd2",
+          "link": "http://www.picktrace.com",
+          "logo": "https://i.imgur.com/MTPSLJ7.png",
+          "name": "Joselyn Lai",
+          "notes": "Paid $500 on 8/22/19",
+          "organization": "PickTrace, Inc.",
+          "slack": "@jos",
+          "submitState": "done"
+        }
+      ],
+      "speakers": [
+        {
+          "_announced": true,
+          "abstract": "Do not burn yourself out. Sitting at my desk, I had an overwhelming feeling doing too much but also getting nothing done. I would look back at my time and think I did a lot of things, but I just do not recollect any of them. It's like my body was on autopilot and my mind was taking a nap.",
+          "avatar": "https://media.publit.io/file/dVCBv3M8To22w3ADuja6pJv8.jpg",
+          "bookedShows": "2019-07-25",
+          "dates": {
+            "0": "2019-07-25",
+            "1": "2019-08-29",
+            "2": "2019-09-26"
+          },
+          "email": "jacoblowe2.0@gmail.com",
+          "github": "@jcblw",
+          "id": "Cv4wG9rBIQSY7rkTwpxJShE8YQB2",
+          "intro": "With Black Sabbath's, Iron Man ",
+          "name": "Jacob Lowe",
+          "slack": "@jcblw",
+          "submitState": "done",
+          "title": "Become a 10x Engineer",
+          "twitter": "@jcblw",
+          "updatedAt": "Sun, 23 Jun 2019 21:21:36 GMT",
+          "youtubeImageUrl": "https://i.imgur.com/ulQRGDC.png",
+          "youtubeUrl": "https://youtu.be/pWOYrLnhi-4"
+        },
+        {
+          "_announced": true,
+          "abstract": "As GraphQL moves into the mainstream, the tooling, ecosystem, and services supporting it have grown and have made it possible to do much more with GraphQL than using it as just a data layer. In this talk, I'll show how developers are using GraphQL as an API gateway to accomplish things that you may have never thought possible.",
+          "avatar": "https://i.imgur.com/3NusHsX.jpg",
+          "bookedShows": "2019-07-25",
+          "dates": {
+            "0": "2019-07-25"
+          },
+          "email": "dabit3@gmail.com",
+          "github": "@dabit3",
+          "id": "MKGYkUwvkvUfYTbdqSm272CJkXR2",
+          "name": "Nader Dabit",
+          "notes": "2019-04-16: David: Emailed to schedule call to discuss talk",
+          "slack": "@Nader Dabit",
+          "submitState": "done",
+          "title": "Curious Cases of GraphQL",
+          "twitter": "@dabit3",
+          "updatedAt": "Fri, 04 Jan 2019 22:58:33 GMT",
+          "youtubeImageUrl": "https://i.imgur.com/lQ8Z3y7.png",
+          "youtubeUrl": "https://youtu.be/qxHjJMY39-s"
+        }
+      ],
+      "drinkjs": {
+        "address": "625 Lincoln Blvd, Los Angeles, CA 90291",
+        "bookedShows": "2019-07-25",
+        "id": "Velc5IyfoPAoB1B4jNx4XIodNEhx",
+        "name": "Wurstkuche"
+      },
+      "titoUrl": "https://jsla-july-2019.eventbrite.com/?aff=site"
+    },
+    {
+      "date": "2019-08-29",
+      "host": {
+        "_announced": true,
+        "address": "2401 Colorado Ave, Santa Monica, CA 90404",
+        "bookedShows": "2018-02-22\n2018-05-31\n2019-02-28\n2019-08-29",
+        "capacity": "150",
+        "dates": {
+          "0": "2017-08-31",
+          "1": "2017-09-28",
+          "2": "2017-10-26",
+          "3": "2018-01-26",
+          "4": "2018-02-23",
+          "5": "2018-03-29",
+          "6": "2018-04-26",
+          "7": "2018-05-31",
+          "8": "2018-06-28"
+        },
+        "email": "dngai@edmunds.com",
+        "goal": "We're looking to hire amazing front-end engineers and build awareness. We also feel we have a great facility that we'd love to share with other folks in the local tech industry. We'd love to promote innovative technology in the Silicon Beach area.",
+        "hasMicrophone": "Yes",
+        "hasProjector": "Yes",
+        "id": "eVdn1DFWbyT8uBfg65rsjXbG3tJ3",
+        "link": "https://www.edmunds.com/careers/",
+        "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/host-edmunds.png",
+        "name": "Denise Ngai",
+        "organization": "Edmunds",
+        "parking": "In our parking lot (we would provide validation)",
+        "refreshments": "TBD",
+        "slack": "@dngai",
+        "submitState": "done"
+      },
+      "sponsors": [
+        {
+          "_announced": true,
+          "bookedShows": "2019-07-25\n2019-08-29",
+          "dates": {
+            "0": "2019-07-25",
+            "1": "2019-08-29",
+            "2": "2019-09-26"
+          },
+          "desiredMonths": "1-2",
+          "email": "joselyn.lai@picktrace.com",
+          "goal": "We are a fast-growing enterprise SaaS start-up establishing our presence in the east-side tech scene. We do awesome and unique work in the agricultural tech space, and we think people will love learning about new start-ups in LA. We're also hiring :)",
+          "id": "VoTpMumsCVOCER8tYaSRCZrDcOd2",
+          "link": "http://www.picktrace.com",
+          "logo": "https://i.imgur.com/MTPSLJ7.png",
+          "name": "Joselyn Lai",
+          "notes": "Paid $500 on 8/22/19",
+          "organization": "PickTrace, Inc.",
+          "slack": "@jos",
+          "submitState": "done"
+        }
+      ],
+      "speakers": [
+        {
+          "_announced": true,
+          "abstract": "A year ago I was tasked to test typical Microservices-based project with modern frontend and the traditional tools just didn't work for me. So I went into a journey of finding modern techniques that might score better and guess what: I discovered a handful of neat techniques that rocked my testing world. Let's discuss when the traditional testing tools fall short and how modern and emerging techniques can sometimes do better: In the past 10 years, the dev world had gone through dramatic changes but the testing models were left intact leaving us wondering how to test things like Microservice, and Serverless. This session demonstrates the new wave of testing tools (e.g. property-based testing, consumer-driven contract, fuzz, and others) and how they can better fit modern applications. This session aims to inspire with modern testing ideas, but it also packs practical and down-to-earth code demos. \n\nAbout me - Yoni Goldberg: I'm an independent consultant who works with 500 fortune corporates and garage startups on polishing their JS & Node.js applications. I'm also the author of Node's largest best practices collection: https://github.com/i0natan/nodebestpractices",
+          "avatar": "https://media.publit.io/file/l6ycvvKM3tUmZ-66FJQ5QVy.jpg",
+          "bookedShows": "2019-08-29",
+          "dates": {
+            "0": "2019-08-28"
+          },
+          "email": "me@goldbergyoni.com",
+          "github": "goldbergyoni",
+          "id": "Y1a7dhjMe5XFLh7JBiHYDXMBuJP2",
+          "intro": "Yoni Goldberg is an independent consultant who works with 500 fortune corporates and garage startups on polishing their JS & Node.js applications. He's the author of Node's largest best practices collection (link below). More than any other topic he is fascinated by and aims to master the art of testing. At his spare time, he likes to write in his blog and debug production application using console.log\n\nhttps://github.com/i0natan/nodebestpractices",
+          "name": "Yoni Goldberg",
+          "slack": "Yoni",
+          "submitState": "done",
+          "title": "Five Advanced & Shiny Testing Techniques",
+          "twitter": "@nodepractices",
+          "updatedAt": "Mon, 01 Jul 2019 14:14:53 GMT",
+          "youtubeUrl": "https://youtu.be/v=qi66cdomP2E"
+        },
+        {
+          "_announced": true,
+          "abstract": "This is a story of how we were able to go from zero automated testing, static analysis, end to end testing, and a lot of wasted time, broken deploys and pager duty requests to being able to deploy changes on a Friday at 5pm. I did this by slowly getting buy in from team members over the course of the first year I was working at System1 and introducing checks and tests slowly, instead of doing what many well meaning engineers do of trying to introduce too much all at once. \n\nTurning on tests 100% in a blank document is easy, integrating it into a 4+ year code base is not.\n\nI'll cover:\n1. The point of testing (it's actually to speed up releases, not necessarily catching bugs!)\n2. The low hanging fruit big wins you can make at work tomorrow (it's not trying to convince business to give you 4 weeks to write write brittle end to end tests and not push out features).\n3. The tricks to introduce eslint, Typescript, Jest, and Mabl/Cypress slowly without annoying other engineers to the point of them just turning it off.\n4. The before and after results of how testing has speed up System1's frontend team to release 2-3 times a day without breaking a sweat instead of a once a week ordeal.",
+          "avatar": "https://media.publit.io/file/6mRAj_2Vh2lHMy_MaRR4Oonc.png",
+          "bookedShows": "2019-08-29",
+          "dates": {
+            "0": "2019-08-29",
+            "1": "2019-09-26",
+            "2": "2019-10-31",
+            "3": "2020-02-28",
+            "4": "2020-03-26",
+            "5": "2020-04-30",
+            "6": "2020-05-28"
+          },
+          "email": "jhush91@gmail.com",
+          "github": "@jamsea",
+          "id": "dOag5MIpkLWjqsTuqHwqjICQzIe2",
+          "intro": "James Hush - Senior Software Engineer at System1",
+          "name": "James Hush",
+          "slack": "@jamsea",
+          "submitState": "done",
+          "title": "How to Sell Testing to Your Team (Without Being a Jerk)",
+          "twitter": "",
+          "updatedAt": "Wed, 26 Jun 2019 02:56:57 GMT"
+        }
+      ],
+      "drinkjs": {
+        "address": "2819 Pico Blvd, Santa Monica, CA 90405",
+        "bookedShows": "2019-08-29",
+        "id": "gdlNtRz4WuGc9UOhpHLjR57VFKIg",
+        "name": "Barkowski"
+      },
+      "titoUrl": "https://jsla-august-2019.eventbrite.com/?aff=site"
+    },
+    {
+      "date": "2019-09-26",
+      "host": {
+        "_announced": true,
+        "address": "2301 Rosecrans Ave, El Segundo, CA 90245",
+        "bookedShows": "2019-09-26",
+        "capacity": "100",
+        "dates": {
+          "0": "2019-09-26"
+        },
+        "email": "miles.gantt@publicissapient.com",
+        "goal": "I believe this would be a great way for Publicis Sapient to strengthen our reputation among local developers, and help us accomplish our company-wide goal of increasing our presence in the community.",
+        "hasMicrophone": "Yes",
+        "hasProjector": "Yes",
+        "id": "4WpFMXxGK0ObtPmdEOkKHKRN0Y62",
+        "link": "https://www.publicissapient.com/",
+        "logo": "https://i.imgur.com/nfaPAvH.png",
+        "name": "Miles Gantt",
+        "organization": "Publicis Sapient",
+        "parking": "Paid visitor parking (cash only). Lots of shopping/restaurant parking also.",
+        "refreshments": "Pizza and beer",
+        "slack": "@Miles Gantt",
+        "submitState": "done"
+      },
+      "sponsors": [
+        {
+          "_announced": true,
+          "bookedShows": "2019-09-26",
+          "dates": {
+            "0": "2019-09-26"
+          },
+          "desiredMonths": "1",
+          "email": "thom@influxdata",
+          "goal": "We're looking to sponsor and support what js.la is doing. We'd like to have one of our local DevRels introduce our new time series meetup in LA.",
+          "id": "sx0TdDYeY5YxK5vMfL8jjaWvhJO2",
+          "link": "influxdata.com",
+          "logo": "https://i.imgur.com/a1kjMaf.png",
+          "name": "Thom Crowe",
+          "notes": "Paid for September",
+          "organization": "InfluxData",
+          "slack": "@thom",
+          "submitState": "done"
+        }
+      ],
+      "speakers": [
+        {
+          "_announced": true,
+          "abstract": "Do you have an idea you would like to build? We did too. After experiencing some developer pain from using the existing cloud management tools, we couldn’t hold ourselves from building a solution. This story is about two guys in the garage getting it done.  Making a new developer productivity app called Commandeer available for everyone to use.\n\nAs engineers, we have all the skills at our disposal to build and ship a software product. And we can make it available to the world with our bare hands without a large amount of capital or any advertising. So, what holds you back from building your idea today?\n",
+          "avatar": "https://media.publit.io/file/zqG-num5Et955ESKbX_q8ZAg.jpg",
+          "bookedShows": "2019-09-26",
+          "dates": {
+            "0": "2019-09-26",
+            "1": "2019-10-31"
+          },
+          "email": "a.tamoykin@gmail.com",
+          "github": "@fsproru",
+          "id": "TICVo58fa7NWzj6HvqLfcEQhPYk2",
+          "intro": "TBD",
+          "name": "Alex Tamoykin",
+          "slack": "@fsproru",
+          "submitState": "done",
+          "title": "Commandeer: Two Nerds in A Garage Building The Next Big Thing",
+          "twitter": "@fsproru",
+          "updatedAt": "Tue, 03 Sep 2019 17:31:49 GMT"
+        },
+        {
+          "_announced": true,
+          "abstract": "When I started at Joymode almost a year and a half ago, I was brought on as their first strictly front-end developer tasked with updating their front-end stack. Within a year, we went form a slow CoffeeScript/jQuery app on Rails, to a modern decoupled Vue app on the JAMstack. My talk goes into the motivations for migrating, my push for using Vue when the team had already convinced themselves prior to using React, and the strategies to progressively move over a large legacy codebase to a modern framework while still running a business. Finally, I can reflect on what went well and what didn't.",
+          "avatar": "https://media.publit.io/file/-I8I0tp1fShCVhiEGBSw8JJO.jpg",
+          "bookedShows": "2019-09-26",
+          "dates": {
+            "0": "2019-09-26",
+            "1": "2019-10-31"
+          },
+          "email": "jon@joymode.com",
+          "github": "@jjandoc",
+          "id": "ufstn6UxqXRZ72J09qFLYiAnFnx2",
+          "intro": "Jon Jandoc is the lead front-end developer at Joymode and a co-organizer and frequent speaker with the VueJS LA meetup group. He also organizes the JS.LA lunches in downtown. Catch him next week at the Stocking Frame.",
+          "name": "Jon Jandoc",
+          "notes": "\"I've given this talk before at the VueJS LA meetups to a great response. Slides for that are here: https://docs.google.com/presentation/d/106dgUqSmcLHqZF8ScrNfwhtN-TkhCOMUKMhhA7jyvJI/edit#slide=id.g528f8ae38b_0_243, though I plan on polishing this up a bit for a more general JS audience and for time considerations.\"",
+          "slack": "jjandoc",
+          "submitState": "done",
+          "title": "Codechella: How we locked ourselves in a cabin for a week and rebuilt Joymode",
+          "twitter": "@jokeisup",
+          "updatedAt": "Mon, 05 Aug 2019 23:38:59 GMT",
+          "youtubeUrl": "https://youtu.be/MXOEEu-BE4M"
+        }
+      ],
+      "drinkjs": {
+        "address": "5119 W El Segundo Blvd, Hawthorne, CA 90250",
+        "bookedShows": "2019-09-26",
+        "id": "e9Rulsj7KJqyPz9kRlwXz0sy6Nbi",
+        "name": "Flight's Beer Bar"
+      },
+      "titoUrl": "https://jsla-september-2019.eventbrite.com/?aff=site"
+    },
+    {
+      "date": "2019-10-31",
+      "host": {
+        "_announced": true,
+        "address": "10000 Washington Blvd, Culver City, CA 90232",
+        "bookedShows": "2019-10-31",
+        "capacity": "100",
+        "dates": {
+          "0": "2019-10-31"
+        },
+        "email": "david@js.la",
+        "goal": "Launching new Culver City office",
+        "hasMicrophone": "Yes",
+        "hasProjector": "Yes",
+        "id": "BDuI90zBi7U25S2V5ytiNb7wgY32",
+        "link": "https://creditkarma.com",
+        "logo": "https://media.publit.io/file/wbFp1StoKywPamW3gqkQ5895.png",
+        "name": "Jason Raneses",
+        "organization": "Credit Karma",
+        "parking": "Nearby Local lots and Street Parking. Highly recommended are the Culver City Medical Plaza, Cardif, and Watseka lots. ",
+        "refreshments": "Food",
+        "slack": "@dguttman",
+        "submitState": "done"
+      },
+      "sponsors": [
+        {
+          "_announced": true,
+          "bookedShows": "2019-10-31",
+          "dates": {
+            "0": "2019-02-28",
+            "1": "2019-03-28"
+          },
+          "desiredMonths": "1-2",
+          "email": "morgan@tryvantagepoint.com",
+          "goal": "We're looking to hire amazing engineers and apparently engineering talent is difficult to come by because few are actively or passively searching for roles... but I'm confident we can sway them if we can get in front of them. :-)",
+          "id": "tjU7PjPtn8WXocmRTZG6KuI9MKD2",
+          "link": "Https://www.tryvantagepoint.com",
+          "logo": "https://media.publit.io/file/gQZBPelNF36G4akOtBkbpIA2.png",
+          "name": "Morgan Mercer",
+          "notes": "Paid for October 2019",
+          "organization": "Vantage Point",
+          "slack": "morganraemercer",
+          "submitState": "done"
+        }
+      ],
+      "speakers": [
+        {
+          "_announced": true,
+          "abstract": "We all want to improve, but the answer isn't just reading blog posts and following tutorials. Let's talk about what really leads to developer superpowers. Along the way we'll chat about video games, synesthesia, complexity theory, and work by Nobel Laureates.",
+          "avatar": "https://js.la/images/team/david-guttman.jpg",
+          "bookedShows": "2019-10-31",
+          "dates": {
+            "0": "2018-06-28"
+          },
+          "email": "david@js.la",
+          "github": "@davidguttman",
+          "id": "ULgxPL39B8SpwVFWptDCyp3czWi2",
+          "isArchived": false,
+          "name": "David Guttman",
+          "slack": "dguttman",
+          "submitState": "done",
+          "title": "Coding Secret Weapons and Superpowers",
+          "twitter": "@davidguttman",
+          "updatedAt": "Thu, 31 May 2018 19:34:16 GMT"
+        },
+        {
+          "_announced": true,
+          "abstract": "TypeScript and GraphQL are each popular topics in the front-end JS community right now, but over the past year of working with this stack I've come to believe the whole is greater than the sum of the parts. \n\nGraphQL is known for its flexibility (query the fields you want), its graph structure (query related objects), and for its strong typing. But what happens when you receive all that strongly-typed data in a JS application? This talk will examine typical practices and patterns around data-fetching in the absence of GQL or TS (`lodash.get` anyone?), then explore the benefits of end-to-end typing when you add TypeScript in: certainty, reliability, and self-documentation among them. \n\nUnfortunately, those benefits don't come for free. I'll recount some of the challenges my teams have faced as we adopted this stack, and our strategies to address them:\n\n    * We began with a team experienced in TypeScript, which led to some complicated typing. But advanced TypeScript has a serious learning curve, so onboarding new members proved difficult.\n    * \"Error\" handling: GraphQL's built-in error handling is _not typed_. So representing cases other than the happy path while maintaining type-safety requires implementing those cases as regular schema types, not as exceptions. \n    * Manually typing all GraphQL responses is burdensome and error-prone, which is exactly what we've been trying to avoid. Tools exist to _generate_ types from your GraphQL schema and operations, but they're still fast-moving and imperfect; we continue to struggle with them. \n\nI'll conclude by answering and asking a few questions:\n    * Given all these challenges, was it worth it? \n    * Is this where front-end development is going? \n    * Is this still the JavaScript we know and love, or just Java?",
+          "avatar": "https://media.publit.io/file/0t_2TBnwpHCwvX2DVrTm-sN.jpg",
+          "bookedShows": "2019-10-31",
+          "dates": {
+            "0": "2019-10-31"
+          },
+          "email": "kiran.sonnad@creditkarma.com",
+          "github": "ksonnad",
+          "id": "uqCv3NeKoGgBvqVdxS4mcpNIt3F3",
+          "intro": "Kiran from Credit Karma",
+          "name": "Kiran Sonley",
+          "slack": "Kiran Sonley",
+          "submitState": "done",
+          "title": "TS FE + GQL API : 1 + 1 = 3",
+          "twitter": "ksonnad",
+          "updatedAt": "Mon, 19 Aug 2019 21:41:27 GMT"
+        }
+      ],
+      "drinkjs": {
+        "address": "9400 Culver Blvd, Culver City, CA 90232",
+        "bookedShows": "2019-10-31",
+        "id": "Ar1mFyIIoH5QXgt1pT90mG7WzSs9",
+        "name": "Culver Hotel"
+      },
+      "titoUrl": "https://jsla-october-2019.eventbrite.com/?aff=site"
+    },
+    {
+      "date": "2019-12-07", 
+      "host": {
+        "_announced": true,
+        "address": "1519 Wilshire Blvd, Santa Monica, CA 90403", 
+        "bookedShows": "2019-12-07",
+        "capacity": "",
+        "dates": {
+          "0": "2019-12-07"
+        },
+        "email": "david@js.la",
+        "goal": "",
+        "hasMicrophone": "",
+        "hasProjector": "",
+        "id": "",
+        "link": "http://www.estate1519.com/guestroom", 
+        "logo": "",
+        "name": "",
+        "organization": "Estate Restaurant + Bar",
+        "parking": "",
+        "refreshments": "",
+        "slack": "@dguttman",
+        "submitState": "done"
+      },
+      "sponsors": [
+      ],
+      "speakers": [
+        {
+          "_announced": true,
+          "abstract": "Come meet up with the js.la community for our fifth annual js.soiree. Drink, network and have an awesome time. Tickets are limited so get yours soon!",
+          "avatar": "",
+          "bookedShows": "2019-12-07",
+          "dates": {
+            "0": "2019-12-07"
+          },
+          "email": null,
+          "github": null,
+          "id": "",
+          "isArchived": false,
+          "name": "js.soiree",
+          "slack": null,
+          "submitState": "done",
+          "title": "End of 2019 party",
+          "twitter": "@jsdotla",
+          "updatedAt": ""
+        } 
+      ],
+      "titoUrl": "https://www.eventbrite.com/e/jsla-soiree-2019-tickets-82248368083"
     }
   ],
   "hosts": {},
@@ -4545,6 +5516,12 @@
       "avatar": "/images/team/ben-junya.jpg",
       "twitter": "MrBenJ5",
       "slack": "benjunya"
+    },
+    {
+      "name": "Denise Ngai",
+      "avatar": "/images/team/denise-ny.jpg",
+      "twitter": "thisgunforhire",
+      "slack": "denise"
     }
   ],
   "alumni": [
@@ -4593,36 +5570,64 @@
   ],
   "pastSponsors": [
     {
-      "organization": "PatientPop",
-      "logo": "https://i.imgur.com/BqAprBu.png"
+      "organization": "Credit Karma",
+      "logo": "https://media.publit.io/file/wbFp1StoKywPamW3gqkQ5895.png"
     },
     {
-      "organization": "Fender ",
-      "logo": "https://i.imgur.com/3tobmg4.jpg"
+      "organization": "Vantage Point",
+      "logo": "https://media.publit.io/file/gQZBPelNF36G4akOtBkbpIA2.png"
     },
     {
-      "organization": "Cameo",
-      "logo": "https://i.imgur.com/QzMsPnb.png"
+      "organization": "Publicis Sapient",
+      "logo": "https://i.imgur.com/nfaPAvH.png"
     },
     {
-      "organization": "Replicated ",
-      "logo": "https://media.publit.io/file/45zDxnASq71WiIHcMEsjHrDm.png"
+      "organization": "InfluxData",
+      "logo": "https://i.imgur.com/a1kjMaf.png"
     },
     {
       "organization": "Edmunds",
       "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/host-edmunds.png"
     },
     {
+      "organization": "PickTrace, Inc.",
+      "logo": "https://i.imgur.com/MTPSLJ7.png"
+    },
+    {
       "organization": "Google",
       "logo": "https://lh3.googleusercontent.com/-ZxK7RcVQdOE/Vd5bJfv4tYI/AAAAAAAAQ70/p8tAh6KU-OQfaAEiXteXDCpzLXe1jag6gCHM/d/logo_420_color_2x.png"
     },
     {
-      "organization": "PlayVS",
-      "logo": "https://streamlabs.com/expandingthestream2018/imgs/playvs-logo.png"
+      "organization": "Honey",
+      "logo": "https://cl.ly/3980178707e6/Image%2525202019-06-04%252520at%2525207.00.29%252520PM.png"
+    },
+    {
+      "organization": "Polycade Inc.",
+      "logo": "https://media.publit.io/file/hUezQetp-kjJlJ0t4JN8wmeB.png"
     },
     {
       "organization": "Earny, Inc.",
-      "logo": "http://imagizer.imageshack.us/a/img924/7328/Nni1O3.png"
+      "logo": "https://imagizer.imageshack.us/a/img924/7328/Nni1O3.png"
+    },
+    {
+      "organization": "Dun & Bradstreet",
+      "logo": "https://media.publit.io/file/JK7l78XFssUKrKorrR48w2XN.jpg"
+    },
+    {
+      "organization": "Fender ",
+      "logo": "https://i.imgur.com/n8Xs6Uk.png"
+    },
+    {
+      "organization": "Cameo",
+      "logo": "https://i.imgur.com/QzMsPnb.png"
+    },
+    {
+      "organization": "PatientPop",
+      "logo": "https://i.imgur.com/BqAprBu.png"
+    },
+    {
+      "organization": "PlayVS",
+      "logo": "https://streamlabs.com/expandingthestream2018/imgs/playvs-logo.png"
     },
     {
       "organization": "Codesmith",
@@ -4639,10 +5644,6 @@
     {
       "organization": "Dollar Shave Club",
       "logo": "https://i.imgur.com/sFV7Ow6.png"
-    },
-    {
-      "organization": "Honey",
-      "logo": "https://cdn.joinhoney.com/images/website-press-page/honey-images/honey-logo.svg"
     },
     {
       "organization": "Smarkets",
