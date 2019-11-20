@@ -60,6 +60,14 @@
               <%= speaker.title %>
             </h3>
           </header>
+          <% if (pathToUrl(speaker.youtubeUrl)) { %>
+            <a
+              href="<%= pathToUrl(speaker.youtubeUrl) %>"
+              data-lity
+              class="jsla-video-container">
+              <img src="<%=pathToUrl(speaker.youtubeImageUrl)%>" class="videoimg">
+            </a>
+          <% } %>
           <% if (speaker.abstract) { %>
             <p id="text-less<%=i%>-<%=j%>" class="speaker-abstract">
               <%= speaker.abstract.substring(0, 100) + (speaker.abstract.length > 100 ? "..." : "") %>
@@ -74,14 +82,6 @@
               onclick=switchSpeakersDescriptionLength("<%=i%>-<%=j%>")>
               Read more
             </button>
-          <% } %>
-          <% if (pathToUrl(speaker.video) && speaker.video.indexOf("vimeo") == -1) { %>
-            <a
-              href="<%= pathToUrl(speaker.video) %>"
-              data-lity
-              class="jsla-video-container">
-              <img src="<%=pathToUrl(speaker.videoimg)%>" class="videoimg">
-            </a>
           <% } %>
         </section>
       </div>
