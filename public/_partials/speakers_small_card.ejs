@@ -3,14 +3,15 @@
         <% event.speakers.forEach(function (speaker) { %>
             <li class="jsla-speaker clearfix">
                 <a href="#speakers">
+                <div class="jsla-avatar" style="background: url(<%= speaker.avatar %>); background-size: cover">
+
+                </div>
                     <div class="jsla-speaker-details pure-g">
-                        <h1 class="jsla-speaker-name pure-u-1-4"><%= speaker.name %></h1>
+                        <h2 class="jsla-speaker-name pure-u-1-4"><%= speaker.name %></h2>
                         <h1 class="jsla-speaker-title pure-u-3-4"><%= speaker.title %></h1>
-                        <p class ="jsla-speaker-name pure-u-1-4"><%= speaker.abstract %></p>
                     </div>
                 </a>
             </li>
         <% }) %>
     </ul>
 </div>
-

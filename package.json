@@ -7,7 +7,7 @@
     "start": "npm run watch-js & harp server public",
     "watch-js": "watchify client/cards.js -o public/js/cards.js",
     "build-js": "browserify client/cards.js > public/js/cards.js",
-    "build": "npm run build-js && harp compile public dist",
+    "build": "npm run build-js && npm run update-data && harp compile public dist",
     "test": "standard",
     "update-data": "node scripts/generate_data_file.js > public/_data.json"
   },
