@@ -23,12 +23,6 @@
       "slack": "ashwell"
     },
     {
-      "name": "Rouzbeh Sarrafieh",
-      "avatar": "/images/team/rouzbeh-sarrafieh.jpg",
-      "twitter": "rouzbeh84",
-      "slack": "rouzbeh"
-    },
-    {
       "name": "Spencer Allen",
       "avatar": "/images/team/spencer-allen.jpg",
       "twitter": "spencer_allen",
@@ -77,6 +71,12 @@
       "avatar": "/images/team/michael-matuzak.jpg",
       "twitter": "mmatuzak",
       "slack": "mike"
+    },
+    {
+      "name": "Rouzbeh Sarrafieh",
+      "avatar": "/images/team/rouzbeh-sarrafieh.jpg",
+      "twitter": "rouzbeh84",
+      "slack": "rouzbeh"
     },
     {
       "name": "Ryan Regalado",
