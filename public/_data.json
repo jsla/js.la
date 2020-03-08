@@ -5417,39 +5417,53 @@
       "date": "2020-01-30",
       "host": {
         "_announced": true,
-        "address": "5880 W Jefferson Blvd., Los Angeles CA 90016",
+        "address": "1700 E Walnut Ave, El Segundo, CA 90245",
         "bookedShows": "2020-01-30",
-        "capacity": "100",
+        "capacity": "80-90",
         "dates": {
-          "0": "2020-01-31",
-          "1": "2020-02-28",
-          "2": "2020-03-26",
-          "3": "2020-04-30",
-          "4": "2020-05-28",
-          "5": "2020-06-25",
-          "6": "2020-07-30",
-          "7": "2020-08-27",
-          "8": "2020-09-24"
+          "0": "2019-08-29",
+          "1": "2019-09-26",
+          "2": "2019-10-31",
+          "3": "2020-01-31"
         },
-        "email": "george.durzi@medmen.com",
-        "goal": "We'd like to build some visibility in the LA technology community, and are always hiring! ",
+        "email": "bthomas@consumertrack.com",
+        "goal": "Bring up awareness about our technology team and product we're working on.  \n\nPersonally I'm a fan of js.la, been attending since back when I was at Edmunds and know you guys have great content and speakers. \n\nHave a pretty large conference room and a full kitchen area onsite and can host the drinks.la here as well. ",
         "hasMicrophone": "Yes",
         "hasProjector": "Yes",
-        "id": "WLTVzK5OxreAiYJhj5ICVmyFMYA3",
-        "link": "https://www.medmen.com/",
-        "logo": "https://media.publit.io/file/en8dAIXH-QMHPHHTWwkPCsq4.png",
-        "name": "George Durzi",
-        "organization": "MedMen",
-        "parking": "Onsite parking lot ",
-        "refreshments": "Pizza and Beer",
-        "slack": "@George Durzi",
+        "id": "p6WAk30nUcNopIgWYiyh5Ef337X2",
+        "link": "https://www.consumertrack.com/join-our-team/",
+        "logo": "https://i.imgur.com/vDsqlcv.jpg",
+        "name": "Belsien Thomas",
+        "organization": "ConsumerTrack Inc",
+        "parking": "Huge parking structure on site, easy access.",
+        "refreshments": "Pizza/Beer, Mexican, Mediterranean, Vegetarian Options - have allot of choices close by in El Segundo",
+        "slack": "@Belsien Thomas",
         "submitState": "done"
       },
-      "sponsors": [],
+      "sponsors": [
+        {
+          "_announced": true,
+          "bookedShows": "2020-01-30",
+          "dates": {
+            "0": "2020-01-30"
+          },
+          "desiredMonths": "1",
+          "email": "sandover@gmail.com",
+          "goal": "JS, Electron, and the web stack in general are on Oblong's critical path into the future, so we feel it's time for us get more involved in the JS community in LA. We also have a Full Stack Engineering position currently open and wanted to share this opportunity and (re)introduce our company to js.la members. \n",
+          "id": "LnSmvUPXLdOe566SbBLfAxq1vb12",
+          "link": "https://www.oblong.com/company/careers",
+          "logo": "http://petehawkes.com/transfer/oblong-logo-dark.png",
+          "name": "Brandon Harvey",
+          "notes": "Paid for Jan 2020",
+          "organization": "Oblong Industries",
+          "slack": "@brandon",
+          "submitState": "done"
+        }
+      ],
       "speakers": [
         {
           "_announced": true,
-          "abstract": "I'm presenting this talk at TSConf on 10/11, and wanted to do the same talk at JS LA.\n\nHere's the abstract:\n\nTypeScript has won the hearts and minds of programmers all around the world. Unfortunately, your deadlines are due yesterday, your boss is unconvinced, and your team remains skeptical. What's a TypeScript enthusiast to do? Join me on a journey of self-discovery: we'll learn what it means to lead by influence and level up our effectiveness as engineers. Then, an exploration of the value to engineering and business brought about by type systems (with some math to prove it). To tie it all together, we'll explore this through the lens of real world stories from Netflix, where we use TypeScript to modernize filmmaking.",
+          "abstract": "TypeScript has won the hearts and minds of programmers all around the world. Unfortunately, your deadlines are due yesterday, your boss is unconvinced, and your team remains skeptical. What's a TypeScript enthusiast to do? Join me on a journey of self-discovery: we'll learn what it means to lead by influence and level up our effectiveness as engineers. Then, an exploration of the value to engineering and business brought about by type systems (with some math to prove it). To tie it all together, we'll explore this through the lens of real world stories from Netflix, where we use TypeScript to modernize filmmaking.",
           "avatar": "https://media.publit.io/file/nSFbAzUqIJWvARCKLzVJAvVo.jpg",
           "bookedShows": "2020-01-30",
           "dates": {
@@ -5461,15 +5475,18 @@
           "id": "Md2wmCFhb4hRPMpQc8q9ZfLm4W32",
           "intro": "Lauren’s superpower is connecting the dots. She’s currently a polyglot Engineering Manager at Netflix, where she leads the Studio UI Foundations team. Although formally educated in Finance, she’s been involved in the intersections of technology, design and business for more than a decade. Public speaking used to be her greatest fear. Ask her what her greatest fear is now if you see her in person!",
           "name": "Lauren Tan",
+          "notes": "I'm presenting this talk at TSConf on 10/11, and wanted to do the same talk at JS LA.",
           "slack": "@lauren",
           "submitState": "done",
           "title": "Just Use Any - How to Win Colleagues and Influence Your Boss with Typed JavaScript",
           "twitter": "@sugarpirate_",
-          "updatedAt": "Mon, 16 Sep 2019 21:34:06 GMT"
+          "updatedAt": "Mon, 16 Sep 2019 21:34:06 GMT",
+          "youtubeImageUrl": "https://i.imgur.com/r1LfYCz.png",
+          "youtubeUrl": "https://www.youtube.com/watch?v=ZWhrlOWjbqU"
         },
         {
           "_announced": true,
-          "abstract": "I would like to discuss how Cypress is used for end to end testing. Specifically, I'd like to discuss the story I went through implementing this into GOAT's CI/CD pipeline. Would like to go over areas such as lessons learned, the gotchas, and the great things Cypress has to offer.",
+          "abstract": "Testing tools have improved dramatically in the past few years. Cypress, an open source test runner, stands out as a prominent player making E2E testing easy. In this talk, I'll go over the key features of Cypress and how we use it in our day to day work at GOAT. Additionally, I'll go over how Cypress has played a large role in improving our CI/CD pipeline and all of the gotchas I encountered along the way.",
           "avatar": "https://avatars1.githubusercontent.com/u/3660667",
           "bookedShows": "2020-01-30",
           "dates": {
@@ -5483,11 +5500,342 @@
           "slack": "@Chris Bautista ",
           "submitState": "done",
           "title": "Cypress: The Great & The Not So Great",
-          "twitter": "n/a",
-          "updatedAt": "Tue, 06 Aug 2019 17:26:26 GMT"
+          "twitter": "@chrisbautistaaa",
+          "updatedAt": "Tue, 06 Aug 2019 17:26:26 GMT",
+          "youtubeImageUrl": "https://i.imgur.com/vYfLrgp.png",
+          "youtubeUrl": "https://www.youtube.com/watch?v=EFHxvu9iZuk"
         }
       ],
+      "drinkjs": {
+        "address": "475 CA-1, El Segundo, CA 90245",
+        "bookedShows": "2020-01-30",
+        "id": "ZZnCHPWa2pomaxghn2ijxZ9phV0Y",
+        "name": "W XYZ Bar inside the Aloft Hotel"
+      },
       "titoUrl": "https://jsla-january-2020.eventbrite.com/?aff=site"
+    },
+    {
+      "date": "2020-02-27",
+      "host": {
+        "_announced": true,
+        "address": "2236 S Barrington Ave, Los Angeles, 90064 ",
+        "bookedShows": "2020-02-27\n2020-04-30",
+        "capacity": "200+",
+        "dates": {
+          "0": "2020-02-27",
+          "1": "2020-03-26",
+          "2": "2020-04-30",
+          "3": "2020-05-28"
+        },
+        "email": "jacob@playvs.com",
+        "goal": "New spot. We are hiring. We would like to show our new place to the community and be able to give back to the community.",
+        "hasMicrophone": "No but we can get one.",
+        "hasProjector": "No but we can get a big TV",
+        "id": "TJbRkJfeelRlYT0OwrMxrkCgYiD3",
+        "link": "https://www.playvs.com/careers",
+        "logo": "https://i.imgur.com/qlwyTce.png",
+        "name": "Jacob Lowe",
+        "organization": "PlayVS",
+        "parking": "Onsite and nearby street parking is available.",
+        "refreshments": "Pizza and Beer",
+        "slack": "@jcblw",
+        "submitState": "done"
+      },
+      "sponsors": [
+        {
+          "_announced": true,
+          "bookedShows": "2020-02-27",
+          "dates": {
+            "0": "2020-02-27"
+          },
+          "desiredMonths": "1",
+          "email": "jared@staffmeup.com",
+          "goal": "We're looking to hire some really great JS engineers and be more active in the Javascript community",
+          "id": "JZpmK8sWoNfCPHxQLf2YBDxsNMM2",
+          "link": "https://angel.co/company/staff-me-up/jobs",
+          "logo": "https://lh3.googleusercontent.com/HD-G5DehyPENaz4GukUXUaGX8qf-x6Fk8ElG8lmzWLFo8MYgAJbpFbx7R0E0hOljEA",
+          "name": "Jared Tobman",
+          "notes": "paid 2/4/20",
+          "organization": "Staff Me Up",
+          "slack": "@jared",
+          "submitState": "done"
+        }
+      ],
+      "speakers": [
+        {
+          "_announced": true,
+          "abstract": "It all started when I became Head of Design, the largest authorization, and authentication API. I was brought after they raised a large series B round by the investors to increase independent developer sign-ups. The dev tools market is pretty competitive on the design side, and their site looked like Salesforce in 2005. They had gone through 15 designers in the five years they had been in operation, and I couldn't understand why. They had a huge customer base, and their team included more of the most well known open-source contributors then I had ever seen in one office. My entire career, I have been skilled in dealing with highly technical products and worked with well-known engineers successfully. But for the first time, I had to rethink how I was going to bridge the gap between design and development. I used a variety of tools to empower each developer not only to get excited about design but feel that they could participate and contribute to it. The solutions I will be touching on are living style guides, templated static site generators, and believe it or not, custom magnets (which I will elaborate on). I think at the end of the day; developers should have a grasp on how they can collaborate with designers more effectively and how they can start empowering themselves to become better at design.",
+          "avatar": "https://media.publit.io/file/nfpzSR7J4pH1_LKy8KNKFd7N.jpg",
+          "bookedShows": "2020-02-27",
+          "dates": {
+            "0": "2020-02-27"
+          },
+          "email": "holdensteinberg@gmail.com",
+          "github": "@holdicon",
+          "id": "1uurtoA5woO6nlMzRTH3lhjVD0d2",
+          "intro": "Creative Director and Google Women Techmaker recognized by Forbes who launched two startups ($4M+); designed campaigns for Neutrogena, J&J, and MGM",
+          "name": "Holden Steinberg",
+          "slack": "@holdicon",
+          "submitState": "done",
+          "title": "Designing for developers",
+          "twitter": "@holdicon",
+          "updatedAt": "Thu, 30 Jan 2020 18:47:52 GMT"
+        },
+        {
+          "_announced": true,
+          "abstract": "All artists make messy sketches. All writers write terrible first drafts. All coders create dirty first passes. Whether one wants to be a developer just to make a comfortable living, or create the tools and libraries that make today's internet work, it starts with creating... Anything!\n\nThis talk speaks to how my book, \"Modern Javascript by Example\" unexpectedly took off in ways I would have never expected and brought about a new wave of \"hit publish!\" in my career. Showcasing and continuously publishing my work, whether it be writing, software, or speaking didn't immediately pay off, but months later and a profile full of blog posts, git repos, and talks on Youtube have amounted to success I never saw possible in my own career. \n\nIn addition to the above, this talk presents a motivational aspect to encourage developers to stretch their imagination and create many small, fun little projects to showcase, and progress their skills, career, and talents to their full potential. ",
+          "avatar": "https://media.publit.io/file/RKzmIVVvtALss1agU32x1AMt.jpg",
+          "bookedShows": "2020-02-27",
+          "dates": {
+            "0": "2020-02-27"
+          },
+          "email": "bjunya@gmail.com",
+          "github": "@MrBenJ",
+          "id": "JZpmK8sWoNfCPHxQLf2YBDxsNMM2",
+          "intro": "Ben Junya is a js.la organizer and full stack software engineer. He's been organizing js.la for a little over a year and has mentored and taught many developers, from starters to seasoned. He's the author of Modern JS by Example which has been featured by NPM and recommended by staff U.C Berkeley.",
+          "name": "Ben Junya",
+          "slack": "@benjunya",
+          "submitState": "done",
+          "title": "Prolific over Perfection",
+          "twitter": "@MrBenJ5",
+          "updatedAt": "Thu, 19 Dec 2019 17:16:31 GMT"
+        }
+      ],
+      "drinkjs": {
+        "address": "11780 W Pico Blvd  Los Angeles, CA 90064",
+        "bookedShows": "2020-02-27",
+        "id": "51ysy7DWhkvYAQycSTakcGbqhncN",
+        "name": "neat."
+      },
+      "titoUrl": "https://jsla-february-2020.eventbrite.com/?aff=site"
+    },
+    {
+      "date": "2020-03-26",
+      "host": {
+        "_announced": true,
+        "address": "600 Corporate Pointe, Culver City, CA 90230",
+        "bookedShows": "2020-03-26",
+        "capacity": "60",
+        "dates": {
+          "0": "2020-05-28",
+          "1": "2020-06-25",
+          "2": "2020-07-30",
+          "3": "2020-08-27",
+          "4": "2020-10-29",
+          "5": "2021-01-28",
+          "6": "2020-04-30"
+        },
+        "email": "mihai@openpath.com",
+        "goal": "We are currently growing as a company, and we're looking for talented full stack developers.  ",
+        "hasMicrophone": "No",
+        "hasProjector": "Yes (100\" LCD TV)",
+        "id": "9vgGFGnhF2N2bKcRku6y5ghEygS2",
+        "link": "https://www.openpath.com/careers",
+        "logo": "https://media.publit.io/file/zk0zEs-kZX5lWmDEDnHVDARF.png",
+        "name": "Mihai Peteu",
+        "organization": "Openpath Security",
+        "parking": "Nearby lots in C3 Culver City (aka Corporate Pointe) are all paid. Carpooling / Modern Cabs strongly encouraged. ",
+        "refreshments": "Pizza and Soda",
+        "slack": "@mihai",
+        "submitState": "done"
+      },
+      "sponsors": [
+        {
+          "_announced": true,
+          "bookedShows": "2020-03-26\n2020-05-28",
+          "dates": {
+            "0": "2020-03-26",
+            "1": "2020-05-28"
+          },
+          "desiredMonths": "2",
+          "email": "john@signalsciences.com",
+          "goal": "We love the JS community and are actively looking for great React / UI / UX Engineers to join the team.\n\n\n---\n\nLink to use for may if available:\n\nhttps://www.signalsciences.com/careers/?utm_campaign=JS-LA&utm_source=may2020",
+          "id": "QuLZRq4kqlUuOLmwgvFZufbVSC63",
+          "link": "https://www.signalsciences.com/careers/?utm_campaign=JS-LA&utm_source=march2020",
+          "logo": "https://media.publit.io/file/_VLzNGgKuZL5Tw4VaezvD-2a.png",
+          "name": "John Donahue",
+          "notes": "Paid for March 2020",
+          "organization": "Signal Sciences",
+          "slack": "@johnmdonahue",
+          "submitState": "done"
+        },
+        {
+          "_announced": true,
+          "bookedShows": "2020-03-26",
+          "dates": {
+            "0": "2020-03-26"
+          },
+          "desiredMonths": "1",
+          "email": "galen@atticus.com",
+          "goal": "We're looking to hire a new Head of Engineering and talented full stack software engineers.",
+          "id": "WtL9RWX80sQPALqtquss4W916PD2",
+          "link": "https://admin74856.wixsite.com/atticus",
+          "logo": "https://media.publit.io/file/03Vla5a7F994odetY-GWznnA.png",
+          "name": "Galen Weber",
+          "notes": "Paid $500 for March 2020",
+          "organization": "Atticus",
+          "slack": "@Galen Weber",
+          "submitState": "done"
+        }
+      ],
+      "speakers": [
+        {
+          "_announced": true,
+          "abstract": "You made it. Your brand new website is live. The designers love the dark mode. Product team applauded your ability to deliver in such an aggressive timeline. Your peers admire how you've architected the app. But then that day comes... when the chatter lands in your Slack channel. Stakeholders have been using a new tool recently called Lighthouse, a Google Project. Your performance score is an 8! What is this this?\n\nIn this talk I’ll walk through techniques and processes to improve performance and loosely establish “performance driven development”.",
+          "avatar": "https://media.publit.io/file/NWgWaG8bYcHhADeKfNvIYA4s.jpg",
+          "bookedShows": "2020-03-26",
+          "dates": {
+            "0": "2020-02-27",
+            "1": "2020-03-26",
+            "2": "2020-04-30",
+            "3": "2020-05-28",
+            "4": "2020-06-25",
+            "5": "2020-07-30",
+            "6": "2020-08-27",
+            "7": "2020-09-24",
+            "8": "2020-10-29"
+          },
+          "email": "adamhenson1979@gmail.com",
+          "github": "@adamhenson",
+          "id": "PkQgDDyakGTalI3h8rIhQr3WSDx1",
+          "intro": "Senior Software Engineer Lead at Paperless Post and Creator of automated-lighthouse-check.com",
+          "name": "Adam Henson",
+          "slack": "@Adam",
+          "submitState": "done",
+          "title": "Performance Driven Development in 2020",
+          "updatedAt": "Sun, 26 Jan 2020 00:58:22 GMT"
+        },
+        {
+          "_announced": true,
+          "abstract": "I've been a long-time skeptic of \"utility-first\" or \"atomic\" CSS frameworks, but I recently gave Tailwind CSS a shot and now there's no looking back. In this talk, I go into some of the difficulties of building scalable CSS systems and the failings of various methodologies over the years. Then we'll look at how Tailwind combined with a modern component-based JavaScript framework is the perfect mix for quickly writing tighter, reusable styles with less code.",
+          "avatar": "https://media.publit.io/file/oOW0JzPNQ_LoGtYGAekBrpg_.jpg",
+          "bookedShows": "2020-03-26",
+          "dates": {
+            "0": "2020-02-27",
+            "1": "2020-03-26",
+            "2": "2020-04-30",
+            "3": "2020-05-28",
+            "4": "2020-06-25",
+            "5": "2020-07-30",
+            "6": "2020-08-27",
+            "7": "2020-09-24",
+            "8": "2020-10-29"
+          },
+          "email": "the@jokeisup.com",
+          "github": "@jjandoc",
+          "id": "sNDeuIJFlbfGA3ANGdzoaJomEBq1",
+          "intro": "Jon Jandoc is a front-developer, formerly of Joymode, Blue State Digital, and JDate. He is currently working with the Elizabeth Warren campaign to get her elected as the next President of the United States.",
+          "name": "Jon Jandoc",
+          "slack": "@jjandoc",
+          "submitState": "done",
+          "title": "Tailwind CSS or: how I learned to stop worrying and love utility-first CSS",
+          "twitter": "@jokeisup",
+          "updatedAt": "Fri, 17 Jan 2020 23:37:27 GMT"
+        }
+      ],
+      "drinkjs": {
+        "address": "6101 Centinela Ave, Culver City, CA 90230",
+        "bookedShows": "2020-03-26",
+        "id": "zqcMslGrKuLctUJpUW0fsBPcLz2J",
+        "name": "Share Wine Lounge in the DoubleTree Hilton Hotel"
+      },
+      "titoUrl": "https://jsla-march-2020.eventbrite.com/?aff=site"
+    },
+    {
+      "date": "2020-04-30",
+      "host": {
+        "_announced": true,
+        "address": "2236 S Barrington Ave, Los Angeles, 90064 ",
+        "bookedShows": "2020-02-27\n2020-04-30",
+        "capacity": "200+",
+        "dates": {
+          "0": "2020-02-27",
+          "1": "2020-03-26",
+          "2": "2020-04-30",
+          "3": "2020-05-28"
+        },
+        "email": "jacob@playvs.com",
+        "goal": "New spot. We are hiring. We would like to show our new place to the community and be able to give back to the community.",
+        "hasMicrophone": "No but we can get one.",
+        "hasProjector": "No but we can get a big TV",
+        "id": "TJbRkJfeelRlYT0OwrMxrkCgYiD3",
+        "link": "https://www.playvs.com/careers",
+        "logo": "https://i.imgur.com/qlwyTce.png",
+        "name": "Jacob Lowe",
+        "organization": "PlayVS",
+        "parking": "Onsite and nearby street parking is available.",
+        "refreshments": "Pizza and Beer",
+        "slack": "@jcblw",
+        "submitState": "done"
+      },
+      "sponsors": [
+        {
+          "_announced": true,
+          "bookedShows": "2020-04-30",
+          "dates": {
+            "0": "2020-03-26",
+            "1": "2020-04-30",
+            "2": "2020-05-28",
+            "3": "2020-06-25"
+          },
+          "desiredMonths": "1",
+          "email": "leifn@amazon.com",
+          "goal": "Amazon World Wide Custom Advertising is hiring Design Technologists, Front-End Engineers and Software Development Engineers in Santa Monica. We'd like to share information about opportunities on our team with JS and Front-End Development professionals in LA.",
+          "id": "oPaoYFDDWDe62MurPGtkkQFHRpb2",
+          "link": "https://www.amazon.jobs/en/team-category/advertising",
+          "logo": "https://media.publit.io/file/mSbOMig72IEh6naAGMeT2TA1.png",
+          "name": "Leif Nelson",
+          "organization": "Amazon Advertising",
+          "slack": "@Leif Nelson",
+          "submitState": "done"
+        }
+      ],
+      "speakers": [
+        {
+          "_announced": true,
+          "abstract": "talk idea #1:\nI was working on a project recently at work and was unhappy with the existing solution for temporarily caching data, so I tried something a little different and ended up really liking it. I added a hair of recursion and a pinch of functional programming, and finally at Ben Junya's encouragement I decided to publish it. This is the story from problem to publish of my first node module.\n\ntalk idea #2:\n\"fp, fp, fp - BLAH! All Forrest ever talks about is functional programming - why?!\" I'd love to give a concrete demonstration of the power of functional programming by doing a live coding imperative-to-functional refactor on some real code I've seen in the wild. (The names of these functions have been changed to protect the innocent)",
+          "avatar": "https://media.publit.io/file/TV2z1kn05e6a993ChN4RBs-B.png",
+          "bookedShows": "2020-04-30",
+          "dates": {
+            "0": "2020-02-28",
+            "1": "2020-03-26",
+            "2": "2020-04-30",
+            "3": "2020-05-28",
+            "4": "2020-06-25",
+            "5": "2020-07-30"
+          },
+          "email": "forrest.akin@gmail.com",
+          "github": "@forrest-akin",
+          "id": "NAlmpZPJUwMgdNbOq1kcWZXAw5B3",
+          "intro": "TBD",
+          "name": "Forrest Akin",
+          "slack": "@forrest",
+          "submitState": "done",
+          "title": "My First Node Module or Refactoring with Forrest",
+          "twitter": "@forrest_akin",
+          "updatedAt": "Sat, 10 Aug 2019 01:57:30 GMT"
+        },
+        {
+          "_announced": true,
+          "abstract": "I'd like to give my talk, WebAssembly for JavaScript Developers. It's a short introduction into WebAssembly and AssemblyScript. With a general architecture overview of WasmBoy/VaporBoy and how they work together.\n\nI've given the talk at a meetup in the past when I lived in the bay area: https://youtu.be/ZlL1nduatZQ \n\nHowever, I have a 25 minute version of this talk as well, that I gave at BerlinJS.",
+          "avatar": "https://media.publit.io/file/FgN_o401SrTK2n-pWGTpIwgF.png",
+          "bookedShows": "2020-04-30",
+          "dates": {
+            "0": "2020-01-31"
+          },
+          "email": "aaron@aaronthedev.com",
+          "github": "@torch2424",
+          "id": "lxbsSxQygIWdGSUrMv6SS3x7Urp2",
+          "intro": "Aaron Turner is a skateboard, musician, and WebAssembly Developer. Author of WasmBoy, VaporBoy, and WasmByExample. Member of the AssemblyScript team. Currently works at Wasmer, doing JavaScript development and Developer Relations.",
+          "name": "Aaron Turner",
+          "slack": "@Aaron Turner",
+          "submitState": "done",
+          "title": "WebAssembly for JavaScript Developers",
+          "twitter": "@torch2424",
+          "updatedAt": "Wed, 30 Oct 2019 18:10:01 GMT"
+        }
+      ],
+      "titoUrl": "https://jsla-april-2020.eventbrite.com/?aff=site"
     }
   ],
   "hosts": {},
@@ -5583,8 +5931,36 @@
   ],
   "pastSponsors": [
     {
-      "organization": "MedMen",
-      "logo": "https://media.publit.io/file/en8dAIXH-QMHPHHTWwkPCsq4.png"
+      "organization": "PlayVS",
+      "logo": "https://i.imgur.com/qlwyTce.png"
+    },
+    {
+      "organization": "Amazon Advertising",
+      "logo": "https://media.publit.io/file/mSbOMig72IEh6naAGMeT2TA1.png"
+    },
+    {
+      "organization": "Openpath Security",
+      "logo": "https://media.publit.io/file/zk0zEs-kZX5lWmDEDnHVDARF.png"
+    },
+    {
+      "organization": "Signal Sciences",
+      "logo": "https://media.publit.io/file/_VLzNGgKuZL5Tw4VaezvD-2a.png"
+    },
+    {
+      "organization": "Atticus",
+      "logo": "https://media.publit.io/file/03Vla5a7F994odetY-GWznnA.png"
+    },
+    {
+      "organization": "Staff Me Up",
+      "logo": "https://lh3.googleusercontent.com/HD-G5DehyPENaz4GukUXUaGX8qf-x6Fk8ElG8lmzWLFo8MYgAJbpFbx7R0E0hOljEA"
+    },
+    {
+      "organization": "ConsumerTrack Inc",
+      "logo": "https://i.imgur.com/vDsqlcv.jpg"
+    },
+    {
+      "organization": "Oblong Industries",
+      "logo": "http://petehawkes.com/transfer/oblong-logo-dark.png"
     },
     {
       "organization": "Credit Karma",
@@ -5643,10 +6019,6 @@
       "logo": "https://i.imgur.com/BqAprBu.png"
     },
     {
-      "organization": "PlayVS",
-      "logo": "https://streamlabs.com/expandingthestream2018/imgs/playvs-logo.png"
-    },
-    {
       "organization": "Codesmith",
       "logo": "https://cl.ly/6520058949e7/Image%2525202019-01-11%252520at%2525204.36.13%252520PM.png"
     },
@@ -5685,10 +6057,6 @@
     {
       "organization": "TigerText",
       "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/host-tigertext.png"
-    },
-    {
-      "organization": "Signal Sciences",
-      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/sponsor-signal-sciences.svg"
     },
     {
       "organization": "Philosophie",
