@@ -82,7 +82,7 @@ function fillPastSponsors () {
       DATA.pastSponsors.push({
         organization: dHost.organization,
         logo: dHost.logo,
-        url: dHost.url
+        link: dHost.link
       })
     }
 
@@ -100,7 +100,7 @@ function fillPastSponsors () {
       DATA.pastSponsors.push({
         organization: dSponsor.organization,
         logo: dSponsor.logo,
-        url: dSponsor.url
+        link: dSponsor.link
       })
     })
   })
