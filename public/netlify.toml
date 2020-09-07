@@ -1,0 +1,32 @@
+[[redirects]]
+  from = "/twitch"
+  to = "https://twitch.tv/jsdotla"
+  status = 302
+[[redirects]]
+  from = "/rambly"
+  to = "https://ramb.ly/js.la"
+  status = 302
+[[redirects]]
+  from = "/slack"
+  to = "https://join-jsla-slack.herokuapp.com"
+  status = 302
+[[redirects]]
+  from = "/lunch"
+  to = "https://lunch.js.la"
+  status = 302
+[[redirects]]
+  from = "/youtube"
+  to = "https://www.youtube.com/channel/UCQc3xx7JEV_gcXjq0SmlCiQ"
+  status = 302
+[[redirects]]
+  from = "/coc"
+  to = "/code-of-conduct"
+  status = 302
+[[redirects]]
+  from = "/node"
+  to = "https://gumroad.com/l/fullstacknode-full/discord"
+  status = 302
+[[redirects]]
+  from = "/nodeschool"
+  to = "https://nodeschool.io/los-angeles"
+  status = 302
