@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>js.la Live Stream</title>
+   <link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
+    <style media="screen">
+      html {
+        background: #112027;
+        color: #e5e9d2;
+      }
+      body {
+        text-align: center;
+        font-family: 'Lato', sans-serif;
+      }
+      .banner {
+        margin-top: 7%;
+      }
+      .banner img {
+        width: 50%;
+      }
+
+      .cta {
+        margin-top: 7%;
+      }
+
+      .btn {
+        width: 50%;
+        clear: both;
+        padding: 0.75em;
+        margin-top: 7%;
+        margin-left: 5%;
+        margin-right: 5%;
+        color: #0ababb;
+        background: #112027;
+        text-decoration: none;
+        border: 1px solid;
+      }
+
+      .btn:hover {
+        background: #0ababb;
+        color: #112027;
+      }
+    </style>
+  </head>
+  <body>
+    <div class='banner'>
+      <img src="banner.png" alt="">
+    </div>
+    <div>
+      <h1>The Next Live Event Begins<h1>
+      <h3 id='countdown'></h3>
+    </div>
+    <div class='cta'>
+      <a class='btn rambly' href='/rambly' target='_blank'>
+        Join on Rambly
+      </a>
+      <a class='btn twitch' href='/twitch' target='_blank'>
+        Join on Twitch
+      </a>
+    </div>
+    <script src='index.js'></script>
+  </body>
+</html>
