@@ -20,7 +20,7 @@ for(var i=0;i<public._data.events.length;i++){
   <!-- One -->
   <%- partial("_partials/speakers", {event: event}) %>
 
-  <%- partial("_partials/location", {event: event}) %>
+  <% partial("_partials/location", {event: event}) %>
   <%- partial("_partials/drink.js.ejs", {event: event}) %>
 
   <%- partial("_partials/sponsors", {event: event}) %>
