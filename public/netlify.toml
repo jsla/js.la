@@ -30,3 +30,7 @@
   from = "/nodeschool"
   to = "https://nodeschool.io/los-angeles"
   status = 302
+[[redirects]]
+  from = "/hat-preorder"
+  to = "https://alexhughes568361.typeform.com/to/GPZjRoP2"
+  status = 302
