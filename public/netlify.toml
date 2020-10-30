@@ -35,5 +35,5 @@
   to = "https://alexhughes568361.typeform.com/to/GPZjRoP2"
   status = 302
 [[redirects]]
-  from = "/giveaway"
-  to = "https://jsdotla.aidaform.com/giveaway"
+  from = "/forget-frameworks"
+  to = "https://forget-frameworks.netlify.app"
