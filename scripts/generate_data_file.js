@@ -31,7 +31,7 @@ function updateData ({ speakers, sponsors, hosts, drinks }) {
 
 function getAllDates ({ hosts, speakers, sponsors, drinks }) {
   const dateStart = '2012-03-01'
-  const count = Math.round((Date.now() - new Date(dateStart)) / (30 * 24 * 3600 * 1000))
+  const count = Math.round((Date.now() - new Date(dateStart)) / (30 * 24 * 3600 * 1000)) + 1
 
   const showDates = findShowDates({
     count,
