@@ -37,3 +37,6 @@
 [[redirects]]
   from = "/forget-frameworks"
   to = "https://forget-frameworks.netlify.app"
+[[redirects]]
+  from = "/speak"
+  to = "https://contribute.js.la/speak"
