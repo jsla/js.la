@@ -31,12 +31,13 @@
   to = "https://nodeschool.io/los-angeles"
   status = 302
 [[redirects]]
-  from = "/hat-preorder"
-  to = "https://alexhughes568361.typeform.com/to/GPZjRoP2"
-  status = 302
-[[redirects]]
   from = "/forget-frameworks"
   to = "https://forget-frameworks.netlify.app"
 [[redirects]]
   from = "/speak"
   to = "https://contribute.js.la/speak"
+[[redirects]]
+  from = "/cal/*"
+  to = "https://lu.ma/jsla-:splat"
+  status = 302
+  force = true
