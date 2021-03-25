@@ -41,3 +41,6 @@
   to = "https://lu.ma/jsla-:splat"
   status = 302
   force = true
+[[redirects]]
+  from = "/mentorship"
+  to = "https://juniortosenior.aidaform.com/mentorship"
