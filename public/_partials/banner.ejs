@@ -13,26 +13,28 @@
       </h2>
     </header>
     <p>
-      The Los Angeles Javascript meetup <br />
+      The Los Angeles JavaScript meetup <br />
     </p>
     <footer>
       <ul class="buttons stacked">
         <li>
           <strong>
-            <h2>Next event:</h2>
-            <h3><%= dateToReadable(new Date(event.date)) %></h3>
+            <h2>Our Next Event:</h2>
+            <!-- <h3><%= dateToReadable(new Date(event.date)) %></h3> -->
+            <h3><a href='//lunch.js.la'>Lunch.js</a> on March 1st, 2022</h3>
           </strong>
         </li>
         <li>
-          <p>Streaming Live At <a href="//js.la/live">js.la/live</p>
+          <p>Check out past talks at <a href="//js.la/youtube">js.la/youtube</p>
         </li>
       </ul>
-      <%- partial("speakers_small_card", {event: event}) %>
+
       <ul class="buttons stacked">
-          <li><a href="//js.la/live" class="button fit scrolly">js.la/live</a></li>
-          <li><a href="/subscribe" class="button fit scrolly">Join mailing list</a></li>
+          <!-- <li><a href="//js.la/live" class="button fit scrolly">js.la/live</a></li> -->
+          <li><a href="//join-jsla-slack.herokuapp.com/" class="button fit scrolly">Join Slack</a></li>
+          <li><a href="/subscribe" class="button fit scrolly">Join Mailing List</a></li>
       </ul>
     </footer>
   </div>
-  <%- partial("sponsors", {event: event}) %>
+  <% partial("sponsors", {event: event}) %>
 </section>
