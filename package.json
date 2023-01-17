@@ -31,7 +31,7 @@
     "authentic-client": "^1.2.2",
     "browserify": "^16.5.0",
     "dotenv": "^6.2.0",
-    "harp": "^0.29.0",
+    "harp": "^0.46.1",
     "lodash": "^4.17.11",
     "lodash.find": "^4.6.0",
     "map-async": "^0.1.1",
