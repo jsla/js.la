@@ -5268,23 +5268,23 @@
       "speakers": [
         {
           "_announced": true,
-          "abstract": "Do you have an idea you would like to build? We did too. After experiencing some developer pain from using the existing cloud management tools, we couldn’t hold ourselves from building a solution. This story is about two guys in the garage getting it done.  Making a new developer productivity app called Commandeer available for everyone to use.\n\nAs engineers, we have all the skills at our disposal to build and ship a software product. And we can make it available to the world with our bare hands without a large amount of capital or any advertising. So, what holds you back from building your idea today?\n",
+          "abstract": "gomakethings.com ",
           "avatar": "https://media.publit.io/file/zqG-num5Et955ESKbX_q8ZAg.jpg",
           "bookedShows": "2019-09-26",
           "dates": {
             "0": "2019-09-26",
             "1": "2019-10-31"
           },
-          "email": "a.tamoykin@gmail.com",
+          "email": "gomakethings.com ",
           "github": "@fsproru",
           "id": "TICVo58fa7NWzj6HvqLfcEQhPYk2",
           "intro": "TBD",
-          "name": "Alex Tamoykin",
-          "slack": "@fsproru",
+          "name": "Chris Ferdinandi",
+          "slack": "",
           "submitState": "done",
-          "title": "Commandeer: Two Nerds in A Garage Building The Next Big Thing",
+          "title": "",
           "twitter": "@fsproru",
-          "updatedAt": "Tue, 03 Sep 2019 17:31:49 GMT"
+          "updatedAt": "Mon, 01 Jun 2020 20:50:07 GMT"
         },
         {
           "_announced": true,
@@ -5452,7 +5452,7 @@
           "goal": "JS, Electron, and the web stack in general are on Oblong's critical path into the future, so we feel it's time for us get more involved in the JS community in LA. We also have a Full Stack Engineering position currently open and wanted to share this opportunity and (re)introduce our company to js.la members. \n",
           "id": "LnSmvUPXLdOe566SbBLfAxq1vb12",
           "link": "https://www.oblong.com/company/careers",
-          "logo": "http://petehawkes.com/transfer/oblong-logo-dark.png",
+          "logo": "https://i.imgur.com/LCb7AbG.png",
           "name": "Brandon Harvey",
           "notes": "Paid for Jan 2020",
           "organization": "Oblong Industries",
@@ -5519,7 +5519,7 @@
       "host": {
         "_announced": true,
         "address": "2236 S Barrington Ave, Los Angeles, 90064 ",
-        "bookedShows": "2020-02-27\n2020-04-30",
+        "bookedShows": "2020-02-27",
         "capacity": "200+",
         "dates": {
           "0": "2020-02-27",
@@ -5564,25 +5564,6 @@
       "speakers": [
         {
           "_announced": true,
-          "abstract": "It all started when I became Head of Design, the largest authorization, and authentication API. I was brought after they raised a large series B round by the investors to increase independent developer sign-ups. The dev tools market is pretty competitive on the design side, and their site looked like Salesforce in 2005. They had gone through 15 designers in the five years they had been in operation, and I couldn't understand why. They had a huge customer base, and their team included more of the most well known open-source contributors then I had ever seen in one office. My entire career, I have been skilled in dealing with highly technical products and worked with well-known engineers successfully. But for the first time, I had to rethink how I was going to bridge the gap between design and development. I used a variety of tools to empower each developer not only to get excited about design but feel that they could participate and contribute to it. The solutions I will be touching on are living style guides, templated static site generators, and believe it or not, custom magnets (which I will elaborate on). I think at the end of the day; developers should have a grasp on how they can collaborate with designers more effectively and how they can start empowering themselves to become better at design.",
-          "avatar": "https://media.publit.io/file/nfpzSR7J4pH1_LKy8KNKFd7N.jpg",
-          "bookedShows": "2020-02-27",
-          "dates": {
-            "0": "2020-02-27"
-          },
-          "email": "holdensteinberg@gmail.com",
-          "github": "@holdicon",
-          "id": "1uurtoA5woO6nlMzRTH3lhjVD0d2",
-          "intro": "Creative Director and Google Women Techmaker recognized by Forbes who launched two startups ($4M+); designed campaigns for Neutrogena, J&J, and MGM",
-          "name": "Holden Steinberg",
-          "slack": "@holdicon",
-          "submitState": "done",
-          "title": "Designing for developers",
-          "twitter": "@holdicon",
-          "updatedAt": "Thu, 30 Jan 2020 18:47:52 GMT"
-        },
-        {
-          "_announced": true,
           "abstract": "All artists make messy sketches. All writers write terrible first drafts. All coders create dirty first passes. Whether one wants to be a developer just to make a comfortable living, or create the tools and libraries that make today's internet work, it starts with creating... Anything!\n\nThis talk speaks to how my book, \"Modern Javascript by Example\" unexpectedly took off in ways I would have never expected and brought about a new wave of \"hit publish!\" in my career. Showcasing and continuously publishing my work, whether it be writing, software, or speaking didn't immediately pay off, but months later and a profile full of blog posts, git repos, and talks on Youtube have amounted to success I never saw possible in my own career. \n\nIn addition to the above, this talk presents a motivational aspect to encourage developers to stretch their imagination and create many small, fun little projects to showcase, and progress their skills, career, and talents to their full potential. ",
           "avatar": "https://media.publit.io/file/RKzmIVVvtALss1agU32x1AMt.jpg",
           "bookedShows": "2020-02-27",
@@ -5613,101 +5594,63 @@
       "date": "2020-03-26",
       "host": {
         "_announced": true,
-        "address": "600 Corporate Pointe, Culver City, CA 90230",
-        "bookedShows": "2020-03-26",
-        "capacity": "60",
+        "address": "twitch.tv/jsdotla",
+        "bookedShows": "2020-03-26\n2020-04-30\n2020-05-28\n2020-06-25\n2020-07-30\n2020-08-27\n2020-09-24\n2020-10-29",
+        "capacity": "30-50",
         "dates": {
-          "0": "2020-05-28",
-          "1": "2020-06-25",
-          "2": "2020-07-30",
-          "3": "2020-08-27",
-          "4": "2020-10-29",
-          "5": "2021-01-28",
-          "6": "2020-04-30"
+          "0": "2017-04-27",
+          "1": "2017-05-25",
+          "2": "2017-06-29",
+          "3": "2017-07-27",
+          "4": "2017-08-31",
+          "5": "2017-09-28",
+          "6": "2017-10-26",
+          "7": "2018-01-25"
         },
-        "email": "mihai@openpath.com",
-        "goal": "We are currently growing as a company, and we're looking for talented full stack developers.  ",
-        "hasMicrophone": "No",
-        "hasProjector": "Yes (100\" LCD TV)",
-        "id": "9vgGFGnhF2N2bKcRku6y5ghEygS2",
-        "link": "https://www.openpath.com/careers",
-        "logo": "https://media.publit.io/file/zk0zEs-kZX5lWmDEDnHVDARF.png",
-        "name": "Mihai Peteu",
-        "organization": "Openpath Security",
-        "parking": "Nearby lots in C3 Culver City (aka Corporate Pointe) are all paid. Carpooling / Modern Cabs strongly encouraged. ",
-        "refreshments": "Pizza and Soda",
-        "slack": "@mihai",
+        "email": "david@js.la",
+        "goal": "",
+        "hasMicrophone": "Yes",
+        "hasProjector": "Yes",
+        "id": "13Muw9zGkOTucScrcFd5aJI6yJL2",
+        "link": "https://twitch.tv/jsdotla",
+        "logo": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpmcvariety.files.wordpress.com%2F2019%2F09%2Ftwitch_logo.jpg%3Fw%3D1000%26h%3D563%26crop%3D1&f=1&nofb=1",
+        "name": "David Guttman",
+        "organization": "Twitch",
+        "parking": "This is an online event taking place on Twitch at twitch.tv/jsdotla",
+        "refreshments": "Pizza and Some Beers",
         "submitState": "done"
       },
-      "sponsors": [
-        {
-          "_announced": true,
-          "bookedShows": "2020-03-26\n2020-05-28",
-          "dates": {
-            "0": "2020-03-26",
-            "1": "2020-05-28"
-          },
-          "desiredMonths": "2",
-          "email": "john@signalsciences.com",
-          "goal": "We love the JS community and are actively looking for great React / UI / UX Engineers to join the team.\n\n\n---\n\nLink to use for may if available:\n\nhttps://www.signalsciences.com/careers/?utm_campaign=JS-LA&utm_source=may2020",
-          "id": "QuLZRq4kqlUuOLmwgvFZufbVSC63",
-          "link": "https://www.signalsciences.com/careers/?utm_campaign=JS-LA&utm_source=march2020",
-          "logo": "https://media.publit.io/file/_VLzNGgKuZL5Tw4VaezvD-2a.png",
-          "name": "John Donahue",
-          "notes": "Paid for March 2020",
-          "organization": "Signal Sciences",
-          "slack": "@johnmdonahue",
-          "submitState": "done"
-        },
-        {
-          "_announced": true,
-          "bookedShows": "2020-03-26",
-          "dates": {
-            "0": "2020-03-26"
-          },
-          "desiredMonths": "1",
-          "email": "galen@atticus.com",
-          "goal": "We're looking to hire a new Head of Engineering and talented full stack software engineers.",
-          "id": "WtL9RWX80sQPALqtquss4W916PD2",
-          "link": "https://admin74856.wixsite.com/atticus",
-          "logo": "https://media.publit.io/file/03Vla5a7F994odetY-GWznnA.png",
-          "name": "Galen Weber",
-          "notes": "Paid $500 for March 2020",
-          "organization": "Atticus",
-          "slack": "@Galen Weber",
-          "submitState": "done"
-        }
-      ],
+      "sponsors": [],
       "speakers": [
         {
           "_announced": true,
-          "abstract": "You made it. Your brand new website is live. The designers love the dark mode. Product team applauded your ability to deliver in such an aggressive timeline. Your peers admire how you've architected the app. But then that day comes... when the chatter lands in your Slack channel. Stakeholders have been using a new tool recently called Lighthouse, a Google Project. Your performance score is an 8! What is this this?\n\nIn this talk I’ll walk through techniques and processes to improve performance and loosely establish “performance driven development”.",
-          "avatar": "https://media.publit.io/file/NWgWaG8bYcHhADeKfNvIYA4s.jpg",
+          "abstract": "I want to talk about what service workers look like at scale. We've been working on our PWA at GOAT, and many of the articles online about service workers are simple \"get started\" tutorials. There hasn't been a lot of discussion about the problems, solutions, pitfalls, etc of deploying service workers to apps with high traffic and complex CI/CD.\n\nWe would cover cache invalidation, quota storage limits, SWs on testing environments, SWs behind authentication, and other things we've run into.",
+          "avatar": "https://media.publit.io/file/iKXpouKecem3LVkFoi8g7yu6.jpg",
           "bookedShows": "2020-03-26",
           "dates": {
-            "0": "2020-02-27",
-            "1": "2020-03-26",
-            "2": "2020-04-30",
-            "3": "2020-05-28",
-            "4": "2020-06-25",
-            "5": "2020-07-30",
-            "6": "2020-08-27",
-            "7": "2020-09-24",
-            "8": "2020-10-29"
+            "0": "2020-03-26",
+            "1": "2020-04-30",
+            "2": "2020-05-28",
+            "3": "2020-06-25",
+            "4": "2020-07-30",
+            "5": "2020-08-27"
           },
-          "email": "adamhenson1979@gmail.com",
-          "github": "@adamhenson",
-          "id": "PkQgDDyakGTalI3h8rIhQr3WSDx1",
-          "intro": "Senior Software Engineer Lead at Paperless Post and Creator of automated-lighthouse-check.com",
-          "name": "Adam Henson",
-          "slack": "@Adam",
+          "email": "adam.trimble@gmail.com",
+          "github": "velomash",
+          "id": "emNtVuT5WHPl7gygIiUoHWZYQTo2",
+          "intro": "Sr Software Engineer @GOAT\nthey / them pronouns",
+          "name": "Adam Trimble",
+          "slack": "velomash",
           "submitState": "done",
-          "title": "Performance Driven Development in 2020",
-          "updatedAt": "Sun, 26 Jan 2020 00:58:22 GMT"
+          "title": "PWAs: Beyond Beginnings - Service Workers at Scale",
+          "twitter": "velomash",
+          "updatedAt": "Mon, 10 Feb 2020 18:07:35 GMT",
+          "youtubeImageUrl": "https://i.ytimg.com/an_webp/4OMW-0byDh8/mqdefault_6s.webp?du=3000&sqp=CLybrvsF&rs=AOn4CLB9ub5vC3TZBOvKI_hmIGpzvgABEQ",
+          "youtubeUrl": "https://www.youtube.com/watch?v=4OMW-0byDh8"
         },
         {
           "_announced": true,
-          "abstract": "I've been a long-time skeptic of \"utility-first\" or \"atomic\" CSS frameworks, but I recently gave Tailwind CSS a shot and now there's no looking back. In this talk, I go into some of the difficulties of building scalable CSS systems and the failings of various methodologies over the years. Then we'll look at how Tailwind combined with a modern component-based JavaScript framework is the perfect mix for quickly writing tighter, reusable styles with less code.",
+          "abstract": "If you were paying attention to the Democratic primaries in February, you're probably familiar with the infamous Iowa Democratic Party caucus app build by Shadow Inc. that due to bugs and reporting mishaps had American politics in suspense for days afterwards. The Warren campaign had their own app. Ours worked. I built it. In this talk I'll go into why the app was a success and a bit of what tech looks like in the campaign world.",
           "avatar": "https://media.publit.io/file/oOW0JzPNQ_LoGtYGAekBrpg_.jpg",
           "bookedShows": "2020-03-26",
           "dates": {
@@ -5728,9 +5671,11 @@
           "name": "Jon Jandoc",
           "slack": "@jjandoc",
           "submitState": "done",
-          "title": "Tailwind CSS or: how I learned to stop worrying and love utility-first CSS",
+          "title": "She Had a Plan for That: building an Iowa Caucus App for the Warren Campaign",
           "twitter": "@jokeisup",
-          "updatedAt": "Fri, 17 Jan 2020 23:37:27 GMT"
+          "updatedAt": "Fri, 17 Jan 2020 23:37:27 GMT",
+          "youtubeImageUrl": "https://i.ytimg.com/vi/B_AX8cfT1Jk/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLCa9bGMVdXSX_3UmT-o2F8fSKHEQQ",
+          "youtubeUrl": "https://www.youtube.com/watch?v=B_AX8cfT1Jk"
         }
       ],
       "drinkjs": {
@@ -5745,79 +5690,78 @@
       "date": "2020-04-30",
       "host": {
         "_announced": true,
-        "address": "2236 S Barrington Ave, Los Angeles, 90064 ",
-        "bookedShows": "2020-02-27\n2020-04-30",
-        "capacity": "200+",
+        "address": "twitch.tv/jsdotla",
+        "bookedShows": "2020-03-26\n2020-04-30\n2020-05-28\n2020-06-25\n2020-07-30\n2020-08-27\n2020-09-24\n2020-10-29",
+        "capacity": "30-50",
         "dates": {
-          "0": "2020-02-27",
-          "1": "2020-03-26",
-          "2": "2020-04-30",
-          "3": "2020-05-28"
+          "0": "2017-04-27",
+          "1": "2017-05-25",
+          "2": "2017-06-29",
+          "3": "2017-07-27",
+          "4": "2017-08-31",
+          "5": "2017-09-28",
+          "6": "2017-10-26",
+          "7": "2018-01-25"
         },
-        "email": "jacob@playvs.com",
-        "goal": "New spot. We are hiring. We would like to show our new place to the community and be able to give back to the community.",
-        "hasMicrophone": "No but we can get one.",
-        "hasProjector": "No but we can get a big TV",
-        "id": "TJbRkJfeelRlYT0OwrMxrkCgYiD3",
-        "link": "https://www.playvs.com/careers",
-        "logo": "https://i.imgur.com/qlwyTce.png",
-        "name": "Jacob Lowe",
-        "organization": "PlayVS",
-        "parking": "Onsite and nearby street parking is available.",
-        "refreshments": "Pizza and Beer",
-        "slack": "@jcblw",
+        "email": "david@js.la",
+        "goal": "",
+        "hasMicrophone": "Yes",
+        "hasProjector": "Yes",
+        "id": "13Muw9zGkOTucScrcFd5aJI6yJL2",
+        "link": "https://twitch.tv/jsdotla",
+        "logo": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpmcvariety.files.wordpress.com%2F2019%2F09%2Ftwitch_logo.jpg%3Fw%3D1000%26h%3D563%26crop%3D1&f=1&nofb=1",
+        "name": "David Guttman",
+        "organization": "Twitch",
+        "parking": "This is an online event taking place on Twitch at twitch.tv/jsdotla",
+        "refreshments": "Pizza and Some Beers",
         "submitState": "done"
       },
       "sponsors": [
         {
           "_announced": true,
-          "bookedShows": "2020-04-30",
+          "bookedShows": "2020-04-30\n2020-07-30\n2020-08-27",
           "dates": {
             "0": "2020-03-26",
-            "1": "2020-04-30",
-            "2": "2020-05-28",
-            "3": "2020-06-25"
+            "1": "2020-05-28"
           },
-          "desiredMonths": "1",
-          "email": "leifn@amazon.com",
-          "goal": "Amazon World Wide Custom Advertising is hiring Design Technologists, Front-End Engineers and Software Development Engineers in Santa Monica. We'd like to share information about opportunities on our team with JS and Front-End Development professionals in LA.",
-          "id": "oPaoYFDDWDe62MurPGtkkQFHRpb2",
-          "link": "https://www.amazon.jobs/en/team-category/advertising",
-          "logo": "https://media.publit.io/file/mSbOMig72IEh6naAGMeT2TA1.png",
-          "name": "Leif Nelson",
-          "organization": "Amazon Advertising",
-          "slack": "@Leif Nelson",
+          "desiredMonths": "2",
+          "email": "john@signalsciences.com",
+          "goal": "We love the JS community and are actively looking for great React / UI / UX Engineers to join the team.\n\n\n---\n\nLink to use for may if available:\n\nhttps://www.signalsciences.com/careers/?utm_campaign=JS-LA&utm_source=may2020",
+          "id": "QuLZRq4kqlUuOLmwgvFZufbVSC63",
+          "link": "https://www.signalsciences.com/careers/?utm_campaign=JS-LA&utm_source=march2020",
+          "logo": "https://media.publit.io/file/_VLzNGgKuZL5Tw4VaezvD-2a.png",
+          "name": "John Donahue",
+          "notes": "Paid for March 2020",
+          "organization": "Signal Sciences",
+          "slack": "@johnmdonahue",
           "submitState": "done"
         }
       ],
       "speakers": [
         {
           "_announced": true,
-          "abstract": "talk idea #1:\nI was working on a project recently at work and was unhappy with the existing solution for temporarily caching data, so I tried something a little different and ended up really liking it. I added a hair of recursion and a pinch of functional programming, and finally at Ben Junya's encouragement I decided to publish it. This is the story from problem to publish of my first node module.\n\ntalk idea #2:\n\"fp, fp, fp - BLAH! All Forrest ever talks about is functional programming - why?!\" I'd love to give a concrete demonstration of the power of functional programming by doing a live coding imperative-to-functional refactor on some real code I've seen in the wild. (The names of these functions have been changed to protect the innocent)",
-          "avatar": "https://media.publit.io/file/TV2z1kn05e6a993ChN4RBs-B.png",
+          "abstract": "High-level programming languages like JavaScript give us the ability to encode software in human terms, yet so often we struggle to maintain clarity of our original intent as software evolves. Join me for a night of functional frivolity as we incorporate the ideas of top-down design with the power of composition to maximize clarity of intent and minimize opportunities to introduce bugs.",
+          "avatar": "https://media.publit.io/file/ozoxKRIWXCLKp7nJQLsukOWZ.png",
           "bookedShows": "2020-04-30",
           "dates": {
-            "0": "2020-02-28",
-            "1": "2020-03-26",
-            "2": "2020-04-30",
-            "3": "2020-05-28",
-            "4": "2020-06-25",
-            "5": "2020-07-30"
+            "0": "2020-04-30"
           },
           "email": "forrest.akin@gmail.com",
           "github": "@forrest-akin",
-          "id": "NAlmpZPJUwMgdNbOq1kcWZXAw5B3",
-          "intro": "TBD",
+          "id": "T41nWDxz0BTx51AATz9uv71jbbj2",
+          "intro": "Forrest spends his days pair-programming at CJ Affiliate, loves functional programming, and enjoys instrumental prog.\n",
           "name": "Forrest Akin",
           "slack": "@forrest",
           "submitState": "done",
-          "title": "My First Node Module or Refactoring with Forrest",
+          "title": "Top-Down Design: Extreme Composition Edition",
           "twitter": "@forrest_akin",
-          "updatedAt": "Sat, 10 Aug 2019 01:57:30 GMT"
+          "updatedAt": "Thu, 26 Mar 2020 05:25:33 GMT",
+          "youtubeImageUrl": "https://i.ytimg.com/vi/DJdiXGz9Y-c/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLA3lY_uAk7ECMiNW3KtkZ102E7D2w",
+          "youtubeUrl": "https://www.youtube.com/watch?v=DJdiXGz9Y-c"
         },
         {
           "_announced": true,
-          "abstract": "I'd like to give my talk, WebAssembly for JavaScript Developers. It's a short introduction into WebAssembly and AssemblyScript. With a general architecture overview of WasmBoy/VaporBoy and how they work together.\n\nI've given the talk at a meetup in the past when I lived in the bay area: https://youtu.be/ZlL1nduatZQ \n\nHowever, I have a 25 minute version of this talk as well, that I gave at BerlinJS.",
+          "abstract": "This talk covers the learnings and experiences of developing WasmBoy. A Game Boy Emulation Library for running Game Boy ROMs in both NodeJS and browsers, written in AssemblyScript.",
           "avatar": "https://media.publit.io/file/FgN_o401SrTK2n-pWGTpIwgF.png",
           "bookedShows": "2020-04-30",
           "dates": {
@@ -5828,14 +5772,1602 @@
           "id": "lxbsSxQygIWdGSUrMv6SS3x7Urp2",
           "intro": "Aaron Turner is a skateboard, musician, and WebAssembly Developer. Author of WasmBoy, VaporBoy, and WasmByExample. Member of the AssemblyScript team. Currently works at Wasmer, doing JavaScript development and Developer Relations.",
           "name": "Aaron Turner",
+          "notes": "I'd like to give my talk, WebAssembly for JavaScript Developers. It's a short introduction into WebAssembly and AssemblyScript. With a general architecture overview of WasmBoy/VaporBoy and how they work together.\n\nI've given the talk at a meetup in the past when I lived in the bay area: https://youtu.be/ZlL1nduatZQ \n\nHowever, I have a 25 minute version of this talk as well, that I gave at BerlinJS.",
           "slack": "@Aaron Turner",
           "submitState": "done",
           "title": "WebAssembly for JavaScript Developers",
           "twitter": "@torch2424",
-          "updatedAt": "Wed, 30 Oct 2019 18:10:01 GMT"
+          "updatedAt": "Wed, 30 Oct 2019 18:10:01 GMT",
+          "youtubeImageUrl": "https://i.ytimg.com/vi/JVq5ueTQAS8/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLAQ0tq_Q-YXR2ZXecW0vxu0it2khg",
+          "youtubeUrl": "https://www.youtube.com/watch?v=JVq5ueTQAS8"
         }
       ],
+      "drinkjs": {
+        "address": "js.la/zoom/stage",
+        "bookedShows": "2020-04-30",
+        "id": "3Jv8vDJuyT5e6lm1qb0q2qB9w8Lo",
+        "name": "Zoom"
+      },
       "titoUrl": "https://jsla-april-2020.eventbrite.com/?aff=site"
+    },
+    {
+      "date": "2020-05-28",
+      "host": {
+        "_announced": true,
+        "address": "twitch.tv/jsdotla",
+        "bookedShows": "2020-03-26\n2020-04-30\n2020-05-28\n2020-06-25\n2020-07-30\n2020-08-27\n2020-09-24\n2020-10-29",
+        "capacity": "30-50",
+        "dates": {
+          "0": "2017-04-27",
+          "1": "2017-05-25",
+          "2": "2017-06-29",
+          "3": "2017-07-27",
+          "4": "2017-08-31",
+          "5": "2017-09-28",
+          "6": "2017-10-26",
+          "7": "2018-01-25"
+        },
+        "email": "david@js.la",
+        "goal": "",
+        "hasMicrophone": "Yes",
+        "hasProjector": "Yes",
+        "id": "13Muw9zGkOTucScrcFd5aJI6yJL2",
+        "link": "https://twitch.tv/jsdotla",
+        "logo": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpmcvariety.files.wordpress.com%2F2019%2F09%2Ftwitch_logo.jpg%3Fw%3D1000%26h%3D563%26crop%3D1&f=1&nofb=1",
+        "name": "David Guttman",
+        "organization": "Twitch",
+        "parking": "This is an online event taking place on Twitch at twitch.tv/jsdotla",
+        "refreshments": "Pizza and Some Beers",
+        "submitState": "done"
+      },
+      "sponsors": [
+        {
+          "_announced": true,
+          "bookedShows": "2020-05-28\n2021-02-25\n2021-03-25\n2021-04-29\n2021-05-27\n2021-08-26\n2021-09-30\n2021-10-28\n2022-01-27\n2022-02-24\n2022-03-31",
+          "dates": {
+            "0": "2019-01-31"
+          },
+          "desiredMonths": "9000",
+          "email": "david@superstruct.tech",
+          "goal": "",
+          "id": "6vitOjvBRKaLHoWoJ2LnfDwWDMh1",
+          "link": "https://superstruct.tech",
+          "logo": "https://i.imgur.com/R5V3xcs.png",
+          "name": "David Guttman",
+          "organization": "Superstruct",
+          "slack": "@dguttman",
+          "submitState": "done"
+        }
+      ],
+      "speakers": [
+        {
+          "_announced": true,
+          "abstract": "The day has come.  It’s time to upgrade that major dependency your project uses.  You’ve been putting it off.  It’s starting to scare you.  Fear not! In this ten minute talk I will walk you through identifying the upgrade, campaigning for the work time to start it next sprint, important tasks to accomplish before actually starting, setting up your environment for low-friction workflow, tips while debugging, hazards to avoid, general thoughts on the cadence of upgrades, and an exercise for the bold.  ",
+          "avatar": "https://media.publit.io/file/lPmP5fSc112Yxl7iXpaspiBp.jpg",
+          "bookedShows": "2020-05-28",
+          "dates": {
+            "0": "2020-03-26"
+          },
+          "email": "eweigert@gmail.com",
+          "github": "mixophrygian",
+          "id": "6M3CwXs1oXaPDzLIGp4dI0zSeTv2",
+          "intro": "Eleanor is a software engineer currently working at Credit Karma.  She likes to build novelty and satirical websites for the amusement of herself and others.  Outside of programming Eleanor was previously a professional classical musician, kitten-rescuer, and once had a job decorating cookies.  She lives with her husband, two cats, and almost-baby in Pico-Robertson. ",
+          "name": "Eleanor Mazzarella",
+          "slack": "@Eleanor",
+          "submitState": "done",
+          "title": "Dirty Jobs: Updating Major Dependencies",
+          "twitter": "EleanorClarinet",
+          "updatedAt": "Mon, 02 Mar 2020 21:25:00 GMT",
+          "youtubeImageUrl": "https://i.ytimg.com/vi/JrW1quB_ebg/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLCoh1eMwl4ayeJYcJdgKfmsJYqAcw",
+          "youtubeUrl": "https://www.youtube.com/watch?v=JrW1quB_ebg"
+        },
+        {
+          "_announced": true,
+          "abstract": "WebAuthn is a new security-oriented browser API that empowers users and website operators alike to use secure hardware devices to lock down their accounts. Join me as I introduce the API, discuss the pros and cons of its use, and otherwise evangelize an API that could eliminate passwords from websites for good!",
+          "avatar": "https://media.publit.io/file/E3svPuSYAZ1QN49lVU3DBRNd.jpg",
+          "bookedShows": "2020-05-28",
+          "dates": {
+            "0": "2020-01-30",
+            "1": "2020-02-27",
+            "2": "2020-03-26"
+          },
+          "email": "matthew@millerti.me",
+          "github": "@MasterKale",
+          "id": "lt0IU7HnKoSSTlY3D1soG80dTfs2",
+          "intro": "A tinkerer at heart, he enjoys building user-friendly products to dive deep into topics outside of his realm of expertise.\n\nMatthew has published several integration libraries that help bridge gaps between technologies. When he contributes to open source, Matthew stays mindful of the developer experience because what good is maintaining a project if no one wants to build with it?",
+          "name": "Matthew Miller",
+          "notes": "I built a Webauthn-powered OAuth service (technically an OpenID Connect ID Provider) to better learn about the new API and what it could empower.\n\nIt's called \"Don't Need A PassWord\" and it uses emailed magic links to initiate logging in via FIDO2-compatible device like a Yubikey, TouchID in Chrome on macOS, the fingerprint scanner on Android, and now (thanks to the newly-released iOS 13.3) NFC on iOS devices.\n\nhttps://dontneeda.pw\n\n(This is purely a technical project, I'm not selling anyone on anything! I just found a cool name and domain and went the extra step in branding a little bit lol)\n\nYou can also interact with its OAuth login support from this \"third-party website\":\n\nhttps://matts-peanut-butter-emporium.netlify.com/\n\nSupport for the API is far from widespread, hence the spartan browser support matrix, but it's still functional enough I think it's time to start talking about it. Library support is almost non-existent right now thought - I cobbled this together from dozens of articles scattered around the internet...\n\nI could also talk about how such services can be enabled while respecting user privacy - I didn't add in any kind of analytics, and GDPR requests would yield nothing but email addresses and public keys.",
+          "slack": "@iamkale",
+          "submitState": "done",
+          "title": "Webauthn - House Keys for the Web",
+          "twitter": "@iamkale",
+          "updatedAt": "Thu, 12 Dec 2019 18:26:08 GMT",
+          "youtubeImageUrl": "https://i.ytimg.com/vi/IVm7-ncKYXQ/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDjOmPBGbMwgzjveE-TZCopq2-i5g",
+          "youtubeUrl": "https://www.youtube.com/watch?v=IVm7-ncKYXQ"
+        }
+      ],
+      "titoUrl": "https://jsla-may-2020.eventbrite.com/?aff=site"
+    },
+    {
+      "date": "2020-06-25",
+      "host": {
+        "_announced": true,
+        "address": "twitch.tv/jsdotla",
+        "bookedShows": "2020-03-26\n2020-04-30\n2020-05-28\n2020-06-25\n2020-07-30\n2020-08-27\n2020-09-24\n2020-10-29",
+        "capacity": "30-50",
+        "dates": {
+          "0": "2017-04-27",
+          "1": "2017-05-25",
+          "2": "2017-06-29",
+          "3": "2017-07-27",
+          "4": "2017-08-31",
+          "5": "2017-09-28",
+          "6": "2017-10-26",
+          "7": "2018-01-25"
+        },
+        "email": "david@js.la",
+        "goal": "",
+        "hasMicrophone": "Yes",
+        "hasProjector": "Yes",
+        "id": "13Muw9zGkOTucScrcFd5aJI6yJL2",
+        "link": "https://twitch.tv/jsdotla",
+        "logo": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpmcvariety.files.wordpress.com%2F2019%2F09%2Ftwitch_logo.jpg%3Fw%3D1000%26h%3D563%26crop%3D1&f=1&nofb=1",
+        "name": "David Guttman",
+        "organization": "Twitch",
+        "parking": "This is an online event taking place on Twitch at twitch.tv/jsdotla",
+        "refreshments": "Pizza and Some Beers",
+        "submitState": "done"
+      },
+      "sponsors": [
+        {
+          "_announced": true,
+          "bookedShows": "2020-06-25",
+          "dates": {
+            "0": "2020-06-25"
+          },
+          "desiredMonths": "1",
+          "email": "jason.raneses@sweetgreen.com",
+          "goal": "JS.LA is an awesome group and we're looking forward to sweetgreen engineering being a larger part of the community going forward",
+          "id": "2z9DUZG9fsfkWRT8eyhvVxXWtpx1",
+          "link": "https://sweetgreen.com",
+          "logo": "https://i.imgur.com/bBKMaqf.png",
+          "name": "Jason Raneses",
+          "organization": "sweetgreen",
+          "slack": "@raneses",
+          "submitState": "done"
+        }
+      ],
+      "speakers": [
+        {
+          "_announced": true,
+          "abstract": "A Ne'er-do-well's Amblings through Fluid Typography with CSS Locks; Prospects on Universal View Layer; and Hella Living Frontend Component Systems\n\n",
+          "avatar": "https://media.publit.io/file/UPRXVQ5-6-igDKmKyBu8IZyW.jpg",
+          "bookedShows": "2020-06-25",
+          "dates": {
+            "0": "2020-06-25"
+          },
+          "email": "gregory.westneat@sweetgreen.com",
+          "github": "@leggomuhgreggo",
+          "id": "kJJFJDivQaTTsX7jOiKfNQ2aB8z2",
+          "intro": "Some bullet points:\n- Work at sweetgreen tech\n- Friend of JSLA / Previous talk?\n- Volunteer as a mentor to software development students in Gaza?\n- I have pet ducks might fill any \"when he's not coding...\" segment",
+          "name": "Greg Westneat",
+          "notes": "Updated submission per selected topic:\n\n## Themes:\n- Frontend oriented idiosyncrasies of JS ecosystem\n- The fog of learning to code\n- Side projects and quarantine\n- The many threads of experience in learning to program\n## Rough Outline:\n- My design-focused (and panicky) entry point into Learning code\n- Learning responsive styles, while a chorus of my remembered math teachers laugh at me realizing I have to use math in my job\n- React heresy & the overthrow styling dogmas\n- \"Oh you mean jQuery? WTF is a function?\" That special flavor of imposter syndrome when, after some initial competencies, we are reintroduced to the vastness of our ignorance\n- The trouble with media queries\n- Fluid Typography Tooling: Sunk costs & API panic\n- Spoonful of sugar: Figma-React\n- Some OSS tooling to share, and humble conclusions\n\n------------------\nOriginal submission:\n\n\nI am weighing two options, but wanted to start the process. Here are brief overviews.\n\n\n\n# Moving Past HTTP Semantics: GraphQL’s most unsung virtue\n\nAPI Design principles in abstract => how HTTP Semantics influence API design => how this changes with GraphQL\n\n\n# Full Stack Design System with Universal Apps\n\nGenerating Figma designs from React component library, and making them fully responsive\n",
+          "slack": "@gregw",
+          "submitState": "done",
+          "title": "Locks Under Lockdown",
+          "twitter": "@leggomuhgreggo",
+          "updatedAt": "Thu, 04 Jun 2020 22:39:50 GMT",
+          "youtubeImageUrl": "https://i.ytimg.com/an_webp/1kREK2PZAqI/mqdefault_6s.webp?du=3000&sqp=CPairvsF&rs=AOn4CLAzdJUq1r91Z4UWdBX31IbY2N4L_w",
+          "youtubeUrl": "https://www.youtube.com/watch?v=1kREK2PZAqI"
+        },
+        {
+          "_announced": true,
+          "abstract": "This all started when I needed to architect a new platform from scratch for a new version of an existing product … 12 years ago.\nIt led to work, prototype, more work, and now what I have to present today.\n\nEvery App no matter how carefully crafted at the outset incurs Technical Debt.  Our choice then becomes to solve it early with a lot of upfront architectural work or solve it later by moving quickly on the Application itself.  I say, \"why choose?\"\n\nBy leveraging proven architectural principles, tao.js was built to enhance the technologies we already use and provide a simplified way of Decoupling our Apps from the Architecture on which they reside to allow each to evolve as necessary and only when needed.  In this talk you will learn Why it works with live coding of converting an existing application to use tao.js, and then evolve the App's architecture easily without affecting the App's functionality.\n",
+          "avatar": "https://media.publit.io/file/gP9o2KwKNp426b1TLNlCuuCQ.jpeg",
+          "bookedShows": "2020-06-25",
+          "dates": {
+            "0": "2020-06-25"
+          },
+          "email": "jeff@hoffe.rs",
+          "github": "@eudaimos",
+          "id": "rZcFwsjQO2hw6pXfPL1FtaTlCHY2",
+          "intro": "With over 20 years of experience developing software for startups and enterprises, scaling to Internet traffic, building and maintaining commercially licensed products, and developing internal enterprise tools, Jeff Hoffer has worked as a Software Engineer, Software Architect and in Director and VP roles leading technology organizations at Intuit, The Bouqs Company, Lunchbox, Accordent and Countrywide among consulting work at many other prominent firms.\n\nJeff is currently a Software Architect at Bluebeam, Inc., a technology company with over 160 million users delivering software solutions to the Construction (AEC) Industry.\n",
+          "name": "Jeff Hoffer",
+          "slack": "@hoffer",
+          "submitState": "done",
+          "title": "Solve Technical Debt by Decoupling Apps from Architecture",
+          "updatedAt": "Fri, 01 May 2020 01:13:43 GMT",
+          "youtubeImageUrl": "",
+          "youtubeUrl": "https://www.youtube.com/watch?v=sVG9zimhlkU"
+        }
+      ],
+      "titoUrl": "https://jsla-june-2020.eventbrite.com/?aff=site"
+    },
+    {
+      "date": "2020-07-30",
+      "host": {
+        "_announced": true,
+        "address": "twitch.tv/jsdotla",
+        "bookedShows": "2020-03-26\n2020-04-30\n2020-05-28\n2020-06-25\n2020-07-30\n2020-08-27\n2020-09-24\n2020-10-29",
+        "capacity": "30-50",
+        "dates": {
+          "0": "2017-04-27",
+          "1": "2017-05-25",
+          "2": "2017-06-29",
+          "3": "2017-07-27",
+          "4": "2017-08-31",
+          "5": "2017-09-28",
+          "6": "2017-10-26",
+          "7": "2018-01-25"
+        },
+        "email": "david@js.la",
+        "goal": "",
+        "hasMicrophone": "Yes",
+        "hasProjector": "Yes",
+        "id": "13Muw9zGkOTucScrcFd5aJI6yJL2",
+        "link": "https://twitch.tv/jsdotla",
+        "logo": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpmcvariety.files.wordpress.com%2F2019%2F09%2Ftwitch_logo.jpg%3Fw%3D1000%26h%3D563%26crop%3D1&f=1&nofb=1",
+        "name": "David Guttman",
+        "organization": "Twitch",
+        "parking": "This is an online event taking place on Twitch at twitch.tv/jsdotla",
+        "refreshments": "Pizza and Some Beers",
+        "submitState": "done"
+      },
+      "sponsors": [
+        {
+          "_announced": true,
+          "bookedShows": "2020-04-30\n2020-07-30\n2020-08-27",
+          "dates": {
+            "0": "2020-03-26",
+            "1": "2020-05-28"
+          },
+          "desiredMonths": "2",
+          "email": "john@signalsciences.com",
+          "goal": "We love the JS community and are actively looking for great React / UI / UX Engineers to join the team.\n\n\n---\n\nLink to use for may if available:\n\nhttps://www.signalsciences.com/careers/?utm_campaign=JS-LA&utm_source=may2020",
+          "id": "QuLZRq4kqlUuOLmwgvFZufbVSC63",
+          "link": "https://www.signalsciences.com/careers/?utm_campaign=JS-LA&utm_source=march2020",
+          "logo": "https://media.publit.io/file/_VLzNGgKuZL5Tw4VaezvD-2a.png",
+          "name": "John Donahue",
+          "notes": "Paid for March 2020",
+          "organization": "Signal Sciences",
+          "slack": "@johnmdonahue",
+          "submitState": "done"
+        }
+      ],
+      "speakers": [
+        {
+          "_announced": true,
+          "abstract": "The web is a bloated, over-engineered mess. And, according to developer and educator Chris Ferdinandi, many of our modern “best practices” are actually making the web worse. In this talk, Chris explores The Lean Web, a set of principles for a simpler, faster world-wide web.",
+          "avatar": "https://media.publit.io/file/yWG0C0W0RoYyVrHHnQVfKZ0k.jpg",
+          "bookedShows": "2020-07-30",
+          "dates": {
+            "0": "2020-06-25"
+          },
+          "email": "chris@gomakethings.com",
+          "github": "@cferdinandi",
+          "id": "9xsupYibLge6i7rV8rec3orf5R73",
+          "intro": "Chris Ferdinandi helps people learn vanilla JavaScript. He believes there’s a simpler, more resilient way to make things for the web. His developer tips newsletter is read by thousands of developers each weekday. Learn more at GoMakeThings.com.",
+          "name": "Chris Ferdinandi",
+          "slack": "@Chris Ferdinandi",
+          "submitState": "done",
+          "title": "The Lean Web",
+          "twitter": "@chrisferdinandi",
+          "updatedAt": "Tue, 23 Jun 2020 19:16:42 GMT",
+          "youtubeUrl": "https://www.youtube.com/watch?time_continue=399&v=h5CnfIAUmrU"
+        },
+        {
+          "_announced": true,
+          "abstract": "In this talk, Cameron Manavian will focus on the core concepts of ML and how it relates to AI, with as little mathematics as possible. We will cover Tensorflow.js, predictions, and a simple but widely employed machine learning method called a regression. All examples work in a browser and are directed towards intermediate JS engineers.",
+          "avatar": "https://media.publit.io/file/oJPu141cAq2ZMNUXl8m4HYDV.jpg",
+          "bookedShows": "2020-07-30",
+          "dates": {
+            "0": "2020-07-30",
+            "1": "2020-08-27",
+            "2": "2020-09-24",
+            "3": "2020-06-25"
+          },
+          "email": "cameron.manavian@gmail.com",
+          "github": "@camsjams",
+          "id": "TaaIWNVldVejUOuvEj09osqszWV2",
+          "intro": "Father, Husband, Engineer, CTO at Libretto",
+          "name": "Cameron Manavian",
+          "slack": "@Cameron Manavian",
+          "submitState": "done",
+          "title": "Welcome to the Machine: Learning in a Browser with JS",
+          "twitter": "@camsjams",
+          "updatedAt": "Fri, 28 Feb 2020 23:22:41 GMT",
+          "youtubeUrl": "https://www.youtube.com/watch?v=YBpEPWuVx9E"
+        }
+      ],
+      "titoUrl": "https://jsla-july-2020.eventbrite.com/?aff=site"
+    },
+    {
+      "date": "2020-08-27",
+      "host": {
+        "_announced": true,
+        "address": "twitch.tv/jsdotla",
+        "bookedShows": "2020-03-26\n2020-04-30\n2020-05-28\n2020-06-25\n2020-07-30\n2020-08-27\n2020-09-24\n2020-10-29",
+        "capacity": "30-50",
+        "dates": {
+          "0": "2017-04-27",
+          "1": "2017-05-25",
+          "2": "2017-06-29",
+          "3": "2017-07-27",
+          "4": "2017-08-31",
+          "5": "2017-09-28",
+          "6": "2017-10-26",
+          "7": "2018-01-25"
+        },
+        "email": "david@js.la",
+        "goal": "",
+        "hasMicrophone": "Yes",
+        "hasProjector": "Yes",
+        "id": "13Muw9zGkOTucScrcFd5aJI6yJL2",
+        "link": "https://twitch.tv/jsdotla",
+        "logo": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpmcvariety.files.wordpress.com%2F2019%2F09%2Ftwitch_logo.jpg%3Fw%3D1000%26h%3D563%26crop%3D1&f=1&nofb=1",
+        "name": "David Guttman",
+        "organization": "Twitch",
+        "parking": "This is an online event taking place on Twitch at twitch.tv/jsdotla",
+        "refreshments": "Pizza and Some Beers",
+        "submitState": "done"
+      },
+      "sponsors": [
+        {
+          "_announced": true,
+          "bookedShows": "2020-04-30\n2020-07-30\n2020-08-27",
+          "dates": {
+            "0": "2020-03-26",
+            "1": "2020-05-28"
+          },
+          "desiredMonths": "2",
+          "email": "john@signalsciences.com",
+          "goal": "We love the JS community and are actively looking for great React / UI / UX Engineers to join the team.\n\n\n---\n\nLink to use for may if available:\n\nhttps://www.signalsciences.com/careers/?utm_campaign=JS-LA&utm_source=may2020",
+          "id": "QuLZRq4kqlUuOLmwgvFZufbVSC63",
+          "link": "https://www.signalsciences.com/careers/?utm_campaign=JS-LA&utm_source=march2020",
+          "logo": "https://media.publit.io/file/_VLzNGgKuZL5Tw4VaezvD-2a.png",
+          "name": "John Donahue",
+          "notes": "Paid for March 2020",
+          "organization": "Signal Sciences",
+          "slack": "@johnmdonahue",
+          "submitState": "done"
+        }
+      ],
+      "speakers": [
+        {
+          "_announced": true,
+          "abstract": "When I took over maintaining Mongoose after a short Twitter exchange in April 2014, I had no idea what to expect. Through some combination of luck, persistence, and support, Mongoose grew over 100x in terms of monthly downloads and became the most downloaded database framework on npm over the years that followed. In this talk, I'll cover what I've learned about how to be an effective maintainer, as well as several fun experiences I've had along the way.",
+          "avatar": "https://media.publit.io/file/IP6rq27ITbxAtLQRlpOk0YmE.jpg",
+          "bookedShows": "2020-08-27",
+          "dates": {
+            "0": "2020-08-27",
+            "1": "2020-09-24",
+            "2": "2020-10-29"
+          },
+          "email": "val@karpov.io",
+          "github": "@vkarpov15",
+          "id": "CgG8Vjii1BhJhvB3ClEfdnLeRDE2",
+          "intro": "Val is the maintainer of Mongoose, the most popular MongoDB framework for Node.js. He's also a Principal Engineer at Booster Fuels, and blogs at thecodebarbarian.com and masteringjs.io. When he's not coding, you can probably find him surfing or paddleboarding.",
+          "name": "Valeri Karpov",
+          "slack": "@Valeri Karpov",
+          "submitState": "done",
+          "title": "What I Wish I Knew When I Became an OSS Maintainer",
+          "twitter": "@code_barbarian",
+          "updatedAt": "Tue, 21 Jul 2020 20:01:18 GMT",
+          "youtubeUrl": "https://www.youtube.com/watch?v=l6bQnOHl8_g"
+        },
+        {
+          "_announced": true,
+          "abstract": "Window sub system for Linux allows developers and anyone trying to do anything sophisticated as a developer to run anything on Linux, using the windows they already have. I’ll show you how to set up a Windows machine that is as effective or more effective than any MacBook, for free.",
+          "avatar": "https://media.publit.io/file/Hxk1-Efajr-_I-DS6uFIsWFP.jpg",
+          "bookedShows": "2020-08-27",
+          "dates": {
+            "0": "2020-08-27"
+          },
+          "email": "scott@hanselman.com",
+          "github": "Shanselman",
+          "id": "S2Ex1vsHGMTqAlNMgml5xXf8jtF2",
+          "intro": "Internet person ",
+          "name": "Scott Hanselman",
+          "notes": "Docker, cloud, buzzword, buzzword. All demos no slides. ",
+          "slack": "Shanselman",
+          "submitState": "done",
+          "title": "Developing for Linux or anything, on Windows ",
+          "twitter": "Shanselman ",
+          "updatedAt": "Wed, 08 Jul 2020 04:16:01 GMT",
+          "youtubeUrl": "https://www.youtube.com/watch?v=POz3w0PfVJw"
+        }
+      ],
+      "titoUrl": "https://jsla-august-2020.eventbrite.com/?aff=site"
+    },
+    {
+      "date": "2020-09-24",
+      "host": {
+        "_announced": true,
+        "address": "twitch.tv/jsdotla",
+        "bookedShows": "2020-03-26\n2020-04-30\n2020-05-28\n2020-06-25\n2020-07-30\n2020-08-27\n2020-09-24\n2020-10-29",
+        "capacity": "30-50",
+        "dates": {
+          "0": "2017-04-27",
+          "1": "2017-05-25",
+          "2": "2017-06-29",
+          "3": "2017-07-27",
+          "4": "2017-08-31",
+          "5": "2017-09-28",
+          "6": "2017-10-26",
+          "7": "2018-01-25"
+        },
+        "email": "david@js.la",
+        "goal": "",
+        "hasMicrophone": "Yes",
+        "hasProjector": "Yes",
+        "id": "13Muw9zGkOTucScrcFd5aJI6yJL2",
+        "link": "https://twitch.tv/jsdotla",
+        "logo": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpmcvariety.files.wordpress.com%2F2019%2F09%2Ftwitch_logo.jpg%3Fw%3D1000%26h%3D563%26crop%3D1&f=1&nofb=1",
+        "name": "David Guttman",
+        "organization": "Twitch",
+        "parking": "This is an online event taking place on Twitch at twitch.tv/jsdotla",
+        "refreshments": "Pizza and Some Beers",
+        "submitState": "done"
+      },
+      "sponsors": [
+        {
+          "_announced": true,
+          "bookedShows": "2020-09-24",
+          "dates": {
+            "0": "2020-09-24"
+          },
+          "desiredMonths": "1",
+          "email": "drew@funkhaus.us",
+          "goal": "We are hiring a senior frontend engineer at Funkhaus. Our typical stack is WordPress headless using WP-GQL and a Nuxt frontend. Looking for someone who likes doing code reviews of team members and also likes working on high design websites.",
+          "id": "VRKFh76bYPVaYbuw8IgVJObuWw93",
+          "link": "https://funkhaus.us/tech",
+          "logo": "https://media.publit.io/file/fil-r4p.png",
+          "name": "Drew Baker",
+          "organization": "Funkhaus",
+          "slack": "Drew Baker",
+          "submitState": "done"
+        }
+      ],
+      "speakers": [
+        {
+          "_announced": true,
+          "abstract": "This talk is about my personal journey shipping my side project, LearnInPublic.org, from April to July this year. It involves both technical and nontechnical takeaways, from coding and designing the landing page and ecommerce fulfilment, to writing and marketing the book, all as a solo dev. Shipping side projects for money is a dream for many dev and I wanted to share what I learned doing mine.",
+          "avatar": "https://media.publit.io/file/fil-nT.jpg",
+          "bookedShows": "2020-09-24",
+          "dates": {
+            "0": "2020-09-23"
+          },
+          "email": "swyx@hey.com",
+          "github": "sw-yx",
+          "id": "1FoC9epcSlcEN5rpbpeV125cTXA2",
+          "intro": "I am a Senior Developer Advocate at AWS and work on the React TypeScript Cheatsheets as well as the Svelte Society community of meetups.",
+          "name": "Shawn Wang",
+          "slack": "swyx",
+          "submitState": "done",
+          "title": "Lessons and Regrets from Shipping my $50000 Coronavirus Side Project",
+          "twitter": "swyx",
+          "updatedAt": "Wed, 02 Sep 2020 15:50:37 GMT"
+        },
+        {
+          "_announced": true,
+          "abstract": "The story of how I built a WebRTC app to help people connect for 1-on-1 video chats during the pandemic. A tale of product learnings, technical decisions, and lots of conversations!",
+          "avatar": "https://media.publit.io/file/8b7dPFEZu9kC3K0nJf45wecY.jpg",
+          "bookedShows": "2020-09-24",
+          "dates": {
+            "0": "2020-08-27",
+            "1": "2020-09-24"
+          },
+          "email": "feross@feross.org",
+          "github": "@feross",
+          "id": "9nq72pAuCRWMiAnchYNlYk5sPWi1",
+          "intro": "Feross is an open source maintainer of 100+ npm packages with 100s of millions of downloads per month. He builds innovative projects like WebTorrent, a streaming torrent client for the web, WebTorrent Desktop, a slick torrent app for Mac/Windows/Linux, and StandardJS, a JavaScript style guide, linter, and automatic code fixer.",
+          "name": "Feross Aboukhadijeh",
+          "slack": "@Feross",
+          "submitState": "done",
+          "title": "WebRTC in Pandemic Times",
+          "twitter": "@feross",
+          "updatedAt": "Wed, 05 Aug 2020 18:43:10 GMT"
+        }
+      ],
+      "titoUrl": "https://jsla-september-2020.eventbrite.com/?aff=site"
+    },
+    {
+      "date": "2020-10-29",
+      "host": {
+        "_announced": true,
+        "address": "twitch.tv/jsdotla",
+        "bookedShows": "2020-03-26\n2020-04-30\n2020-05-28\n2020-06-25\n2020-07-30\n2020-08-27\n2020-09-24\n2020-10-29",
+        "capacity": "30-50",
+        "dates": {
+          "0": "2017-04-27",
+          "1": "2017-05-25",
+          "2": "2017-06-29",
+          "3": "2017-07-27",
+          "4": "2017-08-31",
+          "5": "2017-09-28",
+          "6": "2017-10-26",
+          "7": "2018-01-25"
+        },
+        "email": "david@js.la",
+        "goal": "",
+        "hasMicrophone": "Yes",
+        "hasProjector": "Yes",
+        "id": "13Muw9zGkOTucScrcFd5aJI6yJL2",
+        "link": "https://twitch.tv/jsdotla",
+        "logo": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpmcvariety.files.wordpress.com%2F2019%2F09%2Ftwitch_logo.jpg%3Fw%3D1000%26h%3D563%26crop%3D1&f=1&nofb=1",
+        "name": "David Guttman",
+        "organization": "Twitch",
+        "parking": "This is an online event taking place on Twitch at twitch.tv/jsdotla",
+        "refreshments": "Pizza and Some Beers",
+        "submitState": "done"
+      },
+      "sponsors": [
+        {
+          "_announced": true,
+          "bookedShows": "2020-10-29",
+          "dates": {
+            "0": "2020-10-29"
+          },
+          "desiredMonths": "1",
+          "email": "eva.zhang@rollbar.com",
+          "goal": "We're looking to hire amazing JS engineers and build product awareness with the community. ",
+          "id": "kolnDdQkcDdfSYTkkTRE9L0SeBd2",
+          "link": "https://rollbar.com/product/",
+          "logo": "https://media.publit.io/file/fil-g99.jpg",
+          "name": "Eva Zhang",
+          "notes": "paid: 2020-10-20",
+          "organization": "Rollbar",
+          "submitState": "done"
+        }
+      ],
+      "speakers": [
+        {
+          "_announced": true,
+          "abstract": "Too much to learn in today's tech world? Feel like there's no end to what you need to know? \n\nMaybe you've completed a web development boot camp and think you have a good grasp on the technology. Of course, the moment you google, you realize there is so much more out there and a ton more to learn. When is enough, enough?\n\nSure, learning is a lot of fun and probably why you got into this field, but if you're looking for a new job, it becomes very intimidating and overwhelming.\n\nWell, it turns out that you don't need to know the latest framework to help your career. To get a good gig, the key is to know what hiring managers *really* want. As a bonus, I'll talk about what to do once you have the job so that you can move up the food chain to where you actually want to be.\n\n",
+          "avatar": "https://media.publit.io/file/fil-qS.jpg",
+          "bookedShows": "2020-10-29",
+          "dates": {
+            "0": "2020-10-29"
+          },
+          "email": "david@js.la",
+          "github": "@davidguttman",
+          "id": "BDuI90zBi7U25S2V5ytiNb7wgY32",
+          "intro": "Will probably introduce myself, but... js.la, fullstack react & node, junior to senior, superstruct...",
+          "name": "David Guttman",
+          "slack": "@dguttman",
+          "submitState": "done",
+          "title": "How To Get A Better Job Without Learning Another Framework",
+          "twitter": "@davidguttman",
+          "updatedAt": "Wed, 23 Sep 2020 18:38:25 GMT",
+          "youtubeUrl": "https://www.youtube.com/watch?v=voep4CX5lEE"
+        },
+        {
+          "_announced": true,
+          "abstract": "Artificial Intelligence, machine learning, empathetic computing, affective computing are all the rage now.  These are just the latest computing dynamics born from cybernetics, fuzzy logic, expert systems, evolutionary computation, and dynamic programming.  While there have been some theoretical advances recently what's really leading to substantial adoption is that nodejs, flask/jupyter, GPU, cloud computing and things like tensorflow have made dynamic, complex computation available to all types and experiences of developers.\n\nIt turns out, like with most of nature, the more efficient and available a resource is the more it can be adopted and integrated into the ecosystems.  In the case of AI, the fact that advanced modelling and model serving can happen directly in javascript is a leading rapid growth.  Javascript is often decried as  the language that just doesn't have the right stuff for the job... whether that was in the early days of the web or the initial confusions of Web 2.0/ajax days or with the smartphone app take over.  The thing is... javascript not only never really gave into that reputation it continues to be the one language and the one community and the one ecosystem that has survived and thrived through every technical change over in last 25 years.  Javascript does this because like wide spread natural languages it can absorb any style or concept you throw at it...  Javascript isn't just the thing we have to do because it's everywhere Javascript is the reason things get everywhere.   (see history of ThreeJS, HTML5 apps, WPAs, responsive web, etc etc)\n\nAnd so... this is now true of AI.  For AI to really go big, everywhere, on every computing surface it required javascript.  A language and  community capable of the flexibility and speed to figure out where and how and why things work the way they work.  Javascripts expressiveness and interactivity with the programmer+all devices ensures that AI ideas can be fully integrated. \n\nA big claim comes next... General AI will only come about and be generally available to all computers and humans BECAUSE of Javascript.  That javascript is so widely deployed, is 100% inspectable, has trillions of running systems on the open web, and is understandable by humans and devices is the only possible fabric of General AI.  Javascript is truly the way humans computer murmurate into collective intelligent behavior.  \n\nBut like everything... don't take an abstract's word for the truth... let's compute our way to this truth.",
+          "avatar": "https://i.imgur.com/bIy8SGH.png",
+          "bookedShows": "2020-10-29",
+          "dates": {
+            "0": "2020-08-27",
+            "1": "2020-09-24",
+            "2": "2020-10-29"
+          },
+          "email": "russell@maslo.ai",
+          "github": "@heymaslo",
+          "id": "zc8whBU6ZcXBwkvrKkctsS23gEf2",
+          "intro": "Russell Foltz-Smith, CTO and AI Biologist for Maslo.ai.  An investor, artist, mathematician, educator, coder, and all around doer of the little things.\n\nLong time dancing partner of javascript.  Long career through tech, product and executive management web1.0, web2.0, web3.0... from Yahoo to WolframAlpha to Truecar to Maslo... from CGI-BIN to php3 to elasticsearch to hadoop to mathematica to touchdesigner... AND ALWAYS JAVASCRIPT.",
+          "name": "Russell A Foltz-Smith",
+          "slack": "@bigdatakane",
+          "submitState": "done",
+          "title": "AIs emergence from JavaScript's Vital Murmuration",
+          "twitter": "@un1crom",
+          "updatedAt": "Tue, 11 Aug 2020 02:08:50 GMT"
+        }
+      ],
+      "titoUrl": "https://jsla-october-2020.eventbrite.com/?aff=site"
+    },
+    {
+      "date": "2021-01-28",
+      "host": {
+        "_announced": true,
+        "address": "1234 Main St Apt, Suite, Bldg.",
+        "bookedShows": "2021-01-28\n2021-02-25\n2021-03-25\n2021-04-29\n2021-05-27\n2021-06-24\n2021-08-26\n2021-09-30\n2021-10-28\n2022-01-27\n2022-02-24\n2022-03-31",
+        "capacity": "Los Angeles",
+        "dates": {
+          "0": "2021-01-28"
+        },
+        "email": "david@js.la",
+        "goal": "We're the coolest location-based audio app around",
+        "hasMicrophone": "8188146260",
+        "hasProjector": "Yes",
+        "id": "H9IpFeVRSBPtPyPDFwPcsvXKlWV2",
+        "link": "https://rambly.app",
+        "logo": "https://media.publit.io/file/fil-H1.png",
+        "name": "David Guttman",
+        "organization": "Rambly.app",
+        "parking": "No parking!",
+        "refreshments": "Ice cream!",
+        "slack": "@dguttman",
+        "submitState": "done"
+      },
+      "sponsors": [
+        {
+          "_announced": true,
+          "bookedShows": "2021-01-28",
+          "dates": {
+            "0": "2021-01-28"
+          },
+          "desiredMonths": "1",
+          "email": "spencer@dotorg.io",
+          "goal": "Hello, my name is Mr. Snrub, and I come from, uh... someplace far away! (Yes... that will do!) Anyway, I... I say we invest that money back into the nuclear plant!",
+          "id": "zYWaljGRtUStO6iM33pre4LCdnz1",
+          "link": "https://www.dotorg.io/careers",
+          "logo": "https://media.publit.io/file/fil-m2Z.png",
+          "name": "Spencer Allen",
+          "notes": "Paid:\nJan 2021",
+          "organization": "dotOrg",
+          "slack": "@spencer.allen",
+          "submitState": "done"
+        }
+      ],
+      "speakers": [
+        {
+          "_announced": true,
+          "abstract": "The story of my trials and tribulations of 3 years, trying to completely rewrite REXhomes.com from a legacy AngularJS website to a brand spanking new React Server Side rendered performant site, all while keeping my sanity and still shipping features.",
+          "avatar": "https://media.publit.io/file/fil-23.jpg",
+          "bookedShows": "2021-01-28",
+          "dates": {
+            "0": "2021-01-28",
+            "1": "2021-02-25",
+            "2": "2021-03-25"
+          },
+          "email": "angusp@angusp.com",
+          "github": "@anguspiv",
+          "id": "62iv5GHmhxeINDYhIwQQYvE2SCt2",
+          "intro": "(I give you the right to completely rewrite this as I stink at it)\n\nAngus has been a part of the JS.LA community for 8+ years, growing from a Junior to a Senior dev, and now a JS.LA Organizer, and mentor.\n\nAngus has worked at several different companies startups from Dog Daycares, to working on a show about 4 little foul mouthed boys, so he's seen it all. ",
+          "name": "Angus Perkerson",
+          "slack": "@angusp",
+          "submitState": "done",
+          "title": "Death to Legacy Code! Long Live Legacy Code!",
+          "twitter": "@angusp",
+          "updatedAt": "Wed, 23 Sep 2020 18:10:30 GMT"
+        },
+        {
+          "_announced": true,
+          "abstract": "The interaction design and development pedagogy of ArtCenter College of Design and why we decided on Javascript as our preferred language. I will walk through the process of the classes and show end results that were built in NextJS + GraphQL.",
+          "avatar": "https://i.imgur.com/HcQv3k2.png",
+          "bookedShows": "2021-01-28",
+          "dates": {
+            "0": "2020-10-29"
+          },
+          "email": "thom@kley.co",
+          "github": "@thommeredith",
+          "id": "bTMtbppwdAegnfNqMtgogW4u3Li2",
+          "intro": "Partner & Director of Technology at Kley, Adjunct Faculty at ArtCenter College of Design",
+          "name": "Thom Meredith",
+          "slack": "@Thom Meredith",
+          "submitState": "done",
+          "title": "Interaction Design and Dev at ArtCenter College of Design",
+          "twitter": "@thommeredith",
+          "updatedAt": "Wed, 16 Sep 2020 18:12:38 GMT"
+        }
+      ],
+      "titoUrl": "https://jsla-january-2021.eventbrite.com/?aff=site"
+    },
+    {
+      "date": "2021-02-25",
+      "host": {
+        "_announced": true,
+        "address": "1234 Main St Apt, Suite, Bldg.",
+        "bookedShows": "2021-01-28\n2021-02-25\n2021-03-25\n2021-04-29\n2021-05-27\n2021-06-24\n2021-08-26\n2021-09-30\n2021-10-28\n2022-01-27\n2022-02-24\n2022-03-31",
+        "capacity": "Los Angeles",
+        "dates": {
+          "0": "2021-01-28"
+        },
+        "email": "david@js.la",
+        "goal": "We're the coolest location-based audio app around",
+        "hasMicrophone": "8188146260",
+        "hasProjector": "Yes",
+        "id": "H9IpFeVRSBPtPyPDFwPcsvXKlWV2",
+        "link": "https://rambly.app",
+        "logo": "https://media.publit.io/file/fil-H1.png",
+        "name": "David Guttman",
+        "organization": "Rambly.app",
+        "parking": "No parking!",
+        "refreshments": "Ice cream!",
+        "slack": "@dguttman",
+        "submitState": "done"
+      },
+      "sponsors": [
+        {
+          "_announced": true,
+          "bookedShows": "2020-05-28\n2021-02-25\n2021-03-25\n2021-04-29\n2021-05-27\n2021-08-26\n2021-09-30\n2021-10-28\n2022-01-27\n2022-02-24\n2022-03-31",
+          "dates": {
+            "0": "2019-01-31"
+          },
+          "desiredMonths": "9000",
+          "email": "david@superstruct.tech",
+          "goal": "",
+          "id": "6vitOjvBRKaLHoWoJ2LnfDwWDMh1",
+          "link": "https://superstruct.tech",
+          "logo": "https://i.imgur.com/R5V3xcs.png",
+          "name": "David Guttman",
+          "organization": "Superstruct",
+          "slack": "@dguttman",
+          "submitState": "done"
+        }
+      ],
+      "speakers": [
+        {
+          "_announced": true,
+          "abstract": "When engineers start developing on node.js, they'll quickly start using a framework like Express, Hapi, Koa, etc. As their applications mature, they'll realize that their framework becomes more of a burden than a blessing. This talk will discuss:\n\n- The history behind Express, Connect, and Koa, which I helped maintain for a while\n- How they work with node.js' http servers\n- Their underlying libraries in jshttp and pillarjs (The Build-Your-Own-Framework Framework)\n- How you could build your own framework with these libraries\n- Examples of feature requests that should not be part of the framework\n- Examples of composing applications of different frameworks",
+          "avatar": "https://media.publit.io/file/fil-tNQ.jpg",
+          "bookedShows": "2021-02-25",
+          "dates": {
+            "0": "2021-02-25",
+            "1": "2021-03-25",
+            "2": "2021-05-27",
+            "3": "2021-04-29",
+            "4": "2021-06-24",
+            "5": "2021-07-29",
+            "6": "2021-08-26",
+            "7": "2021-09-30",
+            "8": "2021-10-28"
+          },
+          "email": "me@jongleberry.com",
+          "github": "@jonathanong",
+          "id": "2Np6IFA0TXZ11ebdJNZXXifjCp72",
+          "intro": "Engineering Manager @ Houzz, previously Engineering Manager @ Dollar Shave Club. Seldomly maintains Koa and previously Express and friends.",
+          "name": "Jonathan Ong",
+          "slack": "@jongleberry",
+          "submitState": "done",
+          "title": "Don't be constrained by your framework",
+          "twitter": "@jongleberry",
+          "updatedAt": "Tue, 12 Jan 2021 18:46:45 GMT"
+        },
+        {
+          "_announced": true,
+          "abstract": "I'd like to talk about handling difficult people and effective communication at work. Having been on many different teams with a variety of characters, I've learned a lot about emotional triggers, setting boundaries, and personality types.\n\nAs a former frontend engineer, I know the ins and outs of working in tech, and would like to be a resource for anyone who's struggling at work or life in general. I specialize in assertiveness training and overcoming toxic beliefs that keep us stuck.",
+          "avatar": "https://media.publit.io/file/fil-DiT.jpg",
+          "bookedShows": "2021-02-25",
+          "dates": {
+            "0": "2021-01-28"
+          },
+          "email": "michaelzick@gmail.com",
+          "id": "VpuoWHFO1PNySSwmnaafkFdiRXV2",
+          "intro": "Michael Zick | Certified Life & Relationship Coach",
+          "name": "Michael Zick",
+          "slack": "Michael Zick",
+          "submitState": "done",
+          "title": "How to Handle Difficult People at Work",
+          "twitter": "@michaelzick",
+          "updatedAt": "Wed, 21 Oct 2020 11:31:31 GMT"
+        }
+      ],
+      "titoUrl": "https://jsla-february-2021.eventbrite.com/?aff=site"
+    },
+    {
+      "date": "2021-03-25",
+      "host": {
+        "_announced": true,
+        "address": "1234 Main St Apt, Suite, Bldg.",
+        "bookedShows": "2021-01-28\n2021-02-25\n2021-03-25\n2021-04-29\n2021-05-27\n2021-06-24\n2021-08-26\n2021-09-30\n2021-10-28\n2022-01-27\n2022-02-24\n2022-03-31",
+        "capacity": "Los Angeles",
+        "dates": {
+          "0": "2021-01-28"
+        },
+        "email": "david@js.la",
+        "goal": "We're the coolest location-based audio app around",
+        "hasMicrophone": "8188146260",
+        "hasProjector": "Yes",
+        "id": "H9IpFeVRSBPtPyPDFwPcsvXKlWV2",
+        "link": "https://rambly.app",
+        "logo": "https://media.publit.io/file/fil-H1.png",
+        "name": "David Guttman",
+        "organization": "Rambly.app",
+        "parking": "No parking!",
+        "refreshments": "Ice cream!",
+        "slack": "@dguttman",
+        "submitState": "done"
+      },
+      "sponsors": [
+        {
+          "_announced": true,
+          "bookedShows": "2020-05-28\n2021-02-25\n2021-03-25\n2021-04-29\n2021-05-27\n2021-08-26\n2021-09-30\n2021-10-28\n2022-01-27\n2022-02-24\n2022-03-31",
+          "dates": {
+            "0": "2019-01-31"
+          },
+          "desiredMonths": "9000",
+          "email": "david@superstruct.tech",
+          "goal": "",
+          "id": "6vitOjvBRKaLHoWoJ2LnfDwWDMh1",
+          "link": "https://superstruct.tech",
+          "logo": "https://i.imgur.com/R5V3xcs.png",
+          "name": "David Guttman",
+          "organization": "Superstruct",
+          "slack": "@dguttman",
+          "submitState": "done"
+        }
+      ],
+      "speakers": [
+        {
+          "_announced": true,
+          "abstract": "We built our own programming language, Polar: hear why and what we learned along the way.\n\nAt the beginning of 2020, we set out to build a system to help developers add authorization to their apps. Part of this includes modeling authorization logic, like who's allowed to do what. We tried a handful of approaches, and ultimately landed on building our own programming language to represent these patterns called, Polar, which is based on Prolog but looks more like Javascript and Python. In this talk, Sam Scott will share how we built Polar and client libraries for 5 languages – including Node.JS using WASM – our growing pains, and what you should know if ever you decide to scratch the language itch too.",
+          "avatar": "https://media.publit.io/file/fil-SGw.png",
+          "bookedShows": "2021-03-25",
+          "dates": {
+            "0": "2021-01-28"
+          },
+          "email": "stephie@osohq.com",
+          "github": "samscott89",
+          "id": "MyFYERWa4FVrnLeIztSPr4KB9wd2",
+          "intro": "Sam Scott is the cofounder and CTO of oso. He’s received a PhD in Cryptography, is an engineer by training, and can discuss anything from authorization and security patterns in Node, to trends in security policy-as-code and his contributions to TLS 1.3.",
+          "name": "Sam Scott",
+          "slack": "stephie glaser",
+          "submitState": "done",
+          "title": "We built our own programming language, Polar: hear why and what we learned along the way.",
+          "twitter": "samososos",
+          "updatedAt": "Wed, 09 Dec 2020 04:43:36 GMT"
+        },
+        {
+          "_announced": true,
+          "abstract": "Do you want to know how to get the maximum benefit of good documentation with the minimum amount of effort? Then this talk is for you!  \n\nLearn about the four types of documentation, how to solve problems with docs, how to understand the impact better docs can have on your internal and external projects, and how to get over the three worries devs have about creating docs.\n\nWe'll also include a roundup of tools and other resources!",
+          "avatar": "https://media.publit.io/file/fil-1Z.jpg",
+          "bookedShows": "2021-03-25",
+          "dates": {
+            "0": "2021-03-25"
+          },
+          "email": "emckean@google.com",
+          "github": "@emckean",
+          "id": "tTmp4DE5llNRwvZLN1TqvVQ2j8p2",
+          "intro": "Erin McKean is the founder of the not-for-profit Wordnik.com, the world’s biggest online dictionary. Before founding Wordnik, she was the editor-in-chief of American Dictionaries for Oxford University Press, and currently works on documentation advocacy for the Open Source Programs Office at Google.  In addition to writing code and documentation, she’s also the author of the Weird and Wonderful Words books, the best-selling novel The Secret Lives of Dresses, and The Hundred Dresses, a field guide to dresses, and is an honorary fellow of the Society for Technical Communication. When you meet her, please tell her your favorite word.",
+          "name": "Erin McKean",
+          "submitState": "done",
+          "title": "The Lazy Dev's Guide to Documentation",
+          "twitter": "@emckean",
+          "updatedAt": "Mon, 28 Dec 2020 20:23:21 GMT"
+        }
+      ],
+      "titoUrl": "https://jsla-march-2021.eventbrite.com/?aff=site"
+    },
+    {
+      "date": "2021-04-29",
+      "host": {
+        "_announced": true,
+        "address": "1234 Main St Apt, Suite, Bldg.",
+        "bookedShows": "2021-01-28\n2021-02-25\n2021-03-25\n2021-04-29\n2021-05-27\n2021-06-24\n2021-08-26\n2021-09-30\n2021-10-28\n2022-01-27\n2022-02-24\n2022-03-31",
+        "capacity": "Los Angeles",
+        "dates": {
+          "0": "2021-01-28"
+        },
+        "email": "david@js.la",
+        "goal": "We're the coolest location-based audio app around",
+        "hasMicrophone": "8188146260",
+        "hasProjector": "Yes",
+        "id": "H9IpFeVRSBPtPyPDFwPcsvXKlWV2",
+        "link": "https://rambly.app",
+        "logo": "https://media.publit.io/file/fil-H1.png",
+        "name": "David Guttman",
+        "organization": "Rambly.app",
+        "parking": "No parking!",
+        "refreshments": "Ice cream!",
+        "slack": "@dguttman",
+        "submitState": "done"
+      },
+      "sponsors": [
+        {
+          "_announced": true,
+          "bookedShows": "2020-05-28\n2021-02-25\n2021-03-25\n2021-04-29\n2021-05-27\n2021-08-26\n2021-09-30\n2021-10-28\n2022-01-27\n2022-02-24\n2022-03-31",
+          "dates": {
+            "0": "2019-01-31"
+          },
+          "desiredMonths": "9000",
+          "email": "david@superstruct.tech",
+          "goal": "",
+          "id": "6vitOjvBRKaLHoWoJ2LnfDwWDMh1",
+          "link": "https://superstruct.tech",
+          "logo": "https://i.imgur.com/R5V3xcs.png",
+          "name": "David Guttman",
+          "organization": "Superstruct",
+          "slack": "@dguttman",
+          "submitState": "done"
+        }
+      ],
+      "speakers": [
+        {
+          "_announced": true,
+          "abstract": "I asked myself - would it be possible to make screen recordings on my computer without the results being a large video file? Perhaps it wouldn't be possible for everything, but perhaps it could work for just websites. This talk will be about how a friend and I built a way to create screen recordings of websites that look like videos, but which are really moving websites. We call it Capsule https://capsule.click/. With a Capsule screen recording, you can actually use your mouse inside the recordings! The recording now actually feels just like you're on the original website instead of it feeling like you're watching a video. In this talk, I want to talk about how this is possible, and why it's great.",
+          "avatar": "https://i.imgur.com/J7wKHxO.jpg",
+          "bookedShows": "2021-04-29",
+          "dates": {
+            "0": "2020-10-29",
+            "1": "2021-01-28",
+            "2": "2021-02-25",
+            "3": "2021-03-25"
+          },
+          "email": "himat415@gmail.com",
+          "github": "@himat",
+          "id": "MLZaHwSJEoSOaDJbn8GhHpVmzCs1",
+          "intro": "Hima Tammineedi was a Machine Learning researcher at Carnegie Mellon University who entered the land of JavaScript and decided to stay. He has worked on autonomous vehicles and large-scale ML systems at Uber and Amazon. This month, we’ll get to hear about his journey in making a way to record any website as if it were a screen recording.",
+          "name": "Hima Tammineedi",
+          "slack": "@Hima T",
+          "submitState": "done",
+          "title": "Screen Recording, but with HTML not Pixels",
+          "twitter": "@hibyepie",
+          "updatedAt": "Sat, 26 Sep 2020 17:32:27 GMT"
+        },
+        {
+          "_announced": true,
+          "abstract": "I want to talk about how I built a real-time trivia application using Stimulus Reflex (https://docs.stimulusreflex.com/).\n\nThe way I'd plan on structuring my talk:\n1.  What I wanted to do: add real-time functionality to a trivia application so users could play against each other live, with a host controlling the game.\n2.  What made this challenging: I was working on traditional Rails application, didn't have a lot of experience with collaborative real-time web apps.\n3.  How I discovered Stimulus Reflex; a high level description of how it works and its component parts (StimulusJS, a minimal JS library from the makers of Rails, Cable Ready, a WebSocket library, and morphdom, a lightweight DOM diffing/patching library)\n4.  How I used Stimulus Reflex to create a real-time multiplayer trivia application.  Overview of the architecture, some challenges encountered, lessons learned. (A video of the product I built is available here: https://www.trivvy.co/live-games.)\n\ntl;dr Stimulus Reflex lets you build SPA-like apps without the complexity of a traditional SPA.",
+          "avatar": "https://media.publit.io/file/fil-dxt.jpg",
+          "bookedShows": "2021-04-29",
+          "dates": {
+            "0": "2021-02-25",
+            "1": "2021-03-25",
+            "2": "2021-04-29"
+          },
+          "email": "sam@trivvy.co",
+          "github": "@shubik22",
+          "id": "WJn7yQOgFvhZ2UFSGyqhu1o6p6N2",
+          "intro": "Sam is the founder of Trivvy, a team-building trivia company based in Los Angeles.  Previously, he was a software engineer in Google's LA office and before that worked at Uber and Wealthfront.  He loves JS but his heart belongs to Rails.",
+          "name": "Sam Sweeney",
+          "slack": "@Sam Sweeney",
+          "submitState": "done",
+          "title": "Just the Right Amount of JS: Building Reactive Apps With Stimulus Reflex",
+          "updatedAt": "Mon, 18 Jan 2021 00:22:59 GMT"
+        }
+      ],
+      "titoUrl": "https://jsla-april-2021.eventbrite.com/?aff=site"
+    },
+    {
+      "date": "2021-05-27",
+      "host": {
+        "_announced": true,
+        "address": "1234 Main St Apt, Suite, Bldg.",
+        "bookedShows": "2021-01-28\n2021-02-25\n2021-03-25\n2021-04-29\n2021-05-27\n2021-06-24\n2021-08-26\n2021-09-30\n2021-10-28\n2022-01-27\n2022-02-24\n2022-03-31",
+        "capacity": "Los Angeles",
+        "dates": {
+          "0": "2021-01-28"
+        },
+        "email": "david@js.la",
+        "goal": "We're the coolest location-based audio app around",
+        "hasMicrophone": "8188146260",
+        "hasProjector": "Yes",
+        "id": "H9IpFeVRSBPtPyPDFwPcsvXKlWV2",
+        "link": "https://rambly.app",
+        "logo": "https://media.publit.io/file/fil-H1.png",
+        "name": "David Guttman",
+        "organization": "Rambly.app",
+        "parking": "No parking!",
+        "refreshments": "Ice cream!",
+        "slack": "@dguttman",
+        "submitState": "done"
+      },
+      "sponsors": [
+        {
+          "_announced": true,
+          "bookedShows": "2020-05-28\n2021-02-25\n2021-03-25\n2021-04-29\n2021-05-27\n2021-08-26\n2021-09-30\n2021-10-28\n2022-01-27\n2022-02-24\n2022-03-31",
+          "dates": {
+            "0": "2019-01-31"
+          },
+          "desiredMonths": "9000",
+          "email": "david@superstruct.tech",
+          "goal": "",
+          "id": "6vitOjvBRKaLHoWoJ2LnfDwWDMh1",
+          "link": "https://superstruct.tech",
+          "logo": "https://i.imgur.com/R5V3xcs.png",
+          "name": "David Guttman",
+          "organization": "Superstruct",
+          "slack": "@dguttman",
+          "submitState": "done"
+        }
+      ],
+      "speakers": [
+        {
+          "_announced": true,
+          "abstract": "I'd like to talk about how JavaSript/Node.js development could benefit from low-code.\n\nIt used to be that we measured programmers’ productivity by counting lines of code. Yet, in a recent interview, Elon Musk declared that the best developers accomplish their goals with as little code as possible. Having less code certainly does increase flexibility and reduces technical debt!\n\nBut how do you get things done by writing less code rather than more? In this session, I'd like to explore the new Low-code / No-code movement and why the idea of writing less code might just make sense for you!",
+          "avatar": "https://s3.us-west-1.wasabisys.com/js.la/cknayhib5000152mf8ab3tirx_alex.jpg",
+          "bookedShows": "2021-05-27",
+          "dates": {
+            "0": "2021-04-29",
+            "1": "2021-05-27",
+            "2": "2021-06-24",
+            "3": "2021-07-29",
+            "4": "2021-08-26",
+            "5": "2021-09-30",
+            "6": "2021-10-28",
+            "7": "2022-01-27",
+            "8": "2022-02-24",
+            "9": "2022-03-31"
+          },
+          "email": "aroytman@profoundlogic.com",
+          "github": "@aroytman",
+          "id": "0pooHvFVCFU57YHDdyhnLCVCWcm2",
+          "intro": "I have built a number of successful software products and platforms targeting Node.js developers, and have spoken at numerous conferences about JavaScript development. I enjoy both learning about and creating new technologies, frameworks, and software tools.",
+          "name": "Alex Roytman",
+          "slack": "@Alex",
+          "submitState": "done",
+          "title": "Low-code and JavaScript are a match made in heaven!",
+          "twitter": "@alex_roytman",
+          "updatedAt": "Fri, 09 Apr 2021 23:47:27 GMT"
+        },
+        {
+          "_announced": true,
+          "abstract": "I like building things but I know nothing about getting people to use them.\n\nHow I built and grew 24hourhomepage.com as an experiment in strengthening my sales and marketing skills.",
+          "avatar": "https://media.publit.io/file/fil-mBV.jpg",
+          "bookedShows": "2021-05-27",
+          "dates": {
+            "0": "2020-08-27",
+            "1": "2020-09-24",
+            "2": "2020-10-29",
+            "3": "2021-01-29",
+            "4": "2021-02-26",
+            "5": "2021-04-29",
+            "6": "2021-05-27",
+            "7": "2021-06-24",
+            "8": "2021-07-29",
+            "9": "2021-08-26"
+          },
+          "email": "justinhiggy@gmail.com",
+          "github": "@higgins",
+          "id": "CrZvlzn0huQ8Lj8CbK31uMyGBjf1",
+          "intro": "Justin has helped startups like Beats Music (later Apple), Polaroid and Hustle strengthen their software engineering services. He's loved working on focused engineering projects but has wanted to grow his own service (see talk). He's often running personal growth experiments (\"no caffeine for a year\", \"no iPhone for a year\", \"eat 50 lbs of lentils in a year\", etc). He lives in LA (Palms) with his fiancee and dog.",
+          "name": "Justin Higgins",
+          "slack": "Justin Higgins",
+          "submitState": "done",
+          "title": "10k hours? 86,400 seconds to get good at sales and marketing",
+          "twitter": "@justinprojects",
+          "updatedAt": "Sat, 20 Feb 2021 21:48:16 GMT"
+        }
+      ],
+      "titoUrl": "https://jsla-may-2021.eventbrite.com/?aff=site"
+    },
+    {
+      "date": "2021-06-24",
+      "host": {
+        "_announced": true,
+        "address": "1234 Main St Apt, Suite, Bldg.",
+        "bookedShows": "2021-01-28\n2021-02-25\n2021-03-25\n2021-04-29\n2021-05-27\n2021-06-24\n2021-08-26\n2021-09-30\n2021-10-28\n2022-01-27\n2022-02-24\n2022-03-31",
+        "capacity": "Los Angeles",
+        "dates": {
+          "0": "2021-01-28"
+        },
+        "email": "david@js.la",
+        "goal": "We're the coolest location-based audio app around",
+        "hasMicrophone": "8188146260",
+        "hasProjector": "Yes",
+        "id": "H9IpFeVRSBPtPyPDFwPcsvXKlWV2",
+        "link": "https://rambly.app",
+        "logo": "https://media.publit.io/file/fil-H1.png",
+        "name": "David Guttman",
+        "organization": "Rambly.app",
+        "parking": "No parking!",
+        "refreshments": "Ice cream!",
+        "slack": "@dguttman",
+        "submitState": "done"
+      },
+      "sponsors": [],
+      "speakers": [
+        {
+          "_announced": true,
+          "abstract": "Over the past two months, I’ve been working with the UCLA Library’s team of seven developers, teaching them how to build their massive new library website in Nuxt and connect it to several different API's. I’ll be sharing some lessons learned from teaching this new framework to their team, the major decisions made along the way, and how to best train a team of developers at scale.",
+          "avatar": "https://s3.us-west-1.wasabisys.com/js.la/cknsz0iie00sn52mf3462nzsv_T03PZLMG2-U0193GLEU9L-g311b0dbc437-512.jpg",
+          "bookedShows": "2021-06-24",
+          "dates": {
+            "0": "2021-06-24",
+            "1": "2021-07-29",
+            "2": "2021-08-26",
+            "3": "2021-09-30",
+            "4": "2021-10-28",
+            "5": "2022-01-27"
+          },
+          "email": "drew@funkhaus.us",
+          "github": "@drewbaker",
+          "id": "s4zPm3AMpXSKpwvlKx03ri7EStk1",
+          "intro": "Drew Baker is the technical co-founder of Funkhaus, a successful Los Angeles based digital creative agency. He’s built hundreds of websites for the top creative companies in the world and trained teams of developers. He has a proven track record architecting and building large scale decoupled websites and applications. He is a regular presenter at the Vue.js LA meetup group and he is here to tell us about a recent project he tackled at Funkhaus.",
+          "name": "Drew Baker",
+          "slack": "@drewbaker",
+          "submitState": "done",
+          "title": "How I taught UCLA to build websites",
+          "twitter": "N/A",
+          "updatedAt": "Thu, 22 Apr 2021 14:19:09 GMT"
+        },
+        {
+          "_announced": true,
+          "abstract": "“Deliver more, high-quality features that customers love faster.” Is the mantra of the Remo engineering team. But how do we do that without breaking everything? I’ll take you through my journey from working on the assembly line at a car factory, to NFL.com, to pushing multiple releases a day while thousands of people are attending live events. It turns out we already have the time to do proactive work as engineers, without hiring more people or working overtime.",
+          "avatar": "https://s3.us-west-1.wasabisys.com/js.la/cko9bestk01nv52mfsyl0mcih_Copy of DSCF7408.jpeg",
+          "bookedShows": "2021-06-24",
+          "dates": {
+            "0": "2021-05-27",
+            "1": "2021-06-24",
+            "2": "2021-07-29"
+          },
+          "email": "jhush91@gmail.com",
+          "github": "jamsea",
+          "id": "zDRUmVBHqyRsXbjkUFQ5zStCECi2",
+          "intro": "James Hush gives teams the ability to ship features at 5 pm on a Friday in 15 minutes to millions of users. And he’s here to talk about it. \n\nEven with that suit jacket on, he’s an engineer.  He’s had to harness protocols to lead some of the most stressful software deployments… like a live update on SuperBowl.com on the actual day of the Super Bowl.\n\nHe now runs the engineering team at Remo.co, where thousands of people attend live, virtual events every week. He believes only thing that needs to break are bad habits (especially ones that teams don’t see … yet).  And that we have the time to do proactive, long term work as engineers now.\n",
+          "name": "James Hush",
+          "slack": "jamsea",
+          "submitState": "done",
+          "title": "Building a Feature Factory",
+          "updatedAt": "Tue, 04 May 2021 00:50:51 GMT"
+        }
+      ],
+      "titoUrl": "https://jsla-june-2021.eventbrite.com/?aff=site"
+    },
+    {
+      "date": "2021-07-29",
+      "sponsors": [],
+      "speakers": [
+        {
+          "_announced": true,
+          "abstract": "Ever wonder how clouds, landscapes or flow fields are generated for video games and special effects? The answer is noise! \n\nNoise appears to be a simple tool but, it has so many applications. I've used it to generate one-of-a-kind profile images. A confetti greeting card. Animated blobs. Ghost planets. And even drawings of flow fields. \n\nThis talk takes a deep dive into the world of generative art with JavaScript! I'll show you how to use noise to create organic-looking effects and all kinds of wild imagery right in your browser. ",
+          "avatar": "https://s3.us-west-1.wasabisys.com/js.la/cko26poeq01bo52mfs8ne0j8p_varun-sm.jpg",
+          "bookedShows": "2021-07-29",
+          "dates": {
+            "0": "2021-07-29"
+          },
+          "email": "varunvachhar@gmail.com ",
+          "github": "@winkerVSbecks",
+          "id": "5WMLqMrfb4hfneqv1d2MRlL21eq1",
+          "intro": "Varun is a DX engineer at Chromatic and a contributor to Storybook. In his spare time, he likes to experiment with generative art, making playful experiences for the web.\n",
+          "name": "Varun Vachhar",
+          "submitState": "done",
+          "title": "Noise in Creative Coding",
+          "twitter": "@winkerVSbecks",
+          "updatedAt": "Thu, 29 Apr 2021 01:24:25 GMT"
+        },
+        {
+          "_announced": true,
+          "abstract": "I've been in So Cal tech for over 15 years having built, scaled and advised engineering organizations at both small startups and large internet companies such as Yahoo!, MySpace and Verizon Digital Media Services; most recently Signal Sciences.\n \nIn that time, I've worked across a variety of office models relative to different remote environments. From Split Remote, Hybrid Remote, to Remote-First, I'd like to talk about my experience working with and managing teams in each as well as what I learned in terms of trade-off and challenge. ",
+          "avatar": "https://s3.us-west-1.wasabisys.com/js.la/ckoeukw1f01zq52mf8qn98qyj_1549390827968.jpeg",
+          "bookedShows": "2021-07-29",
+          "dates": {
+            "0": "2021-07-29",
+            "1": "2021-08-26"
+          },
+          "email": "hala@dotorg.io",
+          "id": "cgNdruwS8MTR77rKlD6k7ZX6W1I3",
+          "intro": "Hala technology leader Southern California CTO at Instil.",
+          "name": "Hala Al-Adwan",
+          "submitState": "done",
+          "title": "My Experience with  Different Remote Environments",
+          "twitter": "@haladwan",
+          "updatedAt": "Fri, 07 May 2021 21:46:03 GMT"
+        }
+      ],
+      "titoUrl": "https://jsla-july-2021.eventbrite.com/?aff=site"
+    },
+    {
+      "date": "2021-08-26",
+      "host": {
+        "_announced": true,
+        "address": "1234 Main St Apt, Suite, Bldg.",
+        "bookedShows": "2021-01-28\n2021-02-25\n2021-03-25\n2021-04-29\n2021-05-27\n2021-06-24\n2021-08-26\n2021-09-30\n2021-10-28\n2022-01-27\n2022-02-24\n2022-03-31",
+        "capacity": "Los Angeles",
+        "dates": {
+          "0": "2021-01-28"
+        },
+        "email": "david@js.la",
+        "goal": "We're the coolest location-based audio app around",
+        "hasMicrophone": "8188146260",
+        "hasProjector": "Yes",
+        "id": "H9IpFeVRSBPtPyPDFwPcsvXKlWV2",
+        "link": "https://rambly.app",
+        "logo": "https://media.publit.io/file/fil-H1.png",
+        "name": "David Guttman",
+        "organization": "Rambly.app",
+        "parking": "No parking!",
+        "refreshments": "Ice cream!",
+        "slack": "@dguttman",
+        "submitState": "done"
+      },
+      "sponsors": [
+        {
+          "_announced": true,
+          "bookedShows": "2020-05-28\n2021-02-25\n2021-03-25\n2021-04-29\n2021-05-27\n2021-08-26\n2021-09-30\n2021-10-28\n2022-01-27\n2022-02-24\n2022-03-31",
+          "dates": {
+            "0": "2019-01-31"
+          },
+          "desiredMonths": "9000",
+          "email": "david@superstruct.tech",
+          "goal": "",
+          "id": "6vitOjvBRKaLHoWoJ2LnfDwWDMh1",
+          "link": "https://superstruct.tech",
+          "logo": "https://i.imgur.com/R5V3xcs.png",
+          "name": "David Guttman",
+          "organization": "Superstruct",
+          "slack": "@dguttman",
+          "submitState": "done"
+        }
+      ],
+      "speakers": [
+        {
+          "_announced": true,
+          "abstract": "One of front-end development's biggest challenges has always been creating scalable, reusable CSS patterns. The abundance of preprocessors (SCSS, LESS, Stylus) and methodologies (BEM, OOCSS, SMACSS, etc) are all a testament to the complexity of the problem and the many ways to approach it. In this talk I go into my own journey of styling the web over the last twenty-six years and how I've settled on what I think is the ideal solution of atomic, utility first CSS - at least for now.",
+          "avatar": "https://s3.us-west-1.wasabisys.com/js.la/ckqd4jg7j02ii4sn34ye6hnic_9KHrjhEx_400x400.jpeg",
+          "bookedShows": "2021-08-26",
+          "dates": {
+            "0": "2021-08-26",
+            "1": "2021-09-30",
+            "2": "2021-10-28",
+            "3": "2022-01-27",
+            "4": "2022-02-24",
+            "5": "2022-03-31",
+            "6": "2022-04-28",
+            "7": "2022-05-26",
+            "8": "2022-06-30"
+          },
+          "email": "the@jokeisup.com",
+          "github": "@jjandoc",
+          "id": "jnBwnTm1BChumHM0ke8f3p7jYJ33",
+          "intro": "TBD",
+          "name": "Jon Jandoc",
+          "slack": "@jjandoc",
+          "submitState": "done",
+          "title": "How I learned to stop worrying and love atomic CSS",
+          "twitter": "@jokeisup",
+          "updatedAt": "Sat, 26 Jun 2021 02:08:58 GMT"
+        },
+        {
+          "_announced": true,
+          "abstract": "One of the single most popular feature requests for the Node.js platform is the implementation of the standardized Fetch API, and while that API itself looks simple on the surface, the underlying implementation is much more complicated. Within the project we've been working on all of the necessary bits including an implementation of the WHATWG Streams API.\n\nHere I'll be talking about the long road to having Web streams within Node.js, how they work, how they were implemented, and what they're going to be used for.",
+          "avatar": "https://s3.us-west-1.wasabisys.com/js.la/cks6k0ab505ma4sn3wg605c9a_mecoffee.jpg",
+          "bookedShows": "2021-08-26",
+          "dates": {
+            "0": "2021-08-26"
+          },
+          "email": "jasnell@gmail.com",
+          "github": "jasnell",
+          "id": "lJg98rUF8JeaAfd0CGxsiS3Qe1y2",
+          "intro": "James is a core contributor to the Node.js platform and a member of the Node.js Technical Steering Committee. He's been responsible for a large number of new features such as HTTP2, HTTP3, QUIC and much more. He recently joined the Cloudflare Workers team to focus on alignment between Cloudflare Workers and the Node.js platform.",
+          "name": "James M Snell",
+          "slack": "@jasnell",
+          "submitState": "done",
+          "title": "Adding Streams to Node.js.... Again.",
+          "twitter": "@jasnell",
+          "updatedAt": "Tue, 10 Aug 2021 21:11:47 GMT"
+        }
+      ],
+      "titoUrl": "https://jsla-august-2021.eventbrite.com/?aff=site"
+    },
+    {
+      "date": "2021-09-30",
+      "host": {
+        "_announced": true,
+        "address": "1234 Main St Apt, Suite, Bldg.",
+        "bookedShows": "2021-01-28\n2021-02-25\n2021-03-25\n2021-04-29\n2021-05-27\n2021-06-24\n2021-08-26\n2021-09-30\n2021-10-28\n2022-01-27\n2022-02-24\n2022-03-31",
+        "capacity": "Los Angeles",
+        "dates": {
+          "0": "2021-01-28"
+        },
+        "email": "david@js.la",
+        "goal": "We're the coolest location-based audio app around",
+        "hasMicrophone": "8188146260",
+        "hasProjector": "Yes",
+        "id": "H9IpFeVRSBPtPyPDFwPcsvXKlWV2",
+        "link": "https://rambly.app",
+        "logo": "https://media.publit.io/file/fil-H1.png",
+        "name": "David Guttman",
+        "organization": "Rambly.app",
+        "parking": "No parking!",
+        "refreshments": "Ice cream!",
+        "slack": "@dguttman",
+        "submitState": "done"
+      },
+      "sponsors": [
+        {
+          "_announced": true,
+          "bookedShows": "2020-05-28\n2021-02-25\n2021-03-25\n2021-04-29\n2021-05-27\n2021-08-26\n2021-09-30\n2021-10-28\n2022-01-27\n2022-02-24\n2022-03-31",
+          "dates": {
+            "0": "2019-01-31"
+          },
+          "desiredMonths": "9000",
+          "email": "david@superstruct.tech",
+          "goal": "",
+          "id": "6vitOjvBRKaLHoWoJ2LnfDwWDMh1",
+          "link": "https://superstruct.tech",
+          "logo": "https://i.imgur.com/R5V3xcs.png",
+          "name": "David Guttman",
+          "organization": "Superstruct",
+          "slack": "@dguttman",
+          "submitState": "done"
+        }
+      ],
+      "speakers": [
+        {
+          "_announced": true,
+          "abstract": "Users on mobile devices benefit the most from appropriate system keyboard suggestions and help, but they're also the same users who often suffer the most when form fields are deployed built poorly. In this talk, we'll learn how to build mobile-friendly forms, to improve accessibility and to reduce user frustration and bounce rate.\n\nWe'll cover basics, like input type, as well as a number of more advanced HTML attributes to control iOS/Android features for user convenience. You'll leave this talk equipped to build form fields that are tailored for mobile accessibility.\n",
+          "avatar": "https://s3.us-west-1.wasabisys.com/js.la/ckt0k96b700054sp7wlvzm974_james-bkgd.jpg",
+          "bookedShows": "2021-09-30",
+          "dates": {
+            "0": "2021-10-28",
+            "1": "2021-09-30"
+          },
+          "email": "jdsteinbach@gmail.com",
+          "github": "@jdsteinbach",
+          "id": "SzrAXj5xWhWCx9gBC3E4cD62fff2",
+          "intro": "James is a senior engineer with more than 10 years of front-end experience. He's worked on UIs running on various platforms including Vue, React, Ember, web components, Laravel, and WordPress. Whatever the platform, he's passionate about implementing UIs that are accessible and styled precisely. When he's not at work, James enjoys hanging out with his family, reading, LEGO, and some light gaming.",
+          "name": "James Steinbach",
+          "slack": "@james",
+          "submitState": "done",
+          "title": "Building Forms Mobile Users Will Love",
+          "twitter": "@jdsteinbach",
+          "updatedAt": "Tue, 31 Aug 2021 21:21:17 GMT"
+        },
+        {
+          "_announced": true,
+          "abstract": "Why the current state of the JavaScript ecosystem scares the 💩 out of me. We'll explore what's wrong and how we can help fix this and other open source sustainability issues.\n",
+          "avatar": "https://s3.us-west-1.wasabisys.com/js.la/ckt0gl7re071z4sn3k6p9yuqh_Sustain-Summit-2020-500x500.jpg",
+          "bookedShows": "2021-09-30",
+          "dates": {
+            "0": "2021-09-30"
+          },
+          "email": "justindorfman@gmail.com",
+          "github": "@jdorfman",
+          "id": "vDfc7ZcUFwQZi02bxAzPeMEUTwD3",
+          "intro": "Justin Dorfman is Reblaze’s Open Source Program Manager and is responsible for fostering the adoption of \"Curiefense,\" a CNCF Sandbox Project.\n\nJustin has contributed to Bootstrap, Font Awesome, jQuery, Nginx, GNU Bash, and many more. \n",
+          "name": "Justin Dorfman",
+          "slack": "@jdorfman",
+          "submitState": "done",
+          "title": "What Keeps me up at Night",
+          "twitter": "@jdorfman",
+          "updatedAt": "Tue, 31 Aug 2021 19:32:43 GMT"
+        }
+      ],
+      "titoUrl": "https://jsla-september-2021.eventbrite.com/?aff=site"
+    },
+    {
+      "date": "2021-10-28",
+      "host": {
+        "_announced": true,
+        "address": "1234 Main St Apt, Suite, Bldg.",
+        "bookedShows": "2021-01-28\n2021-02-25\n2021-03-25\n2021-04-29\n2021-05-27\n2021-06-24\n2021-08-26\n2021-09-30\n2021-10-28\n2022-01-27\n2022-02-24\n2022-03-31",
+        "capacity": "Los Angeles",
+        "dates": {
+          "0": "2021-01-28"
+        },
+        "email": "david@js.la",
+        "goal": "We're the coolest location-based audio app around",
+        "hasMicrophone": "8188146260",
+        "hasProjector": "Yes",
+        "id": "H9IpFeVRSBPtPyPDFwPcsvXKlWV2",
+        "link": "https://rambly.app",
+        "logo": "https://media.publit.io/file/fil-H1.png",
+        "name": "David Guttman",
+        "organization": "Rambly.app",
+        "parking": "No parking!",
+        "refreshments": "Ice cream!",
+        "slack": "@dguttman",
+        "submitState": "done"
+      },
+      "sponsors": [
+        {
+          "_announced": true,
+          "bookedShows": "2020-05-28\n2021-02-25\n2021-03-25\n2021-04-29\n2021-05-27\n2021-08-26\n2021-09-30\n2021-10-28\n2022-01-27\n2022-02-24\n2022-03-31",
+          "dates": {
+            "0": "2019-01-31"
+          },
+          "desiredMonths": "9000",
+          "email": "david@superstruct.tech",
+          "goal": "",
+          "id": "6vitOjvBRKaLHoWoJ2LnfDwWDMh1",
+          "link": "https://superstruct.tech",
+          "logo": "https://i.imgur.com/R5V3xcs.png",
+          "name": "David Guttman",
+          "organization": "Superstruct",
+          "slack": "@dguttman",
+          "submitState": "done"
+        }
+      ],
+      "speakers": [
+        {
+          "_announced": true,
+          "abstract": "In this talk, I'll walk the audience through the process of protecting their API keys in production mode.\n\nWe all know how the process of setting our API keys as environment variables doesn't really keep them from being visible on the client side. Anyone that has a little knowledge of how the dev tools of their preferred browser can get access to the API key.\n\nWhen we deploy such applications on platforms like netlify. The API isn't served in the production build, due to the fact that it wasn't in the git commit history.\n\nWith Nextjs API routes, we can write server-side API calls in the same codebase and we do not have to worry about our credentials getting into the wrong hands.\n",
+          "avatar": "https://s3.us-west-1.wasabisys.com/js.la/ckur3mpbt02x94sp715kwocj8_onion_bg.jpg",
+          "bookedShows": "2021-10-28",
+          "dates": {
+            "0": "2021-10-28"
+          },
+          "email": "belac335@gmail.com",
+          "github": "@Caleb335",
+          "id": "RKJdZyQFTgPIDvRN3c2W3Hl1xP53",
+          "intro": "Frontend Developer and Technical Writer",
+          "name": "Caleb Olojo",
+          "slack": "@Seven",
+          "submitState": "done",
+          "title": "How to Protect your API keys in production",
+          "twitter": "@calebolojo",
+          "updatedAt": "Thu, 14 Oct 2021 15:30:50 GMT"
+        },
+        {
+          "_announced": true,
+          "abstract": "Fundamentals of and explorations into web3 from a web dev's perspective. ",
+          "avatar": "https://s3.us-west-1.wasabisys.com/js.la/cktemkv9c00po4sp7jvsbfkeq_brendan-sheehan.jpg",
+          "bookedShows": "2021-10-28",
+          "dates": {
+            "0": "2021-10-28"
+          },
+          "email": "brendan@devgru.la",
+          "github": "feemcgill",
+          "id": "ZSL5m372BoX1ELbEimVbsY1qiik2",
+          "intro": "Fellow JS enthusiast / dev.",
+          "name": "Brendan Sheehan",
+          "slack": "Brendan",
+          "submitState": "done",
+          "title": "Javascripter's toe dip into Web3. ",
+          "updatedAt": "Fri, 10 Sep 2021 17:22:01 GMT"
+        }
+      ],
+      "titoUrl": "https://jsla-october-2021.eventbrite.com/?aff=site"
+    },
+    {
+      "date": "2022-01-27",
+      "host": {
+        "_announced": true,
+        "address": "1234 Main St Apt, Suite, Bldg.",
+        "bookedShows": "2021-01-28\n2021-02-25\n2021-03-25\n2021-04-29\n2021-05-27\n2021-06-24\n2021-08-26\n2021-09-30\n2021-10-28\n2022-01-27\n2022-02-24\n2022-03-31",
+        "capacity": "Los Angeles",
+        "dates": {
+          "0": "2021-01-28"
+        },
+        "email": "david@js.la",
+        "goal": "We're the coolest location-based audio app around",
+        "hasMicrophone": "8188146260",
+        "hasProjector": "Yes",
+        "id": "H9IpFeVRSBPtPyPDFwPcsvXKlWV2",
+        "link": "https://rambly.app",
+        "logo": "https://media.publit.io/file/fil-H1.png",
+        "name": "David Guttman",
+        "organization": "Rambly.app",
+        "parking": "No parking!",
+        "refreshments": "Ice cream!",
+        "slack": "@dguttman",
+        "submitState": "done"
+      },
+      "sponsors": [
+        {
+          "_announced": true,
+          "bookedShows": "2020-05-28\n2021-02-25\n2021-03-25\n2021-04-29\n2021-05-27\n2021-08-26\n2021-09-30\n2021-10-28\n2022-01-27\n2022-02-24\n2022-03-31",
+          "dates": {
+            "0": "2019-01-31"
+          },
+          "desiredMonths": "9000",
+          "email": "david@superstruct.tech",
+          "goal": "",
+          "id": "6vitOjvBRKaLHoWoJ2LnfDwWDMh1",
+          "link": "https://superstruct.tech",
+          "logo": "https://i.imgur.com/R5V3xcs.png",
+          "name": "David Guttman",
+          "organization": "Superstruct",
+          "slack": "@dguttman",
+          "submitState": "done"
+        }
+      ],
+      "speakers": [
+        {
+          "_announced": true,
+          "abstract": "Tech debt comes as free credit for our lack of experience, wrong deadlines or simply a mix of bad decisions; but no matter how it gets there, the cost is usually on accessibility. The first to sacrify is the one tool that allows all people to surf the web without constraints.\n\nHow do we tackle a technical debt for accessibility? Where do we begin? How fast and far can we get? In this talk we will go through real-world examples on how to begin fixing the most important technical debt out there.\n",
+          "avatar": "https://s3.us-west-1.wasabisys.com/js.la/ckvykpn2604u74sp7vyn6t6yh_eva-ferreira.jpg",
+          "bookedShows": "2022-01-27",
+          "dates": {
+            "0": "2022-01-27",
+            "1": "2022-02-24"
+          },
+          "email": "eva@evaferreira.com.ar",
+          "github": "@evaferreira",
+          "id": "CbTvbNxNy2XrfQGib68lZNnKqZq1",
+          "intro": "Eva Ferreira is a Front-end developer and teacher. She currently works as a Engineer Manager at Fabriik and has been teaching web technologies at the National Technological University of Argentina for more than nine years.",
+          "name": "Eva Ferreira",
+          "submitState": "done",
+          "title": "Rescue the dead horse",
+          "twitter": "@evaferreira92",
+          "updatedAt": "Sun, 14 Nov 2021 01:43:00 GMT"
+        },
+        {
+          "_announced": true,
+          "abstract": "Despite a decade in technology and experience as an executive coach, I wasn’t quite prepared for my experience as a COO. I later discovered that I wasn't alone, leadership wasn't what many others expected either. I'll talk about how leadership is different from what came before and how to successfully navigate it. \n\n",
+          "avatar": "https://s3.us-west-1.wasabisys.com/js.la/cku4so8u401ux4sp7nyho2u9v_Suzan 2021.JPG",
+          "bookedShows": "2022-01-27",
+          "dates": {
+            "0": "2021-10-28"
+          },
+          "email": "suzan@suzanbond.com",
+          "github": "@suzanbond",
+          "id": "jQt5hqrpCWcQufNl5x3hM7FSUhA2",
+          "intro": "Suzan Bond is a former COO of a scaling startup in the CI/CD space. She's worked in technology for over a decade and is currently a leadership consultant and exec coach for tech leaders. ",
+          "name": "Suzan Bond",
+          "submitState": "done",
+          "title": "Navigating the realities of leadership",
+          "twitter": "@suzanbond",
+          "updatedAt": "Wed, 29 Sep 2021 00:55:45 GMT"
+        }
+      ],
+      "titoUrl": "https://jsla-january-2022.eventbrite.com/?aff=site"
+    },
+    {
+      "date": "2022-02-24",
+      "host": {
+        "_announced": true,
+        "address": "1234 Main St Apt, Suite, Bldg.",
+        "bookedShows": "2021-01-28\n2021-02-25\n2021-03-25\n2021-04-29\n2021-05-27\n2021-06-24\n2021-08-26\n2021-09-30\n2021-10-28\n2022-01-27\n2022-02-24\n2022-03-31",
+        "capacity": "Los Angeles",
+        "dates": {
+          "0": "2021-01-28"
+        },
+        "email": "david@js.la",
+        "goal": "We're the coolest location-based audio app around",
+        "hasMicrophone": "8188146260",
+        "hasProjector": "Yes",
+        "id": "H9IpFeVRSBPtPyPDFwPcsvXKlWV2",
+        "link": "https://rambly.app",
+        "logo": "https://media.publit.io/file/fil-H1.png",
+        "name": "David Guttman",
+        "organization": "Rambly.app",
+        "parking": "No parking!",
+        "refreshments": "Ice cream!",
+        "slack": "@dguttman",
+        "submitState": "done"
+      },
+      "sponsors": [
+        {
+          "_announced": true,
+          "bookedShows": "2020-05-28\n2021-02-25\n2021-03-25\n2021-04-29\n2021-05-27\n2021-08-26\n2021-09-30\n2021-10-28\n2022-01-27\n2022-02-24\n2022-03-31",
+          "dates": {
+            "0": "2019-01-31"
+          },
+          "desiredMonths": "9000",
+          "email": "david@superstruct.tech",
+          "goal": "",
+          "id": "6vitOjvBRKaLHoWoJ2LnfDwWDMh1",
+          "link": "https://superstruct.tech",
+          "logo": "https://i.imgur.com/R5V3xcs.png",
+          "name": "David Guttman",
+          "organization": "Superstruct",
+          "slack": "@dguttman",
+          "submitState": "done"
+        }
+      ],
+      "speakers": [
+        {
+          "_announced": true,
+          "abstract": "Have the sneaking suspicion that your team could be doing better? Are things taking a little too long to get out the door? A little too many complaints coming back after a feature ships? A little too much tech debt piling up? Let’s talk about some of the most common ways teams get in their own way.",
+          "avatar": "https://s3.us-west-1.wasabisys.com/js.la/ckyun4n5x093d4sp7mcks2chy_david.jpg",
+          "bookedShows": "2022-02-24",
+          "dates": {
+            "0": "2022-02-24"
+          },
+          "email": "david@js.la",
+          "github": "davidguttman",
+          "id": "SIW4oms072WYRhvucQyFrFhd2S32",
+          "intro": "Will probably introduce myself, but... js.la, fullstack react & node, junior to senior, superstruct...",
+          "name": "David Guttman",
+          "slack": "@dguttman",
+          "submitState": "done",
+          "title": "Is Your Team Sabotaging Itself?",
+          "twitter": "@davidguttman",
+          "updatedAt": "Tue, 25 Jan 2022 21:43:13 GMT"
+        },
+        {
+          "_announced": true,
+          "abstract": "It's a common practice to verify a phone number or implement two factor authentication by sending a one time password over SMS. We can all agree that it's a pretty terrible user experience though.\n\nThis process may increase security, but the friction can decrease conversion and the user experience in general. Android and iOS have APIs to combat this, so why not the web? In this talk we'll take a look at autocomplete and the WebOTP API to see how the web platform can help us build secure flows and a better experience all round.",
+          "avatar": "https://s3.us-west-1.wasabisys.com/js.la/ckzf5xywh0a134sp77ifeudue_2019-philnash.jpg",
+          "bookedShows": "2022-02-24",
+          "dates": {
+            "0": "2022-02-24"
+          },
+          "email": "pnash@twilio.com",
+          "github": "@philnash",
+          "id": "WWEUdNv2F9MNMMGL716yNl56DVC3",
+          "intro": "Phil is a developer evangelist for [Twilio](https://www.twilio.com/) and a [Google Developer Expert](https://developers.google.com/experts/people/phil-nash) living in Melbourne, Australia. He loves working with Ruby or JavaScript to build web applications and tools to help developers. He once helped build a website that captured everyone's favourite sandwich fillings.\n\nAway from the keyboard, Phil listens to ska punk, hangs out with his miniature dachshund (also called Ruby), and is on a mission to discover the world's best beers.",
+          "name": "Phil Nash",
+          "slack": "@Phil Nash",
+          "submitState": "done",
+          "title": "Web APIs for delightful two factor auth experiences",
+          "twitter": "@philnash",
+          "updatedAt": "Wed, 09 Feb 2022 06:31:06 GMT"
+        }
+      ],
+      "titoUrl": "https://jsla-february-2022.eventbrite.com/?aff=site"
     }
   ],
   "hosts": {},
@@ -5849,16 +7381,36 @@
       "slack": "dguttman"
     },
     {
-      "name": "Ryan Bogle",
-      "avatar": "/images/team/ryan-bogle.jpg",
-      "twitter": "__ashwell__",
-      "slack": "ashwell"
+      "name": "Ben Junya",
+      "avatar": "/images/team/ben-junya.jpg",
+      "twitter": "MrBenJ5",
+      "slack": "benjunya"
     },
     {
-      "name": "Rouzbeh Sarrafieh",
-      "avatar": "/images/team/rouzbeh-sarrafieh.jpg",
-      "twitter": "rouzbeh84",
-      "slack": "rouzbeh"
+      "name": "Angus Perkerson",
+      "avatar": "/images/team/angus-perkerson.jpg",
+      "twitter": "angusp",
+      "slack": "angusp"
+    },
+    {
+      "name": "Alex Hughes",
+      "avatar": "https://media.publit.io/file/alexhughes.jpg",
+      "twitter": "",
+      "slack": "Alex Hughes"
+    }
+  ],
+  "alumni": [
+    {
+      "name": "Jarrett Harris",
+      "avatar": "/images/team/jarrett-harris.jpg",
+      "twitter": "twinbnottwina",
+      "slack": "jarrett"
+    },
+    {
+      "name": "Denise Ngai",
+      "avatar": "/images/team/denise-ny.jpg",
+      "twitter": "thisgunforhire",
+      "slack": "denise"
     },
     {
       "name": "Spencer Allen",
@@ -5867,25 +7419,11 @@
       "slack": "Spencer.allen"
     },
     {
-      "name": "Jarrett Harris",
-      "avatar": "/images/team/jarrett-harris.jpg",
-      "twitter": "twinbnottwina",
-      "slack": "jarrett"
+      "name": "Ryan Bogle",
+      "avatar": "/images/team/ryan-bogle.jpg",
+      "twitter": "__ashwell__",
+      "slack": "ashwell"
     },
-    {
-      "name": "Ben Junya",
-      "avatar": "/images/team/ben-junya.jpg",
-      "twitter": "MrBenJ5",
-      "slack": "benjunya"
-    },
-    {
-      "name": "Denise Ngai",
-      "avatar": "/images/team/denise-ny.jpg",
-      "twitter": "thisgunforhire",
-      "slack": "denise"
-    }
-  ],
-  "alumni": [
     {
       "name": "Omar de Armas",
       "avatar": "/images/team/omar-de-armas.jpg",
@@ -5911,6 +7449,12 @@
       "slack": "mike"
     },
     {
+      "name": "Rouzbeh Sarrafieh",
+      "avatar": "/images/team/rouzbeh-sarrafieh.jpg",
+      "twitter": "rouzbeh84",
+      "slack": "rouzbeh"
+    },
+    {
       "name": "Ryan Regalado",
       "avatar": "/images/team/ryan-regalado.jpg",
       "twitter": "design48",
@@ -5931,324 +7475,424 @@
   ],
   "pastSponsors": [
     {
-      "organization": "PlayVS",
-      "logo": "https://i.imgur.com/qlwyTce.png"
+      "organization": "Rambly.app",
+      "logo": "https://media.publit.io/file/fil-H1.png",
+      "link": "https://rambly.app"
     },
     {
-      "organization": "Amazon Advertising",
-      "logo": "https://media.publit.io/file/mSbOMig72IEh6naAGMeT2TA1.png"
+      "organization": "Superstruct",
+      "logo": "https://i.imgur.com/R5V3xcs.png",
+      "link": "https://superstruct.tech"
     },
     {
-      "organization": "Openpath Security",
-      "logo": "https://media.publit.io/file/zk0zEs-kZX5lWmDEDnHVDARF.png"
+      "organization": "dotOrg",
+      "logo": "https://media.publit.io/file/fil-m2Z.png",
+      "link": "https://www.dotorg.io/careers"
+    },
+    {
+      "organization": "Twitch",
+      "logo": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpmcvariety.files.wordpress.com%2F2019%2F09%2Ftwitch_logo.jpg%3Fw%3D1000%26h%3D563%26crop%3D1&f=1&nofb=1",
+      "link": "https://twitch.tv/jsdotla"
+    },
+    {
+      "organization": "Rollbar",
+      "logo": "https://media.publit.io/file/fil-g99.jpg",
+      "link": "https://rollbar.com/product/"
+    },
+    {
+      "organization": "Funkhaus",
+      "logo": "https://media.publit.io/file/fil-r4p.png",
+      "link": "https://funkhaus.us/tech"
     },
     {
       "organization": "Signal Sciences",
-      "logo": "https://media.publit.io/file/_VLzNGgKuZL5Tw4VaezvD-2a.png"
+      "logo": "https://media.publit.io/file/_VLzNGgKuZL5Tw4VaezvD-2a.png",
+      "link": "https://www.signalsciences.com/careers/?utm_campaign=JS-LA&utm_source=march2020"
     },
     {
-      "organization": "Atticus",
-      "logo": "https://media.publit.io/file/03Vla5a7F994odetY-GWznnA.png"
+      "organization": "sweetgreen",
+      "logo": "https://i.imgur.com/bBKMaqf.png",
+      "link": "https://sweetgreen.com"
+    },
+    {
+      "organization": "PlayVS",
+      "logo": "https://i.imgur.com/qlwyTce.png",
+      "link": "https://www.playvs.com/careers"
     },
     {
       "organization": "Staff Me Up",
-      "logo": "https://lh3.googleusercontent.com/HD-G5DehyPENaz4GukUXUaGX8qf-x6Fk8ElG8lmzWLFo8MYgAJbpFbx7R0E0hOljEA"
+      "logo": "https://lh3.googleusercontent.com/HD-G5DehyPENaz4GukUXUaGX8qf-x6Fk8ElG8lmzWLFo8MYgAJbpFbx7R0E0hOljEA",
+      "link": "https://angel.co/company/staff-me-up/jobs"
     },
     {
       "organization": "ConsumerTrack Inc",
-      "logo": "https://i.imgur.com/vDsqlcv.jpg"
+      "logo": "https://i.imgur.com/vDsqlcv.jpg",
+      "link": "https://www.consumertrack.com/join-our-team/"
     },
     {
       "organization": "Oblong Industries",
-      "logo": "http://petehawkes.com/transfer/oblong-logo-dark.png"
+      "logo": "https://i.imgur.com/LCb7AbG.png",
+      "link": "https://www.oblong.com/company/careers"
     },
     {
       "organization": "Credit Karma",
-      "logo": "https://media.publit.io/file/wbFp1StoKywPamW3gqkQ5895.png"
+      "logo": "https://media.publit.io/file/wbFp1StoKywPamW3gqkQ5895.png",
+      "link": "https://creditkarma.com"
     },
     {
       "organization": "Vantage Point",
-      "logo": "https://media.publit.io/file/gQZBPelNF36G4akOtBkbpIA2.png"
+      "logo": "https://media.publit.io/file/gQZBPelNF36G4akOtBkbpIA2.png",
+      "link": "Https://www.tryvantagepoint.com"
     },
     {
       "organization": "Publicis Sapient",
-      "logo": "https://i.imgur.com/nfaPAvH.png"
+      "logo": "https://i.imgur.com/nfaPAvH.png",
+      "link": "https://www.publicissapient.com/"
     },
     {
       "organization": "InfluxData",
-      "logo": "https://i.imgur.com/a1kjMaf.png"
+      "logo": "https://i.imgur.com/a1kjMaf.png",
+      "link": "influxdata.com"
     },
     {
       "organization": "Edmunds",
-      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/host-edmunds.png"
+      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/host-edmunds.png",
+      "link": "https://www.edmunds.com/careers/"
     },
     {
       "organization": "PickTrace, Inc.",
-      "logo": "https://i.imgur.com/MTPSLJ7.png"
+      "logo": "https://i.imgur.com/MTPSLJ7.png",
+      "link": "http://www.picktrace.com"
     },
     {
       "organization": "Google",
-      "logo": "https://lh3.googleusercontent.com/-ZxK7RcVQdOE/Vd5bJfv4tYI/AAAAAAAAQ70/p8tAh6KU-OQfaAEiXteXDCpzLXe1jag6gCHM/d/logo_420_color_2x.png"
+      "logo": "https://lh3.googleusercontent.com/-ZxK7RcVQdOE/Vd5bJfv4tYI/AAAAAAAAQ70/p8tAh6KU-OQfaAEiXteXDCpzLXe1jag6gCHM/d/logo_420_color_2x.png",
+      "link": "https://www.google.com/about/locations/los-angeles/"
     },
     {
       "organization": "Honey",
-      "logo": "https://cl.ly/3980178707e6/Image%2525202019-06-04%252520at%2525207.00.29%252520PM.png"
+      "logo": "https://cl.ly/3980178707e6/Image%2525202019-06-04%252520at%2525207.00.29%252520PM.png",
+      "link": "https://www.joinhoney.com/"
     },
     {
       "organization": "Polycade Inc.",
-      "logo": "https://media.publit.io/file/hUezQetp-kjJlJ0t4JN8wmeB.png"
+      "logo": "https://media.publit.io/file/hUezQetp-kjJlJ0t4JN8wmeB.png",
+      "link": "https://angel.co/company/polycade/jobs/418438-full-stack-developer-nodejs-windows"
     },
     {
       "organization": "Earny, Inc.",
-      "logo": "https://imagizer.imageshack.us/a/img924/7328/Nni1O3.png"
+      "logo": "https://imagizer.imageshack.us/a/img924/7328/Nni1O3.png",
+      "link": "https://www.earny.co/jobs"
     },
     {
       "organization": "Dun & Bradstreet",
-      "logo": "https://media.publit.io/file/JK7l78XFssUKrKorrR48w2XN.jpg"
+      "logo": "https://media.publit.io/file/JK7l78XFssUKrKorrR48w2XN.jpg",
+      "link": "https://www.dnb.com/about-us/careers-and-people.html"
     },
     {
       "organization": "Fender ",
-      "logo": "https://i.imgur.com/n8Xs6Uk.png"
+      "logo": "https://i.imgur.com/n8Xs6Uk.png",
+      "link": "https://www.fender.com/pages/careers"
     },
     {
       "organization": "Cameo",
-      "logo": "https://i.imgur.com/QzMsPnb.png"
+      "logo": "https://i.imgur.com/QzMsPnb.png",
+      "link": "https://cameo.com/jobs"
     },
     {
       "organization": "PatientPop",
-      "logo": "https://i.imgur.com/BqAprBu.png"
+      "logo": "https://i.imgur.com/BqAprBu.png",
+      "link": "https://www.patientpop.com/"
     },
     {
       "organization": "Codesmith",
-      "logo": "https://cl.ly/6520058949e7/Image%2525202019-01-11%252520at%2525204.36.13%252520PM.png"
+      "logo": "https://cl.ly/6520058949e7/Image%2525202019-01-11%252520at%2525204.36.13%252520PM.png",
+      "link": "https://codesmith.io"
     },
     {
       "organization": "VideoAmp",
-      "logo": "https://i.imgur.com/CQOJNrh_d.jpg?maxwidth=640&shape=thumb&fidelity=medium"
+      "logo": "https://i.imgur.com/CQOJNrh_d.jpg?maxwidth=640&shape=thumb&fidelity=medium",
+      "link": "https://videoamp.engineering"
     },
     {
       "organization": "REX Real Estate Inc",
-      "logo": "https://s3.amazonaws.com/org-rex-media/marketing/logos/rex_logo_sponsor_b.png"
+      "logo": "https://s3.amazonaws.com/org-rex-media/marketing/logos/rex_logo_sponsor_b.png",
+      "link": "http://www.rexchange.com"
     },
     {
       "organization": "Dollar Shave Club",
-      "logo": "https://i.imgur.com/sFV7Ow6.png"
+      "logo": "https://i.imgur.com/sFV7Ow6.png",
+      "link": "https://www.dollarshaveclub.com/"
     },
     {
       "organization": "Smarkets",
-      "logo": "https:////i.imgur.com/AxlXCAk.png"
+      "logo": "https:////i.imgur.com/AxlXCAk.png",
+      "link": "http://smarkets.us/"
     },
     {
       "organization": "Open Listings",
-      "logo": "https://i.imgur.com/2qqxCja.png"
+      "logo": "https://i.imgur.com/2qqxCja.png",
+      "link": "https://www.openlistings.com"
     },
     {
       "organization": "Twilio",
-      "logo": "https://www.twilio.com/marketing/bundles/company-brand/img/logos/red/twilio-logo-red.png"
+      "logo": "https://www.twilio.com/marketing/bundles/company-brand/img/logos/red/twilio-logo-red.png",
+      "link": "http://twilio.com"
     },
     {
       "organization": "Headspace",
-      "logo": "https://i.imgur.com/AVv0Vhc.png"
+      "logo": "https://i.imgur.com/AVv0Vhc.png",
+      "link": "https://www.headspace.com/"
     },
     {
       "organization": "Betagig",
-      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/host-betagig.png"
+      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/host-betagig.png",
+      "link": "https://betagig.tech"
     },
     {
       "organization": "TigerText",
-      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/host-tigertext.png"
+      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/host-tigertext.png",
+      "link": "https://www.tigertext.com/"
     },
     {
       "organization": "Philosophie",
-      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/sponsor-philosophie.png"
+      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/sponsor-philosophie.png",
+      "link": "http://philosophie.is/"
     },
     {
       "organization": "FullStack React",
-      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/sponsor-fullstackreact.png"
+      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/sponsor-fullstackreact.png",
+      "link": "https://www.fullstackreact.com/"
     },
     {
       "organization": "SapientRazorfish",
-      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/host-sapient-nitro-scaled.png"
+      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/host-sapient-nitro-scaled.png",
+      "link": "http://www.sapientrazorfish.com/"
     },
     {
       "organization": "RisingStack",
-      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/sponsor-risingstack-scaled.png"
+      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/sponsor-risingstack-scaled.png",
+      "link": "https://risingstack.com/trainings"
     },
     {
       "organization": "Hewlett Packard Enterprise",
-      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/hpe.png"
+      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/hpe.png",
+      "link": "https://www.hpe.com/us/en/servers/nonstop.html"
     },
     {
       "organization": "GoGuardian",
-      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/goguardian.png"
+      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/goguardian.png",
+      "link": "https://www.goguardian.com/careers.html"
     },
     {
       "organization": "Rollmob",
-      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/rollmob.png"
+      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/rollmob.png",
+      "link": "http://rollmob.com"
     },
     {
       "organization": "Hack Reactor",
-      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/host-hackreactor.png"
+      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/host-hackreactor.png",
+      "link": "http://www.hackreactor.com/"
     },
     {
       "organization": "Farmers Insurance",
-      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/sponsor-farmerinsurance.png"
+      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/sponsor-farmerinsurance.png",
+      "link": "https://www.farmers.com/careers/"
     },
     {
       "organization": "Riot Games",
-      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/sponsor-riotgames.png"
+      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/sponsor-riotgames.png",
+      "link": "https://engineering.riotgames.com/"
     },
     {
       "organization": "Remine",
-      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/sponsor-remine.png"
+      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/sponsor-remine.png",
+      "link": "http://remine.com/"
     },
     {
       "organization": "Indeed",
-      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/sponsor-indeed.png"
+      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/sponsor-indeed.png",
+      "link": "http://www.indeed.com/prime?sid=socalnodejs&kw=june2016"
     },
     {
       "organization": "Interlincx",
-      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/sponsor-interlincx.png"
+      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/sponsor-interlincx.png",
+      "link": "http://www.interlincx.com/jsla"
     },
     {
       "organization": "MarketShare",
-      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/sponsor-marketshare.svg"
+      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/sponsor-marketshare.svg",
+      "link": "http://www.marketshare.com/"
     },
     {
       "organization": "MakerSquare",
-      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/host-makersquare.png"
+      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/host-makersquare.png",
+      "link": "http://www.makersquare.com/"
     },
     {
       "organization": "McGraw-Hill Education",
-      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/sponsor-mcgraw-hill.png"
+      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/sponsor-mcgraw-hill.png",
+      "link": "http://www.mheducation.com/"
     },
     {
       "organization": "NodeJS Foundation",
-      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/sponsor-nodejs.png"
+      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/sponsor-nodejs.png",
+      "link": "http://live.nodejs.org/events/los-angeles.html"
     },
     {
       "organization": "UCLA",
-      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/sponsor-ucla.png"
+      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/sponsor-ucla.png",
+      "link": "http://www.ucla.edu/"
     },
     {
       "organization": "Fullscreen",
-      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/sponsor-fullscreen.png"
+      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/sponsor-fullscreen.png",
+      "link": "http://www.fullscreen.com/"
     },
     {
       "organization": "Maker Studios",
-      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/host-maker.png"
+      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/host-maker.png",
+      "link": "http://www.makerstudios.com/"
     },
     {
       "organization": "WeMash",
-      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/sponsor-wemash.png"
+      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/sponsor-wemash.png",
+      "link": "http://www.wemash.com/"
     },
     {
       "organization": "Verizon",
-      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/host-verizon.png"
+      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/host-verizon.png",
+      "link": "https://www.verizondigitalmedia.com/"
     },
     {
       "organization": "EdgeCast",
-      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/sponsor-edge-cast.png"
+      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/sponsor-edge-cast.png",
+      "link": "http://edgecast.com"
     },
     {
       "organization": "Netbus Engineering",
-      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/sponsor-netbus.png"
+      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/sponsor-netbus.png",
+      "link": "http://www.netbuseg.com"
     },
     {
       "organization": "Google, Venice",
-      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/host-google.png"
+      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/host-google.png",
+      "link": "google.com"
     },
     {
       "organization": "Intel",
-      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/sponsor-intel.jpg"
+      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/sponsor-intel.jpg",
+      "link": "https://software.intel.com/en-us/iot"
     },
     {
       "organization": "Yahoo!",
-      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/host-yahoo.png"
+      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/host-yahoo.png",
+      "link": "developer.yahoo.com"
     },
     {
       "organization": "SapientNitro",
-      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/host-sapient-nitro.png"
+      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/host-sapient-nitro.png",
+      "link": "http://sapientnitro.com"
     },
     {
       "organization": "Edgecast",
-      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/sponsor-edge-cast.png"
+      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/sponsor-edge-cast.png",
+      "link": "http://edgecast.com"
     },
     {
       "organization": "Crowdrise",
-      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/sponsor-crowdrise.png"
+      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/sponsor-crowdrise.png",
+      "link": "https://www.crowdrise.com/about/jobs"
     },
     {
       "organization": "Monarc Gaming Labs",
-      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/host-monarc.png"
+      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/host-monarc.png",
+      "link": "http://www.monarcy.com/"
     },
     {
       "organization": "Convertro",
-      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/sponsor-convertro.jpg"
+      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/sponsor-convertro.jpg",
+      "link": "http://www.convertro.com/"
     },
     {
       "organization": "Calvin Group",
-      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/sponsor-calvin-group.png"
+      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/sponsor-calvin-group.png",
+      "link": "http://calvingroups.com/"
     },
     {
       "organization": "Joyent",
-      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/sponsor-joyent.png"
+      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/sponsor-joyent.png",
+      "link": "http://joyent.com"
     },
     {
       "organization": "Yahoo",
-      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/host-yahoo.png"
+      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/host-yahoo.png",
+      "link": "http://yahoo.com/"
     },
     {
       "organization": "O'Reilly",
-      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/sponsor-oreilly.png"
+      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/sponsor-oreilly.png",
+      "link": "http://velocityconf.com/ny"
     },
     {
       "organization": "Two Bit Circus",
-      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/host-two-bit.png"
+      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/host-two-bit.png",
+      "link": "twobitcircus.com"
     },
     {
       "organization": "IdeaLab",
-      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/host-idealab.png"
+      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/host-idealab.png",
+      "link": "www.idealab.com"
     },
     {
       "organization": "The Hub LA",
-      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/host-the-hub.png"
+      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/host-the-hub.png",
+      "link": "thehubla.com"
     },
     {
       "organization": "HUGE",
-      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/host-huge.png"
+      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/host-huge.png",
+      "link": "hugeinc.com"
     },
     {
       "organization": "M-GO",
-      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/sponsor-m-go.png"
+      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/sponsor-m-go.png",
+      "link": "http://m-go.com"
     },
     {
       "organization": "Oppenheimer Group",
-      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/sponsor-oppenheimer.png"
+      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/sponsor-oppenheimer.png",
+      "link": "http://www.opco.com"
     },
     {
       "organization": "Cross Campus",
-      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/crosscampus.png"
+      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/crosscampus.png",
+      "link": "crosscamp.us"
     },
     {
       "organization": "American Greetings",
-      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/sponsor-american-greetings.png"
+      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/sponsor-american-greetings.png",
+      "link": "/"
     },
     {
       "organization": "html5 Dev Conf",
-      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/sponsor-html5devconf.png"
+      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/sponsor-html5devconf.png",
+      "link": "http://html5devconf-oct2012-jsla.eventbrite.com"
     },
     {
       "organization": "CityGrid",
-      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/citygrid.png"
+      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/citygrid.png",
+      "link": "http://www.citygridmedia.com/"
     },
     {
       "organization": "Spire.io",
-      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/sponsor-spire.png"
+      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/sponsor-spire.png",
+      "link": "spire.io"
     },
     {
       "organization": "ioLA",
-      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/iola.png"
+      "logo": "https://5c01b9f7f6d5ea39c04ea7ba--jsla.netlify.com/images/hosts/iola.png",
+      "link": "iola.la"
     }
   ]
 }

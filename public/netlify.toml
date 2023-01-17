@@ -8,7 +8,7 @@
   status = 302
 [[redirects]]
   from = "/slack"
-  to = "https://join-jsla-slack.herokuapp.com"
+  to = "https://join.slack.com/t/jsla/shared_invite/zt-1nf1yc1f6-ohkEU1TqC3AuHTSiscYHmg"
   status = 302
 [[redirects]]
   from = "/lunch"
